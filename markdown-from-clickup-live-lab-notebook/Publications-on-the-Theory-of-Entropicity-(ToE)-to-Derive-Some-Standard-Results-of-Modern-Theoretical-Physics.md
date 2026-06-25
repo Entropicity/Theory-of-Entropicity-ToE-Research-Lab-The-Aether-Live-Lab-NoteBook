@@ -20,16 +20,27 @@ This allows anyone—whether a student, an independent math enthusiast, or an in
 Are you currently reading through a specific paper in the Cambridge Open Engage series—such as the Entropic Seesaw Mechanism or the Mercury Precession proof—that you would like to mathematically break down or discuss?
 
 [1] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69e313c1d1922e37d58d982b)
+
 [2] https://theory-of-entropicity-toe.pages.dev
+
 [3] [https://osf.io](https://osf.io/4jzqc/overview)
+
 [4] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
 [5] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6908aca0113cc7cfffd949e3)
+
 [6] [https://www.academia.edu](https://www.academia.edu/144796856/The_Theory_of_Entropicity_ToE_Derives_Einsteins_Relativistic_Speed_of_Light_c_as_a_Function_of_the_Entropic_Field_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Derive_Einsteins_Second_Postulate_Version_2_0)
+
 [7] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/695017eb900d745c43da8a56)
+
 [8] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69f6e0774770e67d927e8853)
+
 [9] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69543375098cdc781fdccf9e)
+
 [10] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/67e63abe6dde43c9086de9e0/original/the-theory-of-entropicity-to-e-an-entropy-driven-derivation-of-mercury-s-perihelion-precession-beyond-einstein-s-curved-spacetime-in-general-relativity-gr.pdf)
+
 [11] [https://www.researchgate.net](https://www.researchgate.net/publication/403997209_The_Theory_of_Entropicity_ToE_Sheds_Light_on_String_Theory_Quantum_Field_Theory_and_the_Casimir_Effect_Strings_and_Branes_are_Vibrations_of_Information_Geometry_in_the_Entropic_Field_of_ToE)
+
 [12] [https://client.prod.orp.cambridge.org](https://client.prod.orp.cambridge.org/engage/coe/search-dashboard?keywords=%20Entropic%20Field%20Theory)
 [13] [https://www.hepi.ac.uk](https://www.hepi.ac.uk/2022/08/03/answering-the-challenges-to-open-access-the-5-cs/)
 [14] [https://www.lib.berkeley.edu](https://www.lib.berkeley.edu/about/news/covid-oa)
