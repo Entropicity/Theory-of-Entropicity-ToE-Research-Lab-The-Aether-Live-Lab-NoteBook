@@ -124,4 +124,4 @@ In essence, **“Obidi's high wire act over an active volcano”** conveys **the
 * HandWiki article on Obidi: Physics: Obidi's Theory of Entropicity and Consciousness
 * NotD.io reference to the metaphorical risk-taking of Obidi’s ideas: Einstein’s Warning, Obidi’s Risk
 
-**This interpretation situates the “high-wire act over an active volcano” as both a literal imaginative metaphor and an enduring symbol of Obidi's pioneering theoretical audacity.**
+**This interpretation situates Obidi's “high-wire act over an active volcano” as both a literal imaginative metaphor and an enduring symbol of Obidi's pioneering theoretical audacity.**
