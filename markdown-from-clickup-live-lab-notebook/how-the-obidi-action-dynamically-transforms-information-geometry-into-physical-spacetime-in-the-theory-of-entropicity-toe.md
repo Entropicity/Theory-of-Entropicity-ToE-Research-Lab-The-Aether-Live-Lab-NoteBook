@@ -281,6 +281,7 @@ Information geometry dynamical via the Obidi Action.
 Use the Obidi Metric and disformal Obidi Transformation to extract a Lorentzian sector. Spacetime emerges as a solution.
 
 📚Ref: The Canonical Archives: https://lnkd.in/gnwMP-Py
+
 https://doi.org/10.17605/OSF.IO/DJYXA
 
 
