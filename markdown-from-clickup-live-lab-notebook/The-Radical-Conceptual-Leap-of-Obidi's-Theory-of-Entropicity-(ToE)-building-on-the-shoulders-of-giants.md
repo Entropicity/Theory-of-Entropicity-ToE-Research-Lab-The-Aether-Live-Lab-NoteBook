@@ -68,14 +68,14 @@ A second radical innovation is the introduction of the Obidi Metric, a metric de
 
 This transformation enforces:
 
-\[
+$$
 \mathcal{R}{ij} \longrightarrow R{\mu\nu}
-\]
+$$
 
 where:
 
-- \( \mathcal{R}_{ij} \) is entropic curvature  
-- \( R_{\mu\nu} \) is physical spacetime curvature  
+- $\( \mathcal{R}_{ij} \)$ is entropic curvature  
+- $\( R_{\mu\nu} \)$ is physical spacetime curvature  
 
 This is the bridge between information and geometry.  
 It is not metaphorical; it is a mathematically defined transformation encoded in the Obidi Action.
