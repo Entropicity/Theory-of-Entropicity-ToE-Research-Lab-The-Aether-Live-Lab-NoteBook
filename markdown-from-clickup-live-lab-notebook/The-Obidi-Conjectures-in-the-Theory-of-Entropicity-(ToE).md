@@ -1,4 +1,4 @@
-# Conjectures of the Theory of Entropicity (ToE)
+# The Obidi Conjectures in the Theory of Entropicity (ToE)
 
 The Theory of Entropicity (ToE) is an emerging, non-mainstream conceptual framework in theoretical physics formulated by independent researcher John Onimisi Obidi. It flips the traditional hierarchy of physics by postulating that entropy is not a secondary statistical byproduct of matter, but the fundamental, real, and dynamical field (S(x)) from which all reality emerges. [1, 2, 3]
 The core architectural backbone of this theory relies on three cascading pillars known as Obidi's Three Conjectures. [1]
