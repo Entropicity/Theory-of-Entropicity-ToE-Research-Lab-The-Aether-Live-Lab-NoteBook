@@ -33,7 +33,8 @@ Would you like to explore the mathematical mechanics behind Obidi's three conjec
 ## Overturning 150 years of Thermodynamics: 
 Instead of treating entropy strictly as a measurement of disorder, Obidi argues that entropy is a tangible, foundational substance—the substrate of reality itself.
 
-## Reversing the Hierarchy of Physics: Conventional physics dictates that matter, energy, and space come first, and entropy is calculated afterward. The Blitzkrieg concept reverses this, suggesting informational and entropic structures inherently precede and generate physical structures.
+## Reversing the Hierarchy of Physics: 
+Conventional physics dictates that matter, energy, and space come first, and entropy is calculated afterward. The Blitzkrieg concept reverses this, suggesting informational and entropic structures inherently precede and generate physical structures.
 
 ## The Entropic Speed Limit: 
 It replaces postulates about the speed of light with the concept of a "maximum rate of entropic rearrangement" on the entropic manifold.
