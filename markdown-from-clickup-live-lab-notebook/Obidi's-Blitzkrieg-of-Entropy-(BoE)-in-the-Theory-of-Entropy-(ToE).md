@@ -1,6 +1,6 @@
 # Obidi's Blitzkrieg of Entropy (BoE) in the Theory of Entropicity (ToE)
 
-“**Obidi’s Blitzkrieg**” [[formally known as the Blitzkrieg of Entropy (BoE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/)] is a conceptual framework within the Theory of Entropicity (ToE), a radical theoretical physics model proposed by researcher and philosopher[**John Onimisi Obidi**](https://notd.io/@jonimisiobidi). [1, 2] 
+“**Obidi’s Blitzkrieg**” ([formally known as the Blitzkrieg of Entropy (BoE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/)) is a conceptual framework within the Theory of Entropicity (ToE), a radical theoretical physics model proposed by researcher and philosopher[**John Onimisi Obidi**](https://notd.io/@jonimisiobidi). [1, 2] 
 
 In contrast to incremental physics adjustments, Obidi's "Blitzkrieg" attempts a rapid, overarching overhaul of modern physics by positioning entropy and information as the fundamental blocks of reality, rather than neutral spacetime. [1, 2] 
 
