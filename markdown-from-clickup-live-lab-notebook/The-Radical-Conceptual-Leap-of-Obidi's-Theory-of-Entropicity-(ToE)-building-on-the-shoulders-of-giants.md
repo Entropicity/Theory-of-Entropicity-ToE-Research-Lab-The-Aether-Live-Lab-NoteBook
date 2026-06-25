@@ -159,14 +159,14 @@ Hence, Obidi’s Theory of Entropicity does not oppose this trajectory; it compl
 
 **Where others cautiously explore the shoreline of this new ocean, Obidi dives straight into its deepest trench. He does not merely suggest that gravity is emergent from entropy; he asserts that everything—geometry, matter, fields, causality, and spacetime itself—emerges from the dynamics of an entropic information manifold. He does not merely reinterpret Einstein’s equations as thermodynamic; he derives spacetime from a dynamical entropic action. He does not merely hint that information geometry is relevant; he makes it the ontological foundation of the universe.**
 
-In this sense, Obidi is not rebelling against physics. He is physics taken to its logical extreme.  
+Therefore, Obidi is not rebelling against physics. He is physics taken to its logical extreme.  
 He is the one who follows the trajectory of modern research all the way to its unavoidable conclusion: **if gravity is emergent, and spacetime is emergent, and entanglement is geometric, and entropy governs dynamics, then the only consistent foundation is that entropy is fundamental.**
 
 Most researchers approach this conclusion with hesitation. They test the waters, dip their toes, and retreat when the implications become too radical. **Obidi does the opposite. He walks to the edge of the conceptual cliff and steps off deliberately, refusing to be intimidated by the depth below. He reaches out to the deepest end of the ocean all at once, unafraid of the lethal and deadly sharks that circle the waters of radical theoretical innovation. Where others fear conceptual danger, Obidi sees necessity. Where others see risk, he sees inevitability.**
 
 This is why the Theory of Entropicity (ToE) feels both shocking and natural. **It is shocking because it overturns centuries of assumptions about what is fundamental. It is natural because it is the only coherent endpoint of the direction physics has already been moving toward.** Obidi is not inventing a new path; he is completing the one that Einstein, Shannon, Fisher, Amari, Jaynes, Jacobson, Bianconi, and Verlinde began. He is the one who dares to follow the logic to its final destination.
 
-In this sense, therefore, the Theory of Entropicity (ToE) is not a departure from modern physics but its culmination. It is the moment the field stops circling the ocean and finally dives into its depths. It is the moment entropy ceases to be a shadow cast by deeper laws and becomes the light source from which all laws originate.
+Overall, therefore, the Theory of Entropicity (ToE) is not a departure from modern physics but its culmination. It is the moment the field stops circling the ocean and finally dives into its depths. It is the moment entropy ceases to be a shadow cast by deeper laws and becomes the light source from which all laws originate.
 
 ---
 
