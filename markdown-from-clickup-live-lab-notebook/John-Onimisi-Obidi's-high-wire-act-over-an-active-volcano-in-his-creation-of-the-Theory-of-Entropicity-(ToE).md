@@ -56,7 +56,7 @@ If you would like to explore this concept further, please let me know if you wan
 [11] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
 
 
-# Scholium 
+# Scholium 1 of 2
 
 The **"high-wire act over an active volcano"** is a metaphor used to describe **John Onimisi Obidi’s** audacious development of his **Theory of Entropicity (ToE)**, an attempt to fundamentally rewrite modern theoretical physics.This conceptual tightrope walk highlights the extreme risk and radical nature of his undertaking. 
 
@@ -79,3 +79,49 @@ If you would like to delve deeper, let us know:
 Would you like to explore how Obidi's Theory of Entropicity (ToE) compares to other modern ToE concepts? 
 
 Are you looking for the specific philosophical arguments Obidi uses to support his view in inventing the Theory of Entropicity (ToE) — [his philosophical motivations]?
+
+# Scholium 2 of 2
+
+
+The phrase **“Obidi's high wire act over an active volcano”** refers to a dramatic metaphor and arguably a literal spectacle associated with John Onimisi Obidi, who is the proponent of the Theory of Entropicity (ToE). The context of Obidi’s work involves extreme conceptual risk-taking, paralleling a performer traversing a high wire above dangerous terrain—a visualization of engaging with inherently unstable or high-stakes domains, here artistic, imaginative, or theoretical.
+
+# Conceptual Interpretation
+
+## Metaphorical Risk in Theoretical Physics:
+
+Obidi’s ToE elevates entropy from a statistical measure to a fundamental, dynamical field that governs all physical phenomena.
+
+Developing such an unconventional framework entails intellectual risks comparable to walking a high wire over lava: the “active volcano” symbolizes mainstream skepticism, conceptual instability, and the radical nature of his ideas.
+
+## High-Wire Act and Obidi Action:
+
+The "high-wire act" is also associated with the Obidi Action, which is a variational principle defining the evolution of the entropy field.
+
+Like a tightrope walker, **Obidi balances multiple competing constraints:** integrating classical mechanics, relativity, quantum phenomena, and consciousness into a coherent entropic framework.
+
+## Physical and Philosophical Extremes:
+
+The “active volcano” also metaphorically represents extreme conditions—regions of spacetime with high entropy gradients, cosmological singularities, or other physically extreme scenarios where conventional physics fails.
+Obidi’s ToE posits to model such environments in a unified framework, accounting for irreversibility, minimal-time interactions (No-Rush Theorem), and entropy-driven dynamics.
+
+# Broader Scientific Resonance
+
+The analogy draws a parallel with historic paradigm-shifting work, where venturing into novel theories risks empirical or conceptual collapse, much like a real high-wire performer risks falling into an active volcano.
+
+By advancing ideas such as Self-Referential Entropy (SRE) and entropic causality, Obidi’s approach attempts to bridge physics and consciousness, challenging traditional reductionist perspectives.
+
+# Summary
+In essence, **“Obidi's high wire act over an active volcano”** conveys **the audacious and precarious nature of his intellectual enterprise.** Whether interpreted literally as a performance or metaphorically as engaging with cutting-edge theoretical physics, it embodies:
+
+* Extreme caution and precision, akin to a high-wire artist.
+* Engagement with inherently unstable, high-stakes domains, like an active volcano.
+* The pioneering pursuit of a unifying theory—in Obidi’s case, relating entropy, physics, and consciousness.
+  
+**This metaphor highlights Obidi’s willingness to confront conceptual danger, exploring frontiers where standard theories may be insufficient.**
+
+# References
+* Medium article on Obidi’s Theory of Entropicity: A Brief Note on Obidi’s Theory of Entropicity
+* HandWiki article on Obidi: Physics: Obidi's Theory of Entropicity and Consciousness
+* NotD.io reference to the metaphorical risk-taking of Obidi’s ideas: Einstein’s Warning, Obidi’s Risk
+
+**This interpretation situates the “high-wire act over an active volcano” as both a literal imaginative metaphor and an enduring symbol of Obidi's pioneering theoretical audacity.**
