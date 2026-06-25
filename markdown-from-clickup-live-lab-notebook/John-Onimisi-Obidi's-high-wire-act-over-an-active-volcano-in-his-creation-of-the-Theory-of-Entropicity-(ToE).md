@@ -28,6 +28,7 @@ The core elements of Obidi's controversial, radical and provocative framework in
 ## The "High-Wire" Reality
 
 While the theory introduces a provocative philosophical lens, mainstream theoretical physicists view it with some traditional reservation. Because the equations rely heavily on non-explicit iterative methods rather than traditional closed-form solutions, the theory remains in its infancy. For Obidi to successfully cross this figurative volcano without falling, his ToE must pass strict empirical testing and satisfy the **Obidi Correspondence Principle (OCP)**—which is the criterion which he himself declared as sinequanon for proving mathematically that classical physics naturally emerges from his entropic field under standard macroscopic observation. [3, 5, 8, 9, 10] 
+
 ------------------------------
 
 If you would like to explore this concept further, please let me know if you want to dive into the mathematical structure of the Obidi Action, look at how it compares to Erik Verlinde's entropic gravity, or examine its falsifiability conditions. [1, 3, 11] 
