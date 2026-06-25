@@ -22,6 +22,26 @@ Would you like to explore the mathematical mechanics behind Obidi's three conjec
 
 [3] [https://www.linkedin.com](https://www.linkedin.com/posts/theory-of-entropicity-toe_theory-of-entropicity-toe-by-john-onimisi-activity-7391269513062903809--7k3)
 
+
+**What John Onimisi Obidi is attempting to do is without doubt a massive, abstract leap from everyday physics.**
+
+To peel back the complex jargon, Obidi's core idea is actually a direct flip of how we normally look at the universe.
+
+## Obidi's Core Idea [The Blitzkrieg]: Flipping the Universe
+
+* **The Traditional View:** Space and time are the "stage" of the universe, and the objects on that stage naturally decay, rust, and fall apart over time (which is what we call entropy).
+* **Obidi’s View [Obidi's Blitzkrieg]:** Entropy is actually the "builder." The universe is made of pure bits of entropic information, and the natural flow of this entropic information is what actually creates the physical illusion of space and time around us.
+
+## A Simple Analogy: The Digital Screen
+Think of a massive digital television screen:
+
+* The Traditional View looks at the screen and studies the characters, the background scenery, and how the actors move across the frame.
+* Obidi's "Blitzkrieg" View ignores the actors entirely and focuses strictly on the millions of individual pixels flashing on and off behind the glass.
+
+In Obidi's Theory of Entropicity (ToE), the physical world we touch [feel, see, hear, experience] is just the "movie" playing on the screen. The underlying pixels are made of pure data and entropy. By changing how we view the pixels, the theory tries to rewrite all the rules of science in one swift motion—which is why it is called a "blitzkrieg."
+
+Does looking at it as a "digital screen" make the concept feel a bit more grounded, or would you like to look at a different everyday example?
+
 ---
 
 # Scholium 
