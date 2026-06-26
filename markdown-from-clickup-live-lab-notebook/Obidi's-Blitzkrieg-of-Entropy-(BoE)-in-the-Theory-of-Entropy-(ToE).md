@@ -304,6 +304,8 @@ Would you like to see how this radical view explains what a black hole actually 
 
 ---
 
+# 150 Years of Thermodynamics on a Precipice 
+
 Obidi's view is completely new, which is why it is generating so much discussion. 
 
 [John Onimisi Obidi](https://notd.io/@jonimisiobidi) first formulated and began publishing the Theory of Entropicity (ToE) in early 2025. [1] 
