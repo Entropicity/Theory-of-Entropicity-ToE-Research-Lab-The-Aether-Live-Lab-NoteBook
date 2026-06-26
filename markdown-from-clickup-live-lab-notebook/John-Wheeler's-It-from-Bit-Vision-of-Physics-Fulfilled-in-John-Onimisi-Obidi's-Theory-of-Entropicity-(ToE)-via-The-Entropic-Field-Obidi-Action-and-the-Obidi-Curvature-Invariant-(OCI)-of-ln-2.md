@@ -93,11 +93,11 @@ In classical physics, nature follows the **Principle of Least Action.** Obidi re
 ## The Paradigm Shift
 Historically, physics viewed the hierarchy of reality like this:
 
-$$\text{Spacetime Geometry} \rightarrow \text{Mass/Energy} \rightarrow \text{Thermodynamics} \rightarrow \text{Entropy (Disorder/microstates)}$$ 
+**$$\text{Spacetime Geometry} \rightarrow \text{Mass/Energy} \rightarrow \text{Thermodynamics} \rightarrow \text{Entropy (Disorder/microstates)}$$** 
 
 As highlighted in comparative studies of [Obidi's Ontodynamics](https://ijcsrr.org/comparative-analysis-between-john-onimisi-obidis-theory-of-entropicity-toe-and-waldemar-marek-feldts-feldt-higgs-universal-bridge-f-hub-theory/), the Theory of Entropicity (ToE) flips this entirely on its head:
 
-$$\text{Entropic Field (Entropic Information)} \rightarrow \text{Spacetime} \rightarrow \text{Mass/Energy} \rightarrow \text{Motion}$$ 
+**$$\text{Entropic Field (Entropic Information)} \rightarrow \text{Spacetime} \rightarrow \text{Mass/Energy} \rightarrow \text{Motion}$$**
 
 By turning entropy from a "statistical byproduct of messy matter" into the primary causal substrate of existence, Obidi is actively providing the mathematical field equations for a universe built purely out of Entropic information. It moves Wheeler's vision from speculative metaphysics into verifiable, post-Einsteinian physics. [1, 7, 21] 
 
