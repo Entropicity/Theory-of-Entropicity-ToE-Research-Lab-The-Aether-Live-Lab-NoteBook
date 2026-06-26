@@ -29,7 +29,7 @@ Ultimately, for Obidi, "entropy curves existence itself." The universe is a self
 If you would like to explore this mechanism deeper, let us know:
 
 * Should we break down the **Obidi Equivalence Principle (OEP)** which states the exact isomorphism between physical and informational curvature?
-* Would you like to look at **the mathematical formula linking quantum, thermodynamic, and geometric constants (like the $\hbar c = k_B T_S \ell_S$ relation)**?
+* Would you like to look at **the mathematical formula that Obidi has formulated for linking quantum, thermodynamic, and geometric constants (like the $\hbar c = k_B T_S \ell_S$ relation)**?
 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/how-information-geometry-is-transformed-into-the-physical-geometry-of-spacetime-in-obidis-theory-16bf772d2412)
