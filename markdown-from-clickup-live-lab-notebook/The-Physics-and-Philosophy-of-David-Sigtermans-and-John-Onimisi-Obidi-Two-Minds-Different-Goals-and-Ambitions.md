@@ -12,7 +12,7 @@ They are not doing the same thing, and their ambitions are not comparable.
 ---
 
 # 🧩 1. Sigtermans works inside established physics
-Sigtermans’ work — especially his entropic gravity and information‑based models — stays within the following assumptions:
+Sigtermans’ work — especially his entropic gravity and information‑based models **[Total Entropic Quantity (TEQ)]** — stays within the following assumptions:
 
 - spacetime is fundamental  
 - Hilbert space is fundamental  
