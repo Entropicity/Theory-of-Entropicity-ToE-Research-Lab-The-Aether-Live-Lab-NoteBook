@@ -28,7 +28,7 @@ Sigtermans is doing entropic phenomenology — not entropic ontology.
 ---
 
 # 🧩 2. Obidi rejects the foundations Sigtermans accepts
-Obidi’s Theory of Entropicity explicitly rejects:
+Obidi’s Theory of Entropicity (ToE) explicitly rejects:
 
 - fundamental spacetime  
 - fundamental Hilbert space  
@@ -69,7 +69,7 @@ Obidi:
 - entropy = fundamental substrate  
 
 Sigtermans is doing interpretation.  
-Obidi is doing construction.
+Obidi is doing construction [overhaul].
 
 ---
 
