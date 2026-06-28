@@ -5,9 +5,9 @@ Modern physics has quietly undergone an intellectual revolution.
 
 Once confined to thermodynamics, entropy now permeates nearly every frontier of science—statistical mechanics, quantum information, black hole physics, cosmology, condensed matter, biological systems, and the theory of complex systems.
 
-Entropy is everywhere.
+**Entropy is everywhere.**
 
-This observation inspired a question that few have dared to ask.
+**This observation inspired a question that few have dared to ask.**
 
 # 💡 What if Entropy Is More Than a Physical Quantity?
 
