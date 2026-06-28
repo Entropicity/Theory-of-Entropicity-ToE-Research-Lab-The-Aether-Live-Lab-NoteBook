@@ -106,7 +106,7 @@ Obidi asks a far more provocative question:
 
 # 💡 A Bold Intellectual Leap
 
-Obidi's intuition is that nature rarely repeats the same deep mathematical structures without an underlying physical reason.
+**Obidi's intuition is that nature rarely repeats the same deep mathematical structures without an underlying physical reason.**
 
 If information geometry and spacetime geometry share the same fundamental language of curvature, metrics, and geodesics, perhaps they are not independent constructions after all.
 
@@ -144,7 +144,7 @@ It is a research hypothesis and direction that invites rigorous mathematical dev
 
 History rewards bold ideas only when they are supported by mathematics and experiment.
 
-The true test of the Theory of Entropicity will therefore be its ability to demonstrate, through precise derivations and testable predictions, that the apparent correspondence between information geometry and spacetime geometry is not accidental but fundamental.
+The true test of the Theory of Entropicity (ToE) will therefore be its ability to demonstrate, through precise derivations and testable predictions, that the apparent correspondence between information geometry and spacetime geometry is not accidental but fundamental.
 
 If that bridge can be built, then one of the deepest questions in modern physics may acquire a new answer:
 
