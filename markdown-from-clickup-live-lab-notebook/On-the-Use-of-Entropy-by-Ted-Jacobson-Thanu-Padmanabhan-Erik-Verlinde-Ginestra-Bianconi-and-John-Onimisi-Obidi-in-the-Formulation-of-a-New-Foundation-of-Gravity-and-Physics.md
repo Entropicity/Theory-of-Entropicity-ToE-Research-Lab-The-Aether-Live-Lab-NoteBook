@@ -171,13 +171,15 @@ Einstein proved that gravity is just matter bending the geometry of spacetime. T
 
 One of quantum mechanics' greatest headaches is quantum entanglement—the idea that two particles can mirror each other's states instantly across lightyears, which Einstein hated because it bypassed his speed limit.
 
-* **The Destination:** Through the Entropic Time/Transmission/Transformation Limit (ETL), ToE dictates that physical states must mature and sync through local entropic transport. Because information cannot be reconfigured instantly without crashing the local system geometry, quantum measurement is forced into a finite, step-by-step process. True instantaneity is forbidden by the cosmic ledger. [1, 6] 
+* **The Destination:** Through the Entropic Time/Transmission/Transformation Limit (ETL), **ToE dictates that physical states must mature and sync through local entropic transport. Because information cannot be reconfigured instantly without crashing the local system geometry, quantum measurement is forced into a finite, step-by-step process.**
+
+**True instantaneity is forbidden by the cosmic ledger imposed by Obidi's Theory of Entropicity (ToE).** [1, 6] 
 
 ## 4. Injecting Time's Arrow Into Quantum Math
 
 Standard quantum equations (like the Schrödinger equation) work perfectly well whether time runs forward or backward. Yet, in our macro world, time only moves forward (eggs un-smash).
 
-* **The Destination:** To replace standard quantum mechanics, ToE introduces the Vuli-Ndlela Integral—an entropy-weighted mathematical rewrite of Feynman’s famous path integral.
+* **The Destination:** To replace standard quantum mechanics, ToE introduces the **Vuli-Ndlela Integral—an entropy-weighted mathematical rewrite of Feynman’s famous path integral.**
 
 Because this math is directly governed by an irreversibly flowing entropic field, the **"arrow of time"** is baked straight into the subatomic code from the absolute beginning. [1, 7] 
 
