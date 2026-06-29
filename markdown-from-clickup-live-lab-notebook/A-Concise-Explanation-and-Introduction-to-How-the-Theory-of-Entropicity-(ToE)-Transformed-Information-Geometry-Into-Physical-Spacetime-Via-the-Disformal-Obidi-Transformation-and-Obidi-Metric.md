@@ -96,14 +96,14 @@ The Theory of Entropicity (ToE) offers a profound shift in our understanding of 
 
 # References
 
-[1] How the Obidi Action Dynamically Transforms Information Geometry into Physical Spacetime via the Einstein Metric-Action Principle (EMAP) Invoked in the Theory of Entropicity (ToE)
+[1] [How the Obidi Action Dynamically Transforms Information Geometry into Physical Spacetime via the Einstein Metric-Action Principle (EMAP) Invoked in the Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/how-the-obidi-action-dynamically-transforms-information-geometry-into-physical-spacetime-via-the-b71f44ff8517)
 
-[2] Theory of Entropicity (ToE): Path To Unification of Physics
+[2] [Theory of Entropicity (ToE): Path To Unification of Physics](https://encyclopedia.pub/entry/59188 (accessed on 29 June 2026)).
 
-[3] From Information Geometry to Information Gravity Information Geometry as the Origin of Einstein’s Gravity: Correspondence of the Obidi Action and the Einstein–Hilbert Action in the Theory of Entropicity (ToE), Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS) — Letter III
+[3] [From Information Geometry to Information Gravity Information Geometry as the Origin of Einstein’s Gravity: Correspondence of the Obidi Action and the Einstein–Hilbert Action in the Theory of Entropicity (ToE), Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS) — Letter III](https://doi.org/10.33774/coe-2026-r58zf)
 
-[4] An Introduction to the Theory of Entropicity (ToE): Its Conceptual Foundations and Far Reaching Implications in Modern Theoretical Physics
+[4] [An Introduction to the Theory of Entropicity (ToE): Its Conceptual Foundations and Far Reaching Implications in Modern Theoretical Physics](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
 
 **For Details:**
 # 📚Reference(s):
-The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
+[The ToE Canonical Archives](https://entropicity.github.io/Theory-of-Entropicity-ToE/)
