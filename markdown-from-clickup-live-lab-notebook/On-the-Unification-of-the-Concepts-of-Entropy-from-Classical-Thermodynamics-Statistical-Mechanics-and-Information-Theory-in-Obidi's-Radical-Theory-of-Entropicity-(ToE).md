@@ -93,7 +93,7 @@ If you are analyzing the mathematical or philosophical architecture of Obidi's f
 [17] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
 
 
----
+-------
 
 # Scholium 1 of 2
 
@@ -270,6 +270,8 @@ To help explore how this applies to your work, let us know:
 
 [56] [https://medium.com](https://medium.com/@nikitamalviya/demystifying-cross-entropy-a-key-concept-for-understanding-classification-in-machine-learning-84efb0842fbd)
 
+
+------
 
 # Scholium 2 of 2
 
