@@ -2,7 +2,7 @@
 
 # Introduction
 
-The Theory of Entropicity (ToE), proposed by John Onimisi Obidi, presents a radical reinterpretation of fundamental physics, elevating entropy from a mere statistical measure of disorder to the foundational field of existence. This framework aims to unify disparate areas of physics, including general relativity, quantum mechanics, and information theory, by positing that space, time, motion, and gravity all emerge from the dynamics of this fundamental entropic field [1] [2] [3].
+The **Theory of Entropicity (ToE)**, proposed by **John Onimisi Obidi**, presents a radical reinterpretation of fundamental physics, elevating entropy from a mere statistical measure of disorder to the foundational field of existence. This framework aims to unify disparate areas of physics, including general relativity, quantum mechanics, and information theory, by positing that space, time, motion, and gravity all emerge from the dynamics of this fundamental entropic field [1] [2] [3].
 
 # Core Premise of the Theory of Entropicity
 
@@ -10,5 +10,5 @@ Unlike conventional physics, which often treats entropy as a secondary, emergent
 
 # Contrast with Einstein's General Relativity
 
-Einstein's General Relativity posits that spacetime is a fundamental, geometric entity, and matter/energy curves this spacetime, which in turn dictates how matter moves (the Einstein-Wheeler dictum: "matter tells spacetime how to curve, and spacetime tells matter how to move"). ToE, however, flips this script. It suggests that spacetime itself is an emergent manifestation of the entropic field's dynamic structure. Gravity, in this view, is not a fundamental force but arises as the curvature response of the entropic field, with matter being localized regions of entropic condensation [2] [4].
+Einstein's General Relativity posits that spacetime is a fundamental, geometric entity, and matter/energy curves this spacetime, which in turn dictates how matter moves (the **Einstein-Wheeler** dictum: **and"matter tells spacetime how to curve, and spacetime tells matter how to move**"). ToE, however, flips this script. It suggests that spacetime itself is an emergent manifestation of the entropic field's dynamic structure. Gravity, in this view, is not a fundamental force but arises as the curvature response of the entropic field, with matter being localized regions of entropic condensation [2] [4].
 
