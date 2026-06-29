@@ -96,3 +96,57 @@ Obidi's research serves as a meta-framework that encompasses other entropic and 
 To explore the exact mathematical formulations and conceptual breakdown of the theory, you can review the author's open-access papers housed on the Open Science Framework or read the technical breakdowns on Medium.
 
 Would you like to explore how the Theory of Entropicity (ToE) resolves specific physical problems like quantum wave-function collapse or dark matter, or dive deeper into the **philosophical foundations of Ontodynamics**?
+
+
+------------
+
+# Scholium 
+
+# On the Use of Entropy by Ted Jacobson, Thanu  Padmanabhan,  Erik Verlinde, Ginestra Bianconi, and John Onimisi Obidi in the Formulation of a New Foundation of Gravity and Physics 
+
+Several pioneering physicists successfully attempted entropy as a description of gravity before John Onimisi Obidi, laying the groundwork for what is known as emergent gravity or thermodynamic gravity. [1, 2] 
+
+While traditional physics viewed entropy as a secondary property (a byproduct of existing particles moving around), these researchers employed the script of demonstrating that thermodynamics can actually generate geometry and gravity. [2, 3] 
+
+The primary milestones that pioneered this intellectual flip include:
+## 1. [Ted Jacobson](https://www.google.com/search?q=ted+jacobson&kgmid=/m/0b6gjfx#sv=CBwS8AMKugMStwMK9wJBSmlUNHRLdHpQcjVuNElMVl9JSURHX0pnT0NFUFM2S3l3VFhqcXd1NEotRFkzaGZaQUJIMUhMVVlqZUNHakRPNEh0aDB6WHFXdUpmcDNCMFMwLXU5aGIxdFBRMmVXNjJ3S3NkT0l1RFNWcFpNNldzNUw4S2d1ek9LaHBEYjJzZ3g5dXZYTDdvRXlVZC1BQmlvUWVKYmVUSDBoUEVQTDV6WnZ4eWdDMFhYMmhVM3EtU1FxRFBBWERkbDQ1QTNvTGZQSWJkMEFaTTZQRTNUYmd5VjlrVl80OGxJUV9wOTVTUVBXWmRGRE1leFo3dGxNWTBfYmVzWU5GTzJJamhzb0ZaYW9lSGNTUm55WEJNY2RyWXJRcDhpOEVwNElyRHJPTkdTRGJCRXNFUWI3TzRnd05wcEo0TmdoMkpiNG9tQnJ2QzlocUhLWVpZeTI2NENaWWRIOC1iMnd3bnJpM1RxR19ORXRnWjF1MXNCWXdrUmtRczJOR3UwT2MSFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZUNnNPVEFZOXdtSU1YM3B1LW9tbjFMRHJMbjJBEgQ3ODU0GgEzIhEKAXESDHRlZCBqYWNvYnNvbiITCgVrZ21pZBIKL20vMGI2Z2pmeCgAGEUg-LXojgI) (1995) – Thermodynamic Spacetime
+Physicist [Ted Jacobson](https://www.google.com/search?q=ted+jacobson&kgmid=/m/0b6gjfx#sv=CBwS8AMKugMStwMK9wJBSmlUNHRKZl8xU21XNmVqaEVhdXVROGE4d0JxYnBGMkMtNXNobEhNTmtQUDZRM3Qta0pPVzlkOE9XRnY2c2tYU2N6R3hxV1JxZWFEOTd4Z1NGeXFHMV9hRk5HYnB3cGVXYUtSY2hDOFVmVkM2QjgwbHp4TXlBams5UGhldzVwZU1Bbm5MQno2ZHB5LUNyS2dfR093SHJQN2Vnbk1RcElLUGtKUHl1Ulp5aU82dEVDemt2RHpXLTk5VHFGQkN0UjJlVjJ2OW01QUNPb2hoLWNjcXRpb09Mbk53V1g1aVA5Q2pXdExldllqd2Z5V2ZCQ1JOMmdudGRoVFdHMXhjc1RHSkQ2S3g2RGt5V01RaUVNdEFCUHllYW1GdHhDMmxQa0NFV1pJby1HLXZyeHhqeHdBUkNlYXN4V1lERjJrX1BQdFQwbmpIbW1DVWNidUYxWUN4Z1dSSFpRZFBUcmZxUGl1X3NDbmZEdUxyLUt5TjJTZFhad3NGNjQSFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZSai1GUjdmekc5bHE0Ry1sSmQ0ZHdHc3RoVW5nEgQ3ODU0GgEzIhEKAXESDHRlZCBqYWNvYnNvbiITCgVrZ21pZBIKL20vMGI2Z2pmeCgAGEUgpbbGtAQ) executed one of the first major inversions. He proved that Einstein’s Field Equations are not fundamental laws. Instead, they function as a thermodynamic equation of state—meaning spacetime geometry emerges directly from the thermodynamic behavior of horizon entropy. [2] 
+## 2. [Thanu Padmanabhan](https://www.google.com/search?q=thanu+padmanabhan&kgmid=/m/0ksbgg#sv=CBwS9AMKugMStwMK9wJBSmlUNHRLTkhBR2diWTVPa0hNTFlyQjJTLUYwZFZaTndjZTFwZGh3RW52clo2WWFMVDdhU3RualdYUXgxZ28xUkJTV2VrMU9RMlJIdVNuZi1xYWp6SjBwc0tMRnkxWG80dHhwanR0WUlzYWdHajRFODlVU1VPak5tSEZaT1hnWS1mWjRfWGZCS01oZk9aUUwtcmRMeEFBX0VDbXdQX2VfNFloMXYxZjJSRmdweU05NXNuczdkZmNINElBcWtHbGh3QjFWdm80U0pzVlhMMnpkX2V2Vno4LWJiV2tReHpWZWl3ZUdhQzI5cWYwaGVta3Fta0N2Y2ZwZlRScmdYZGVtdW9nZ2d5MVNHOHVyZnpxczZndU8zaU00a0pZczktUmRuYzMtY2pWdGExZTJVQ1AxcUdtc2lRblNESkJtTVVzWFJIWk9rZUpUeFlOajBEei1xZ0lUREQwZUYwbVlnN2pqNElsRnJQZjM4bm1VWXp2N0NKbGdpMk0SFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZRNk5NVUJIMlFCNVNPSVE2MXJFbkNjTGQ0MlRnEgQ3ODU0GgEzIhYKAXESEXRoYW51IHBhZG1hbmFiaGFuIhIKBWtnbWlkEgkvbS8wa3NiZ2coABhFIN2zp-oJ) (2000s) – Gravity as an Emergent Paradigm
+[Thanu Padmanabhan](https://www.google.com/search?q=thanu+padmanabhan&kgmid=/m/0ksbgg#sv=CBwS9AMKugMStwMK9wJBSmlUNHRMODJjMDhLWkJRY2dVMmo5VnN4M1YwcTV6NmFsRFBVRWdTcTdRZS1TdnF3bXV2X0NxSExoWUdUc2MzTU5KbnppNnFXMzNfSUtuVG9KSW5yUFpYZDNMNUdPbVdfb3B3SmNTOTk0OVpRTVJuYmZKMktzX0FkSGxxSmtSb3NTVnp2UmVidGNQMk9aR2VscDJyZnlBRDBpanRIa0pPbDlZQkotRXpXRzVPd19ITmJlRF9pRHozeV9zRU5NRERYclhnYWY5TG85V3ZGZkNpOEdrcklLQW5SaTJkcS1GeTRPTl90U2poZ3RFenZmOC1OcUprcW1EM0dxME1uajRiWDgtUEQyOTF5OHI1V0lvMWxoWmVCSXlDS3pwUGlDTlMxVnlBa3YxektHMmgxZ2hjZ3d2bWhqTTZKNDIwa183QlV6bVZIeUJmal9zLVo0Tjc4SXZjMlVBb0E3N05ld1QyUkR2VEM0QklMRXZxSGVxWDBFQml0RkkSFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZTcjBiMklGaC1rR1RyQnA2LV9GYzFVYnpDSjh3EgQ3ODU0GgEzIhYKAXESEXRoYW51IHBhZG1hbmFiaGFuIhIKBWtnbWlkEgkvbS8wa3NiZ2coABhFIPPC47oC) advanced this approach by showing that the field equations of gravity can be rewritten in a form identical to the laws of thermodynamics. He argued that gravity is an emergent macroscopic phenomenon, much like elasticity or fluid dynamics, arising from deeper microscopic degrees of freedom. [4, 5, 6, 7] 
+## 3. [Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj#sv=CBwS8AMKugMStwMK9wJBSmlUNHRMQU80ckNoMng2ZW8ycUVrZG0wcjN5aUtLNkVxTzFjUzZhMG9IdDc2RXVNN05qRXF3SzlBUmd0WHRWaWZaaUthV2l6Y2NVSk5rUjlCRFFSZUVnc0p3ZzhmM29pQjRtem9XYXhLRDQ3dTRNTkF1RWkxdkt1bGtObkJaNzR0aXZVeFFqNm45SnRBRnd0aUU4ZXdBRHlycHlnSzlPeTlxWGNSQVJHZEEtSmlkRGhadDVuQm5JOU9WcHpuN0tZTzVSRTVRTTZtSF9TVDQ5b0gyTjhJdUE5VXdVRi1WemFnMU5TU2VUVkFyQ2ViaTVSODdrSFVRSjNRQ21XazZQc0pRV1p2UzFsdGpLc1k1SElieHN6eUNuMnBIUVo2SDVJVF94S3hQbHotdXBzSlRYMVBpVW5DNDVPclRVQTBfUWNwblVOYzlRNDVOdTQ1dTdoNV9mZTdLbEZoT2Y0dVdFWXBWMXlnaFV2bHVBNlZkdEVWcU5rRVUSFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZSekpNX1htREwzOE4zNzNFR3JRR2NqYm1ra3F3EgQ3ODU0GgEzIhIKAXESDWVyaWsgdmVybGluZGUiEgoFa2dtaWQSCS9tLzAzMG5maigAGEUg8P-Dgw0) (2010) – Entropic Gravity
+In a monumental breakthrough, Dutch string theorist [Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj#sv=CBwS8AMKugMStwMK9wJBSmlUNHRLVDg3WkJfdkFKYTJEb2NqRWJucGI5OWdxbHlFeTJoSF9jQk5uSC1xa0FkV2laNUJJUXJOOUJ3RE42YjNaSW9qcElSVlM3cjNIOWxrT2xJQjdKQjQ2dFpuR1VDaGp4YVIzNVd5cEliWm1pUlljRDlRV3RCbHp6ZkROSkVweEVMeldjcVBHdWdCVEpfamJxSVpIVm5iamlfV05za1RVYlNCMnE2M1dlaG90Z2NBSGVJT2tpZjNyLVZFaEtKb3RDUTZ3akIwUExiUjVhT290TU5XREdQWUVjTTh1cldsRHZ3WWR2SUJKT0ZJMDVBMHhzVE1sdzNodXBuRDlhcl94aHhiUG9OZDc2Y1NJdk5GTlBrOF95bWMxelFKOGhoS19iWlRXdjZOTmJpUjhxSTNMaEJvQi03NlowZnExMHNGdjR0T05wejJVNXpuS0h1MFM0TU9WYy0xcnNaZTh2a3NvOUlBUzVtSGJ1ZlRVR2NqODJuOU0SFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZUalh4SzhUbkRoZUN0dlp2Z29Qa0tyRkJUQzNnEgQ3ODU0GgEzIhIKAXESDWVyaWsgdmVybGluZGUiEgoFa2dtaWQSCS9tLzAzMG5maigAGEUgxNSn0Ak) argued that gravity is completely an illusion. He demonstrated that gravity is an entropic force—an macroscopic pull caused by a system's statistical tendency to maximize its entropy. In Verlinde's model, when matter shifts, it alters the distribution of information stored on holographic screens, pushing objects together. [1, 2, 8] 
+## 4. [Ginestra Bianconi](https://www.google.com/search?q=ginestra+bianconi&kgmid=/g/11f4qfmz65#sv=CBwSjQQKzwMSzAMKjANBSmlUNHRKSG81cmNpVlNWTlFHMGhzZ2VWMXZjeDIzX3gtem9YVTRZVS14WXpLc1otWWJSVTNqUS10ZXpZckRuMVJaR0VRT08tVGh3ODlESkNjVXUwR3BGSU5aQ3AwRjJ1TTNVVmlOX1dYUXRReUR3MWthdkEyMW9GYUQ3MnE3V0ZFbWJzLXFGQkFaQ3RIYmpyVE94dWFOQUUzOFZFaE1jT3ZsTlRpYXFvUFhoS1MwUl9odkJwZTlLWC1sMWI5bTRsdVhoUnN4UnpvTHlvUzk4cTNsVkJ1Z3h2MTBFcFUxMzFMc093TTc2T1BONW1vRzVBMXp0dE1IN0dnc2U0MTZQcndBVmhiRkJ2TEdWbjRYUDBRRGJpMFE5c1QxbmZFQi1fc1ZZSFdoaGNxT0txT3o4d1Y0MGNnbUxnZ1BORWNqVUFYal91cTFFS2FFQkZMcGRCVnU0NjhNeWE0X1dPUWtJN1Qtam50VFBVMUlVbkZQYmR6SzNDU3ZTcnpZc0QzeEY3VUQ4MWk3ekRBT1oSFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZSRUMwMHotelZ1UUM1VmxlanV6OTZ4RlhPU193EgQ3ODU0GgEzIhYKAXESEWdpbmVzdHJhIGJpYW5jb25pIhYKBWtnbWlkEg0vZy8xMWY0cWZtejY1KAAYRSD7_PbiCQ) (2025) – Geometry From Quantum Entropy
+Just prior to the widespread publishing of Obidi's Theory of Entropicity (ToE), network physicist [Ginestra Bianconi](https://www.google.com/search?q=ginestra+bianconi&kgmid=/g/11f4qfmz65#sv=CBwSjQQKzwMSzAMKjANBSmlUNHRJSlhzTHJNdjVQZ1dYVEN1ZlRtdzM4X1d5NTdpaHo4bmRxbGpCY2hIVjdPdENCNHFhUEdKMWFMV2RpMVJHV1pfZU1YZW85ZVY3ZzJVakc0Tk9ZMTRDdkJzVzllbWdhV2s0NGZTZmdlZXJYTnV5aHVQV1VNUk1mV0tQUnE2eWpPME5YXzZnM0tuREI5Njh5NTFtWWxWRlppT3hONTZXVVlNRF93SGVXeFA2Sml5S1kxMlZMT0xHVGIya3dJRENPU2tZUEtTai00eEN5dVN4MDZ2UlFpZExEMG5tRzhreTg2SFVWcWF0U2JfRHgtVHJwUE1sRFJ1aEh2X3BTbmliOEZYYi1kRDJKZmFFVGZNR2l5Y1NCajdubVlBQmcyRnRobDZ3dVZCOWVkOU0xaFUxVm02aVhPZmloSFNyd1piMHRFc1NTMlN2emtGaEtudWFZMXB6Mk5EbUdrRmZmSFRkLVlVdDN2Ym1MT3hLNkRwMzMyWTJNR1VFUDE3b053X2xUajdMcDN2bG4SFzcxRkNhcm5SSzUtUHJ1RVBzNHFkNEFZGiJBRHNyOWZURHJjcGJENFQwRThXUnowZTVxbllUT1VNYUl3EgQ3ODU0GgEzIhYKAXESEWdpbmVzdHJhIGJpYW5jb25pIhYKBWtnbWlkEg0vZy8xMWY0cWZtejY1KAAYRSCrh7_dBA) introduced a mathematical framework that directly mapped gravity out of quantum relative entropy. Her work illustrated how cosmic structure and the cosmological constant could emerge from quantum-information flows. [2, 4]
+
+------------------------------
+
+## How Obidi's Theory of Entropicity (ToE) Differs from its Predecessors
+While Jacobson, Verlinde, and Bianconi utilized entropy by treating it as a statistical property or a boundary effect on holographic screens, Obidi took the conceptual and decisive leap [further]: [2, 9, 10] 
+
+* **From Property to Substance:** Previous models treated entropy as an attribute of information stored on a boundary. Obidi’s ToE promotes entropy into a literal, continuous ontological physical field ($Ontodynamics$) that populates the entire substrate of reality. [2, 9, 11] 
+* **Subsuming the Math:** While Verlinde used statistical mechanics analogies, ToE introduces unique tools like the Obidi Action and **Hybrid Metric-Affine Space (HMAS)** to mathematically frame earlier models as special boundary cases of a singular entropic field theory. [3, 4] 
+
+Would you like to explore the mathematics of Verlinde’s holographic screens, or look at the specific Obidi Field Equations that attempt to unify these earlier concepts?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-originality-of-the-ontological-inversion-of-the-theory-of-entropicity-toe-f4bbd0c2f477)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidis-theory-of-entropicity-toe-inverts-a-150-year-old-assumption-in-theoretical-physics-e1da08d611d4)
+
+[4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5738123)
+
+[5] [https://backreaction.blogspot.com](http://backreaction.blogspot.com/2019/02/when-gravity-breaks-down.html)
+
+[6] [https://energyflow-cosmology.com](https://energyflow-cosmology.com/how-does-entropy-influence-cosmology/)
+
+[7] [https://medium.com](https://medium.com/@adnanmasood/quantum-sundays-60-quantum-gravity-101-mapping-the-frontier-beyond-general-relativity-55d266b2ef8c)
+
+[8] [https://pubs.aip.org](https://pubs.aip.org/aip/adv/article/15/4/045035/3345217/Is-gravity-evidence-of-a-computational-universe)
+
+[9] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/the-unified-entropy-geometry-framework-of-the-theory-of-entropicity-toe-21a4790fcea2)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/obidis-metaphysics-and-philosophy-from-his-theory-of-entropicity-toe-in-modern-theoretical-60dbb747cae7)
+
