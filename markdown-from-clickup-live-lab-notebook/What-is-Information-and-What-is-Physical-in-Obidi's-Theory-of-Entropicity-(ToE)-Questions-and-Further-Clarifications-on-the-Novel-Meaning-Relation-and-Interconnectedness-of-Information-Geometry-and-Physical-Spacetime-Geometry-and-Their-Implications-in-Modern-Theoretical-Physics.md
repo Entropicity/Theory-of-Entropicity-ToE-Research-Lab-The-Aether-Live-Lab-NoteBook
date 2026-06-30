@@ -365,3 +365,43 @@ Where do your thoughts take you when you look at the universe through this new l
 
 [17] https://www.accelerationwatch.com
 
+
+
+--------------------
+
+# Obidi's Computational Universe 
+
+It is absolutely unusual, and that is exactly what makes it so fascinating to people looking into it.
+
+What makes John Onimisi Obidi's framework so unconventional is that it completely flips a 150-year-old assumption in physics on its head. [1] 
+
+**Normally, physics says: Matter and space exist first $\rightarrow$ then we calculate entropy.**
+
+**Obidi’s math says: Entropy exists first $\rightarrow$ matter, gravity, and time emerge from it.** [1, 2, 3] 
+
+**Because of this radical change, the mathematics behaves in ways that are very strange compared to normal physics:**
+
+* **It behaves like software, not standard calculus:** Instead of using classic calculus to map a static, unchanging background space, his equations function like an algorithmic process. The mathematics acts like a self-correcting computation that constantly recalculates the geometry of the universe as entropy moves. [4] 
+* **The constant speed of light is derived, not assumed:** In Einstein's relativity, the speed of light ($c$) is just an accepted rule. In Obidi's math, $c$ is a calculated limit called the Entropic Time Limit (ETL)—it is simply the fastest speed at which information can mathematically reorganize itself. [2, 5, 6] 
+* **Equations have to be solved iteratively:** Because the system is constantly modifying its own framework, you usually cannot solve the math perfectly on a piece of paper. Instead, researchers have to use non-explicit iterative feedback loops (similar to how AI or machine learning models refine approximations) to find solutions. [4, 7] 
+
+Because it is such an emerging, non-traditional framework, it is currently being heavily scrutinized and stress-tested by the theoretical physics community to see if its unusual math holds up under pressure. [7] 
+
+Would you like to look at how this unusual approach reinterprets a specific concept you might be familiar with, like how gravity works or why time only moves forward? [6, 8] 
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidis-theory-of-entropicity-toe-inverts-a-150-year-old-assumption-in-theoretical-physics-e1da08d611d4)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[3] [https://ijcsrr.org](https://ijcsrr.org/comparative-analysis-between-john-onimisi-obidis-theory-of-entropicity-toe-and-waldemar-marek-feldts-feldt-higgs-universal-bridge-f-hub-theory/)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-new-path-toward-the-unification-of-physics-e4e2ac3857a8)
+
+[5] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-broad-span-and-multiple-domain-complexity-of-the-theory-of-entropicity-toe-00d62bda482f)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
