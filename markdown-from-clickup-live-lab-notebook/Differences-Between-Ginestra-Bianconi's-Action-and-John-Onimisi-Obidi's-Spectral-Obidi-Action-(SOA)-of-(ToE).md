@@ -108,35 +108,23 @@ x
  theoryofentropicity.blogspot.com+1. This is a monistic framework: all physical phenomena (gravity, matter, time) are manifestations of the entropic field.
 
 2. Conceptual Challenge
-Bianconi’s approach faces the Bianconi Paradox (BP): why should the entropy difference between two ontologically different metrics generate gravitational attraction? She resolves this with Bianconi’s Vicarious Induction (BVI), which artificially induces a metric on matter to make the comparison valid theoryofentropicity.blogspot.com+1.
+Bianconi’s approach faces the Bianconi Paradox (BP): why should the entropy difference between two ontologically different metrics generate gravitational attraction? She resolves this with Bianconi’s Vicarious Induction (BVI), which artificially induces a metric on matter to make the comparison valid.
 
-Obidi’s ToE avoids this paradox by eliminating the dual-metric structure. Distinguishability is measured between configurations of the entropic field, not between metrics, restoring ontological coherence theoryofentropicity.blogspot.com+1.
+Obidi’s ToE avoids this paradox by eliminating the dual-metric structure. Distinguishability is measured between configurations of the entropic field, not between metrics, restoring ontological coherence.
 
 3. Framework and Scope
-Bianconi’s Gravity from Entropy: A specific, information-theoretic model of entropic gravity, recovering Einstein’s equations in a low-energy limit and predicting a small positive cosmological constant theory-of-entropicity-toe.addpotion.com.
+Bianconi’s Gravity from Entropy: A specific, information-theoretic model of entropic gravity, recovering Einstein’s equations in a low-energy limit and predicting a small positive cosmological constant.
 
-Obidi’s ToE: A broader, universal framework that subsumes Bianconi’s model as a quadratic, near-equilibrium approximation. It aims to unify gravity, matter, and quantum behaviour under a single variational principle (the Obidi Action) theory-of-entropicity-toe.addpotion.com+1.
+Obidi’s ToE: A broader, universal framework that subsumes Bianconi’s model as a quadratic, near-equilibrium approximation. It aims to unify gravity, matter, and quantum behaviour under a single variational principle (the Obidi Action).
+
 4. Summary Table
-Feature	Bianconi’s Gravity from Entropy	
-Obidi’s Theory of Entropicity (ToE)
 
-Fundamental entity	Two spacetime metrics (vacuum & matter-induced)	
-Single entropic field 
-S
-(
-x
-)
-
-Role of entropy	Measure of difference between metrics	
-Ontological substrate of reality
-
-Ontology	Dualistic (spacetime & matter separate)	
-Monistic (all from entropic field)
-
-Gravity origin	Mismatch between metrics	
-Gradients/curvature of entropic field
-
-Framework status	Specific entropic gravity model	
-General meta-theory encompassing Bianconi’s model
+| **Feature** | **[Bianconi’s Gravity from Entropy](ca://s?q=Explain_Bianconi_Gravity_from_Entropy)** | **[Obidi’s Theory of Entropicity (ToE)](ca://s?q=Explain_Obidi_Theory_of_Entropicity)** |
+|-------------|-----------------------------------------------|------------------------------------------------|
+| **Fundamental entity** | Two spacetime metrics (vacuum & matter‑induced) | Single entropic field \(S(x)\) |
+| **Role of entropy** | Measure of difference between metrics | Ontological substrate of reality |
+| **Ontology** | Dualistic (spacetime & matter separate) | Monistic (all from entropic field) |
+| **Gravity origin** | Mismatch between metrics | Gradients/curvature of entropic field |
+| **Framework status** | Specific entropic gravity model | General meta‑theory encompassing Bianconi’s model |
 
 In short: Bianconi’s model is a specific, dualistic proposal for entropic gravity, while Obidi’s ToE is a broader, monistic theory where entropy is the primary reality, and Bianconi’s model is a limiting case within it 
