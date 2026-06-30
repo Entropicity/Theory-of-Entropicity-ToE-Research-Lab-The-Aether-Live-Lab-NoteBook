@@ -237,3 +237,5 @@ Let us know what area of this radical shift you want to analyze and understand n
 [7] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-historical-and-conceptual-introduction-to-the-foundations-of-the-theory-of-entropicity-1c72bc612765)
 
 [8] [https://ijcsrr.org](https://ijcsrr.org/comparative-analysis-between-john-onimisi-obidis-theory-of-entropicity-toe-and-waldemar-marek-feldts-feldt-higgs-universal-bridge-f-hub-theory/)
+
+[9] [Obidi's ToE: Building on the Shoulders of Giants](https://medium.com/@jonimisiobidi/the-radical-conceptual-leap-of-obidis-theory-of-entropicity-toe-building-on-the-shoulders-of-06467575caa9?sharedUserId=jonimisiobidi)
