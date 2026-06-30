@@ -15,7 +15,9 @@ $$ds^2_{Info} = g_{ij}(\theta) d\theta^i d\theta^j$$
 Because $g_{ij}$ is positive-definite, $ds^2 \geq 0$. There is no time. [6] 
 The Obidi Action acts as a dynamical variational mechanism. It forces an evolutionary constraint on the information manifold via an asymmetric connection (the Amari–Čencov $\alpha$-connection). This introduces irreversibility directly into the geometry. [1, 2, 7, 8, 9, 10] 
 
-The action breaks the positive-definite symmetry, mapping a specific direction of irreversible information flow into a negative eigenvalue. **After an ingenuous application of the disformal Obidi Transformation and the the result of the Obidi Metric, this generates the Lorentzian metric of indefinite signature required for physical spacetime ($ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$).** [3] 
+The action breaks the positive-definite symmetry, mapping a specific direction of irreversible information flow into a negative eigenvalue. 
+
+**After an ingenuous application of the disformal Obidi Transformation and the result of the Obidi Metric, this generates the Lorentzian metric of indefinite signature required for physical spacetime ($ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$).** [3] 
 
 ------------------------------
 
