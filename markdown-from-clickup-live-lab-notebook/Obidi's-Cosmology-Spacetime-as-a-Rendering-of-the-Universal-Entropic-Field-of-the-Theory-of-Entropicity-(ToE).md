@@ -25,7 +25,8 @@ Relativistic phenomena like time dilation are simply the macroscopic manifestati
 ------------------------------
 
 ## 2. The Mathematical Pipeline: 
-Distinguishability to Distortions
+### Distinguishability to Distortions
+
 The core challenge of Obidi's cosmology is deriving the smooth, physical curvature of gravity from an abstract field of probabilities. The theory achieves this by leveraging the mathematics of Information Geometry, transforming statistical relations into physical parameters.
 
   [ Informational Manifold ] ──► Equipped with Fisher-Rao & Fubini-Study Metrics
@@ -37,19 +38,21 @@ The core challenge of Obidi's cosmology is deriving the smooth, physical curvatu
   [ Physical Spacetime Curvature ] ──► Emergent Riemann Tensor / Einstein Field Equations
 
 
-   1. The Informational Manifold: At the microscopic scale, the universe is mapped using the Fisher-Rao metric (for classical probabilities) and the Fubini-Study metric (for quantum states). Here, "distance" is not measured in meters, but in statistical distinguishability.
-   2. Alpha-Deformations: By applying the Rényi-Tsallis non-extensive entropy formalism, the theory introduces structural deformations to this probability space. Using the constitutive relation $\alpha = 2(1-q)$, shifting information profiles create geometric distortions and affine asymmetry directly within the information manifold.
-   3. The Curvature Transfer Theorem (CTT): Through a mathematical pushforward mechanism, the CTT proves that the physical Riemann curvature tensor used by Einstein is the exact manifestation of this underlying information-geometric curvature.
+   1. **The Informational Manifold:** At the microscopic scale, the universe is mapped using the Fisher-Rao metric (for classical probabilities) and the Fubini-Study metric (for quantum states). Here, "distance" is not measured in meters, but in statistical distinguishability.
+   2. **Alpha-Deformations:** By applying the Rényi-Tsallis non-extensive entropy formalism, the theory introduces structural deformations to this probability space. Using the constitutive relation $\alpha = 2(1-q)$, shifting information profiles create geometric distortions and affine asymmetry directly within the information manifold.
+   3. **The Curvature Transfer Theorem (CTT):** Through a mathematical pushforward mechanism, the CTT proves that the physical Riemann curvature tensor used by Einstein is the exact manifestation of this underlying information-geometric curvature.
 
 In the thermodynamic limit, this pipeline recovers Einstein’s Field Equations as emergent identities rather than fundamental laws. Gravity is revealed to be entropic pressure—the natural tendency of the field to seek higher statistical equilibrium.
 
 ------------------------------
 
 ## 3. The Obidi Curvature Invariant ($\ln 2$)
-The foundational pixelation of this cosmology is governed by the Obidi Curvature Invariant (OCI), which is set at the absolute value of $\ln 2$. Because $\ln 2$ represents the natural logarithm of 2—the exact mathematical value of a single binary digit or bit of information—it establishes a hard informational threshold for physical existence.
+The foundational pixelation of this cosmology is governed by the Obidi Curvature Invariant (OCI), which is set at the absolute value of $\ln 2$. 
 
-* The Quantization Threshold: If a region of the entropic field possesses an information density below $\ln 2$, it remains a sea of indistinguishable probabilities with no spacetime geometry or matter. Physical reality is only rendered into existence when a localized coordinate pools enough data to cross the $\ln 2$ threshold.
-* Spacetime Pixelation: Because existence cannot be parsed in fractions of a bit, physical space is fundamentally discrete. This links directly to Landauer's Principle, implying that the erasure or processing of information structurally shifts the local gravitational geometry of the universe.
+Because $\ln 2$ represents the natural logarithm of 2—the exact mathematical value of a single binary digit or bit of information—it establishes a hard informational threshold for physical existence.
+
+* **The Quantization Threshold:** If a region of the entropic field possesses an information density below $\ln 2$, it remains a sea of indistinguishable probabilities with no spacetime geometry or matter. Physical reality is only rendered into existence when a localized coordinate pools enough data to cross the $\ln 2$ threshold.
+* **Spacetime Pixelation:** Because existence cannot be parsed in fractions of a bit, physical space is fundamentally discrete. This links directly to Landauer's Principle, implying that the erasure or processing of information structurally shifts the local gravitational geometry of the universe.
 
 ------------------------------
 
@@ -58,9 +61,9 @@ By swapping a material foundation for an informational substrate, Obidi’s Cosm
 
 ## Physical Revolutions
 
-* Resolution of Quantum Gravity: Because relativity and quantum mechanics are both derived as scaling regimes of the exact same underlying entropic manifold, the mathematical conflict between smooth spacetime and discrete energy packets disappears.
-* Elimination of Singularities: In a collapsing cosmic structure or black hole, matter is never crushed into an impossible point of infinite density. Instead, the core hits the maximum information capacity dictated by the Obidi Curvature Invariant (OCI), causing spacetime to de-render back into a state of pure, non-local quantum potentiality.
-* The Informational Genesis: The cosmology eliminates the need for a physical "Big Bang" singularity. The beginning of the universe is reframed as a cosmic phase transition—a massive informational boot-up sequence where the entropic field fluctuated past the $\ln 2$ boundary, instantly rendering abstract data into physical geometry.
+* **Resolution of Quantum Gravity:** Because relativity and quantum mechanics are both derived as scaling regimes of the exact same underlying entropic manifold, the mathematical conflict between smooth spacetime and discrete energy packets disappears.
+* **Elimination of Singularities:** In a collapsing cosmic structure or black hole, matter is never crushed into an impossible point of infinite density. Instead, the core hits the maximum information capacity dictated by the Obidi Curvature Invariant (OCI), causing spacetime to de-render back into a state of pure, non-local quantum potentiality.
+* **The Informational Genesis:** The cosmology eliminates the need for a physical "Big Bang" singularity. The beginning of the universe is reframed as a cosmic phase transition—a massive informational boot-up sequence where the entropic field fluctuated past the $\ln 2$ boundary, instantly rendering abstract data into physical geometry.
 
 ## Philosophical Ontodynamics
 Philosophically, the framework establishes a new discipline known as Ontodynamics—the study of existence as entropic motion.
@@ -76,11 +79,11 @@ By discarding static substance dualism, Obidi's Theory of Entropicity (ToE) posi
 
 Entropic Information becomes the fundamental substrate of the cosmos: when viewed from the outside via the Curvature Transfer Theorem, it manifests as objective matter; when experienced from the inside as state-processing, it manifests as subjective consciousness.
 
-Ultimately, Obidi’s Cosmology offers a bold vision of a unified, living field theory—one where the universe is not a collection of objects decaying into disorder, but a grand cosmic calculation continuously rendering itself into being.
+Ultimately, **Obidi’s Cosmology** offers a bold vision of a unified, living field theory—one where the universe is not a collection of objects decaying into disorder, but a grand cosmic calculation continuously rendering itself into being.
 
 ------------------------------
 
-If you would like to explore further, we can examine the specific [Foundations of Obidi's Theory on Medium(https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee) regarding its math, or look into the criticisms and peer reviews this theory has faced from mainstream physicists. 
+If you would like to explore further, we can examine the specific [Foundations of Obidi's Theory on Medium and the ToE Canonical Archives (https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee) regarding its math, or look into the criticisms and peer reviews this theory has faced from mainstream physicists. 
 
 Which path shall we take?
 
