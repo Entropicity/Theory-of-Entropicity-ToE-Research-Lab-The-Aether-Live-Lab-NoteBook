@@ -1,8 +1,10 @@
-# A Closer at How the Theory of Entropicity (ToE) Attempts to Mathematically Derive Spacetime Curvature from Information Geometry 
+# A Closer at How the Theory of Entropicity (ToE) Attempts to Mathematically Derive Spacetime Curvature from the Information Geometry of Information Theory 
 
 
-To understand how the Theory of Entropicity (ToE) mathematically derives physical spacetime curvature from information, we have to look at the exact mathematical bridge the theory constructs. [1] 
-Instead of starting with physical space (like a grid of points), the theory starts with Information Geometry—a well-established branch of mathematics where probability distributions are treated as geometric spaces. The theory uses a three-step mathematical pipeline to turn statistical probability into physical gravity. [2, 3, 4, 5] 
+To understand how the **Theory of Entropicity (ToE) mathematically derives physical spacetime curvature from the Information Geometry of Information Theory, we have to look at the exact mathematical bridge the theory constructs. [1] 
+Instead of starting with physical space (like a grid of points), the theory starts with Information Geometry—a well-established branch of mathematics where probability distributions are treated as geometric spaces. 
+
+The theory uses a three-step mathematical pipeline to turn statistical probability into physical gravity. [2, 3, 4, 5] 
 
 ------------------------------
 
