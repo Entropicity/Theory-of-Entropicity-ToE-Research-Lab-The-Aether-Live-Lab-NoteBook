@@ -1,4 +1,4 @@
-Why Entropy Must Be a Universal Field in the Theory of Entropicity (ToE)
+# Why Entropy Must Be a Universal Field in the Theory of Entropicity (ToE): Albert Einstein, Bekenstein-Hawking, Ted Jacobson, Thanu Padmanabhan, Ariel Caticha, Erik Verlinde, Ginestra Bianconi
 
 The objection that entropy cannot be a field targets the primary conceptual leap of the theory. In standard, textbook physics, entropy is a macroscopic property of a system (a single number, like 50 J/K) or a statistical count of microstates, not a continuous field that changes from point to point in space. [1, 2] 
 To understand why the theory proposes this, it helps to look at how it redefines the concept to argue against the traditional view:
