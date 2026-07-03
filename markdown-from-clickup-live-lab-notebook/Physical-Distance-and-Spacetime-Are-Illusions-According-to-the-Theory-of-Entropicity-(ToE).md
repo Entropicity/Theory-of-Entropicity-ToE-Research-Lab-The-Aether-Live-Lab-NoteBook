@@ -2,8 +2,9 @@
 
 The **Obidi Curvature Invariant (OCI)** is not a measure of physical distance (like meters or light-years). Instead, it represents a fundamental informational threshold required to generate physical reality. **This is the Obidi One-Bit Rule for the Universe**
 
-In this theory, physical distance is an illusion. What we perceive as "space" is actually a manifestation of how distinguishable two information states are from one another.
-Here is how the invariant operates conceptually and mathematically:
+**In this theory, physical distance and spacetime are illusions.** **What we perceive as "space or spacetime or time" is actually a manifestation of how distinguishable two information states are from one another.**
+
+Here is how the Obidi Curvature Invariant (OCI) operates conceptually and mathematically (with far-reaching physical and philosophical consequences):
 
 ## 1. The Core Meaning of the Invariant ($\ln 2$): The Obidi One-Bit Rule for the Universe 
 
