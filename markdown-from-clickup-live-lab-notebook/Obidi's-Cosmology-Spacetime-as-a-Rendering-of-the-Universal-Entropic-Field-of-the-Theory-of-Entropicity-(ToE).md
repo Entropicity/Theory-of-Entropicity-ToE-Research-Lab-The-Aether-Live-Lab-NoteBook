@@ -2,17 +2,25 @@
 
 For over a century and a half, physics has operated under a strict hierarchy: space and time form the stage, matter and energy are the actors, and entropy is merely a byproduct—a retrospective statistical tally of disorder or heat dissipation.
 
-The Theory of Entropicity (ToE), a speculative framework formulated by independent researcher [John Onimisi Obidi](https://www.researchgate.net/profile/John-Obidi-4), completely upends this classical worldview. Obidi’s cosmology proposes a radical ontological inversion: entropy is not the shadow cast by physical processes; it is the fundamental, dynamic field ($S(x)$) from which all physical reality emerges. Under this paradigm, the universe is a continuous information-geometric computation, and everything we perceive as space, time, and gravity is a macroscopic projection rendered by an underlying entropic manifold.
+The **Theory of Entropicity (ToE)**, a radical and audacious framework formulated by independent researcher [John Onimisi Obidi](https://www.researchgate.net/profile/John-Obidi-4), **completely upends this classical worldview.** 
+
+**Obidi’s cosmology proposes a radical ontological inversion:** entropy is not the projection cast by physical processes; it is the fundamental, dynamic field ($S(x)$) from which all physical reality emerges. Under this paradigm, the universe is a continuous information-geometric computation, and everything we perceive as space, time, matter, and gravity is a macroscopic projection rendered by an underlying entropic manifold.
 
 ------------------------------
 
 ## 1. Core Mechanics: The Obidi Action and the MEE
 
-To build a cosmology without preexisting space or matter, the theory relies on a foundational mathematical engine: The Obidi Action. Operating as a universal variational principle analogous to the Einstein-Hilbert action in general relativity, the Obidi Action dictates how the universal entropic field evolves by optimizing entropic cost and flow.
+To build a cosmology without preexisting space/spacetime or matter, the theory relies on a foundational mathematical engine: The **Obidi Action**. Operating as a universal variational principle analogous to the **Einstein-Hilbert action** in general relativity (GR), **the Obidi Action dictates how the universal entropic field evolves by optimizing entropic cost and flow.**
 
-From the extremization of this action, the theory derives its governing law: the Master Entropic Equation (MEE). The MEE acts as the entropic equivalent to Einstein’s field equations. However, instead of mapping how mass-energy warps geometry, the MEE describes how non-local, non-linear informational flows dictate the behavior of all forces.
+From the extremization of this action, the theory derives its governing law: the Master Entropic Equation (MEE) [otherwise called the Obidi Field Equations (OFE)]. 
 
-Within this dynamic field, the speed of light ($c$) loses its status as an arbitrary geometric constant. Governed by the "No-Rush" Theorem, $c$ is redefined as the absolute processing limit or "hardware refresh rate" of the universal entropic field. Relativistic phenomena like time dilation are simply the macroscopic manifestation of entropic resistance when the field is pushed to its maximum reconfiguration speed.
+The MEE/OFE acts as the entropic equivalent to Einstein’s field equations. However, instead of mapping how mass-energy warps geometry, the MEE/IFE describes how non-local, non-linear entropic informational flows dictate the behavior of all forces, fields, gravity, and matter.
+
+Within this dynamic field, the speed of light ($c$) loses its status as an arbitrary geometric constant. 
+
+Governed by the "No-Rush" Theorem (NRT), the [proverbial and ubiquitous] speed of light $c$ is redefined and derived in the Theory of Entropicity (ToE) as the absolute processing limit or "hardware refresh rate" of the universal entropic field. 
+
+Relativistic phenomena like time dilation are simply the macroscopic manifestation of entropic resistance when the field is pushed to its maximum reconfiguration speed.
 
 ------------------------------
 
