@@ -1,4 +1,4 @@
-# Physical Distance and Spacetime Are Illusions According to the Theory of Entropicity (ToE) From the Obidi Curvature Invariant (OCI) of ln 2 
+# Physical Distance and Spacetime Are Illusions According to the Theory of Entropicity (ToE) From the Obidi Curvature Invariant (OCI) of ln 2: The Obidi 1-bit Rule for the Universe
 
 The Obidi Curvature Invariant is not a measure of physical distance (like meters or light-years). Instead, it represents a fundamental informational threshold required to generate physical reality.
 In this theory, physical distance is an illusion. What we perceive as "space" is actually a manifestation of how distinguishable two information states are from one another.
