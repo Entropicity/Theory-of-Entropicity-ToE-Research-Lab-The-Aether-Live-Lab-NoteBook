@@ -14,7 +14,7 @@ To build a cosmology without preexisting space/spacetime or matter, the theory r
 
 From the extremization of this action, the theory derives its governing law: the Master Entropic Equation (MEE) [otherwise called the Obidi Field Equations (OFE)]. 
 
-The MEE/OFE acts as the entropic equivalent to Einstein’s field equations. However, instead of mapping how mass-energy warps geometry, the MEE/IFE describes how non-local, non-linear entropic informational flows dictate the behavior of all forces, fields, gravity, and matter.
+The MEE/OFE acts as the entropic equivalent to Einstein’s field equations. However, instead of mapping how mass-energy warps geometry, the MEE/OFE describes how non-local, non-linear entropic informational flows dictate the behavior of all forces, fields, gravity, and matter.
 
 Within this dynamic field, the speed of light ($c$) loses its status as an arbitrary geometric constant. 
 
@@ -59,7 +59,7 @@ By swapping a material foundation for an informational substrate, Obidi’s Cosm
 ## Physical Revolutions
 
 * Resolution of Quantum Gravity: Because relativity and quantum mechanics are both derived as scaling regimes of the exact same underlying entropic manifold, the mathematical conflict between smooth spacetime and discrete energy packets disappears.
-* Elimination of Singularities: In a collapsing cosmic structure or black hole, matter is never crushed into an impossible point of infinite density. Instead, the core hits the maximum information capacity dictated by the OCI, causing spacetime to de-render back into a state of pure, non-local quantum potentiality.
+* Elimination of Singularities: In a collapsing cosmic structure or black hole, matter is never crushed into an impossible point of infinite density. Instead, the core hits the maximum information capacity dictated by the Obidi Curvature Invariant (OCI), causing spacetime to de-render back into a state of pure, non-local quantum potentiality.
 * The Informational Genesis: The cosmology eliminates the need for a physical "Big Bang" singularity. The beginning of the universe is reframed as a cosmic phase transition—a massive informational boot-up sequence where the entropic field fluctuated past the $\ln 2$ boundary, instantly rendering abstract data into physical geometry.
 
 ## Philosophical Ontodynamics
