@@ -38,9 +38,9 @@ Would you like to explore the mathematical mechanics (like the Obidi Action), or
 ## Intellectual Lineage and Context
 The theory builds upon and attempts to unify the works of several scientific pioneers: [2, 3] 
 
-* It extends Albert Einstein's action principles to information geometry. [11] 
-* It builds on Claude Shannon's and Ronald Fisher's frameworks by making the static geometry of probability distributions completely dynamic. [11] 
-* It generalizes Erik Verlinde's entropic gravity by asserting that not just gravity, but spacetime itself emerges from an underlying entropic-informational manifold. [11, 12] 
+* It extends **Albert Einstein's action principles** to information geometry. [11] 
+* It builds on **Claude Shannon's** and **Ronald Fisher's** frameworks by **making the static geometry of probability distributions completely dynamic.** [11] 
+* It generalizes **Erik Verlinde's** entropic gravity by asserting that not just gravity, but spacetime itself emerges from an underlying entropic-informational manifold. [11, 12] 
 
 For further reading on its formulations, you can explore the [Foundations of Obidi's Theory of Entropicity on Medium](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee) or check out the [ResearchGate Profile of John Onimisi Obidi](https://www.researchgate.net/profile/John-Obidi-4). [3, 6] 
 
