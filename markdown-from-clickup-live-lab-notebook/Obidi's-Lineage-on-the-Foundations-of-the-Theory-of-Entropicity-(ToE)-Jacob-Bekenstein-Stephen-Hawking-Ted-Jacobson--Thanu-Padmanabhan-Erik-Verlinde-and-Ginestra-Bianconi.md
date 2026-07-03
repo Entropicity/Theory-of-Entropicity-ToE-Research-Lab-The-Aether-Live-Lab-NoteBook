@@ -1,4 +1,4 @@
-Obidi's Lineage on the Foundations of the Theory of Entropicity (ToE): Jacob Bekenstein, Stephen Hawking, Ted Jacobson, Thanu Padmanabhan, Erik Verlinde, and Ginestra Bianconi 
+# Obidi's Lineage on the Foundations of the Theory of Entropicity (ToE): Jacob Bekenstein, Stephen Hawking, Ted Jacobson, Thanu Padmanabhan, Erik Verlinde, and Ginestra Bianconi 
 
 **John Onimisi Obidi’s Theory of Entropicity (ToE)** attempts to unify these distinct thermodynamic and informational frameworks through an **"ontological inversion"**. [1] 
 Instead of treating their individual theories as separate insights about spacetime, Obidi posits that spacetime itself is an emergent macro-shadow of a singular, dynamic entropic field. 
