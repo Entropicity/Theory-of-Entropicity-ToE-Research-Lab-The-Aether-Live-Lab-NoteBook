@@ -1,7 +1,7 @@
 # Obidi's Lineage on the Foundations of the Theory of Entropicity (ToE): Jacob Bekenstein, Stephen Hawking, Ted Jacobson, Thanu Padmanabhan, Erik Verlinde, and Ginestra Bianconi 
 
 **John Onimisi Obidi’s Theory of Entropicity (ToE)** attempts to unify these distinct thermodynamic and informational frameworks through an **"ontological inversion"**. [1] 
-Instead of treating their individual theories as separate insights about spacetime, Obidi posits that spacetime itself is an emergent macro-shadow of a singular, dynamic entropic field. 
+Instead of treating their individual theories as separate insights about spacetime, Obidi posits that spacetime itself is an emergent macro-shadow [projection] of a singular, dynamic entropic field. 
 
 Within ToE, the breakthroughs of Bekenstein-Hawking, Jacobson, [Padmanabhan](https://www.google.com/search?q=padmanabhan&kgmid=/m/0ksbgg#sv=CBwS7gMKugMStwMK9wJBSmlUNHRLRW1ETHNJYTZzUnBnc1Q1ZF95QWlmWkNBZ3I2LWFnSnVYbWpXSW1vc1hUTE5LRnQyRVRjWVl4N3RRM0l5OEFkR2pwX2tqVU1iaUNRNnphR2FrZDBiNkFwMHROOFZiSUZRQUR1TjhRMVlxTjJZMGRlRGRyZ3htaThzbm9jQjNoU2tqQ0xEMF9Td20xVWtfUjM1RmxpSGx6b2NHUHlFN05hYzQ3d00yalAwUXFJSTliRjFjREdDSmE3ZVN3NmZuRUw3VzdsVUpXR1ZMWlpFSGJLbjB6WE5Dc2JSNVh4Ry1pVUk1RmRUanNkN3JNZFJuVmZUanJGRWoxLVVCME9KNFJtMXE0SXNkektOZmp1Y0ttQ0xxVV9xX3NQWWk5Wk9wTGFiZkNZM014MXdyZmlsWG1ZUnNVVl90bW5UcnFXOG10T1V2eGF1SlRUYXh0bzd1cks0SFFrVmdieEVRbjFjeFFJVVVNa29Xano4dmxiNk1OekkSF2V4aElhc0RpSmZYcW1MUVA0X21Nd0E0GiJBRHNyOWZRMzNNVE9Zckx2Um53UFJQR1lDWlRvODVmMlFBEgQ3ODU0GgEzIhAKAXESC3BhZG1hbmFiaGFuIhIKBWtnbWlkEgkvbS8wa3NiZ2coABhFIPqrzoUH), Verlinde, and Bianconi are treated as boundary cases or specific limiting regimes of a single underlying mathematical operator: the Obidi Action. [2, 3, 4] 
 
@@ -54,8 +54,8 @@ Would you like to explore the specific mathematical architecture of the Obidi Ac
 [7] [https://www.nuclear-power.com](https://www.nuclear-power.com/bekenstein-hawking-entropy/)
 
 [8] [https://ijcsrr.org](https://ijcsrr.org/wp-content/uploads/2025/11/21-1911-2025.pdf)
-[
-9] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
 
 [10] [https://www.cs.utexas.edu](https://www.cs.utexas.edu/theory-seminar)
 
