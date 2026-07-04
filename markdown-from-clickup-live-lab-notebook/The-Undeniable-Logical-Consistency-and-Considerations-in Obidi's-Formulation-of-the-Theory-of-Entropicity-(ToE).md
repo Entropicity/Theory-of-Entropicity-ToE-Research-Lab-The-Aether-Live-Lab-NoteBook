@@ -42,24 +42,45 @@ The core of the disagreement comes down to a philosophical split:
 When you look at this deductive chain, do you find Obidi's geometric derivation of a field (using information geometry) to be mathematically compelling, or do you think the logic falls apart when it tries to replace spacetime as an absolute primitive? [4, 22] 
 
 [1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/the-logical-argument-for-the-declaration-of-entropy-as-a-dynamic-field-in-the-theory-of-entropicity-02313dbcf545)
+
 [3] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
 [4] [https://www.linkedin.com](https://www.linkedin.com/posts/theory-of-entropicity-toe_theory-of-entropicity-toe-activity-7475119171337355265-4iXe)
+
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/basics-and-essentials-of-the-theory-of-entropicity-toe-a-new-ontological-foundation-for-the-c82f9b02cbb7)
+
 [6] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
 [7] [https://medium.com](https://medium.com/@ruialmeidapinheiro/entropy-four-definitions-one-concept-f2ca4aa3a4a9)
+
 [8] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/universality-of-obidi-curvature-invariant-in-toe.html)
+
 [9] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
 [10] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
 [11] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
 [12] [https://www.newscientist.com](https://www.newscientist.com/article/mg25133470-800-states-of-matter-the-unthinkable-forms-beyond-solid-liquid-and-gas/)
+
 [13] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
 [14] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
 [15] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652760)
+
 [16] [https://ijcsrr.org](https://ijcsrr.org/wp-content/uploads/2025/11/21-1911-2025.pdf)
+
 [17] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/6599558.pdf?abstractid=6599558&mirid=1)
+
 [18] [https://medium.com](https://medium.com/@jonimisiobidi/entropy-as-inference-and-entropy-as-a-physical-field-a-comprehensive-comparison-of-ariel-catichas-62dd98257ec6)
+
 [19] [https://link.springer.com](https://link.springer.com/article/10.1007/s10670-025-00933-9)
+
 [20] [https://backreaction.blogspot.com](http://backreaction.blogspot.com/2020/05/understanding-quantum-mechanics-2.html)
+
 [21] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
 [22] https://theory-of-entropicity-toe.pages.dev
