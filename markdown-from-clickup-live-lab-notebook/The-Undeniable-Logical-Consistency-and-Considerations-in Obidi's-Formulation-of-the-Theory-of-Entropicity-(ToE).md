@@ -1,6 +1,6 @@
 # The Undeniable Logical Consistency and Considerations in Obidi's Formulation of the Theory of Entropicity (ToE): The Battle Between the Epistemology and Ontology of Entropy on the Foundations of Modern Theoretical Physics 
 
-By now, we already know that the Theory of Entropicity (ToE) is a radical, audacious, and provocative attempt to present us with a novel view of reality and the universe we live in. It is imperative to understand that John Onimisi Obidi does not simply make a blind assumption in his formulation of the Theory of Entropicity (ToE). His Theory of Entropicity (ToE) relies on a highly structured, deductive sequence of "logical connections" specifically designed to argue that an entropic field is mathematically and physically inevitable, even if traditional physics rejects it. [1, 2] 
+By now, we already know that the **Theory of Entropicity (ToE)** is a **radical, audacious, and provocative** attempt to present us with a novel view of reality and the universe we live in. It is imperative to understand that John Onimisi Obidi does not simply make a blind assumption in his formulation of the Theory of Entropicity (ToE). His Theory of Entropicity (ToE) relies on a highly structured, deductive sequence of **"logical connections"** specifically designed to argue that an entropic field is mathematically and physically inevitable, even if traditional and mainstream [orthodox] physics rejects it. [1, 2] 
 
 Obidi bypasses standard thermodynamic axioms by establishing an internal logic built on information geometry and variational principles. 
 
