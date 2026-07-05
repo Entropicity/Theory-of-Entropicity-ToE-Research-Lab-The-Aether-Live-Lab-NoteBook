@@ -1,4 +1,4 @@
-# Origination of Lorentzian Spacetime Geometry of Indefinite Signature from Positive Definite Signature of Information Geometry By the Application of the Obidi Transformation and Obidi Metric of the Theory of Entropicity (ToE)
+# Origination of Lorentzian Spacetime Geometry of Indefinite Signature from the Positive Definite Signature of Information Geometry By the Application of the Obidi Transformation and Obidi Metric of the Theory of Entropicity (ToE)
 
 In traditional information geometry (such as the frameworks established by C.R. Rao and S. Amari), the Fisher-Rao metric is inherently positive-definite (Riemannian). It describes distances between probability distributions, where negative or imaginary distances have no statistical meaning. [1, 2, 3, 4] 
 To extract a Lorentzian metric $(-, +, +, +)$ capable of supporting causal spacetime propagation from a purely positive-definite information manifold, John Onimisi Obidi introduces a three-step mathematical bridge: the Obidi Metric, the Disformal Obidi Transformation, and an information-theoretic rank-one sign flip. [1, 5, 6] 
