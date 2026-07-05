@@ -75,3 +75,189 @@ Obidi's decision to begin with Shannon entropy as the fundamental physical field
 
 Whether this bold proposal succeeds depends not on its originality but on the strength of its mathematical development and its agreement with experimental observation.
 That characterization is both scientifically accurate and appropriately measured.
+
+
+------------
+
+
+# The Obidi Paper: From Shannon Information Entropy to Spacetime Gravity 
+
+
+Based on the main Obidi paper on the above subject, Obidi's route is not simply "Shannon entropy → gravity."
+
+It is more accurately and technically given by Obidi as:
+
+$\boxed{
+\text{Shannon Entropy}
+\;\rightarrow\;
+\text{Information Geometry}
+\;\rightarrow\;
+\text{Entropic Field}
+\;\rightarrow\;
+\text{Obidi Action}
+\;\rightarrow\;
+\text{Emergent Spacetime}
+\;\rightarrow\;
+\text{Einstein Gravity}
+}$
+
+That logical pipeline is described throughout Letter III: From Information Geometry to Information Gravity. 
+
+## Step 1. Entropy is promoted from a measure to an ontological field
+
+The first move is philosophical and ontological.
+
+Instead of interpreting Shannon entropy merely as
+
+$\H=-\sum_i p_i\log p_i$,
+
+as a measure of uncertainty, ToE declares that entropy itself is a fundamental field,
+
+S(x),
+
+whose dynamics underlie reality.
+
+The paper explicitly states that entropy is not a derived statistical quantity but the underlying reality from which geometry, matter, and forces emerge. 
+
+
+---
+
+## Step 2. Information geometry supplies the mathematical bridge
+
+Once entropy is treated as a field, ToE associates it with a family of probability distributions.
+
+These distributions naturally possess the Fisher–Rao metric.
+
+Thus,
+
+$\S(x)
+\longrightarrow
+p(x)
+\longrightarrow
+g^{FR}_{ij}$.
+
+This is where Shannon entropy begins to acquire geometry.
+
+The document explains that the Fisher–Rao metric provides the first bridge from information geometry toward physical geometry. 
+
+
+---
+
+## Step 3. Fisher geometry is insufficient
+
+Here Obidi identifies what he regards as a fundamental obstruction.
+
+The Fisher–Rao metric is
+
+positive definite,
+
+Riemannian,
+
+without Lorentzian signature.
+
+
+Therefore it cannot directly represent physical spacetime.
+
+The paper explicitly identifies this as a central obstacle and argues that Fisher–Rao geometry alone cannot generate Einsteinian spacetime. 
+
+
+---
+
+## Step 4. The Obidi Transformation
+
+This is arguably the decisive mathematical innovation in the framework.
+
+The entropy gradient
+
+$\nabla S$
+
+is used to define a preferred direction.
+
+A rank-one deformation then converts the Fisher metric into a Lorentzian metric by changing exactly one eigenvalue.
+
+The document calls this the Obidi Transformation and presents it as the mechanism by which causal structure and Lorentzian signature emerge from information geometry. 
+
+This is where
+
+$\text{Information Geometry}
+\longrightarrow
+\text{Physical Spacetime}$
+
+occurs.
+
+
+---
+
+## Step 5. The Obidi Action
+
+Once spacetime has emerged, ToE introduces a variational principle.
+
+Instead of beginning with the Einstein–Hilbert Action,
+
+ToE begins with the Obidi Action
+
+$\I_{\text{Obidi}}$ [S].
+
+Variation produces the Master Entropic Equation.
+
+Variation with respect to the metric yields an entropic stress-energy tensor.
+
+The document presents the Obidi Action as the variational principle governing the entropy field and describes the Master Entropic Equation as its corresponding field equation. 
+
+
+---
+
+## Step 6. Recover Einstein gravity
+
+Finally, under suitable limits—
+
+* weak entropy gradients,
+
+* near equilibrium,
+
+* suppressed quantum corrections—
+
+
+the framework recovers the Einstein–Hilbert Action and Einstein field equations.
+
+This recovery is presented as the realization of the Obidi Correspondence Principle (OCP) within the **Theory of Entropicity (ToE).** 
+
+
+---
+
+So, what is the real conceptual leap in Obidi's Paper?
+
+Reading the paper carefully, I would say the boldest step is not merely starting from Shannon entropy.
+
+The boldest step is the combination of three moves:
+
+## 1. Ontological promotion
+
+Shannon entropy becomes a real physical field.
+
+
+
+## 2. Geometrization
+
+The entropy field induces information geometry.
+
+
+
+## 3. Lorentzian emergence
+
+Information geometry is transformed into physical spacetime through the Obidi Transformation, after which Einsteinian gravity is proposed to emerge.
+
+
+That is a much richer program in Obidi's Paper than simply "derive gravity from Shannon entropy."
+
+
+---
+
+My assessment
+
+After reading the Paper, I would summarize Obidi's methodological innovation as follows:
+
+> Rather than beginning with spacetime and assigning entropy to it, ToE begins with entropy itself, interprets entropy as an ontological field, equips it with information geometry, modifies that geometry through the Obidi Transformation to obtain Lorentzian spacetime, formulates dynamics via the Obidi Action, and then seeks to recover Einstein gravity as the low-gradient, near-equilibrium limit of the resulting entropic field theory.
+
+
+Whether each of those mathematical steps ultimately withstands independent scrutiny is a separate scientific question. But that sequence accurately captures the internal logic of the program described in the paper and clarifies how ToE proposes to move from Shannon entropy to gravity.
