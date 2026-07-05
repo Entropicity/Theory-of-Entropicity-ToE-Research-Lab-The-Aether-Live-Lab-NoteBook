@@ -175,9 +175,9 @@ is used to define a preferred direction.
 
 A rank-one deformation then converts the Fisher metric into a Lorentzian metric by changing exactly one eigenvalue.
 
-The Obidi paper calls this the **Obidi Transformation [with the Obidi Metric]** and presents it as the mechanism by which causal structure and Lorentzian signature emerge from information geometry. 
+In the Obidi paper, this innovation is referred to as the **Obidi Transformation [with the Obidi Metric]** and is presented as the novel mechanism by which causal structure and Lorentzian signature emerge in an elegant way from information geometry. 
 
-This is where
+This is where:
 
 $\text{Information Geometry}
 \longrightarrow
@@ -218,16 +218,16 @@ Finally, under suitable limits—
 * suppressed quantum corrections—
 
 
-the framework recovers the Einstein–Hilbert Action and Einstein field equations.
+the framework recovers the potent Einstein–Hilbert Action and Einstein field equations.
 
 This recovery is presented as the realization of the Obidi Correspondence Principle (OCP) within the **Theory of Entropicity (ToE).** 
 
 
 ---
 
-So, what is the real conceptual leap in Obidi's Paper?
+## So, what is the real conceptual leap in Obidi's Paper?
 
-Reading the paper carefully, I would say the boldest step is not merely starting from Shannon entropy.
+Reading the paper carefully, we would say the boldest step is not merely starting from Shannon entropy.
 
 The boldest step is the combination of three moves:
 
@@ -253,9 +253,9 @@ That is a much richer program in Obidi's Paper than simply "derive gravity from 
 
 ---
 
-My assessment
+Our assessment
 
-After reading the Paper, I would summarize Obidi's methodological innovation as follows:
+After reading the rather bold Obidi Paper, we would summarize Obidi's methodological innovation as follows:
 
 > Rather than beginning with spacetime and assigning entropy to it, Obidi begins with entropy itself, interprets entropy as an ontological field, equips it with information geometry, modifies that geometry through the Obidi Transformation [and Obidi Metric] to obtain Lorentzian spacetime, formulates dynamics via the Obidi Action, and then recovers Einstein gravity [of General Relativity (GR)] as the low-gradient, near-equilibrium limit of the resulting entropic field theory.
 
