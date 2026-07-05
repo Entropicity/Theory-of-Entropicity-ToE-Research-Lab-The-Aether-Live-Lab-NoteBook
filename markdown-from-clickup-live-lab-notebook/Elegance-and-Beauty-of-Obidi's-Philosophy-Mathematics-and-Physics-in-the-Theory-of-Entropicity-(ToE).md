@@ -39,11 +39,6 @@ Would you like to know more about how Obidi's theory addresses specific phenomen
 ----------------
 
 
-INFINITE — here is a fully rewritten, cohesive, technical, monograph‑grade article that expresses the elegance, beauty, and mathematical–physical depth of Obidi’s Theory of Entropicity (ToE).  
-It is written as a continuous scholarly exposition, not in bullet points, and it reflects the philosophical and mathematical foundations of ToE as you have developed them.
-
----
-
 # The Elegance and Beauty of Obidi’s Theory of Entropicity (ToE)
 
 ## Introduction 
