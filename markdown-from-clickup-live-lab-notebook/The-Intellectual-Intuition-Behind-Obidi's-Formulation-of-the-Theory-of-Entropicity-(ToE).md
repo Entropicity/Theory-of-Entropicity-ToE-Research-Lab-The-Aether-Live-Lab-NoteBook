@@ -81,32 +81,7 @@ This is the conceptual starting point of Obidi's Theory of Entropicity (ToE).
 
 Rather than treating entropy as a secondary quantity, ToE elevates entropy to the status of the fundamental ontological field from which information geometry, spacetime geometry, and ultimately gravitation emerge.
 
-Schematically,
-
-$\boxed{
-\begin{aligned}
-\text{Information}
-&\Longleftrightarrow
-\text{Entropy}
-\\
-\Downarrow
-\\
-\text{Information Geometry}
-\\
-\Downarrow
-\\
-\text{Entropic Geometry}
-\\
-\Downarrow
-\\
-\text{Spacetime Geometry}
-\\
-\Downarrow
-\\
-\text{Gravity}
-\end{aligned}
-}$
-
+Schematically:
 $$\boxed{
 \text{Information}
 \Longleftrightarrow
@@ -130,36 +105,6 @@ $$\boxed{
 
 ---
 
-$$\boxed{
-\text{Information}
-\Longleftrightarrow
-\text{Entropy}
-
-\\
-\Downarrow
-
-\\
-\text{Information Geometry}
-
-\\
-\Downarrow
-
-\\
-\text{Entropic Geometry}
-
-\\
-\Downarrow
-
-\\
-\text{Spacetime Geometry}
-
-\\
-\Downarrow
-
-\\
-\text{Gravity}
-}$$
----
 $$
 \begin{aligned}
 \text{Information} &\Longleftrightarrow \text{Entropy} \\
