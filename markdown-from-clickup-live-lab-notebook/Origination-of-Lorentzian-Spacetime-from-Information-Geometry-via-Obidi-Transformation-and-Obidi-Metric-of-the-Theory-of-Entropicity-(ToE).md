@@ -7,11 +7,13 @@ To extract a Lorentzian metric $(-, +, +, +)$ capable of supporting causal space
 
 ## 1. Promoting the Information Manifold to a Base Space
 Standard physics treats spacetime as the fundamental background and views entropy as a secondary property of matter. Obidi [inverts this hierarchy](https://medium.com/@jonimisiobidi/the-radical-conceptual-leap-of-obidis-theory-of-entropicity-toe-building-on-the-shoulders-of-06467575caa9). [2] 
+
 The Theory of Entropicity (ToE) begins on a raw entropic manifold where coordinates are statistical states ($X^I$). The underlying background metric $g_{IJ}$ is built directly from Fisher-Rao information metrics and Fubini-Study structures. At this pre-geometric layer, everything remains positive-definite and statistical. [1, 7] 
 
 ## 2. The Disformal Obidi Transformation
 To step from probability space into physical spacetime, Obidi defines a subset of the entropic coordinates ($x^\mu$, where $\mu = 0,1,2,3$) to represent the emergent spacetime sector. He bridges the two manifolds via a disformal mapping: [1, 5, 7] 
-$$g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nu S$$ 
+
+$$\g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nuS$$ 
 
 * $\tilde{g}_{\mu\nu}$ is the pushforward of the positive-definite Obidi Metric from the information manifold.
 * $S$ is the continuous scalar entropic field.
@@ -21,10 +23,12 @@ $$g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nu 
 ## 3. The Rank-One Sign Flip (The Origin of the Time Vector)
 The transition to a Lorentzian signature relies on the sign of the gradient-dependent term [$B(S) \partial_\mu S \partial_\nu S$](https://osf.io/pt9u8/overview). [6] 
 In information-theoretic terms, entropy flow is strictly irreversible. By fixing a rank-one sign flip tied directly to the directional flux of the entropic field, the coefficient $B(S)$ becomes negative along the path of maximum entropic change. [6, 11, 12] 
+
 This subtractive term overpowers the positive-definite contribution of $\tilde{g}_{\mu\nu}$ in that specific direction. It effectively introduces a negative eigenvalue into the metric signature, generating the time-like component $(-, +, +, +)$. [6] 
 
 ## 4. Dynamical Selection via the Obidi Action
 A disformal transformation can mathematically force any signature, but it only becomes physically real when governed by an action. [1, 5] 
+
 When the [Obidi Action](https://medium.com/@jonimisiobidi/how-the-obidi-action-dynamically-transforms-information-geometry-into-physical-spacetime-via-the-b71f44ff8517) is varied, it yields the Master Entropic Equation (MEE). The Lorentzian sector is dynamically selected because it is the only phase configuration that minimizes the variational entropic cost while satisfying causality and permitting stable physical wave propagation. [1, 2, 13] 
 Through this framework, the time dimension is not an assumed background property; it is the physical manifestation of the irreversible axis of maximum entropy flow. [1, 6] 
 
