@@ -107,8 +107,7 @@ $\boxed{
 \end{aligned}
 }$
 
-$$
-\boxed{
+$$\boxed{
 \text{Information}
 \Longleftrightarrow
 \text{Entropy}
@@ -127,9 +126,7 @@ $$
 \\[6pt]
 \Downarrow
 \\[6pt]
-\text{Gravity}
-}
-$$
+\text{Gravity}}$$
 ---
 
 ## The Guiding Question of ToE
@@ -169,8 +166,7 @@ The following are established within their respective domains:
 However, the inference
 
 $\boxed{
-\text{Entropy has geometry and therefore can generate spacetime geometry and gravity}
-}$
+\text{Entropy has geometry and therefore can generate spacetime geometry and gravity}}$
 
 is not a theorem of existing physics. It is the novel hypothesis of ToE that the research program of Obidi's Theory of Entropicity (ToE) seeks to develop and test.
 
