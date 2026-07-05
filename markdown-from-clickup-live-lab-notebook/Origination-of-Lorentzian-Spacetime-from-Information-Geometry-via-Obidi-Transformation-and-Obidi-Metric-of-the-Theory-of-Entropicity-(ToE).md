@@ -1,6 +1,7 @@
 # Origination of Lorentzian Spacetime Geometry of Indefinite Signature from the Positive Definite Signature of Information Geometry By the Application of the Obidi Transformation and Obidi Metric of the Theory of Entropicity (ToE)
 
 In traditional information geometry (such as the frameworks established by C.R. Rao and S. Amari), the Fisher-Rao metric is inherently positive-definite (Riemannian). It describes distances between probability distributions, where negative or imaginary distances have no statistical meaning. [1, 2, 3, 4] 
+
 To extract a Lorentzian metric $(-, +, +, +)$ capable of supporting causal spacetime propagation from a purely positive-definite information manifold, John Onimisi Obidi introduces a three-step mathematical bridge: the Obidi Metric, the Disformal Obidi Transformation, and an information-theoretic rank-one sign flip. [1, 5, 6] 
 
 ------------------------------
@@ -13,7 +14,7 @@ The Theory of Entropicity (ToE) begins on a raw entropic manifold where coordina
 ## 2. The Disformal Obidi Transformation
 To step from probability space into physical spacetime, Obidi defines a subset of the entropic coordinates ($x^\mu$, where $\mu = 0,1,2,3$) to represent the emergent spacetime sector. He bridges the two manifolds via a disformal mapping: [1, 5, 7] 
 
-$$\g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nuS$$ 
+$$g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nu S$$ 
 
 * $\tilde{g}_{\mu\nu}$ is the pushforward of the positive-definite Obidi Metric from the information manifold.
 * $S$ is the continuous scalar entropic field.
@@ -22,6 +23,7 @@ $$\g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nu
 
 ## 3. The Rank-One Sign Flip (The Origin of the Time Vector)
 The transition to a Lorentzian signature relies on the sign of the gradient-dependent term [$B(S) \partial_\mu S \partial_\nu S$](https://osf.io/pt9u8/overview). [6] 
+
 In information-theoretic terms, entropy flow is strictly irreversible. By fixing a rank-one sign flip tied directly to the directional flux of the entropic field, the coefficient $B(S)$ becomes negative along the path of maximum entropic change. [6, 11, 12] 
 
 This subtractive term overpowers the positive-definite contribution of $\tilde{g}_{\mu\nu}$ in that specific direction. It effectively introduces a negative eigenvalue into the metric signature, generating the time-like component $(-, +, +, +)$. [6] 
