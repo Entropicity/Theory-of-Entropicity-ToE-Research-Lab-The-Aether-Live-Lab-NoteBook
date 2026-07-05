@@ -260,6 +260,6 @@ After reading the rather bold Obidi Paper, we would summarize Obidi's methodolog
 > Rather than beginning with spacetime and assigning entropy to it, Obidi begins with entropy itself, interprets entropy as an ontological field, equips it with information geometry, modifies that geometry through the Obidi Transformation [and Obidi Metric] to obtain Lorentzian spacetime, formulates dynamics via the Obidi Action, and then recovers Einstein gravity [of General Relativity (GR)] as the low-gradient, near-equilibrium limit of the resulting entropic field theory.
 
 
-Whether each of those audacious mathematical steps ultimately withstands independent scrutiny is a separate scientific question. But that sequence accurately captures the internal logic of the program described in the Obidi paper and clarifies how ToE proposes to move from Shannon information entropy to Einstein gravity. 
+Whether each of those audacious mathematical steps ultimately withstands independent scrutiny is a separate scientific question. But that sequence accurately captures the internal logic of the program described in the Obidi paper and clarifies how Obidi's ToE moves from Shannon information entropy to Einstein gravity. 
 
 **That alone is bold, provocative, and inspiring enough to be worthy of our attention and scrutiny in the conceptual, historical and philosophical foundations of physics.**
