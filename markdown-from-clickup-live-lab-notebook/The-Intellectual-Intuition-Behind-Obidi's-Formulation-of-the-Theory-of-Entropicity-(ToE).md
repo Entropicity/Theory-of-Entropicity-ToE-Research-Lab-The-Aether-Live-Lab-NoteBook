@@ -160,6 +160,21 @@ $$\boxed{
 \text{Gravity}
 }$$
 ---
+$$
+\begin{aligned}
+\text{Information} &\Longleftrightarrow \text{Entropy} \\
+\Downarrow \\
+\text{Information Geometry} \\
+\Downarrow \\
+\text{Entropic Geometry} \\
+\Downarrow \\
+\text{Spacetime Geometry} \\
+\Downarrow \\
+\text{Gravity}
+\end{aligned}
+$$
+
+---
 
 ## The Guiding Question of ToE
 
