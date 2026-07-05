@@ -40,12 +40,24 @@ revealing a deep relationship between entropy and gravitational geometry.
 
 Entropy is therefore connected with one of the most fundamental geometric objects in General Relativity—the area of horizons.
 
+---
+## Step 4. Verlinde: Gravity Can Be Interpreted as an Entropic Phenomenon
+
+Erik Verlinde proposed that gravity is not fundamental but emerges as an entropic force resulting from changes in information associated with the positions of material bodies.
+
+This represented one of the first systematic attempts to derive gravity from entropic considerations.
 
 ---
 
-## Step 4. Information possesses geometry.
+## Step 5. Information possesses geometry.
 
 Information geometry shows that families of probability distributions naturally possess geometric structure through objects such as the Fisher–Rao metric and its quantum analogues.
+
+Examples include:
+
+- Fisher–Rao metric
+- Fubini–Study metric
+- Amari–Čencov α-connections
 
 Thus,
 
@@ -119,6 +131,69 @@ $$
 \text{Gravity}
 \end{aligned}
 $$
+
+---
+
+# Historical Lineage
+
+```
+Shannon
+        ↓
+Information has Entropy
+        ↓
+Landauer
+        ↓
+Information is Physical
+        ↓
+Bekenstein–Hawking
+        ↓
+Entropy is Connected to Gravity
+        ↓
+Verlinde
+        ↓
+Gravity is Entropic
+        ↓
+Information Geometry
+        ↓
+Information has Geometry
+        ↓
+Obidi
+        ↓
+Entropy is the Fundamental Field
+        ↓
+Information Geometry → Spacetime Geometry → Gravity
+```
+
+---
+
+# Mermaid Diagram
+
+```mermaid
+flowchart TD
+
+A[Shannon<br/>Information has Entropy]
+B[Landauer<br/>Information is Physical]
+C[Bekenstein-Hawking<br/>Entropy ↔ Gravity]
+D[Verlinde<br/>Gravity is Entropic]
+E[Information Geometry<br/>Information has Geometry]
+F[Obidi<br/>Entropy is the Fundamental Field]
+G[Information Geometry]
+H[Emergent Spacetime]
+I[Gravity]
+J[Physical Laws]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
+I --> J
+```
+
+---
 
 ---
 
