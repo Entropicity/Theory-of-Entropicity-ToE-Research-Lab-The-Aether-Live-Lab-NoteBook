@@ -1,4 +1,4 @@
-The Intellectual Intuition Behind Obidi's Formulation of the Theory of Entropicity (ToE)
+# The Intellectual Intuition Behind Obidi's Formulation of the Theory of Entropicity (ToE)
 
 The Theory of Entropicity (ToE) originates from Obidi's attempt to unify several profound but apparently independent developments in information theory, thermodynamics, information geometry, and gravitational physics.
 
@@ -34,9 +34,7 @@ Information is therefore not merely an abstract mathematical object but is tied 
 
 Black-hole thermodynamics established
 
-$S_{BH}
-=
-\frac{k_BA}{4\ell_P^2}$,
+$S_{BH}=\frac{k_BA}{4\ell_P^2}$,
 
 revealing a deep relationship between entropy and gravitational geometry.
 
@@ -109,7 +107,29 @@ $\boxed{
 \end{aligned}
 }$
 
-
+$$
+\boxed{
+\text{Information}
+\Longleftrightarrow
+\text{Entropy}
+\\[6pt]
+\Downarrow
+\\[6pt]
+\text{Information Geometry}
+\\[6pt]
+\Downarrow
+\\[6pt]
+\text{Entropic Geometry}
+\\[6pt]
+\Downarrow
+\\[6pt]
+\text{Spacetime Geometry}
+\\[6pt]
+\Downarrow
+\\[6pt]
+\text{Gravity}
+}
+$$
 ---
 
 ## The Guiding Question of ToE
