@@ -1,5 +1,13 @@
 # From Shannon Entropy to Gravity in the Theory of Entropicity (ToE)
 
+# Prologue 
+
+Obidi's Theory of Entropicity (ToE) does not discard the work of earlier researchers. Rather, it attempts to synthesize and extend several existing lines of research—**information theory, information geometry, thermodynamics,** and **emergent gravity**—by advancing a stronger ontological hypothesis: 
+
+> that entropy itself is the universal foundational field from which physical laws, spacetime, and gravity emerge.
+
+That characterization recognizes both the intellectual continuity with prior work and the distinctive ambition of Obidi's radical proposal.
+
 ## Introduction 
 The conceptual originality of the Theory of Entropicity (ToE) is perhaps most evident in Obidi's methodological decision to begin with Shannon entropy as the primary physical quantity from which gravitational phenomena emerge. Whereas conventional approaches generally regard Shannon entropy as a statistical measure of uncertainty or information, ToE proposes that entropy possesses an ontological status as a locally distributed physical field whose spatial and temporal variations influence the dynamics of physical systems.
 
