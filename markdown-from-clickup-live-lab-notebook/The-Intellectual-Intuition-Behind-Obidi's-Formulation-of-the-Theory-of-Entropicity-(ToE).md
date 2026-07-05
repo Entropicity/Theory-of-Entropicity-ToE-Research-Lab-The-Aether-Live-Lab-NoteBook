@@ -127,6 +127,38 @@ $$\boxed{
 \Downarrow
 \
 \text{Gravity}}$$
+
+---
+
+$$\boxed{
+\text{Information}
+\Longleftrightarrow
+\text{Entropy}
+
+\\
+\Downarrow
+
+\\
+\text{Information Geometry}
+
+\\
+\Downarrow
+
+\\
+\text{Entropic Geometry}
+
+\\
+\Downarrow
+
+\\
+\text{Spacetime Geometry}
+
+\\
+\Downarrow
+
+\\
+\text{Gravity}
+}$$
 ---
 
 ## The Guiding Question of ToE
