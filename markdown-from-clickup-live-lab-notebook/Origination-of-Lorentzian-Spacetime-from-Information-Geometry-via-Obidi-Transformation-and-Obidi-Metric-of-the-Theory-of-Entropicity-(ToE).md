@@ -25,9 +25,9 @@ $$g_{\mu\nu} = A(S) \tilde{g}_{\mu\nu} + B(S) \, \partial_\mu S \, \partial_\nu 
 The transition to a Lorentzian signature relies on the sign of the gradient-dependent term: 
 [$\B(S) \partial_\mu S \partial_\nu S$](https://osf.io/pt9u8/overview)
 
-$\B(S)\,\partial_\mu S\,\partial_\nu S$ — https://osf.io/pt9u8/overview
+$B(S)\,\partial_\mu S\,\partial_\nu S$ — https://osf.io/pt9u8/overview
 
-<ahref="https://osf.io/pt9u8/overview">$\B(S)\,\partial_\mu S\,\partial_\nu S$</a>. [6] 
+<ahref="https://osf.io/pt9u8/overview">$B(S)\,\partial_\mu S\,\partial_\nu S$</a>. [6] 
 
 In information-theoretic terms, entropy flow is strictly irreversible. By fixing a rank-one sign flip tied directly to the directional flux of the entropic field, the coefficient $B(S)$ becomes negative along the path of maximum entropic change. [6, 11, 12] 
 
