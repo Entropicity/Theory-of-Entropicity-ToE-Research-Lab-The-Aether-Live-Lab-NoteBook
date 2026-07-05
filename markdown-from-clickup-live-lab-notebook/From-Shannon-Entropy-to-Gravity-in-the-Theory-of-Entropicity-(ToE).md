@@ -109,7 +109,7 @@ The first move is philosophical and ontological.
 
 Instead of interpreting Shannon entropy merely as
 
-$\H=-\sum_i p_i\log p_i$,
+$H=-\sum_i p_i\log p_i$,
 
 as a measure of uncertainty, ToE declares that entropy itself is a fundamental field,
 
@@ -175,7 +175,7 @@ is used to define a preferred direction.
 
 A rank-one deformation then converts the Fisher metric into a Lorentzian metric by changing exactly one eigenvalue.
 
-The document calls this the Obidi Transformation and presents it as the mechanism by which causal structure and Lorentzian signature emerge from information geometry. 
+The Obidi paper calls this the **Obidi Transformation [with the Obidi Metric]** and presents it as the mechanism by which causal structure and Lorentzian signature emerge from information geometry. 
 
 This is where
 
@@ -196,13 +196,13 @@ Instead of beginning with the Einstein–Hilbert Action,
 
 ToE begins with the Obidi Action
 
-$\I_{\text{Obidi}}$ [S].
+$I_{\text{Obidi}}$ [S].
 
-Variation produces the Master Entropic Equation.
+Variation produces the **Master Entropic Equation MEE) / the Obidi Field Equations (OFE)**.
 
-Variation with respect to the metric yields an entropic stress-energy tensor.
+Variation with respect to the metric yields an **entropic stress-energy tensor (ESET)**.
 
-The document presents the Obidi Action as the variational principle governing the entropy field and describes the Master Entropic Equation as its corresponding field equation. 
+The Obidi paper presents the **Obidi Action** as the variational principle governing the entropy field and describes the **Master Entropic Equation (MEE) [otherwise called the Obidi Field Equations (OFE)]** as its corresponding field equation(s). 
 
 
 ---
