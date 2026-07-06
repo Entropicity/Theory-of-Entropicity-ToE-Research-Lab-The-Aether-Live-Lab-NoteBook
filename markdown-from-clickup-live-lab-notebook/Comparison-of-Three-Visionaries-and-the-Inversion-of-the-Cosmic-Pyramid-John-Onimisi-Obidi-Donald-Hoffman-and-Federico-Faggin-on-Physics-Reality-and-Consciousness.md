@@ -147,7 +147,7 @@ Imagine Hoffman's Conscious Agents interacting like users on a global internet n
 
 
    1. The Interacting Network: Millions of Hoffman's conscious agents exchange informational states. This massive, non-stop cross-talk creates a collective density of raw data.
-   2. The Birth of the Substrate: This collective data density is the ontological scalar entropy field ($S(x)$) defined in Obidi's ToE. Entropy is simply the mathematical measure of the network's total interconnected data traffic.
+   2. The Birth of the Substrate: This collective data density is the ontological scalar entropy field (S(x)) defined in Obidi's ToE. Entropy is simply the mathematical measure of the network's total interconnected data traffic.
    3. Enforcing the Cosmic Speed Limit: Because information cannot be processed instantaneously, the network experiences a natural transmission lag. Obidi’s No-Rush Theorem derives the speed of light ($c$) not as a property of glass or vacuums, but as the absolute maximum rate at which this underlying entropic field can synchronize states.
    4. Generating Distance and Gravity: When a cluster of Hoffman's agents becomes highly active and tightly bound by shared data, they create an area of extreme "informational congestion"—an entropic condensation. To the user looking at the desktop screen (spacetime), this dense network congestion looks exactly like a heavy mass warping space with a strong gravitational pull.
 
@@ -161,7 +161,7 @@ By anchoring these three frameworks together, the mystery of an informational un
 * 
 * Hoffman establishes the Who: A boundless network of conscious agents experiencing reality.
 * Faggin establishes the How: These agents utilize quantum states as meaningful, semantic choices to process raw feelings into structured data.
-* Obidi establishes the What: The collective movement, processing delays, and statistical laws of those choices create a dynamic entropy field ($S(x)$), which projects the illusion of physical spacetime, gravity, and matter right before our eyes.
+* Obidi establishes the What: The collective movement, processing delays, and statistical laws of those choices create a dynamic entropy field (S(x)), which projects the illusion of physical spacetime, gravity, and matter right before our eyes.
 * 
 
 Would you like to zoom into the mathematics of how the $\ln 2$ lower bound in **Obidi's theory functions as the bridge where a Faggin quantum state stabilizes into a classical physical event**?
