@@ -1,6 +1,8 @@
-On the Classical Theory of Physics and the Theory of Entropicity (ToE)
+# On the Classical Theory of Physics and the Theory of Entropicity (ToE)
 
-The Theory of Entropicity (ToE) is an emerging, non-mainstream conceptual framework in theoretical physics, pioneered by researcher John Onimisi Obidi, that elevates entropy from a secondary statistical byproduct to the fundamental physical field of reality. In classical physics and traditional thermodynamics, entropy is treated as a passive mathematical result or a measure of molecular disorder. Conversely, the Theory of Entropicity proposes that space, time, gravity, and quantum mechanics are entirely emergent properties projected from a dynamic, underlying "ontological scalar field" of entropy. [1, 2, 3, 4, 5, 6] 
+The **Theory of Entropicity (ToE)** is an emerging, non-mainstream conceptual framework in theoretical physics, pioneered by physics researcher and philosopher **John Onimisi Obidi**, that elevates entropy from a secondary statistical byproduct to the fundamental physical field of reality. 
+
+In classical physics and traditional thermodynamics, entropy is treated as a passive mathematical result or a measure of molecular disorder. Conversely, the Theory of Entropicity (ToE) proposes that space, time, gravity, and quantum mechanics are entirely emergent properties projected from a dynamic, underlying "ontological scalar field" of entropy. [1, 2, 3, 4, 5, 6] 
 
 ------------------------------
 
