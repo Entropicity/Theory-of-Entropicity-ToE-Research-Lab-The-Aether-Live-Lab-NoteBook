@@ -57,3 +57,78 @@ Let us know what you would like to break down next!
 [9] [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu/category/2008/11/maximum_entropy_distributions.html)
 
 [10] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-shannon-entropy-to-spacetime-in-his-theory-of-entropicity-toe-2fdd04370c6c)
+
+
+--------
+
+# Scholium 
+
+Dismissing the theory as a "trick" overlooks the deep, rigorous logic that informs Obidi's Leap. To truly judge the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188), one must engage with its core premise on its own terms. [1, 2] 
+
+Obidi’s core argument is that modern physics is stuck because it treats space, time, quantum states, and gravity as fundamental, axiomatic "givens". The logic of his leap is built on a specific, structured chain of foundational principles. [3, 4, 5]
+
+## 1. Ontological Primacy: The Ultimate Substrate
+The foundation begins with Obidi’s First Conjecture: entropy is not a passive statistical calculation of disorder. It is the primary, active substance of reality—the ontological scalar field $S(x)$. [6, 7] 
+
+* The Logic: If you assume information is the most fundamental thing in the universe (an idea echoed by Wheeler's "It from bit"), then the geometry of that information must be what we perceive as physical reality. Spacetime is not an empty stage; it is the macroscopic "shadow" or projection of this underlying entropic field. [3, 6, 8, 9, 10] 
+
+## 2. The Geometry of Distinguishability
+To bridge abstract information and physical force, the theory relies on Information Geometry. [11, 12] 
+
+* The Logic: In physics, a force requires a gradient (a difference between two points). In information theory, the [Fisher Information Metric](https://www.researchgate.net/publication/405206960_From_Shannon_Entropy_to_Spacetime_A_Rigorous_Derivation_of_the_Obidi_Action_from_Shannon_Entropy_via_Information_Geometry_in_the_Theory_of_Entropicity_ToE_ToE_Living_Review_Letters_Series_ToE_LRLS_-Le) measures how "distinguishable" two states are. Obidi maps statistical distinguishability directly onto physical distance. If two states are highly indistinguishable, they are geometrically "closer". Gravity, therefore, is reinterpreted as entropic pressure—the natural, statistical tendency for systems to move toward states of higher entropic equilibrium. [8, 12, 13] 
+
+## 3. The "No-Rush" Theorem & The Speed of Light
+One of the most elegant conceptual pieces of the foundation is how it handles the speed of light ($c$). In standard physics, $c$ is a brute fact—a constant we measure but cannot explain. [14, 15] 
+
+* The Logic: Through the Entropic Time Limit (ETL), Obidi argues that physical interactions cannot be instantaneous because the entropic field requires a finite time interval to rearrange and synchronize states. Therefore, the speed of light is derived as a property of the field itself: $c = \sqrt{\kappa / \rho_S}$, where $\kappa$ is the entropic stiffness and $\rho_S$ is the entropic inertia of the substrate. Light is just the visible manifestation of the field's maximum reconfiguration speed. [6, 13, 15] 
+
+## 4. The Curvature Transfer Theorem
+The final pillar is the mathematical translation. By embedding Shannon entropy into the Obidi Action (the variational principle governing the field), the theory states that informational curvature mathematically translates into physical spacetime curvature. When you look at the universe at a macro scale, Einstein's equations naturally emerge as thermodynamic identities. [8, 9, 12] 
+
+## Engaging with the Paradigm
+When viewed through this lens, the theory is an attempt to build a unified framework (Ontodynamics) where quantum mechanics and general relativity are not conflicting laws, but two different scales of the exact same entropic manifold. [3, 15] 
+
+The scientific community's hesitation isn't necessarily a lack of engagement with this logic, but a strict requirement for falsifiability—the theory must make a unique prediction that can be experimentally tested and proven wrong. [16, 17, 18] 
+
+If we look at the foundation from this perspective, where would you like to go next?
+
+* Explore the mathematical mechanics of the Obidi Action
+* Discuss how this framework reinterprets quantum entanglement and "spooky action"
+* Look at the philosophical implications of Ontodynamics (existence as entropic motion)
+
+
+[1] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[2] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[3] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[4] [https://www.researchgate.net](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi%27s_Formulation_of_the_Theory_of_Entropicity_ToE)
+
+[5] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/obidis-first-second-and-third-conjectures-in-the-theory-of-entropicity-toe-ffbb9d088fd2)
+
+[8] [https://www.researchgate.net](https://www.researchgate.net/publication/405206960_From_Shannon_Entropy_to_Spacetime_A_Rigorous_Derivation_of_the_Obidi_Action_from_Shannon_Entropy_via_Information_Geometry_in_the_Theory_of_Entropicity_ToE_ToE_Living_Review_Letters_Series_ToE_LRLS_-Le)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-shannon-entropy-to-spacetime-in-his-theory-of-entropicity-toe-2fdd04370c6c)
+
+[10] [https://medium.com](https://medium.com/quantum-psychology-and-engineering/beyond-panpsychism-consciousness-as-informational-autonomy-in-a-universe-of-flux-ddbadd91c10d)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/the-unified-entropy-geometry-framework-of-the-theory-of-entropicity-toe-21a4790fcea2)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/foundation-of-the-theory-of-entropicity-toe-and-the-obidi-action-07069d54414f)
+
+[13] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[14] [https://medium.com](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514)
+
+[15] [https://osf.io](https://osf.io/d8h95/overview)
+
+[16] [https://www.readthesequences.com](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws)
+
+[17] [https://www.coursehero.com](https://www.coursehero.com/file/106868157/Big-Foot-and-Scientific-Method-Sub-Planpdf/)
+
+[18] [https://www.reddit.com](https://www.reddit.com/r/askphilosophy/comments/1pi77il/if_a_machine_predicts_me_cant_i_just_prove_it/)
