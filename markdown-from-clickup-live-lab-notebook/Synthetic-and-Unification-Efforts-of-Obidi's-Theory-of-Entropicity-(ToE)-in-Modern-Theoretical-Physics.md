@@ -1,4 +1,4 @@
-# Synthetic and Unification Efforts of Obidi's Theory of Entropicity (ToE)
+# Synthetic and Unification Efforts of Obidi's Theory of Entropicity (ToE) in Modern Theoretical Physics 
 
 Thus, Obidi is synthesizing many Ideas into one via his audacious Theory of Entropicity (ToE)
 
@@ -40,3 +40,40 @@ By declaring that entropy is the fundamental, dynamic field of reality ($S(x)$),
 Instead of looking at the universe and saying, "It has geometry, it has quantum parts, and it has a temperature," Obidi’s Theory of Entropicity says: There is only an entropy field, and geometry, quantum mechanics, and time are just the different ways we experience it. [1, 15, 16, 17, 18] 
 
 Does this synthesis make the "mind-spinning" nature of the theory feel a bit more grounded, or would you like to look closer at how his "No-Rush" Theorem explains why the universe has a strict speed limit which we call the speed of light (c)? [1, 11] 
+
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[2] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[3] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[4] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176340906.62496480)
+
+[5] [https://www.templeton.org](https://www.templeton.org/grant/the-matter-with-gravity)
+
+[6] [https://www.authorea.com](https://www.authorea.com/doi/full/10.22541/au.176055857.74141345/v1)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+[8] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/concepts/index.html)
+
+[9] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514)
+
+[12] [https://arxiv.org](https://arxiv.org/pdf/2506.14068)
+
+[13] [https://link.aps.org](https://link.aps.org/doi/10.1103/PhysRevLett.110.093602)
+
+[14] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
+
+[15] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
+
+[16] [https://www.astronomycast.com](https://www.astronomycast.com/2009/01/ep-123-homogeneity/)
+
+[17] [https://www.facebook.com](https://www.facebook.com/theinstituteofartandideas/videos/is-there-a-correct-way-of-understanding-particles-and-the-relations-between-them/1490766872663416/)
+
+[18] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
