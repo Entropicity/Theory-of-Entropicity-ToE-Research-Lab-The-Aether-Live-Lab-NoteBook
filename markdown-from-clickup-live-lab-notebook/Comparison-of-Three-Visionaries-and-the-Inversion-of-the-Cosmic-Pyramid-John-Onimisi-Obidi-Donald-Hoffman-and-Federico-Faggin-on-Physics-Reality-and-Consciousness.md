@@ -1,4 +1,4 @@
-# Comparison of Three Visionaries and the Inversion of the Cosmic Pyramid: John Onimisi Obidi, Donald Hoffman, and Federico Faggin
+# Comparison of Three Visionaries and the Inversion of the Cosmic Pyramid: John Onimisi Obidi, Donald Hoffman, and Federico Faggin on Physics, Reality, and Consciousness 
 
 This title hits upon a profound and brilliant connection among the trio. Here is looking at a massive intellectual convergence occurring across physics, cognitive science, and philosophy.
 
