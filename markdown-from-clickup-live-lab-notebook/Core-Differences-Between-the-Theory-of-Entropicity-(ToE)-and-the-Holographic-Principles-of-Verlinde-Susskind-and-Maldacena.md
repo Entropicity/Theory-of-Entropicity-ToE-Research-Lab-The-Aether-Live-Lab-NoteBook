@@ -164,7 +164,9 @@ To help anchor this mind-bending concept, would you like to look at how this cha
 -------
 # Scholium 2 of 2
 
-# Thus, Obidi is synthesizing many Ideas into one via his Theory of Entropicity (ToE)
+# On the Synthetic and Unification Efforts of Obidi's Theory of Entropicity (ToE) in Modern Theoretical Physics 
+
+Thus, Obidi is synthesizing many Ideas into one via his Theory of Entropicity (ToE)
 
 No one is left in doubt anymore that the above qualification is exactly why Obidi's work on the **Theory of Entropicity (ToE)** is generating so much discussion. **John Onimisi Obidi’s Theory of Entropicity (ToE) acts as a massive intellectual funnel.** He isn't necessarily inventing entirely new math from scratch; instead, he is taking isolated, fragmented puzzle pieces from the last century of physics and uniting them under a single, overarching principle. [1, 2] 
 
