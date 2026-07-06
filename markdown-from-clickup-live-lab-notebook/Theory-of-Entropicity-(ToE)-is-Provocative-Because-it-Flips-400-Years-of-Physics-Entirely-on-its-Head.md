@@ -1,4 +1,4 @@
-# Proposing That Entropy is a Universal, Fundamental Field of Nature in Obidi's Theory of Entropicity (ToE) is Provocative Because it Flips 400 Years of Physics Entirely on its Head 
+# Proposing that Entropy is a Universal, Fundamental Field of Nature in Obidi's Theory of Entropicity (ToE) is Provocative Because it Flips 400 Years of Physics Entirely on its Head 
 
 Obidi's Theory of Entropicity (ToE) is incredibly provocative because it flips 400 years of physics entirely on its head. [1] 
 
