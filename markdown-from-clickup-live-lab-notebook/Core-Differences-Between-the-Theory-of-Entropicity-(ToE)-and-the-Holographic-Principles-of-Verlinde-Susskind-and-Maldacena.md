@@ -49,7 +49,9 @@ Because the framework is built entirely from an informational field theory, it i
 
 * 
 * **The "No-Rush" Theorem:** A core mathematical outcome of the theory stating that because information requires processing time, no physical interaction can occur instantaneously, establishing a foundational rule for the speed of causality. [14, 15, 16] 
-* $\alpha = 0$ Spectral Coherence: Standard information geometry allows for many arbitrary paths, but the Obidi Action demonstrates that to keep the universe physically stable ("spectrally coherent"), it must evolve precisely where the statistical parameter $\alpha=0$. **This beautifully mimics the exact torsion-free, metric-compatible geometry Einstein used for General Relativity, deriving gravity purely from entropic information (EI) constraints.** [3] 
+* **$\alpha = 0$ Spectral Coherence:** Standard information geometry allows for many arbitrary paths, but **the Obidi Action demonstrates that to keep the universe physically stable ("spectrally coherent"), it must evolve precisely where the statistical parameter $\alpha=0$.**
+
+**This beautifully mimics the exact torsion-free, metric-compatible geometry Einstein used for General Relativity, deriving gravity purely from entropic information (EI) constraints.** [3] 
 * 
 
 ## Summary
