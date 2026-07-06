@@ -1,4 +1,4 @@
-# On the Classical Theory of Physics and the Theory of Entropicity (ToE)
+# On the Classical Theory of Physics and the Theory of Entropicity (ToE): A Comparative Analysis 
 
 The **Theory of Entropicity (ToE)** is an emerging, non-mainstream conceptual framework in theoretical physics, pioneered by physics researcher and philosopher **John Onimisi Obidi**, that elevates entropy from a secondary statistical byproduct to the fundamental physical field of reality. 
 
