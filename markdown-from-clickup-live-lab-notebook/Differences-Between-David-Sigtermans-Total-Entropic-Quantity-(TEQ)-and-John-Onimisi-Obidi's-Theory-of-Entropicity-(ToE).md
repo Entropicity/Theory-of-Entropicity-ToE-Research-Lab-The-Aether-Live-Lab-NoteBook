@@ -79,7 +79,7 @@ If you would like to explore these concepts further, we can provide a breakdown 
 ## Summary: How it compares to Sigtermans
 While Sigtermans uses sophisticated information geometry to bridge existing physics gaps (like wave-particle duality), his framework still plays by the traditional rules of geometry and observer-based uncertainty. Obidi completely overhauls the system, building a field-theory mechanics that treats physical reality as a flowing fluid of pure entropy. [1, 3] 
 
-Would you like to look closer at the mathematics behind the **Master Entropic Equation (MEE)/the Obidi Field Equations (OFE),** or explore how the No-Rush Theorem (NRT) explains time dilation? [3, 12] 
+Would you like to look closer at the mathematics behind the **Master Entropic Equation (MEE)/the Obidi Field Equations (OFE),** or explore how the **No-Rush Theorem (NRT)** explains time dilation? [3, 12] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
 
