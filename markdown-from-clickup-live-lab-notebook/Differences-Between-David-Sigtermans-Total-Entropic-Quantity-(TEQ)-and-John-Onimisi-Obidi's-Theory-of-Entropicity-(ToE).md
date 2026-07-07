@@ -46,3 +46,62 @@ If you would like to explore these concepts further, we can provide a breakdown 
 [13] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
 
 [14] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751339)
+
+---------------
+
+**John Onimisi Obidi** introduces several highly novel, radical concepts that fundamentally depart from standard physics and expand far beyond David Sigtermans' work. While Sigtermans relies on entropy geometry to explain existing quantum boundaries, Obidi entirely reimagines what reality is made of by introducing several original foundational pillars: [1, 2, 3, 4] 
+
+## 1. The Ontic Entropy Field (S(x))
+
+* The Concept: Obidi moves entropy from a description (a statistical calculation of a system's disorder) to an ontic field (a real, physical substance that fills the universe). [3, 5] 
+* The Application: Space, time, gravity, and matter do not exist independently; they are merely macro-level "ripples" or emergent side-effects produced by the shifting gradients of this underlying entropy field. [1, 3, 4] 
+
+## 2. The "No-Rush" Theorem
+
+* **The Concept:** Obidi asserts that physical states cannot reconfigure instantaneously because changes require a physical redistribution of the entropic field. [6, 7] 
+* **The Application:** This theorem offers a new explanation for Einstein’s constant speed of light (c). Instead of being a geometric rule of a spacetime fabric, c is redefined as the absolute maximum speed at which the universal entropy field can physically rearrange itself. [8, 9] 
+
+## 3. The Master Entropic Equation (MEE)
+
+* **The Concept:** To govern his field, Obidi formulated a completely original set of field equations.
+* **The Application:** The [Master Entropic Equation (MEE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415) serves as Obidi's entropic equivalent to Einstein's Field Equations. It treats the localized density of the entropy field as the primary source of all physical forces, naturally generating gravitational curvature and quantum constraints from a single mathematical starting point. [3, 8, 10] 
+
+## 4. Dethroning the Observer
+
+* **The Concept:** Standard quantum mechanics places a privileged emphasis on "the observer" causing wave function collapse. Obidi completely inverts this paradigm. [8] 
+* **The Application:** Under the Theory of Entropicity (ToE), observers are stripped of their special status. They are treated simply as localized subsystems completely bound by the deterministic, pre-computed dynamics of the broader [universal entropic field](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514). [8] 
+
+## 5. Ontodynamics
+
+* **The Concept:** Obidi expands his physics framework into a literal philosophy of existence, defining "being" as stabilized entropic persistence and "becoming" as irreversible entropic change. [11] 
+* **The Application:** It proposes that anything that exists does so only because it has achieved a temporary, stable equilibrium of entropic flow. [11] 
+
+## Summary: How it compares to Sigtermans
+While Sigtermans uses sophisticated information geometry to bridge existing physics gaps (like wave-particle duality), his framework still plays by the traditional rules of geometry and observer-based uncertainty. Obidi completely overhauls the system, building a field-theory mechanics that treats physical reality as a flowing fluid of pure entropy. [1, 3] 
+
+Would you like to look closer at the mathematics behind the Master Entropic Equation, or explore how the No-Rush Theorem (NRT) explains time dilation? [3, 12] 
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[2] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/5632191.pdf?abstractid=5632191&mirid=1)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[6] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+[7] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514)
+
+[9] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311)
+
+[10] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/obidis-philosophical-analysis-of-being-and-becoming-based-on-his-theory-of-entropicity-toe-and-ee68e95fccb5)
+
+[12] [https://www.researchgate.net](https://www.researchgate.net/publication/397021993_The_Theory_of_Entropicity_ToE_Derives_and_Explains_Mass_Increase_Time_Dilation_and_Length_Contraction_in_Einstein%27s_Theory_of_Relativity_ToR_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Ver)
+
