@@ -105,3 +105,42 @@ Would you like to look closer at the mathematics behind the **Master Entropic Eq
 
 [12] [https://www.researchgate.net](https://www.researchgate.net/publication/397021993_The_Theory_of_Entropicity_ToE_Derives_and_Explains_Mass_Increase_Time_Dilation_and_Length_Contraction_in_Einstein%27s_Theory_of_Relativity_ToR_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Ver)
 
+
+---------
+
+[David Sigtermans](https://www.google.com/search?q=david+sigtermans&kgmid=/g/11ngvhth_y#sv=CBwSjAQKzwMSzAMKjANBSmlUNHRKc0QxdGp0cXVPMzRqOUpxVEVCWDAzZ1lsQUxJSVd1MnkyZEtWek1lR2J6bjRnNlhzVXdHX29hYTREeDgyc1RFaEczNFRSeWxqMkpTVk1Camh4SnRKSVktSmNOUnBPbXdQTVF0dlc1R3RDQ0JFMTEtQkY3bEZJc2h2SjlHSG5UYVNLZTNxNnVlNzlxbFJnUDh1REJmQWdIYXNjTFhHTFd4dVJFVUJxd1c2M0RZQWVYYVNvS0VIV2Z0dnE0ejdpYTgtMGQxM29rT29QenpPVjVrdDJnODlEUGlQTGxSYlFBOTR1QkpDWEE3Z1I2UnJidTZwRjNuQjI3Qkl2WlZOVEVPcWtiQTJkXzlpb21fbWxRRDktTzBYWG1XSDZiTFlRLTUxeDBrSmFsMXpKak1Lbk5VTkJ2SGhKVUR0UEpfSnNFU3hXSHFCQ3BJbFFoTkplZXc2UHg4Q3otZFhuRUFZcmhWMEc2NDdnRWJFcHMwbVJEdVpjU0V6cGMwc1B5YUFRczRKdnZLRGcSF0RWSk5hdm1pRzllWXJ1RVA5SzdONlE4GiJBRHNyOWZScmh5RmYwblN5bk8zRFowTzlNUktKX0UwbmRREgQ3ODU0GgEzIhUKAXESEGRhdmlkIHNpZ3Rlcm1hbnMiFgoFa2dtaWQSDS9nLzExbmd2aHRoX3koABhFINLIz70F) does not use a traditional physical field formulation (like quantum field theory or electromagnetic fields) in his [Total Entropic Quantity (TEQ) framework](https://www.preprints.org/manuscript/202412.1265/v1/download). Instead, his framework relies on an entropy geometry and information-weighted variational principles. [1, 2] 
+
+# The technical differences in how they formulate their mechanics break down as follows:
+
+## David Sigtermans: Information Geometry & Path Selection
+
+* The Formulation: Sigtermans uses a geometric and statistical approach rather than a field-based one. He maps out a curved configuration space (or phase space). [1, 3] 
+* The Mechanics: In TEQ, there is no physical "stuff" flowing across space. Instead, physical paths and quantum behaviors are "selected" by an entropy-weighted [Minimal Principle (MP)](https://www.preprints.org/manuscript/202504.0685/v1). It mirrors the mathematical structure of path integrals found in quantum field theory, but uses entropy curvature and resolution boundaries to dictate how stable physical paths emerge. [2, 4, 5, 6] 
+
+## John Onimisi Obidi: Classical & Quantum Field Theory
+
+* The Formulation: Obidi works strictly within a dynamical field formulation. He upgrades entropy into a literal continuous field variable, S(x), which exists across every point in spacetime. [4, 7] 
+* The Mechanics: Obidi writes out explicit field equations—specifically the [Master Entropic Equation (MEE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415)—which behave exactly like traditional physical fields. Local fluctuations, gradients, and dynamics in this universal field are what physically generate what we perceive as particles, gravity, and forces. [4, 8] 
+
+## The Core Contrast
+Think of Sigtermans' TEQ as a structural map that shows how the geometry of information naturally constrains quantum mechanics and thermodynamics. Think of Obidi's ToE as the fluid dynamics of a literal substance that fills the universe, where his field equations dictate how that fluid moves and pushes things around. [1, 4, 5, 8] 
+
+If you are interested in the mathematical machinery, we can look at how Sigtermans uses Riemannian geometry to calculate his entropy metrics, or how Obidi uses variational principles to derive his field dynamics. 
+
+Which direction would you prefer? [2, 4] 
+
+[1] [https://www.researchgate.net](https://www.researchgate.net/profile/David-Sigtermans)
+
+[2] [https://www.preprints.org](https://www.preprints.org/frontend/manuscript/b6d6b8e038b9934058e46923f81f6c8d/download_pub)
+
+[3] [https://www.preprints.org](https://www.preprints.org/frontend/manuscript/8d1f2bf4a67ebe76fc7f58bc6f5c6860/download_pub)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/analysis-of-john-onimisi-obidis-theory-of-entropicity-toe-and-david-sigtermans-total-entropic-b8d355b36c1d)
+
+[5] [https://www.preprints.org](https://www.preprints.org/manuscript/202504.0685/v1)
+
+[6] [https://www.preprints.org](https://www.preprints.org/manuscript/202504.1469/v1/download)
+
+[7] [https://www.preprints.org](https://www.preprints.org/manuscript/202606.0537)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921)
