@@ -9,7 +9,7 @@ Obidi’s Conjectures form the core ontological foundation of the Theory of Entr
 
 ### The core postulates of Obidi's Theory include: [2] 
 
-   1. **The Obidi Conjecture (OC):** Proposes that entropy is the fundamental, primitive dynamical field ($S(x)$) from which matter, energy, and geometry emerge, rather than just a measure of disorder. **This is Obidi's First Conjecture.** [2, 3, 4] 
+   1. **The Obidi Conjecture (OC):** Proposes that entropy is the fundamental, primitive dynamical field (S(x)) from which matter, energy, and geometry emerge, rather than just a measure of disorder. **This is Obidi's First Conjecture.** [2, 3, 4] 
    2. **The Obidi Correspondence Principle (OCP):** Validates the theory by requiring that established physical laws, such as Einstein’s equations, emerge as macroscopic limits of the entropic field. **This is Obidi's Second Conjecture.** [5, 6, 7]
    3. **The Obidi Equivalence Principle (OEP):** Asserts that spacetime geometry is a projection of a deeper, information-geometric manifold, treating gravity as entropic pressure. **This is Obidi's Third Conjecture.** [2, 3] 
 
