@@ -41,7 +41,9 @@ Would you like to know more about how **Obidi's Action Principle (OAP)** derives
 ------------------
 ------------------
 
-The physical and philosophical implications of John Onimisi Obidi’s Conjectures fundamentally invert how we understand reality. By declaring that entropy is the fundamental field rather than a secondary statistical measurement, the Theory of Entropicity (ToE) reshapes the foundations of both physics and metaphysics. [1, 2, 3, 4, 5] 
+# Physical and Philosophical Inversions of Obidi's Conjectures 
+
+**The physical and philosophical implications of John Onimisi Obidi’s Conjectures fundamentally invert how we understand reality.** By declaring that entropy is the fundamental field rather than a secondary statistical measurement, the Theory of Entropicity (ToE) reshapes the foundations of both physics and metaphysics. [1, 2, 3, 4, 5] 
 
 ------------------------------
 
@@ -58,10 +60,10 @@ The Conjectures strip space, time, and gravity of their status as "fundamental b
 ## Philosophical Implications
 Philosophically, Obidi shifts Western metaphysics away from a universe made of static "objects" toward a reality defined strictly by process and interaction. [13] 
 
-* **Ontodynamics:** Obidi terms his philosophy "Ontodynamics"—the study of existence as stabilized entropic motion. In this view, objects or particles do not exist independently; they are merely temporary, stabilized regions of "entropic persistence". [13, 14] 
+* **Ontodynamics:** Obidi terms his philosophy "Ontodynamics"—the study of existence as stabilized entropic motion and negotiation. In this view, objects or particles do not exist independently; they are merely temporary, stabilized regions of "entropic persistence". [13, 14] 
 * **Radical Realism / "It from Bit" Evolution:** The conjectures advance John Wheeler's famous "It from Bit" philosophy. However, while Wheeler suggested information is abstract, Obidi views the entropic field as an ontic, physically real substrate. Reality is an active, continuous computation. [6, 7, 13, 15, 16] 
-* **Radical Immanence:** Unlike traditional philosophical systems that require a transcendent source of order (such as a God or an abstract mathematical realm), ToE relies on radical immanence. The cosmic order and its laws are self-contained entirely within the physical dynamics of the entropic field itself. [13] 
-* **The Existential "Entropic Bill of Lading":** Obidi bridges this high-level physics with human experience. He asserts that typical existential crises—such as feelings of finitude, change, and decay—are not psychological failures, but rather the literal, conscious translation of navigating a universe governed by [irreversible entropic redistribution](https://medium.com/@jonimisiobidi/obidis-metaphysics-and-philosophy-from-his-theory-of-entropicity-toe-in-modern-theoretical-60dbb747cae7). [13] 
+* **Radical Immanence:** Unlike traditional philosophical systems that require a transcendent source of order (such as a God or an abstract mathematical realm), **Obidi's Theory of Entropicity (ToE) relies on radical immanence.** The **cosmic order and its laws are self-contained entirely within the physical dynamics of the entropic field itself.** [13] 
+* **The Existential "Entropic Bill of Lading (EBoL)":** Obidi bridges this high-level physics with human experience. He asserts that typical existential crises—such as feelings of finitude, change, and decay—are not psychological failures, but rather the literal, conscious translation of navigating a universe governed by [irreversible entropic redistribution and negotiation](https://medium.com/@jonimisiobidi/obidis-metaphysics-and-philosophy-from-his-theory-of-entropicity-toe-in-modern-theoretical-60dbb747cae7). [13] 
 
 ------------------------------
 
