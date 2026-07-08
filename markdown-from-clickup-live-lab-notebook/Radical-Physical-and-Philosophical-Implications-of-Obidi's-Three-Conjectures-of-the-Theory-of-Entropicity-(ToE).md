@@ -1,5 +1,46 @@
 # Obidi's Three Conjectures of the Theory of Entropicity (ToE) and Their Radical Physical and Philosophical Implications: From Western Metaphysics to a New Philosophy of Existence and Reality 
 
+------------------
+
+# Obidi's Conjectures 
+Obidi’s Conjectures form the core ontological foundation of the Theory of Entropicity (ToE), a theoretical framework proposed by independent researcher John Onimisi Obidi. [1] 
+## The Three Conjectures
+**Obidi’s framework places information and entropy at the foundation of reality,** reversing traditional physical hierarchies. 
+
+### The core postulates of Obidi's Theory include: [2] 
+
+   1. **The Obidi Conjecture (OC):** Proposes that entropy is the fundamental, primitive dynamical field ($S(x)$) from which matter, energy, and geometry emerge, rather than just a measure of disorder. **This is Obidi's First Conjecture.** [2, 3, 4] 
+   2. **The Obidi Correspondence Principle (OCP):** Validates the theory by requiring that established physical laws, such as Einstein’s equations, emerge as macroscopic limits of the entropic field. **This is Obidi's Second Conjecture.** [5, 6, 7]
+   3. **The Obidi Equivalence Principle (OEP):** Asserts that spacetime geometry is a projection of a deeper, information-geometric manifold, treating gravity as entropic pressure. **This is Obidi's Third Conjecture.** [2, 3] 
+
+## Implications and Mathematical Framework
+By prioritizing entropy, the ToE reinterprets foundational physics:
+
+* **Speed of Light ($c$):** Redefined as the maximum rate for entropic information redistribution.
+* **Obidi Action Principle (OAP):** Utilizes frameworks like the Fisher-Rao metric to derive both general relativity and quantum mechanics.
+* **No-Rush Theorem:** Establishes a natural, non-zero time for physical interactions, providing a basis for quantum uncertainty. [3, 5] 
+
+For further details on the philosophical and mathematical aspects of the Theory of Entropicity (ToE), see the dedicated [articles on Medium](https://medium.com/@jonimisiobidi/obidis-metaphysics-and-philosophy-from-his-theory-of-entropicity-toe-in-modern-theoretical-60dbb747cae7) and [LinkedIn](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_theory-of-entropicity-toe-activity-7473670789305659392-yRPy).
+
+Would you like to know more about how **Obidi's Action Principle (OAP)** derives the equations of **general relativity**, or are you more interested in his **process metaphysics** and its connection to **John Archibald Wheeler's** "It from Bit"?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-conjecture-of-the-theory-of-entropicity-toe-its-significance-and-its-implications-in-6da9ed54b16a)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-living-review-letters-series-letter-i-the-ontological-primacy-of-92b8a29d2af6)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-foundational-principles-of-the-theory-of-entropicity-toe-4ce699ff9295)
+
+[4] [https://notd.io](https://notd.io/@jonimisiobidi)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/entropy-before-everything-the-radical-rebirth-of-physics-introducing-a-new-foundation-of-reality-46323836fad8)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab)
+
+------------------
+------------------
+
 The physical and philosophical implications of John Onimisi Obidi’s Conjectures fundamentally invert how we understand reality. By declaring that entropy is the fundamental field rather than a secondary statistical measurement, the Theory of Entropicity (ToE) reshapes the foundations of both physics and metaphysics. [1, 2, 3, 4, 5] 
 
 ------------------------------
@@ -25,7 +66,7 @@ Philosophically, Obidi shifts Western metaphysics away from a universe made of s
 ------------------------------
 
 ## Current Academic Status
-As of 2026, the Obidi Conjectures remain highly audacious, early-stage theoretical research. The work is primarily shared via preprints and conceptual series on platforms like [Medium](https://medium.com/@jonimisiobidi/the-obidi-conjecture-of-the-theory-of-entropicity-toe-its-significance-and-its-implications-in-6da9ed54b16a) and SSRN, and has not yet achieved mainstream empirical validation or peer-reviewed consensus. [1, 2, 12, 17] 
+As of 2026, the Obidi Conjectures remain highly audacious, early-stage theoretical research. The work is primarily shared via preprints, various online platforms, academic repositories, and conceptual series on platforms like [Medium](https://medium.com/@jonimisiobidi/the-obidi-conjecture-of-the-theory-of-entropicity-toe-its-significance-and-its-implications-in-6da9ed54b16a), SSRN, Academia, IJCSRR, ResearchGate, Cambridge University Open Engage (CoE), etc., and is yet to achieve mainstream empirical validation and broader peer-reviewed consensus. [1, 2, 12, 17] 
 
 Would you like to examine the mathematical framework of the Master Entropic Equation (MEE)/Obidi Field Equations (OFE), or shall we explore how this theory compares to Erik Verlinde's entropic gravity?
 
