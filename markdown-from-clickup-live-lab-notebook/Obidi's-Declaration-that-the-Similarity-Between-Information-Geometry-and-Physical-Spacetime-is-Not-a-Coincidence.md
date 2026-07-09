@@ -4,7 +4,8 @@
 > The Metric and Affine Similarities Between Information Geometry and Physical Spacetime Are Not a Coincidence—The Two Must be Connected in Some Way or Form 
 
 The above statements have accurately highlighted the exact core philosophical and mathematical shift that defines **John Onimisi Obidi’s unique trajectory**. While mainstream physicists treat the structural similarities between information theory and spacetime geometry as a convenient mathematical analogy, Obidi asserts a strict ontological equivalence. In his framework, these similarities are not a coincidence; they exist because the information manifold is the physical substance of the universe. [1, 2] 
-Through his papers published on platforms like [Medium](https://medium.com/@jonimisiobidi) and [ResearchGate](https://www.researchgate.net/profile/John-Obidi-4), Obidi outlines exactly how his "distinctive direction" departs from standard physics across three major pillars: [1, 3] 
+
+Through his papers published on platforms like [Medium](https://medium.com/@jonimisiobidi) and [ResearchGate/Academia/Cambridge University Open Engage (CoE)](https://www.researchgate.net/profile/John-Obidi-4), Obidi outlines exactly how his "distinctive direction" departs from standard physics across three major pillars: [1, 3] 
 
 ## 1. Flipping the Ontological Script (Information is the Fabric)
 In mainstream physics, if you have a gas inside a room, the physical particles are real, and "entropy" or "information geometry" is just a bookkeeping ledger used by humans to track those particles. [1] 
@@ -23,7 +24,8 @@ To prove that physical geometry is just a downstream manifestation of statistica
 
 ## 3. The $\alpha = 0$ Structural Identity (The Levi-Civita Connection)
 The most explicit mathematical connection Obidi points to involves the Amari-Čencov $\alpha$-connections. In pure statistics, $\alpha$ is a flexible parameter used to change how information flows across a probability distribution. [8, 9] 
-Obidi’s unique assertion is that when you set $\alpha = 0$, a mathematical miracle occurs: the connection becomes entirely torsion-free and metric-compatible. In standard differential geometry, there is only one unique connection in the universe that is both torsion-free and metric-compatible: the Levi-Civita connection, which forms the backbone of Einstein’s General Relativity. [9] 
+
+Obidi’s unique assertion is that when you set $\alpha = 0$, a **mathematical mirabilis (MM)[miracle]** occurs: the connection becomes entirely torsion-free and metric-compatible. In standard differential geometry, there is only one unique connection in the universe that is both torsion-free and metric-compatible: the Levi-Civita connection, which forms the backbone of Einstein’s General Relativity. **This is Obidi's Mathematical Mirabilis (OMM)**. [9] 
 
 To Obidi, this mathematical intersection is definitive proof of an underlying physical truth:
 $$\text{Amari-Čencov } (\alpha = 0) \equiv \text{Levi-Civita Connection of General Relativity}$$ 
@@ -31,7 +33,11 @@ $$\text{Amari-Čencov } (\alpha = 0) \equiv \text{Levi-Civita Connection of Gene
 Obidi therefore argues that physics has missed this realization because it viewed the $\alpha$-connection merely as a statistical trick rather than the literal coordinate-free blueprint of spacetime. [2, 9, 10] 
 
 ## How the Obidi Action Materializes This Bond
-By introducing the Obidi Action via the Einstein Metric–Action Principle (EMAP), his theory attempts to give this frozen geometric relationship active physical dynamics. While information geometry traditionally has no concept of time, evolution, or movement, applying a variational action principle allows the entropic field to dynamically fluctuate. Through the Curvature Transfer Theorem (CTT), his framework posits that physical gravitational fields are simply the "pushforward" signatures of these underlying informational fluctuations. [4, 11, 12] 
+By introducing the Obidi Action via the Einstein Metric–Action Principle (EMAP), his theory attempts to give this frozen geometric relationship active physical dynamics. 
+
+While information geometry traditionally has no concept of time, evolution, or movement, applying a variational action principle allows the entropic field to dynamically fluctuate. 
+
+Through the Curvature Transfer Theorem (CTT), his framework posits that physical gravitational fields are simply the "pushforward" signatures of these underlying informational fluctuations. [4, 11, 12] 
 
 ------------------------------
 
