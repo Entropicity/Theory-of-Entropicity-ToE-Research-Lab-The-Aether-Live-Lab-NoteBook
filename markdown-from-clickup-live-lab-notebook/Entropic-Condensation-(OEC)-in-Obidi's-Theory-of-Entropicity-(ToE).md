@@ -38,7 +38,9 @@ This leads directly to a radical reinterpretation of mass and inertia. In standa
 
 ## The Provocative Philosophy: The Universe as a Mind-Independent Matrix
 What makes this truly provocative is its philosophical fallout. Obidi bridges the gap between physics and a branch of philosophy known as ontodynamics (the study of existence through motion). [2] 
+
 If everything is an entropic condensate, then space, time, and matter are not the bedrock of reality; they are macroscopic illusions arising from a deeper, invisible ocean of statistical data. The universe is essentially a self-organizing mathematical calculation. What we call "laws of physics" are just the natural geometric pathways that this information takes as it constantly tries to optimize and balance its own entropy flow. [3] 
+
 By treating the universe not as a collection of dead, material objects, but as a living, dynamic field of mutating information, Obidi's view pushes the boundary of modern metaphysics. It implies that if you could somehow manipulate the underlying information geometry directly, you could alter the very rules of the physical spacetime that "condenses" out of it.
 
 ------------------------------
