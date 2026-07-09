@@ -31,7 +31,7 @@ as a measure of uncertainty, choice, and information data compression limits. [6
 
 * The Classical View: [John von Neumann](https://www.google.com/search?q=john+von+neumann&kgmid=/m/0421f#sv=CBwS8gMKugMStwMK9wJBSmlUNHRJRlRIVlVzN3RNMkpETjk5dGRhMG9ZcnpoZTVhMXRMVmxTMnFBbmFDSS1DNHQtSTFkSXJPc1VCR2tvQ1BQbG9seFdNSDhBX05FazEtTmpoNmFVSk1kRjljbGx0bFgzSWVpRVVSN0F6YThFT1dMbEJCcTg1Q0lSTDJlY1l3NHZGMEF0cjVJbXFFZDNrdFRiU0ZpVkZ4T1NJa2pmd1l5a09fWk5JaDFNczNVOWRJUkpIV1dTWW8tUFg1RUx6WlNqbkc1TW9FNU9vcXpYSmpGNXA3UzF6NmJRZmQxNGVQZDRqRDRmTXp3TTk3ZjNmTHA2WGpXTUg5MFlnMkFwcGtoeWNLWFo5ZDRvV2tCd3VaeFBWUjBvY0N4Q0k3b0h3T2hiaE1FYllrbVhjSnNrd2h2U25Ba2Y2LWJtMjI2Sm9XN3NRc3NVVUdjOGczVmFPOHAzaHpBUmxGdS1fdm9RQ1ZNYk5FSC1YRDNXZHF2V01TSFFUNUkSFzlpUlFhcmE0SGV1VnJ1RVBnX0RxeVFNGiJBRHNyOWZUMWlLWEdzVzdMT21NRHJxeFZCeDVsRmJmTEFBEgQ3ODU0GgEzIhUKAXESEGpvaG4gdm9uIG5ldW1hbm4iEQoFa2dtaWQSCC9tLzA0MjFmKAAYRSCEx5W-Dg) extended entropy to quantum mechanics
 
-($S = -\text{Tr}(\rho \ln \rho)$),
+($$S = -\text{Tr}(\rho \ln \rho)$$),
 
 using density matrices ($\rho$) to capture quantum entanglement and mixed states.
 * The Obidi Connection: Quantum behaviors are woven directly into the field through the Spectral Obidi Action and the Fubini-Study metric.
