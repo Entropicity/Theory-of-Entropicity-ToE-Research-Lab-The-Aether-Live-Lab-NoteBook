@@ -17,7 +17,7 @@ In standard physics, you use the Pythagorean metric $ds^2 = dx^2 + dy^2 + dz^2$ 
 
 If Object A is represented by a probability distribution $P_A(\theta)$ and Object B by $P_B(\theta)$, the "distance" between them is determined by how much their statistical states overlap.
 
-$\mathcal{I}_{ij}(\theta) = \sum_{k} P_k(\theta) \frac{\partial \ln P_k(\theta)}{\partial \theta^i} \frac{\partial \ln P_k(\theta)}{\partial \theta^j}$
+$$\mathcal{I}_{ij}(\theta) = \sum_{k} P_k(\theta) \frac{\partial \ln P_k(\theta)}{\partial \theta^i} \frac{\partial \ln P_k(\theta)}{\partial \theta^j}$$
 
 * 
 * **High Overlap (Correlated States):** The statistical difference is near zero. Physically, Object A and Object B are right next to each other (0 meters apart).
