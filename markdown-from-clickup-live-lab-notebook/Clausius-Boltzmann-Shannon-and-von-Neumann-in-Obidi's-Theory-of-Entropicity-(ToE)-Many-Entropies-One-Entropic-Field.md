@@ -33,9 +33,11 @@ Obidi bridges his ontological field to classical formulations through the Master
 
 ------------------------------
 
-## The Mathematical Unification: The MEE
-Instead of treating these four scientists as talking about completely different things, Obidi's Master Entropic Equation (MEE) acts as a universal umbrella. By tuning the constraints and scales of the core entropic field $S(x)$, the MEE mathematically simplifies into each specific formula: [1, 13] 
+## The Mathematical Unification: The MEE/OFE
+Instead of treating these four scientists as talking about completely different things, Obidi's Master Entropic Equation (MEE) [Obidi Field Equations (OFE)] acts as a universal umbrella. By tuning the constraints and scales of the core entropic field $S(x)$, the MEE mathematically simplifies into each specific formula: [1, 13] 
+
 $$\text{Universal Field } S(x) \xrightarrow{\text{Mathematical Limits}} \begin{cases} \text{Clausius } (dQ/T) & \text{at macroscopic thermal equilibriums} \\ \text{Boltzmann } (k \ln W) & \text{when counting discrete topological configurations} \\ \text{Shannon } (-\sum p_i \log p_i) & \text{when mapping classical information geometry} \\ \text{von Neumann } (-\text{Tr}(\rho \ln \rho)) & \text{when observing quantum coherence streams} \end{cases}$$ 
+
 By treating entropy as the substance rather than the measure, ToE provides a single physical source for all of them. [2] 
 
 ------------------------------
