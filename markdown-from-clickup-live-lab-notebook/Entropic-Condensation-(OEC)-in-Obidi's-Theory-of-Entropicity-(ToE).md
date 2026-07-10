@@ -412,9 +412,7 @@ $$
 The nonzero minimum of the effective potential is then given by:
 
 $$
-|\Psi_E|^2
-
-\frac{\mu_E^2}{\lambda_E}.
+|\Psi_E|^2\frac{\mu_E^2}{\lambda_E}.
 $$
 
 This expression says that once the entropic field crosses a critical threshold, the unstructured state is no longer dynamically stable. The field must settle into a structured phase. In ToE language, this structured phase is the entropic condensate.
