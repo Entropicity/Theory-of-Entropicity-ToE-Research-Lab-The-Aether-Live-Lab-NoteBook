@@ -1,4 +1,4 @@
-# Rizwan Virk and John Onimisi Obidi: Fascinating Philosophical and Structural Overlap Between Rizwan Virk’s Simulation Hypothesis and John Onimisi Obidi’s Theory of Entropicity (ToE): The Constraints of The Matrix and Human Freewill in The Entropic Field 
+# Rizwan Virk and John Onimisi Obidi: Fascinating Philosophical and Structural Overlap Between Rizwan Virk’s Simulation Hypothesis and John Onimisi Obidi’s Theory of Entropicity (ToE): The Constraints of The Matrix and Human Freewill and Choice in The Entropic Field 
 
 There is a deep, fascinating philosophical and structural overlap between **Rizwan Virk’s Simulation Hypothesis** and **John Onimisi Obidi’s Theory of Entropicity (ToE)**. [1, 2] 
 
