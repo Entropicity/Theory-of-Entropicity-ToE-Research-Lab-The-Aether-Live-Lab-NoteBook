@@ -399,13 +399,7 @@ The nonzero value of $\Psi_E(x)$ signals the emergence of localized physical ord
 
 A possible effective entropic potential governing such a transition may be written as:
 
-$$
-V_E(\Psi_E)
-
--\frac{1}{2}\mu_E^2 |\Psi_E|^2
-+
-\frac{1}{4}\lambda_E |\Psi_E|^4.
-$$
+$$V_E(\Psi_E)-\frac{1}{2}\mu_E^2 |\Psi_E|^2+\frac{1}{4}\lambda_E |\Psi_E|^4.$$
 
 Here, $\mu_E$ may be interpreted as an effective entropic mass-scale, while $\lambda_E$ represents a self-interaction or stabilization coefficient for the entropic condensate.
 
@@ -488,10 +482,7 @@ In the framework of OEC, matter is not originally a tiny hard object placed insi
 A particle may therefore be represented as:
 
 $$
-\text{particle}
-
-\text{localized stable entropic condensation}.
-$$
+\text{particle}\text{localized stable entropic condensation}.$$
 
 Equivalently:
 
