@@ -468,4 +468,4 @@ The final statement is therefore:
 There is fundamentally one geometry: Entropic-Informational Geometry. Physical spacetime is its Lorentzian event-sector, and gravity is the curvature of that sector.
 
 # Reference(s)
-https://docs.google.com/document/d/1dK13nOJcFrJo6IZ8wRIvxMsn7lkK3SpUF6B4kDal_Jk/edit?usp=drivesdk
+[The Geometry Beneath Spacetime: Obidi’s Theory of Entropicity (ToE) and the Subsumption of Physical Spacetime within the Entropic-Informational Manifold—Comparison with Other Researchers: Jacobson, Verlinde, Bianconi, Van Raamsdonk, Ryu and Takayanagi](https://docs.google.com/document/d/1dK13nOJcFrJo6IZ8wRIvxMsn7lkK3SpUF6B4kDal_Jk/edit?usp=drivesdk)
