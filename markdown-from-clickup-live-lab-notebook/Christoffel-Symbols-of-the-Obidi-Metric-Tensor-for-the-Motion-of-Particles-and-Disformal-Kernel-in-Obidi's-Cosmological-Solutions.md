@@ -1,4 +1,6 @@
-# 1) Derive the Christoffel symbols ($\(\Gamma _{\mu \nu }^{\lambda }\)$) for this disformal metric to see how particles move along entropic gradients, 
+# 1) Derive the Christoffel symbols 
+($\(\Gamma_{\mu \nu}^{\lambda}\)$) 
+for this disformal metric to see how particles move along entropic gradients, 
 
 # 2) Explore the explicit form of the Disformal Kernel $\(D(S)\)$ used in Obidi's cosmological solutions.
 
