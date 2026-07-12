@@ -13,7 +13,11 @@ Christoffel Symbols of the Obidi Metric Tensor for the Motion of Particles and D
 ------------------------
 
 
-# Part 1: Derive the Christoffel symbols ($\(\Gamma _{\mu \nu }^{\lambda }\)$) for this disformal metric to see how particles move along entropic gradients, 
+# Part 1: Derive the Christoffel symbols
+
+($$\(\Gamma _{\mu \nu }^{\lambda }\)$$) 
+
+for this disformal metric to see how particles move along entropic gradients, 
 
 Here, below, we provide the exact mathematical step-by-step derivation of the Christoffel symbols and the functional form of the Disformal Kernel within John Onimisi Obidi’s framework.
 
