@@ -49,6 +49,7 @@ We first differentiate the Obidi metric component $g_{\nu\sigma}$ with respect t
 
 $x^\mu$:
 $$\partial_\mu g_{\nu\sigma} = D' \partial_\mu S \partial_\nu S \partial_\sigma S + D \partial_\mu \partial_\nu S \partial_\sigma S + D \partial_\nu S \partial_\mu \partial_\sigma S$$ 
+
 (Where $D' = \frac{dD}{dS}$.)
 
 ## Step 1.2: Permuting and Combining the Terms
@@ -101,7 +102,7 @@ of the entropic field.
 
 ------------------------------
 
-# Part 2: Explore the explicit form of the Disformal Kernel \(D(S)\) used in Obidi's cosmological solutions.
+# Part 2: Explore the explicit form of the Disformal Kernel $\(D(S)\)$ used in Obidi's cosmological solutions.
 
 ## Part 2: The Explicit Form of the Disformal Kernel $D(S)$
 In John Onimisi Obidi’s cosmological and cosmic expansion solutions, the Disformal Kernel $D(S)$ cannot simply be a random constant. It must scale dynamically to account for the growing information capacity of an expanding universe.
