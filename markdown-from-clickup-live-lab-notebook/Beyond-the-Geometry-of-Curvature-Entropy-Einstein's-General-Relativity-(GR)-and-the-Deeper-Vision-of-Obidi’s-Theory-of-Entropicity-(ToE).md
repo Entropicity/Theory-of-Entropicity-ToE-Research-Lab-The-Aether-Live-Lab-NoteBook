@@ -308,9 +308,11 @@ bodies gravitate because their entropic-informational configurations seek admiss
 
 This is not a mystical statement. It is a proposed variational reinterpretation. The burden of ToE is to make the entropic action precise enough to recover GR in the proper limit and possibly predict deviations in domains where GR and quantum theory remain incomplete.
 
+
+
 12. Black Holes, Horizons, and the Entropic Clue
 
-Black holes provide one of the strongest reasons to suspect that gravity, geometry, information, and entropy are deeply connected. Black hole entropy is proportional to horizon area, not volume. Hawking radiation links horizon geometry to temperature. The information paradox reveals that gravity cannot be understood apart from information.
+Black holes provide one of the strongest reasons to suspect that gravity, geometry, information, andi entropy are deeply connected. Black hole entropy is proportional to horizon area, not volume. Hawking radiation links horizon geometry to temperature. The information paradox reveals that gravity cannot be understood apart from information.
 
 These are not minor anomalies. They are signals.
 
