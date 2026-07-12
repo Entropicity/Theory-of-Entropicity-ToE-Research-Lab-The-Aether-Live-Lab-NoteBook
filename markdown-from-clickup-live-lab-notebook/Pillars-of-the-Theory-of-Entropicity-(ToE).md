@@ -44,3 +44,64 @@ Would you like to explore the specifics of one of these new iterations, such as 
 [9] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652760)
 
 [10] [https://www.academia.edu](https://www.academia.edu/144566958/Transformational_Unification_through_the_Theory_of_Entropicity_ToE_A_Reformulation_of_Quantum_Gravitational_Correspondence_via_the_Obidi_Action_and_the_Vuli_Ndlela_Integral)
+
+
+---------------
+
+John Onimisi Obidi is a theoretical physics researcher, consultant, philosopher, and humanist who is best known as the creator of the Theory of Entropicity (ToE). His work focuses on transforming the conventional scientific view of entropy by elevating it into the primary, fundamental field of the universe. [1, 2, 3, 4, 5] 
+
+## The Theory of Entropicity (ToE)
+Introduced primarily in early 2025, Obidi's framework stands out as a radical, non-mainstream proposal aimed at becoming a Grand Unified Theory in modern physics. [2, 6, 7] 
+
+* Ontological Shift: Traditional physics defines entropy statistically as a passive measure of disorder or information uncertainty. Obidi's ToE inverts this hierarchy, positing that entropy is a physically real, dynamic scalar field (S(x)) that acts as the causal substrate from which spacetime, matter, and gravity emerge. [3, 7, 8, 9] 
+* Mathematical Pillars: The mathematical backbone of his research relies on the Obidi Action (a variational principle governing entropic dynamics) and the Master Entropic Equation (MEE), which acts as the entropic equivalent to Einstein's Field Equations. [10, 11] 
+* The "No-Rush" Theorem: This core principle argues that physical changes cannot occur instantaneously. Instead, it defines the speed of light (c) as the maximum possible rate at which the entropic field can reconfigure and distribute information. [4, 7, 12, 13] 
+
+## Philosophical and Academic Work
+Obidi frames his broader worldview under a discipline he calls Ontodynamics—the study of existence as a result of entropic motion. His publications are highly visible on platforms like [Medium](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c), [ResearchGate](https://www.researchgate.net/profile/John-Obidi-4), and [Academia.edu](https://independent.academia.edu/JOHNOBIDI), where he emphasizes rigorous LaTeX documentation and open‑access workflows. 
+
+Independent comparative papers published via repositories like [Cambridge Open Engage](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311) frequently contrast his entropic dynamics framework against other emergent post-Einsteinian theories. [1, 14, 15, 16, 17, 18, 19] 
+
+(Note: John Onimisi Obidi the physicist/researcher is a distinct personality from the popular Nigerian social media consultant who shares a similar name). [1, 2] 
+
+If you would like to explore this topic further, please let us know if we should **detail the mathematical mechanics of the Obidi Action**, provide an **overview of the Ontodynamics philosophy,** or outline **how ToE attempts to reconcile quantum mechanics with gravity.**
+
+[1] [https://www.researchgate.net](https://www.researchgate.net/profile/John-Obidi-4)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921)
+
+[3] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-broad-span-and-multiple-domain-complexity-of-the-theory-of-entropicity-toe-00d62bda482f)
+
+[5] [https://ng.linkedin.com](https://ng.linkedin.com/in/john-onimisi-obidi-a2041911)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-introduction-to-the-insights-and-concepts-of-the-theory-of-entropicity-toe-a-bold-new-9b31a4104c8c)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-foundations-of-the-theory-of-entropicity-toe-conceptual-and-mathematical-formulation-2f0228b320fc)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514)
+
+[13] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-foundational-principles-of-the-theory-of-entropicity-toe-4ce699ff9295)
+
+[14] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311)
+
+[15] [https://medium.com](https://medium.com/@jonimisiobidi/obidis-metaphysics-and-philosophy-from-his-theory-of-entropicity-toe-in-modern-theoretical-60dbb747cae7)
+
+[16] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[17] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
+[18] [https://figshare.com](https://figshare.com/authors/John_Onimisi_Obidi/20850605)
+
+[19] [https://ijcsrr.org](https://ijcsrr.org/comparative-analysis-between-john-onimisi-obidis-theory-of-entropicity-toe-and-waldemar-marek-feldts-feldt-higgs-universal-bridge-f-hub-theory/)
+
+
