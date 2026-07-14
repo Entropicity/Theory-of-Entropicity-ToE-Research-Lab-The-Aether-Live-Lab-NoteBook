@@ -1,4 +1,4 @@
-# Why Obidi Has Chosen to Make the Entropic Field (EF) a Scalar Field (SF) Instead of a Tensor Field (TF) in His Theory of Entropicity (ToE): The Conceptual, Philosophical, Historical, Logical and Mathematical Justifications for Obidi's Ontological Entropic Scalar Field 
+# Why Obidi Has Chosen to Create the Entropic Field (EF) as a Scalar Field (SF) Instead of a Tensor Field (TF) in His Theory of Entropicity (ToE): The Conceptual, Philosophical, Historical, Logical and Mathematical Justifications for Obidi's Ontological Entropic Scalar Field 
 
 In the [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558), **John Onimisi Obidi** explicitly formulates entropy as an ontological scalar field, $S(x)$, rather than a higher-order tensor field. This choice is not a mathematical simplification; it is a profound foundational requirement dictated by the core axioms of his framework. [1, 2, 3, 4] 
 
