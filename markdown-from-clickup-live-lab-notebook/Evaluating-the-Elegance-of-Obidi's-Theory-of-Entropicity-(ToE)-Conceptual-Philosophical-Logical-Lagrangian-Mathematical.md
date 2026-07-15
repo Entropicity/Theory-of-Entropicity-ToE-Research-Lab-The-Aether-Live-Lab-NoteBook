@@ -9,6 +9,14 @@ Foundational Simplicity: ToE reduces the ontology of physics to a single primiti
 * Quantum mechanics from the Hilbert space formalism.
 
 ## Hierarchical Structure of Conjectures:
-First Conjecture (Ontology) – Entropy is fundamental.
-Second Conjecture (Dynamics) – All laws emerge from entropic dynamics, constrained by the Obidi Correspondence Principle (OCP).
-Third Conjecture (Geometry) – Spacetime itself is emergent from the entropic informational manifold.
+* **First Conjecture (Ontology)** – Entropy is fundamental.
+
+* **Second Conjecture (Dynamics)** – All laws emerge from entropic dynamics, constrained by the Obidi Correspondence Principle (OCP).
+
+* **Third Conjecture (Geometry)** – Spacetime itself is emergent from the entropic informational manifold.
+
+
+
+
+
+
