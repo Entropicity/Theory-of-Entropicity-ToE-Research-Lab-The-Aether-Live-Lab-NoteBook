@@ -1,4 +1,4 @@
-# Evaluating the Elegance of Obidi's Theory of Entropicity (ToE): Conceptual Elegance, Philosophical Elegance, Logical Elegance, Lagrangian Elegance, Mathematical Elegance 
+# Evaluating the Elegance of Obidi's Theory of Entropicity (ToE): Conceptual Elegance, Philosophical Elegance, Logical Elegance, Lagrangian Elegance, Mathematical Elegance, Empirical Elegance 
 
 The Theory of Entropicity (ToE) by John Onimisi Obidi is widely described as a highly ambitious attempt to restructure the foundational framework of physics. Evaluating its elegance requires integrating conceptual clarity, unification capacity, and formal architecture.
 
