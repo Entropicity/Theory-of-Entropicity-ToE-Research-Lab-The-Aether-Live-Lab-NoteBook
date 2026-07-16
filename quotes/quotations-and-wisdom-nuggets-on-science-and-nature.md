@@ -1,4 +1,4 @@
-# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the dimensions and immensity of the Earth and water systems, a video clip which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
+# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the dimensions and immensity of the Earth and water body systems, a video clip which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
 
 > The elegant and mysterious universe! 
 
