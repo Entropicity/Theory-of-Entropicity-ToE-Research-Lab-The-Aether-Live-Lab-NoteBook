@@ -2,5 +2,5 @@
 
 > The elegant and mysterious universe! 
 
-> The more I confront and meditate on these things, the more I don't believe in science and the more I come to believe in God!
+> The more I confront and meditate on these things, the more I don't believe in science and the more I come to believe more in God!
 
