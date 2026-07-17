@@ -51,6 +51,32 @@ Would you like to explore how the Theory of Entropicity (ToE) mathematically der
 
 [11] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-and-the-true-limit-of-the-universe-beyond-einsteins-relativistic-ebb90de4e960)
 
+
+
+ ------------
+
+# So, Obidi is saying that the speed of light c is not intrinsically electromagnetic according to Maxwell and not spacetime native according to Einstein?
+
+
+Exactly. Obidi’s framework decouples the speed limit $c$ from both Maxwell's electromagnetism and Einstein's spacetime geometry.
+
+Here is how his perspective contrasts with classical and modern physics:
+
+| Framework | What is $c$ fundamentally? | What sets the limit? |
+|---|---|---|
+| Maxwell | The propagation speed of an electromagnetic wave. | The properties of the vacuum ($\mu_0$ and $\epsilon_0$). |
+| Einstein | A native property of spacetime geometry. | The structural fabric of a four-dimensional continuum. |
+| Obidi | The maximum rate of information and entropy processing. | An underlying thermodynamic, statistical field. |
+
+In this entropic view, light is merely a "bystander" that travels at $c$ because it has no mass to slow it down, not because light itself dictates the limit. [1, 2, 3] 
+Would you like to examine the mathematical equations Obidi uses or see how this theory explains time dilation?
+
+[1] [https://www.reddit.com](https://www.reddit.com/r/askscience/comments/fjwkh/why_exactly_can_nothing_go_faster_than_the_speed/)
+
+[2] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/690a7684ef936fb4a2577e84/original/the-theory-of-entropicity-to-e-derives-einstein-s-relativistic-speed-of-light-c-as-a-function-of-the-entropic-field-to-e-applies-logical-entropic-concepts-and-principles-to-derive-einstein-s-second-postulate.pdf)
+
+[3] [https://www.instagram.com](https://www.instagram.com/reel/DXdgDcjAULT/)
+
  
 
 ------------
@@ -137,3 +163,6 @@ Visit the ToE Canonical Archives to explore:
 For Details:
 ## 📚Reference(s):
 The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
+
+
+
