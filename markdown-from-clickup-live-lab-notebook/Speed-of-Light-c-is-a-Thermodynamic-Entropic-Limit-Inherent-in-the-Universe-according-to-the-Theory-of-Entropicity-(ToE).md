@@ -67,6 +67,7 @@ It reframes c from a spacetime parameter into a thermodynamic processing limit e
 ## ⚡ What ToE Actually Says About c
 
 🔹 1. c is an Entropic Speed Limit (ESL)
+
 In ToE, c is the universal rate limit at which the entropic field can update, redistribute, or reorganize information.  
 It is the “clock speed” of the universe’s informational substrate.
 
