@@ -50,3 +50,87 @@ Would you like to explore how the Theory of Entropicity (ToE) mathematically der
 [11] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-and-the-true-limit-of-the-universe-beyond-einsteins-relativistic-ebb90de4e960)
 
  
+
+------------
+
+# 🌌On the New Meaning of the Entropic Origin of the Speed of Light (c) in Obidi’s Theory of Entropicity (ToE):  A Radical Reinterpretation of the Universal Speed Limit
+
+In modern physics, the speed of light c is treated as a geometric constant baked into spacetime—a fixed structural feature of Einstein’s relativity.  
+But John Onimisi Obidi’s Theory of Entropicity (ToE) proposes something far more fundamental:
+
+> The speed of light c is not geometric — it is entropic.  
+It is the maximum rate at which the universe can rearrange information.
+
+This is a profound shift.  
+It reframes c from a spacetime parameter into a thermodynamic processing limit enforced by the entropic field of nature.
+
+## ⚡ What ToE Actually Says About c
+
+🔹 1. c is an Entropic Speed Limit (ESL)
+In ToE, c is the universal rate limit at which the entropic field can update, redistribute, or reorganize information.  
+It is the “clock speed” of the universe’s informational substrate.
+
+🔹 2. c preserves causality and coherence
+If entropy could rearrange infinitely fast:
+
+- causality would collapse  
+- coherence would vanish  
+- conservation laws would fail  
+- the universe would lose physical meaning  
+
+A finite entropic rate is required for reality to exist.
+
+🔹 3. Light is not fundamental — it is a saturator
+Light does not define the limit.  
+Light merely saturates the limit because it is massless and therefore experiences no entropic inertia.
+
+This flips Einstein’s interpretation:
+
+- Einstein: spacetime geometry → speed of light  
+- Obidi: entropic dynamics → speed of light → spacetime geometry
+
+## 🧠 Original Source in ToE
+
+Obidi’s publications (e.g. Cambridge Open Engage, Medium essays, and ToE Canonical Archives) outline three pillars:
+
+🔸 Entropy is the fundamental field
+Spacetime is not primary.  
+An underlying entropic field determines the structure of physical reality.
+
+🔸 Information = Entropy
+Shannon’s insight becomes physical:  
+information is not abstract — it is entropic and dynamic.
+
+🔸 The Entropic Speed Limit (ESL)
+c emerges as the maximum rate of entropic rearrangement, not a geometric constant.
+
+This is why ToE treats c as a thermodynamic consequence, not a spacetime assumption.
+
+## 🆚 How This Differs From Other Entropic Theories
+
+Physicists like Erik Verlinde introduced entropic gravity, but:
+
+- Verlinde still assumes c as a fixed geometric constant  
+- Verlinde does not derive c from thermodynamics  
+- Verlinde does not treat entropy as the fundamental field  
+
+Obidi goes further:
+
+> He derives c from entropy itself.  
+Not from geometry.  
+Not from electromagnetism.  
+Not from relativity.
+
+This is the conceptual leap that makes ToE a post‑Einsteinian framework.
+
+## 📘 Where To Go Next
+
+Visit the ToE Canonical Archives to explore:
+
+- How ToE mathematically derives c  
+- How ToE reinterprets Special Relativity  
+- How entropic dynamics generate spacetime geometry  
+
+For Details:
+## 📚Reference(s):
+The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
