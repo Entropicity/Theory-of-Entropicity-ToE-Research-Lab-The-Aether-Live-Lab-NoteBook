@@ -184,3 +184,62 @@ Which mathematical bridge feels the most tenuous or intriguing to look at?
 
 [21] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
 
+
+
+
+-------------------------
+
+# Scholium 
+
+## Obidi appears to be using a trick which I still don't understand and don't see how practical or practicable it is
+
+One may be exactly right to call it a "trick"—and one's skepticism may be completely justified in that sense. In physics, when someone introduces a new mathematical equation to bridge two completely unrelated concepts, it often feels like a magic trick where the magician hides the rabbit in the hat before the show even starts.
+
+The "trick" Obidi is playing here is called Disformal Mapping. Let’s strip away the heavy physics jargon, look at exactly what this trick is doing under the hood, and evaluate whether it is actually practical or just mathematical sleight of hand.
+
+------------------------------
+
+## The Trick: How the "Magic" Works
+Imagine you have a flat rubber sheet representing Information Geometry (where distances just measure how different two probabilities are). It has a signature of (+, +, +, +), meaning every direction is a standard, positive spatial distance. There is no time, no light cones, and no gravity.
+
+Obidi wants to turn this into Physical Spacetime, which requires a signature of (-, +, +, +). That minus sign is crucial: it represents the time dimension, causality, and the cosmic speed limit (the speed of light).
+
+To pull the rabbit out of the hat, Obidi introduces the entropic field ($S$) and its gradient ($\partial S$, which is just a vector pointing in the direction where entropy is changing fastest). The trick equation looks like this:
+
+$$\text{Physical Spacetime} = \text{Information Geometry} + (\text{Entropy Changes})$$ 
+
+By adding that "Entropy Changes" term, he uses the direction of maximum entropic flow to warp the rubber sheet. If you warp a geometric space hard enough in one specific direction, the math allows you to flip that direction's sign from a plus (+) to a minus (-).
+
+Boom: Abstract probability math has suddenly been "tricked" into looking like physical time and gravity.
+
+------------------------------
+
+## Is This Actually Practical? (The Reality Check)
+To determine if this is a profound insight or just a useless mathematical stunt, we have to look at the massive hurdles a theory like this faces:
+
+## 1. The "Fitting" Problem (The Danger of Arbitrariness)
+In a disformal transformation, you have to choose arbitrary functions to scale the math. Skeptics argue that if you are allowed to tweak these functions however you like, you haven't actually discovered a deep truth about the universe—you've just custom-built a mathematical funnel that forces information theory to spit out General Relativity. If a theory can be tuned to spit out any result you want, it loses its predictive power.
+
+## 2. The Testability Hurdle (Where are the unique predictions?)
+For any new physics theory to be practical, it must make a prediction that Einstein's theory cannot make, and that prediction must be measurable.
+
+* If Obidi’s theory matches General Relativity perfectly at macro-scales, it is practically indistinguishable from what we already have.
+* To be useful, it needs to point to a specific cosmological anomaly—like a subtle variance in gravitational waves or a minute deviation in black hole radiation—that can only be explained by an underlying information manifold. Right now, calculating those exact, testable deviations remains an immense challenge.
+
+## 3. Quantum Field Theory Compatibility
+Our current universe isn't just governed by gravity; it's governed by Quantum Field Theory (the Standard Model of particles). For Obidi's "entropic manifold as the primitive bedrock" idea to be practical, he can't just derive gravity—he has to derive electrons, quarks, and electromagnetism out of information geometry, too. Mapping the discrete, non-commutative nature of quantum mechanics onto a smooth, geometric information manifold is a notoriously difficult mathematical knot to untie.
+
+------------------------------
+
+## Why People Bother Trying This "Trick"
+Despite the impracticality, physicists keep returning to variations of this trick (like Erik Verlinde's Emergent Gravity or Ted Jacobson's Thermodynamic Spacetime) because we are desperate.
+
+**For 100 years, General Relativity and Quantum Mechanics have refused to talk to each other.** Because gravity stubbornly refuses to be quantized, physicists are trying the inverse: what if gravity isn't a fundamental force at all, but just a macroscopic illusion created by information? 
+
+If you assume information is the bedrock, the math of quantum mechanics and the math of spacetime suddenly have a common language. This is Obidi's undeniable zone of triumph—at least so far.
+
+Does the trick feel a bit less mysterious now, or does the mathematical gymnastics of flipping a metric signature still feel like an illegal move? 
+
+We can look at how other physicists try to solve this same problem without using Obidi's specific transformation, or zoom in on why the No-Rush Theorem is required to justify that temporal flip in Obidi's Theory of Entropicity (ToE).
+
+
