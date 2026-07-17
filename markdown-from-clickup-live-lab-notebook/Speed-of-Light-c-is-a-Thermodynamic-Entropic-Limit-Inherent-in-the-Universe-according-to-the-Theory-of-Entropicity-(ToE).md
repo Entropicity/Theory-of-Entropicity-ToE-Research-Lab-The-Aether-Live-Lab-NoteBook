@@ -1,6 +1,8 @@
 # Who has postulated that the speed of light c is a Thermodynamic entropic limit inherent in the universe
 
-The concept of the speed of light (c) as an inherent thermodynamic or entropic limit is primarily postulated by John Onimisi Obidi through his Theory of Entropicity (ToE).
+The concept of the speed of light (c) as an inherent thermodynamic or entropic limit is primarily postulated by John Onimisi Obidi through his Theory of Entropicity (ToE). 
+
+**Obidi declares that the so-called speed of light c is not a geometric property of spacetime as postulated by Einstein in his Theory of Relativity (ToR), but a fundamental speed limit enforced by the Entropic Field of Nature itself, and imposed on all emergent phenomena everywhere in the Universe.**
 
 In this framework:
 
