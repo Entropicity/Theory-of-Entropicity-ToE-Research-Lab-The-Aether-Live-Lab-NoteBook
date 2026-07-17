@@ -107,12 +107,19 @@ Information metrics (like Fisher-Rao) are strictly positive-definite, meaning th
 
 Obidi maps the information metric 
 
-($g_{\mu\nu}^{\text{info}}$) to the physical spacetime metric ($g_{\mu\nu}^{\text{physical}}$) 
+($g_{\mu\nu}^{\text{info}}$) 
+
+to the physical spacetime metric 
+
+($g_{\mu\nu}^{\text{physical}}$) 
 
 via a controlled disformal transformation: [3, 6, 13, 18] 
 
 $$g_{\mu\nu}^{\text{physical}} = A(S)g_{\mu\nu}^{\text{info}} + B(S)\partial_\mu S \partial_\nu S$$ 
-The gradient of the entropic field ($\partial_\mu S$) 
+
+The gradient of the entropic field 
+
+($\partial_\mu S$) 
 
 acts as a directional vector deformation. This stretches the geometry along the path of maximum entropic flow. [2, 8, 13, 20] 
 
