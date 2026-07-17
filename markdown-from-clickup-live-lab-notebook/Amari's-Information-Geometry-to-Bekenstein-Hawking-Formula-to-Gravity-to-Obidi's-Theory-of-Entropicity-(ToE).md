@@ -64,3 +64,116 @@ Which of these directions should we map out next?
 [17] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/universality-of-obidi-curvature-invariant-in-toe.html)
 
 [18] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/67cf9ecefa469535b9d11e66/original/the-entropic-force-field-hypothesis-a-unified-framework-for-quantum-gravity.pdf)
+
+
+
+-----------
+
+## How can Obidi invest information geometry with dynamics and then think that will help create  physical spacetime geometry?  There is no direct and strict correlation between information Geometry and physical spacetime geometry at all!
+
+The above conservatism typically highlights the exact conceptual wall that standard mathematical physics runs into. 
+
+In conventional mathematics, one would be entirely correct: information geometry is purely epistemic, acting as an abstract tool to measure distances between probability distributions, while physical spacetime geometry is ontic, tracking real intervals of matter, energy, and causality. [1, 2, 3, 4, 5] 
+
+Obidi is not oblivious to this mathematical challenge.
+
+So, to bridge this massive disconnect, [John Onimisi Obidi](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)’s [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616) relies on a radical "strong physical postulate". It does not look for a passive correlation; it enforces a direct mathematical transformation to build one. [2, 6, 7, 8] 
+
+------------------------------
+
+## 1. The Ontological Axiom (Flipping the Bedrock)
+Obidi bypasses the lack of correlation by asserting that standard physics has the hierarchy backwards. He postulates that the abstract, statistical manifold is actually the primitive substrate of the universe. Spacetime is not the stage; it is a macroscopic, coarse-grained illusion projected by information states. [2, 9, 10, 11, 12] 
+
+## 2. Investing the Manifold with Dynamics
+In classical statistics, a Fisher-Rao metric is static because the probability distributions are fixed. To make it a physical arena, Obidi introduces the Obidi Action, a variational principle analogous to the Einstein-Hilbert action in General Relativity. [3, 13, 14, 15] 
+
+* The Entropic Field ($S(x)$): Entropy is treated as a continuous, physical scalar field permeating reality. [16, 17] 
+* Fluctuation & Flow: Instead of a static "PDF", the field undergoes continuous, self-updating transformations driven by the maximization of entropy. [8, 17] 
+* The Master Entropic Equation (MEE): By varying the Obidi Action against these field changes, ToE generates a set of dynamic field equations. This converts information geometry from a passive scorecard into a dynamic, self-evolving system. [3, 13, 16, 17] 
+
+## 3. Creating the Spacetime Metric: The Bridge
+The core mathematical machinery used to turn positive-definite statistical metrics into the physical, pseudo-Riemannian (Lorentzian) metric of spacetime consists of two primary mechanisms:
+
+[Dynamic Statistical Manifold] 
+       │
+       ▼ (Fisher-Rao & Fubini-Study Metrics)
+[Hybrid Metric-Affine Space]
+       │
+       ▼ (Entropy-Gradient Disformal Transformation)
+[Emergent Lorentzian Spacetime] (Physical Gravity)
+
+## The Entropy-Gradient Disformal Transformation [18] 
+Information metrics (like Fisher-Rao) are strictly positive-definite, meaning they have a metric signature of $(+, +, +, +)$. Physical spacetime requires an indefinite, Lorentzian signature $(-, +, +, +)$ to account for the causal asymmetry of time. [18, 19] 
+
+Obidi maps the information metric 
+
+($g_{\mu\nu}^{\text{info}}$) to the physical spacetime metric ($g_{\mu\nu}^{\text{physical}}$) 
+
+via a controlled disformal transformation: [3, 6, 13, 18] 
+
+$$g_{\mu\nu}^{\text{physical}} = A(S)g_{\mu\nu}^{\text{info}} + B(S)\partial_\mu S \partial_\nu S$$ 
+The gradient of the entropic field ($\partial_\mu S$) 
+
+acts as a directional vector deformation. This stretches the geometry along the path of maximum entropic flow. [2, 8, 13, 20] 
+
+## The "No-Rush" Theorem (Shedding the Spatial Bias)
+To extract physical time from statistical shifts, ToE relies on the No-Rush Theorem (NRT). Obidi posits that the entropic field cannot process, redistribute, or synchronize information updates instantly. [17, 19] 
+
+Every microscopic configuration shift requires a finite, non-zero duration called the Entropic Time Limit (ETL). Because nature has an internal "processing delay," the disformal transformation naturally flips the signature of the metric component parallel to this information processing stream, generating the temporal dimension ($t$) out of computational resistance. [17, 19] 
+
+------------------------------
+
+## The Verdict on "No Correlation"
+From a traditional standpoint, your objection is entirely valid: you cannot naturally find physical meters and seconds inside a purely mathematical space of probability parameters. [6] 
+
+Obidi's framework doesn't discover a correlation; it forces a functional derivation. It argues that what we call "gravitational curvature" is just the low-gradient, macroscopic manifestation of the underlying Amari $\alpha$-connections and Fisher-Rao variations of the entropic field. [3, 6, 7, 21] 
+
+If you want to poke at the weak points of this transition, we can dissect:
+
+* How the Amari-Čencov $\alpha$-connections map directly onto physical, asymmetric affine connections.
+* The exact boundary where quantum distinguishability (Fubini-Study) merges with classical distinguishability (Fisher-Rao) inside this hybrid metric. [3, 7, 13] 
+
+Which mathematical bridge feels the most tenuous or intriguing to look at?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/how-information-geometry-is-transformed-into-the-physical-geometry-of-spacetime-in-obidis-theory-16bf772d2412)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/how-information-geometry-is-transformed-into-the-physical-geometry-of-spacetime-in-obidis-theory-16bf772d2412)
+
+[3] [https://www.researchgate.net](https://www.researchgate.net/publication/405620453_From_Information_Geometry_to_Information_Gravity_Information_Geometry_as_the_Origin_of_Einstein%27s_Gravity_Correspondence_of_the_Obidi_Action_and_the_Einstein-Hilbert_Action_in_the_Theory_of_Entropicit)
+
+[4] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[5] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12111541/)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[9] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[10] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69e313c1d1922e37d58d982b)
+
+[11] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69543375098cdc781fdccf9e)
+
+[12] [https://philosophy.institute](https://philosophy.institute/philosophy-of-science-and-cosmology/einstein-general-theory-relativity/)
+
+[13] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821)
+
+[14] [https://arxiv.org](https://arxiv.org/html/2502.10502)
+
+[15] [https://arxiv.org](https://arxiv.org/html/2505.17517v1)
+
+[16] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[17] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_philosophy-philosophy-on-the-theory-of-entropicity-activity-7474656573248720896-9ol1)
+
+[18] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
+[19] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-information-and-what-is-physical-in-obidis-theory-of-entropicity-toe-questions-and-8379c206f742)
+
+[20] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[21] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
