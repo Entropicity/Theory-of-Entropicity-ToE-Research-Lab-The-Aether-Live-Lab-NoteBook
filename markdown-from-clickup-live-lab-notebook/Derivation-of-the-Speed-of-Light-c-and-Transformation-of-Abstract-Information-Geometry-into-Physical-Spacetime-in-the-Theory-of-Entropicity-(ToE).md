@@ -2,7 +2,7 @@
 
 # 2) How did Obidi get physical spacetime geometry from information geometry? How can adding a time coordinate to information geometry Force it to become physical?
 
-# Derivation of the Speed of Light c and Transformation of Abstract Information Geometry to Physical Spacetime into the Theory of Entropicity (ToE)
+# Derivation of the Speed of Light c and Transformation of Abstract Information Geometry into the Physical Spacetime of Indefinite Lorentzian Signature in the Theory of Entropicity (ToE)
 
 
 ## 1. Derivation of the Speed of Light ($c$) from the Entropic Principle
