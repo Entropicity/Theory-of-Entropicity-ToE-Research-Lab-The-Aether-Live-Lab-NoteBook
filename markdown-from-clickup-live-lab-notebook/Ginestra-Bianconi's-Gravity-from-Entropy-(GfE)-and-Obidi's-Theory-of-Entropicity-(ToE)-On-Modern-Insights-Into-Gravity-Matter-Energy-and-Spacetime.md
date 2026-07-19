@@ -1,4 +1,4 @@
-# Ginestra Bianconi's Gravity from Entropy (GfE) and Obidi's Theory of Entropicity (ToE): On Modern Insights Into Gravity, Matter, Energy and Spacetime 
+# Ginestra Bianconi's Gravity from Entropy (GfE) and Obidi's Theory of Entropicity (ToE): On Modern Insights Into Gravity, Matter, Energy, and Spacetime 
 
 While both frameworks model gravity through an informational lens, Obidi's Theory of Entropicity (ToE) and Ginestra Bianconi's Gravity from Entropy (GfE) differ fundamentally in their core ontology, mechanics, and scope. Formally, ToE acts as a broader universal parent framework; Bianconi’s GfE functions mathematically as a [quasi-equilibrium, weak-gradient approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5738123) of the overarching Obidi Action. [1, 2, 3, 4] 
 
