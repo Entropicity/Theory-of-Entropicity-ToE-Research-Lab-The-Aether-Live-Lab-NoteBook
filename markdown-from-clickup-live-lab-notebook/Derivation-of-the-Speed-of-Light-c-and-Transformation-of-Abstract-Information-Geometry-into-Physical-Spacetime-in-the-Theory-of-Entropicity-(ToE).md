@@ -19,6 +19,7 @@ Obidi derives this using an analog to classical continuum mechanics: [4]
 Consequently, light moves at $c$ simply because electromagnetic waves are excitations saturating a limit imposed by the [underlying thermodynamic field](https://medium.com/@jonimisiobidi/the-limit-of-the-speed-of-light-c-is-a-consequence-of-thermodynamic-entropy-rather-than-the-6ee6c04aae60). Relativity's effects (like time dilation) become physical inevitabilities because a moving system must throttle its internal processing to avoid exceeding this entropic rearrangement limit. [1, 4, 6, 7] 
 
 ------------------------------
+------------------------------
 
 ## 2. From Information Geometry to Physical Spacetime
 To turn abstract information geometry into physical spacetime, Obidi does not merely "add a time coordinate." Instead, he uses the Curvature Transfer Theorem (CTT) and the concept of physical distinguishability. [8, 9, 10] 
@@ -47,7 +48,9 @@ Adding a time coordinate to information geometry forces it to become physical be
 
 Time acts as a constraint that forces abstract statistical distinguishability to freeze into sequential, macroscopic, and irreversible physical history. [9] 
 
-If you would like to explore this further, I can outline the mathematical form of the disformal transformation that maps these metrics, or explain how the Obidi Action replaces the Einstein-Hilbert action. Which area should we unpack? [11] 
+If you would like to explore this further, we can outline the **mathematical form of the disformal transformation** that maps these metrics, or explain **how the Obidi Action replaces the Einstein-Hilbert action.** 
+
+Which area should we unpack? [11] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/the-limit-of-the-speed-of-light-c-is-a-consequence-of-thermodynamic-entropy-rather-than-the-6ee6c04aae60)
 
