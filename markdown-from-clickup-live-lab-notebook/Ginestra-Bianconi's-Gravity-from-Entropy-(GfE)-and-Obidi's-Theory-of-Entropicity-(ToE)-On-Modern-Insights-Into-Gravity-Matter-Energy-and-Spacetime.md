@@ -16,7 +16,9 @@ While both frameworks model gravity through an informational lens, Obidi's Theor
 * **Derivation of Fields:** Bianconi couples separate matter fields to a geometric background symmetrically. Obidi eliminates fields as primitives altogether; matter is viewed merely as a localized zone of "entropic condensation". [2, 8, 9] 
 * **Scope of Unification:** GfE modifies the Einstein field equations at high energies using statistical mechanics. ToE uses the Master Entropic Equation (MEE) to naturally generate [Einstein-Hilbert, Yang-Mills, and Dirac actions](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/691437a4a10c9f5ca1db32f3/original/on-the-theory-of-entropicity-to-e-and-ginestra-bianconi-s-gravity-from-entropy-a-rigorous-derivation-of-bianconi-s-results-from-the-entropic-obidi-actions-of-the-theory-of-entropicity-to-e.pdf) from one substrate. [10, 11, 12, 13] 
 
-If you want to look at the mathematical side, we can expand on how the **Obidi Action** reduces to Bianconi's relative entropy under weak gradients, or look at how both theories attempt to explain dark energy. Which would you prefer? [3, 14] 
+If you want to look at the mathematical side, we can expand on how the **Obidi Action** reduces to Bianconi's relative entropy under weak gradients, or look at how both theories attempt to explain dark energy. 
+
+Which would you prefer? [3, 14] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-ontological-cost-of-bianconis-dualism-in-her-theory-of-gravity-from-entropy-a-conceptual-65d61012be07)
 
