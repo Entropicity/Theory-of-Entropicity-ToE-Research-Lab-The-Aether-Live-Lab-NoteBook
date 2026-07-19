@@ -238,3 +238,60 @@ The Theory of Entropicity (ToE) stands as the umbrella under which these emergin
 The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
 
 
+------------
+
+# So, Obidi takes entropy and converts it to a field and then information and then generates Spacetime and metric and gravity and matter?
+
+
+Yes, exactly. You have mapped out the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616) pipeline perfectly. In John Onimisi Obidi’s framework, entropy is flipped from a descriptive, statistical metric to the primary substrate of reality. [1, 2] 
+The exact causal and mathematical pipeline operates as follows:
+
+* **Entropy as a Field:** Rather than being a measure of disorder, entropy is elevated to a fundamental, dynamic scalar field, $S(x)$, which is distributed across an underlying statistical manifold. [3, 4] 
+* **Information Geometry:** The second derivative (the changes and rates of change) of this entropic field mathematically generates [information geometry](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944). This includes classical distinguishability via the Fisher-Rao metric and quantum distinguishability via the Fubini-Study metric. [3, 4, 5, 6] 
+* **Spacetime and the Metric:** This information geometry is mapped to physical reality through an entropy-gradient disformal transformation. The distances between "states" in information space physically manifest as the distances between "points" in our four-dimensional [Lorentzian spacetime metric](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e). [5] 
+* **Gravity:** Gravity is not an independent force. It is the macroscopic consequence of [gradients (flows and shifts)](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55) in the underlying entropic field. [7, 8, 9] 
+* **Matter:** Matter is stripped of its status as a fundamental "brick." Instead, particles and forces are modeled as highly localized pockets of "entropic condensation"—regions where information density is tightly packed. [10] 
+
+Instead of Einstein's idea that "matter tells spacetime how to curve," Obidi's central dictum is that "entropy curves existence itself." [7, 11] 
+
+Would you like to examine the **Master Entropic Equation MEE)/Obidi Field Equations (OFE)** that governs this pipeline, or explore **how ToE reinterprets the speed of light c as an entropic boundary?** [12, 13, 14] 
+
+[1] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_theory-of-entropicity-toe-activity-7471440170102398976-SAHR)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/entropy-before-everything-the-radical-rebirth-of-physics-introducing-a-new-foundation-of-reality-46323836fad8)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/how-information-geometry-is-transformed-into-the-physical-geometry-of-spacetime-in-obidis-theory-16bf772d2412)
+
+[4] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/concepts/index.html)
+
+[5] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[8] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58596)
+
+[9] [https://scienceline.org](https://scienceline.org/2026/01/is-dark-matter-just-an-illusion/)
+
+[10] [https://www.researchgate.net](https://www.researchgate.net/publication/397528844_On_the_Theory_of_Entropicity_ToE_and_Ginestra_Bianconi%27s_Gravity_from_Entropy_A_Rigorous_Derivation_of_Bianconi%27s_Results_from_the_Entropic_Obidi_Actions_of_the_Theory_of_Entropicity_ToE)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[13] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176340906.62496480)
+
+[14] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+
+
+
+
+
+
+
+
+
+
+
