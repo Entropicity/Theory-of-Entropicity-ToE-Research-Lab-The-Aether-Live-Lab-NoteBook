@@ -8,7 +8,9 @@ Standard disformal transformations (which merely scale and stretch a metric alon
 To bridge this gap, John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://independent.academia.edu/JOHNOBIDI) relies on a two-step mechanism that goes far beyond standard disformal maps: [1, 4] 
 
 ## 1. The Ontological Ontodynamics Shift
-Obidi side-steps the mathematical limitation by changing what the manifold is. In mainstream physics, an information manifold is a ledger mapping abstract probabilities. **Obidi issues a strong physical postulate:** 
+Obidi side-steps the mathematical limitation by changing what the manifold is. In mainstream physics, an information manifold is a ledger mapping abstract probabilities. 
+
+**Obidi issues a strong physical postulate:** 
 
 > the statistical manifold is the [fundamental substrate of the] actual, physical entity [we experience as spacetime]. 
 
