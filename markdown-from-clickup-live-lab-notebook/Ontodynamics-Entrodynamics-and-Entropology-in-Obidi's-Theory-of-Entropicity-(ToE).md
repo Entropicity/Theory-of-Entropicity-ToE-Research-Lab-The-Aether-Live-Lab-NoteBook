@@ -35,7 +35,8 @@ Imagine your brain trying to solve a complex puzzle:
 **The Main Takeaway:** Consciousness is not a mystery outside of physics. It is an active biological machine that absorbs external chaos, extracts structured information, and expels the remaining disorder back into the universe. [13] 
 
 ------------------------------
-Would you like to see how these three concepts unite mathematically in the Master Entropic Equation, or should we look at how they explain the flow of time?
+
+Would you like to see how these three concepts unite mathematically in the **Master Entropic Equation (MEE)/Obidi's Field Equations (OFE)**, or should we look at how they explain the flow of time?
 
 [1] [https://www.ukessays.com](https://www.ukessays.com/essays/psychology/theoretical-perspective-constructivism-and-naturalistic-inquiry-psychology-essay.php)
 
