@@ -77,16 +77,28 @@ Through his **Curvature Transfer Theorem (CTT)**, Obidi demonstrates that in the
 Would you like to examine the exact mathematical notation of the Obidi Transformation or see how it contrasts with Verlinde's Entropic Gravity? [1, 13] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4)
+
 [3] [https://sciprofiles.com](https://sciprofiles.com/profile/4143819)
+
 [4] [https://www.researchgate.net](https://www.researchgate.net/publication/405620453_From_Information_Geometry_to_Information_Gravity_Information_Geometry_as_the_Origin_of_Einstein%27s_Gravity_Correspondence_of_the_Obidi_Action_and_the_Einstein-Hilbert_Action_in_the_Theory_of_Entropicit)
+
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4)
+
 [6] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821)
+
 [7] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)
+
 [8] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
+
 [9] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
 [10] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725020)
+
 [11] [https://osf.io](https://osf.io/d7aws/overview)
+
 [12] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
 [13] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
 
