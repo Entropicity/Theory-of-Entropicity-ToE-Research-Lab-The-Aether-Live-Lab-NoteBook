@@ -14,11 +14,11 @@ To handle the signature problem mathematically, Obidi introduces a specialized, 
 * **The Starting Substrate:** It begins with the purely statistical Fisher-Rao information metric ($g_{ij}$), which possesses no causality. [2] 
 * **The Transition:** The transformation acts upon a **Hybrid Metric-Affine Space (HMAS)**. Rather than forcing a traditional Riemannian contraction, it applies an asymmetric constraint utilizing the gradient of the foundational scalar entropy field ($\nabla_\mu S$) and a non-extensive parameter ($q$) derived from Rényi-Tsallis statistics. [1] 
 * **The Emergence of Time:** Time is not pulled from a geometric axis; it emerges from the Vuli-Ndlela Integral, which governs irreversible entropy dissipation. The direction of maximal entropic change behaves as a temporal vector. [1, 8] 
-* **The Curvature Transfer Theorem (CTT):** Through the CTT, Obidi mathematically demonstrates that the ***physical, macroscopic spacetime Riemann curvature tensor is the direct pushforward of this underlying, constrained information-geometric Riemann tensor. [9] 
+* **The Curvature Transfer Theorem (CTT):** Through the CTT, Obidi mathematically demonstrates that the physical, macroscopic spacetime Riemann curvature tensor is the direct pushforward of this underlying, constrained information-geometric Riemann tensor. [9] 
 
 When these irreversible informational currents reach a low-gradient, steady-state equilibrium, the framework's mathematical pipeline recovers [Einstein’s Field Equations](https://encyclopedia.pub/entry/59188) as a macroscopic, low-energy byproduct. [1, 10] 
 
-Would you like to examine the exact mathematical structure of the Hybrid Metric-Affine Space or look at how the **Vuli-Ndlela Integral (VNI)** derives the **arrow of time**? [1] 
+Would you like to examine the exact mathematical structure of the **Hybrid Metric-Affine Space (HMAS)** or look at how the **Vuli-Ndlela Integral (VNI)** derives the **arrow of time**? [1] 
 
 [1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821)
 
