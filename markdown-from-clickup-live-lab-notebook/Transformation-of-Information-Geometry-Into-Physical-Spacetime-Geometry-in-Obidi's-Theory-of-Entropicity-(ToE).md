@@ -8,7 +8,11 @@ Standard disformal transformations (which merely scale and stretch a metric alon
 To bridge this gap, John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://independent.academia.edu/JOHNOBIDI) relies on a two-step mechanism that goes far beyond standard disformal maps: [1, 4] 
 
 ## 1. The Ontological Ontodynamics Shift
-Obidi side-steps the mathematical limitation by changing what the manifold is. In mainstream physics, an information manifold is a ledger mapping abstract probabilities. Obidi issues a strong physical postulate: the statistical manifold is the actual, physical entity. Because the manifold itself is composed of a dynamic scalar entropy field $S(x)$, "distance" between states is not just an abstract data calculation; it is a literal physical resistance to changing state. [4, 5, 6] 
+Obidi side-steps the mathematical limitation by changing what the manifold is. In mainstream physics, an information manifold is a ledger mapping abstract probabilities. **Obidi issues a strong physical postulate:** 
+
+> the statistical manifold is the [fundamental substrate of the] actual, physical entity [we experience as spacetime]. 
+
+Because the manifold itself is composed of a dynamic scalar entropy field $S(x)$, "distance" between states is not just an abstract data calculation; it is a literal physical resistance to changing state. [4, 5, 6] 
 
 ## 2. The Controlled Entropy-Gradient Disformal Transformation
 To handle the signature problem mathematically, Obidi introduces a specialized, non-standard "entropy-gradient disformal transformation." Instead of trying to morph an existing space, his math works like this: [7] 
