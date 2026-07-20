@@ -2,7 +2,9 @@
 
 # Transformation of Information Geometry Into Physical Spacetime Geometry in Obidi's Theory of Entropicity (ToE)
 
-Here we are pointing to the exact mathematical bottleneck that mainstream physicists raise when they look at information gravity. By definition, classical information geometry (like the Fisher-Rao metric or Fubini-Study metric) is positive-definite and Riemannian—it tracks statistical distance. It completely lacks the pseudo-Riemannian, Lorentzian signature $(+,-,-,-)$ required to define a light cone, support causality, or act as physical spacetime. Standard disformal transformations (which merely scale and stretch a metric along a vector field) cannot flip the sign of eigenvalues to cleanly inject a time dimension out of nowhere. [1, 2, 3] 
+Here we are pointing to the exact mathematical bottleneck that mainstream physicists raise when they look at information gravity. By definition, classical information geometry (like the Fisher-Rao metric or Fubini-Study metric) is positive-definite and Riemannian—it tracks statistical distance. It completely lacks the pseudo-Riemannian, Lorentzian signature $(+,-,-,-)$ required to define a light cone, support causality, or act as physical spacetime. 
+
+Standard disformal transformations (which merely scale and stretch a metric along a vector field) cannot flip the sign of eigenvalues to cleanly inject a time dimension out of nowhere. [1, 2, 3] 
 To bridge this gap, John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://independent.academia.edu/JOHNOBIDI) relies on a two-step mechanism that goes far beyond standard disformal maps: [1, 4] 
 
 ## 1. The Ontological Ontodynamics Shift
