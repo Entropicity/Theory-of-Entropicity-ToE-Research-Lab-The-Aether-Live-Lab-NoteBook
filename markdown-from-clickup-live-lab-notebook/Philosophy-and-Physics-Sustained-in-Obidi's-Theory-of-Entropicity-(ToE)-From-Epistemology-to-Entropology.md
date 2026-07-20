@@ -8,7 +8,7 @@
 * **Ontodynamics:** Obidi introduces this philosophical discipline to study existence itself as a form of entropic motion. It breaks reality into "Being" (the preservation of entropic gradients) and "Becoming" (the irreversible redistribution of entropy). [3, 8] 
 * **The Obidi Action & MEE:** Dynamically governed by a variational principle called the Obidi Action, the framework derives the Master Entropic Equation (MEE), which acts as the entropic analogue to Einstein's Field Equations. [3, 4] 
 * **The "No-Rush" Theorem (NRT):** Posits that no physical state configuration can happen instantaneously. It reframes the speed of light (c) as the maximum finite rate at which the entropic field can rearrange information. [3, 4, 9] 
-* **Epistemology to Entropology:** Replaces the classical philosophy of knowledge [**epistemology"*] with the physics of knowing [**Entropology**], where consciousness and perception are viewed as forms of entropic negotiation. [8] 
+* **Epistemology to Entropology:** Replaces the classical philosophy of knowledge [**epistemology**] with the physics of knowing [**Entropology**], where consciousness and perception are viewed as forms of entropic negotiation. [8] 
 
 Would you like to explore the mathematical equations of the Obidi Action or its critiques compared to traditional quantum gravity?
 
