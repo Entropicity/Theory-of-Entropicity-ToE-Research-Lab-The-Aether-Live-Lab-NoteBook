@@ -1,4 +1,4 @@
-# Philosophy and Physics Sustained in Obidi's Theory of Entropicity (ToE)
+# Philosophy and Physics Sustained in Obidi's Theory of Entropicity (ToE): From Epistemology to Entropology  
 
 **John Onimisi Obidi’s** physical and philosophical framework centers entirely on his [Theory of Entropicity (ToE)](https://independent.academia.edu/JOHNOBIDI), an ambitious alternative to contemporary theoretical physics. Published in series across platforms like [ResearchGate, Cambridge University Open Engage, SSRN, Academia, etc.](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi%27s_Formulation_of_the_Theory_of_Entropicity_ToE) and Medium, Obidi's framework inverts traditional physics by treating entropy not as a secondary statistical byproduct of disorder, but as the primary, fundamental field (S(x)) of reality from which space, time, gravity, and matter emerge. [1, 2, 3, 4] 
 
