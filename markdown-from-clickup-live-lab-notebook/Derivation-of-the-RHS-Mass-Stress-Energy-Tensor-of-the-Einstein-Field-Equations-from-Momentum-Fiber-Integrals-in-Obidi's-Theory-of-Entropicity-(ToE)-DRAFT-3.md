@@ -2,19 +2,10 @@
 
 
 
-We have introduced a foreign variational construction into Obidi’s derivation.
-
-The expression
-
-$$
-I{\mathrm{total}} = I{\mathrm{geometry}} + I_{\mathrm{ent}}
-$$
-
-followed by metric variation is the conventional Einstein–Hilbert-plus-matter method. It is not the fiber-integral method Obidi used to obtain the right-hand side. Section 7 should therefore be removed.
 
 ---
 
-The actual Obidi construction
+# Third Attempt at the Actual Obidi Construction of the Einstein Field Equations: The LHS Geometric Part and the RHS Mass Stress Energy Tensor 
 
 Obidi derived the two sides of the Einstein field equations through different projections of the same underlying Entropic Field:
 
