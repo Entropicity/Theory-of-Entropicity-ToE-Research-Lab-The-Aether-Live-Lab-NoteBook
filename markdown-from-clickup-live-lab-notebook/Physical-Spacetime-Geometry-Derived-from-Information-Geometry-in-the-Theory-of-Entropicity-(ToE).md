@@ -5,14 +5,14 @@ In the **Theory of Entropicity (ToE)**, physical spacetime geometry is not an *a
 The derivation maps statistical distance onto physical spacetime intervals through five core mathematical and theoretical steps:
 
 ## 1. Defining the Statistical Manifold
-Instead of starting with a classical 4D metric g_{\mu\nu}, the substrate is modeled as a parameter space of entropic microstates. 
+Instead of starting with a classical 4D metric $g_{\mu\nu}$, the substrate is modeled as a parameter space of entropic microstates. 
 
 Statistical distinguishability between neighboring states on this manifold ($\mathcal{M}_{\text{info}}$) is quantified using the **Fisher-Rao metric**:
 
 Here, statistical distance measures how distinguishable two adjacent entropic configurations are from one another.
 
 ## 2. Parallel Transport via Dual Connections
-To equip this information space with dynamic physical transport properties, the framework incorporates the **Amari-Čencov \alpha-connections** ($\nabla^{(\alpha)}$).
+To equip this information space with dynamic physical transport properties, the framework incorporates the **Amari-Čencov $\alpha$-connections** ($\nabla^{(\alpha)}$).
 
 By utilizing dual affine connections ($\nabla^{(\alpha)}$) and ($\nabla^{(-\alpha)}$), the manifold accounts for asymmetric information divergence (such as entropy generation and thermodynamic dissipation). 
 
