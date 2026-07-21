@@ -44,5 +44,5 @@ The primary ambition of the Theory of Entropicity is to serve as a **Grand Unifi
 
 ## Current Status
 
-As of mid-2026, the Theory of Entropicity remains a **theoretical and conceptual framework**. While it offers rigorous mathematical formulations using information geometry and claims to derive established results (such as mass increase and Mercury's perihelion precession) without traditional postulates, it is **yet to be experimentally verified**. It represents a bold, non-mainstream proposal that challenges the standard model's reliance on matter and energy as fundamental, suggesting instead that **entropy is the true fabric of reality**.
+As of mid-2026, the Theory of Entropicity remains a **theoretical and conceptual framework**. While it offers rigorous mathematical formulations using information geometry and has logically derived established results (such as mass increase and Mercury's perihelion precession) without traditional postulates, it is **yet to be experimentally verified**. It represents a bold, non-mainstream proposal that challenges the standard model's reliance on matter and energy as fundamental, suggesting instead that **entropy is the true fabric of reality**.
 
