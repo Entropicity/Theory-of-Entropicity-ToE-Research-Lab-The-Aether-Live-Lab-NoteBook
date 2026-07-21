@@ -288,6 +288,17 @@ Obidi’s Deep Insight shows that:
 
 It is a unifying perspective that brings together statistical physics, information theory, quantum mechanics, and general relativity into a single conceptual framework.
 
+## 🔷 The Mathematical Core Behind Obidi’s Insight  
+Obidi’s Deep Insight becomes unavoidable once we recognize that information geometry equips statistical distributions with a real metric structure, meaning entropy—defined on those same distributions—automatically becomes a scalar field living on a curved manifold. 
+
+**A scalar field on a manifold is not passive: 
+
+> it has gradients, flows, and curvature, and these geometric features are precisely the quantities Einstein identified as gravity.
+
+In this compact view, entropy does not merely describe disorder; it shapes the manifold on which physical systems evolve. 
+
+Gravity then appears as the macroscopic projection of entropy’s underlying geometry, revealing that spacetime curvature is simply the visible shadow of entropic structure.
+
 **For Details:**
 ## 📚Reference(s):
 The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
