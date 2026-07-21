@@ -18,7 +18,13 @@ The **Third Conjecture** addresses the nature of spacetime, proposing that **phy
 
 ## Key Implications and Novel Concepts
 
-Obidi's Theory of Entropicity (ToE) introduces several novel concepts that reshape our understanding of physics. The **No-Rush Theorem (NRT)** states that no physical process can occur in zero time, enforcing a minimum duration for causal influence and providing a mechanism for the speed-of-light limit. The **Entropic Time Limit (ETL)** posits a fundamental time quantum, challenging absolute simultaneity. 
+Obidi's Theory of Entropicity (ToE) introduces several novel concepts that reshape our understanding of physics and reality. 
 
-Additionally, **Entropic Observability** and **Entropic Existentiality** suggest that observation and existence depend on entropy thresholds, offering an objective mechanism for wavefunction collapse without requiring conscious observers. The **Obidi Curvature Invariant (OCI)** defines the minimal entropic separation required for physical distinguishability, linking information geometry to measurable physical constants.
+The **No-Rush Theorem (NRT)** states that no physical process can occur in zero time, enforcing a minimum duration for causal influence and providing a mechanism for the speed-of-light limit. 
+
+The **Entropic Time Limit (ETL)** posits a fundamental time quantum, challenging absolute simultaneity. 
+
+Additionally, **Entropic Observability** and **Entropic Existentiality** suggest that observation and existence depend on entropy thresholds, offering an objective mechanism for wavefunction collapse without requiring conscious observers. 
+
+The **Obidi Curvature Invariant (OCI)** defines the minimal entropic separation required for physical distinguishability, linking information geometry to measurable physical constants.
 
