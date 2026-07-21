@@ -44,16 +44,16 @@ $\(\zeta\in\mathcal F_x\)$ labels internal entropic, informational, spectral, st
 A point in the total space is therefore written schematically as
 
 $\[
-(x,\zeta)\in\mathcal E.
-\]$
+(x,\zeta)\in\mathcal E
+\]$.
 
-The entropic field is not merely a spacetime scalar \(S(x)\), but may be represented more completely as
+The entropic field is not merely a spacetime scalar $\(S(x)\)$, but may be represented more completely as
 
 $\[
-S=S(x,\zeta).
-\]$
+S=S(x,\zeta)
+\]$.
 
-Its dependence on \(x\) describes variation across emergent spacetime, while its dependence on \(\zeta\) encodes the internal informational structure that is invisible in the coarse-grained spacetime description.
+Its dependence on $\(x\)$ describes variation across emergent spacetime, while its dependence on $\(\zeta\)$ encodes the internal informational structure that is invisible in the coarse-grained spacetime description.
 
 
 ---
@@ -62,9 +62,9 @@ Its dependence on \(x\) describes variation across emergent spacetime, while its
 
 Obidi introduces an entropic distribution
 
-\[
-f_{\mathrm{ent}}(x,\Pi,\zeta),
-\]
+$\[
+f_{\mathrm{ent}}(x,\Pi,\zeta)
+\]$.
 
 where \(\Pi_\mu\) is the generalized four-momentum associated with an entropic excitation.
 
