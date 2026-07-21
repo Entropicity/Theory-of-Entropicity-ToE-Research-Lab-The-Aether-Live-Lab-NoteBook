@@ -341,30 +341,15 @@ g_{\mu\nu}
 \left[
 \frac{1}{2}
 Z(S,\zeta)
-D_\alpha S D^\alpha S
-+
-V(S,\zeta)
-\right].
-\]$
+D_\alpha S D^\alpha S+
+V(S,\zeta)\right]
+\]$.
 
 Fiber integration gives
 
 $\[
-\boxed{
-T_{\mu\nu}^{(\mathrm{ent})}(x)
-=
-\int_{\mathcal F_x}
-\left\{
-Z(S,\zeta)D_\mu S D_\nu S-
-g_{\mu\nu}
-\left[
-\frac{1}{2}Z(S,\zeta)D_\alpha S D^\alpha S
-+
-V(S,\zeta)
-\right]
-\right\}
-d\mu_{\mathcal F_x}.
-}
+\boxed{T_{\mu\nu}^{(\mathrm{ent})}(x)=\int_{\mathcal F_x}\left\{Z(S,\zeta)D_\mu S D_\nu S-g_{\mu\nu}\left[\frac{1}{2}Z(S,\zeta)D_\alpha S D^\alpha S+V(S,\zeta)\right]
+\right\}d\mu_{\mathcal F_x}.}
 \]$
 
 The gradient term contributes directed energy and momentum flux, while the potential term contributes an isotropic energy density and pressure-like component.
@@ -386,24 +371,15 @@ In the Lorentzian, near-equilibrium sector, the geometric part reduces to the Ei
 
 $\[
 I_{\mathrm{geometry}}
-=\frac{c^4}{16\pi G}
-\int_{\mathcal M}
-d^4x\,\sqrt{-g}
-\left(
-R-2\Lambda
-\right)
+=\frac{c^4}{16\pi G}\int_{\mathcal M}d^4x\,\sqrt{-g}\left(R-2\Lambda\right)
 \]$.
 
 Therefore,
 
 $\[
 I_{\mathrm{total}}
-=\frac{c^4}{16\pi G}
-\int_{\mathcal M}
-d^4x\,\sqrt{-g}
-\left(
-R-2\Lambda
-\right)+
+=\frac{c^4}{16\pi G}\int_{\mathcal M}
+d^4x\,\sqrt{-g}\left(R-2\Lambda\right)+
 I_{\mathrm{ent}}.
 \]$
 
@@ -413,12 +389,7 @@ $\[
 \delta I_{\mathrm{geometry}}=
 \frac{c^4}{16\pi G}
 \int_{\mathcal M}
-d^4x\,\sqrt{-g}
-\left(
-G_{\mu\nu}+
-\Lambda g_{\mu\nu}
-\right)
-\delta g^{\mu\nu}.
+d^4x\,\sqrt{-g}\left(G_{\mu\nu}+\Lambda g_{\mu\nu}\right)\delta g^{\mu\nu}.
 \]$
 
 Variation of the entropic part gives
@@ -441,13 +412,8 @@ then requires
 
 $\[
 \frac{c^4}{16\pi G}
-\left(
-G_{\mu\nu}+
-\Lambda g_{\mu\nu}
-\right)-
-\frac{1}{2}
-T_{\mu\nu}^{(\mathrm{ent})}
-=0.
+\left(G_{\mu\nu}+
+\Lambda g_{\mu\nu}\right)-\frac{1}{2}T_{\mu\nu}^{(\mathrm{ent})}=0.
 \]$
 
 Multiplying by \(16\pi G/c^4\) gives
@@ -469,24 +435,21 @@ T_{\mu\nu}^{(\mathrm{ent})}=
 \frac{8\pi G}{c^4}
 \int_{\mathcal F_x}
 \tau_{\mu\nu}^{(\mathrm{ent})}
-\,d\mu_{\mathcal F_x}.
-}
-\]$
+\,d\mu_{\mathcal F_x}}
+\]$.
 
 In the kinetic representation,
 
 $\[
 \boxed{
-G_{\mu\nu}
-+
+G_{\mu\nu}+
 \Lambda g_{\mu\nu}=
 \frac{8\pi G}{c^4}
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu
 f_{\mathrm{ent}}(x,\Pi,\zeta)
-\,d\Omega_x.
-}
-\]$
+\,d\Omega_x}
+\]$.
 
 This is the compact form of Obidi’s fiber-integral derivation of the Einstein source term.
 
@@ -539,8 +502,7 @@ the Lorentzian sector carries the effective physical spacetime source.
 
 In the classical near-equilibrium limit,
 
-$\[
-T_{(\mu\nu)_{\mathrm L}}^{(\mathrm{ent})}
+$\[T_{(\mu\nu)_{\mathrm L}}^{(\mathrm{ent})}
 \longrightarrowT_{\mu\nu}^{(\mathrm{matter})},
 \]$
 
@@ -640,10 +602,8 @@ $\[
 The fiber integral explains how a microscopic Entropic Field can generate the tensorial structure of the Einstein source:
 
 $\[
-\text{internal entropic degrees of freedom}
-\quad\stackrel{\pi_!}{\longrightarrow}\quad
-T_{\mu\nu}.
-\]$
+\text{internal entropic degrees of freedom}\quad\stackrel{\pi_!}{\longrightarrow}\quad T_{\mu\nu}
+\]$.
 
 However, the numerical gravitational coupling
 
@@ -670,9 +630,7 @@ Summary statement
 Obidi derived the right-hand side of Einstein’s field equations by treating ordinary matter-energy as the spacetime projection of microscopic entropic-information degrees of freedom. He formed a rank-two microscopic stress kernel—most directly $\(\Pi_\mu\Pi_\nu f_{\mathrm{ent}}\)$—and pushed it forward from the entropic fiber bundle to spacetime:
 
 $\[
-T_{\mu\nu}^{(\mathrm{ent})}(x)
-=
-\pi_!
+T_{\mu\nu}^{(\mathrm{ent})}(x)=\pi_!
 \left(
 \Pi_\mu\Pi_\nu f_{\mathrm{ent}}\,d\Omega
 \right)=
