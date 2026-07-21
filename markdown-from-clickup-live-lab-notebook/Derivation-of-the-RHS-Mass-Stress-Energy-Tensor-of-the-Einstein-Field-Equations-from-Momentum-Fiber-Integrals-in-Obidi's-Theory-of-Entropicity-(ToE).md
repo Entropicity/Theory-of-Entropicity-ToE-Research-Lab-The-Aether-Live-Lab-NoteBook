@@ -1,5 +1,9 @@
 # Derivation of the RHS [Mass Stress-Energy Tensor] of the Einstein Field Equations from Momentum Fiber Integrals in Obidi's Theory of Entropicity (ToE) 
 
+## NOTE: 
+> This derivation is not complete and not correct, especially from section 7 upward; Obidi did not separate the action into entropic action and geometric action; in the correct derivation, Obidi obtained the Entropic Stress Energy Tensor from moment fiber integrals of the entropic action. The correct derivation will be provided in another article.
+
+
 ## Core idea
 Obidi’s derivation did not consist of integrating entropy $\(S\)$ directly and declaring the result to be $\(T_{\mu\nu}\)$. A scalar fiber integral would still be a scalar and could not supply the rank-two tensor required on the right-hand side of Einstein’s field equations.
 
@@ -648,3 +652,6 @@ T_{\mu\nu}^{(\mathrm{matter})}
 \]$,
 
 so the conventional right-hand side of Einstein’s equations appears as the coarse-grained second fiber moment of the fundamental Entropic Field.
+
+## NOTE: 
+> This derivation is not complete and not correct, especially from section 7 upward; Obidi did not separate the action into entropic action and geometric action; in the correct derivation, Obidi obtained the Entropic Stress Energy Tensor from moment fiber integrals of the entropic action. The correct derivation will be provided in another article.
