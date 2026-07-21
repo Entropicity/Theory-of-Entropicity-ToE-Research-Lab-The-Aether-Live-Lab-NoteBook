@@ -89,8 +89,7 @@ Zeroth moment: entropic density
 
 $\[
 n_{\mathrm{ent}}(x)
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 f_{\mathrm{ent}}(x,\Pi,\zeta)\,
 d\Omega_x
 \]$.
@@ -101,8 +100,7 @@ First moment: entropic current
 
 $\[
 J_{\mu}^{(\mathrm{ent})}(x)
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \Pi_\mu
 f_{\mathrm{ent}}(x,\Pi,\zeta)\,
 d\Omega_x
@@ -116,8 +114,7 @@ The decisive step is the second moment:
 
 $\[
 \boxed{
-T_{\mu\nu}^{(\mathrm{ent})}(x)
-=
+T_{\mu\nu}^{(\mathrm{ent})}(x)=
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu\,
 f_{\mathrm{ent}}(x,\Pi,\zeta)\,
@@ -130,8 +127,7 @@ or, more generally,
 $\[
 \boxed{
 T_{\mu\nu}^{(\mathrm{ent})}(x)
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \tau_{\mu\nu}(x,\Pi,\zeta)\,
 d\Omega_x,
 }
@@ -153,8 +149,7 @@ In differential-geometric language, this is the pushforward
 
 $\[
 T_{\mu\nu}^{(\mathrm{ent})}
-=
-\pi_!\left(
+=\pi_!\left(
 \tau_{\mu\nu}\,d\Omega
 \right)
 \]$.
@@ -172,8 +167,7 @@ In a local Lorentz frame,
 
 $\[
 T_{00}^{(\mathrm{ent})}
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \Pi_0\Pi_0 f_{\mathrm{ent}}\,d\Omega_x
 \]$
 
@@ -183,8 +177,7 @@ The mixed components
 
 $\[
 T_{0i}^{(\mathrm{ent})}
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \Pi_0\Pi_i f_{\mathrm{ent}}\,d\Omega_x
 \]$
 
@@ -194,8 +187,7 @@ The spatial components
 
 $\[
 T_{ij}^{(\mathrm{ent})}
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \Pi_i\Pi_j f_{\mathrm{ent}}\,d\Omega_x
 \]$
 
@@ -246,8 +238,7 @@ Suppose the microscopic entropic field on the bundle has a Lagrangian density
 
 $\[
 \mathcal L_{\mathrm{ent}}
-=
-\mathcal L_{\mathrm{ent}}
+=\mathcal L_{\mathrm{ent}}
 \left(
 S,D_AS,g_{\mu\nu},h_{ab},\zeta
 \right)
@@ -266,8 +257,7 @@ The entropic action can be written as
 
 $\[
 I_{\mathrm{ent}}
-=
-\int_{\mathcal M}
+=\int_{\mathcal M}
 d^4x\,\sqrt{-g}
 \int_{\mathcal F_x}
 \mathcal L_{\mathrm{ent}}(x,\zeta)\,
@@ -278,8 +268,7 @@ Define the effective spacetime Lagrangian by fiber integration:
 
 $\[
 \mathcal L_{\mathrm{eff}}(x)
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \mathcal L_{\mathrm{ent}}(x,\zeta)\,
 d\mu_{\mathcal F_x}
 \]$.
@@ -288,8 +277,7 @@ Then
 
 $\[
 I_{\mathrm{ent}}
-=
-\int_{\mathcal M}
+=\int_{\mathcal M}
 d^4x\,\sqrt{-g}\,
 \mathcal L_{\mathrm{eff}}.
 \]$
@@ -299,8 +287,7 @@ The effective entropic stress-energy tensor is defined by metric variation:
 $\[
 \boxed{
 T_{\mu\nu}^{(\mathrm{ent})}
-=
--\frac{2}{\sqrt{-g}}
+=-\frac{2}{\sqrt{-g}}
 \frac{\delta I_{\mathrm{ent}}}
 {\delta g^{\mu\nu}}.
 }
@@ -310,8 +297,7 @@ Under minimal coupling, and provided the variation may be passed through the fib
 
 $\[
 T_{\mu\nu}^{(\mathrm{ent})}(x)
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 \tau_{\mu\nu}^{(\mathrm{ent})}(x,\zeta)\,
 d\mu_{\mathcal F_x},
 \]$
@@ -320,8 +306,7 @@ where
 
 $\[
 \tau_{\mu\nu}^{(\mathrm{ent})}(x,\zeta)
-=
--\frac{2}{\sqrt{-g}}
+=-\frac{2}{\sqrt{-g}}
 \frac{\delta\left[
 \sqrt{-g}\mathcal L_{\mathrm{ent}}(x,\zeta)
 \right]}
@@ -339,23 +324,19 @@ For a minimally coupled scalar entropic field, one may take
 
 $\[
 \mathcal L_{\mathrm{ent}}
-=
--\frac{1}{2}
+=-\frac{1}{2}
 Z(S,\zeta)
 g^{\alpha\beta}
-D_\alpha S D_\beta S
--
+D_\alpha S D_\beta S-
 V(S,\zeta).
 \]$
 
 The microscopic entropic stress kernel is then
 
 $\[
-\tau_{\mu\nu}^{(\mathrm{ent})}
-=
+\tau_{\mu\nu}^{(\mathrm{ent})}=
 Z(S,\zeta)
-D_\mu S D_\nu S
--
+D_\mu S D_\nu S-
 g_{\mu\nu}
 \left[
 \frac{1}{2}
@@ -374,8 +355,7 @@ T_{\mu\nu}^{(\mathrm{ent})}(x)
 =
 \int_{\mathcal F_x}
 \left\{
-Z(S,\zeta)D_\mu S D_\nu S
--
+Z(S,\zeta)D_\mu S D_\nu S-
 g_{\mu\nu}
 \left[
 \frac{1}{2}Z(S,\zeta)D_\alpha S D^\alpha S
@@ -397,10 +377,8 @@ The gradient term contributes directed energy and momentum flux, while the poten
 The total effective action is written schematically as
 
 $\[
-I_{\mathrm{total}}
-=
-I_{\mathrm{geometry}}
-+
+I_{\mathrm{total}}=
+I_{\mathrm{geometry}}+
 I_{\mathrm{ent}}.
 \]$
 
@@ -408,8 +386,7 @@ In the Lorentzian, near-equilibrium sector, the geometric part reduces to the Ei
 
 $\[
 I_{\mathrm{geometry}}
-=
-\frac{c^4}{16\pi G}
+=\frac{c^4}{16\pi G}
 \int_{\mathcal M}
 d^4x\,\sqrt{-g}
 \left(
@@ -421,28 +398,24 @@ Therefore,
 
 $\[
 I_{\mathrm{total}}
-=
-\frac{c^4}{16\pi G}
+=\frac{c^4}{16\pi G}
 \int_{\mathcal M}
 d^4x\,\sqrt{-g}
 \left(
 R-2\Lambda
-\right)
-+
+\right)+
 I_{\mathrm{ent}}.
 \]$
 
 Variation of the geometric part gives
 
 $\[
-\delta I_{\mathrm{geometry}}
-=
+\delta I_{\mathrm{geometry}}=
 \frac{c^4}{16\pi G}
 \int_{\mathcal M}
 d^4x\,\sqrt{-g}
 \left(
-G_{\mu\nu}
-+
+G_{\mu\nu}+
 \Lambda g_{\mu\nu}
 \right)
 \delta g^{\mu\nu}.
@@ -451,9 +424,7 @@ G_{\mu\nu}
 Variation of the entropic part gives
 
 $\[
-\delta I_{\mathrm{ent}}
-=
--\frac{1}{2}
+\delta I_{\mathrm{ent}}=-\frac{1}{2}
 \int_{\mathcal M}
 d^4x\,\sqrt{-g}\,
 T_{\mu\nu}^{(\mathrm{ent})}
@@ -471,11 +442,9 @@ then requires
 $\[
 \frac{c^4}{16\pi G}
 \left(
-G_{\mu\nu}
-+
+G_{\mu\nu}+
 \Lambda g_{\mu\nu}
-\right)
--
+\right)-
 \frac{1}{2}
 T_{\mu\nu}^{(\mathrm{ent})}
 =0.
@@ -485,13 +454,10 @@ Multiplying by \(16\pi G/c^4\) gives
 
 $\[
 \boxed{
-G_{\mu\nu}
-+
-\Lambda g_{\mu\nu}
-=
+G_{\mu\nu}+
+\Lambda g_{\mu\nu}=
 \frac{8\pi G}{c^4}
-T_{\mu\nu}^{(\mathrm{ent})}.
-}
+T_{\mu\nu}^{(\mathrm{ent})}.}
 \]$
 
 Thus the right-hand side is
@@ -499,8 +465,7 @@ Thus the right-hand side is
 $\[
 \boxed{
 \frac{8\pi G}{c^4}
-T_{\mu\nu}^{(\mathrm{ent})}
-=
+T_{\mu\nu}^{(\mathrm{ent})}=
 \frac{8\pi G}{c^4}
 \int_{\mathcal F_x}
 \tau_{\mu\nu}^{(\mathrm{ent})}
@@ -514,8 +479,7 @@ $\[
 \boxed{
 G_{\mu\nu}
 +
-\Lambda g_{\mu\nu}
-=
+\Lambda g_{\mu\nu}=
 \frac{8\pi G}{c^4}
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu
@@ -535,21 +499,18 @@ Obidi then takes the low-energy, near-equilibrium, Lorentzian-sector limit:
 
 $\[
 T_{\mu\nu}^{(\mathrm{Einstein})}
-=
-\lim_{\substack{
+=\lim_{\substack{
 \mathrm{IR}\\
 \nabla S\rightarrow 0\\
 \text{quantum corrections}\rightarrow 0
-}}
-T_{\mu\nu}^{(\mathrm{ent})}.
+}}T_{\mu\nu}^{(\mathrm{ent})}.
 \]$
 
 Equivalently,
 
 $\[
 \boxed{
-T_{\mu\nu}^{(\mathrm{matter})}
-=
+T_{\mu\nu}^{(\mathrm{matter})}=
 \lim_{\mathrm{IR}}
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu
@@ -562,11 +523,8 @@ Within the sector decomposition previously used in the Obidi framework,
 
 $\[
 T_{(\mu\nu)_J}^{(\mathrm{ent})}
-=
-T_{(\mu\nu)_{\mathrm{FR}}}^{(\mathrm{ent})}
-+
-T_{(\mu\nu)_{\mathrm{FS}}}^{(\mathrm{ent})}
-+
+=T_{(\mu\nu)_{\mathrm{FR}}}^{(\mathrm{ent})}+
+T_{(\mu\nu)_{\mathrm{FS}}}^{(\mathrm{ent})}+
 T_{(\mu\nu)_{\mathrm L}}^{(\mathrm{ent})}.
 \]$
 
@@ -583,8 +541,7 @@ In the classical near-equilibrium limit,
 
 $\[
 T_{(\mu\nu)_{\mathrm L}}^{(\mathrm{ent})}
-\longrightarrow
-T_{\mu\nu}^{(\mathrm{matter})},
+\longrightarrowT_{\mu\nu}^{(\mathrm{matter})},
 \]$
 
 while the Fisher–Rao and Fubini–Study corrections become negligible or are absorbed into effective couplings.
@@ -598,29 +555,22 @@ For an isotropic distribution of entropic excitations in a local rest frame, the
 
 $\[
 \boxed{
-T_{\mu\nu}^{(\mathrm{ent})}
-=
-\frac{\varepsilon+p}{c^2}
-u_\mu u_\nu
-+
-p\,g_{\mu\nu},
-}
-\]$
+T_{\mu\nu}^{(\mathrm{ent})}=
+\frac{\varepsilon+p}{c^2}u_\mu u_\nu+
+p\,g_{\mu\nu}}
+\]$,
 
 where
 
 $\[
 \varepsilon
-=
-\int_{\mathcal F_x}
+=\int_{\mathcal F_x}
 E^2 f_{\mathrm{ent}}\,d\Omega_x
 \]$
 
 is the effective energy density and
 
-$\[
-p
-=
+$\[p=
 \frac{1}{3}
 \int_{\mathcal F_x}
 |\boldsymbol{\Pi}|^2
@@ -655,20 +605,17 @@ First, it follows from diffeomorphism invariance of the fiber-integrated entropi
 Second, in the kinetic formulation, it follows by taking a momentum moment of an entropic transport equation,
 
 $\[
-\Pi^A D_A f_{\mathrm{ent}}
-=
-C[f_{\mathrm{ent}}],
-\]$
+\Pi^A D_A f_{\mathrm{ent}}=
+C[f_{\mathrm{ent}}]
+\]$,
 
 provided the interaction term conserves generalized entropic four-momentum:
 
 $\[
 \int_{\mathcal F_x}
 \Pi_\nu C[f_{\mathrm{ent}}]
-\,d\Omega_x
-=
-0.
-\]$
+\,d\Omega_x=0
+\]$.
 
 Then
 
@@ -676,12 +623,10 @@ $\[
 \nabla^\mu
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu f_{\mathrm{ent}}
-\,d\Omega_x
-=
-0.
-\]$
+\,d\Omega_x=0
+\]$.
 
-Hence
+Hence,
 
 $\[
 \nabla^\mu T_{\mu\nu}^{(\mathrm{ent})}=0.
@@ -730,8 +675,7 @@ T_{\mu\nu}^{(\mathrm{ent})}(x)
 \pi_!
 \left(
 \Pi_\mu\Pi_\nu f_{\mathrm{ent}}\,d\Omega
-\right)
-=
+\right)=
 \int_{\mathcal F_x}
 \Pi_\mu\Pi_\nu
 f_{\mathrm{ent}}
@@ -741,10 +685,8 @@ f_{\mathrm{ent}}
 Metric variation of the fiber-integrated Obidi Action then produces
 
 $\[
-G_{\mu\nu}
-+
-\Lambda g_{\mu\nu}
-=
+G_{\mu\nu}+
+\Lambda g_{\mu\nu}=
 \frac{8\pi G}{c^4}
 T_{\mu\nu}^{(\mathrm{ent})}
 \]$.
