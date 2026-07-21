@@ -97,6 +97,6 @@ All the above gives us the correct intuition that constitutes Obidi's Theory of 
 *   **Information Geometry** provides the *structure* (the metric and connection).
 *   **Einstein’s Gravity** is the *phenomenon* observed when this structure evolves dynamically.
 
-By treating the **Fisher–Rao** and **Fubini–Study** metrics as physical realities rather than statistical abstractions, ToE resolves the disconnect between thermodynamics and gravity, showing that **spacetime is simply the geometry of entropic information flow**.
+By treating the **Fisher–Rao** and **Fubini–Study** metrics as constituting the very [fundamental] foundations of physical realities rather than mere statistical abstractions, ToE resolves the disconnect between thermodynamics and gravity, showing that **spacetime is simply the geometry of entropic information flow**.
 
 
