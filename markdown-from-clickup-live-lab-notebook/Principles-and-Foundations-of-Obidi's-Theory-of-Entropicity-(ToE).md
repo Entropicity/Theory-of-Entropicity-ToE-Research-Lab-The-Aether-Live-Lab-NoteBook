@@ -7,7 +7,7 @@ In this view, space, time, gravity, matter, and information are not fundamental 
 
 Obidi's Deep Insight:
 
-> If we have Statistical Mechanics and Statistical Thermodynamics and Statistical entropy, and we have Statistical distribution in information Geometry, then Obidi must be telling us something deep by teaching us that information Geometry manifold is connected to Entropy and that Entropy therefore has geometry and is hence connected to Einstein's gravity.
+> If we have Statistical Mechanics and Statistical Thermodynamics and Statistical Entropy, and we have Statistical distribution in information Geometry, then Obidi must be telling us something deep by teaching us that information Geometry manifold is connected to Entropy and that Entropy therefore has geometry and is hence connected to Einstein's gravity.
 
 ## Core Conceptual Foundations
 
