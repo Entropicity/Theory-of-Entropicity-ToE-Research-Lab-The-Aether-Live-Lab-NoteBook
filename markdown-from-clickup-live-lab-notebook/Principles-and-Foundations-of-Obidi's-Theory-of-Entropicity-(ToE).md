@@ -5,6 +5,10 @@ The **Theory of Entropicity (ToE)** is a radical, emerging framework in theoreti
 
 In this view, space, time, gravity, matter, and information are not fundamental entities but **emergent phenomena** arising from the dynamics, gradients, and flow of this universal **Entropic Field**.
 
+Obidi's Deep Insight:
+
+> If we have Statistical Mechanics and Statistical Thermodynamics and Statistical entropy, and we have Statistical distribution in information Geometry, then Obidi must be telling us something deep by teaching us that information Geometry manifold is connected to Entropy and that Entropy therefore has geometry and is hence connected to Einstein's gravity.
+
 ## Core Conceptual Foundations
 
 At the heart of ToE is the idea that the universe is an informational system running on an "operating system" of entropy. Unlike standard physics where entropy is derived from the behavior of particles, ToE inverts this hierarchy, treating entropy as the cause rather than the effect.
