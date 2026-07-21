@@ -1,8 +1,7 @@
-# Derivation of the RHS of the Einstein Field Equations from Momentum Fiber Integrals in Obidi's Theory of Entropicity (ToE)
-
+# Derivation of the RHS [Mass Stress-Energy Tensor] of the Einstein Field Equations from Momentum Fiber Integrals in Obidi's Theory of Entropicity (ToE) 
 
 ## Core idea
-Obidi’s derivation did not consist of integrating entropy \(S\) directly and declaring the result to be \(T_{\mu\nu}\). A scalar fiber integral would still be a scalar and could not supply the rank-two tensor required on the right-hand side of Einstein’s field equations.
+Obidi’s derivation did not consist of integrating entropy $\(S\)$ directly and declaring the result to be $\(T_{\mu\nu}\)$. A scalar fiber integral would still be a scalar and could not supply the rank-two tensor required on the right-hand side of Einstein’s field equations.
 
 Instead, he constructed a rank-two entropic stress kernel on the full entropic-information bundle and then integrated that kernel over the internal fibers. The resulting tensor on emergent spacetime was identified with the effective matter stress-energy tensor.
 
@@ -27,32 +26,32 @@ T_{\mu\nu}^{(\mathrm{ent})}
 
 Obidi begins with a bundle
 
-\[
+$\[
 \pi:\mathcal E\longrightarrow \mathcal M,
-\]
+\]$
 
 where:
 
-\(\mathcal M\) is the emergent Lorentzian spacetime manifold;
+$\(\mathcal M\)$ is the emergent Lorentzian spacetime manifold;
 
-\(\mathcal E\) is the total entropic-information space;
+$\(\mathcal E\)$ is the total entropic-information space;
 
-\(\mathcal F_x=\pi^{-1}(x)\) is the fiber over the spacetime event \(x\);
+$\(\mathcal F_x=\pi^{-1}(x)\)$ is the fiber over the spacetime event $\(x\)$;
 
-\(\zeta\in\mathcal F_x\) labels internal entropic, informational, spectral, statistical, or quantum states.
+$\(\zeta\in\mathcal F_x\)$ labels internal entropic, informational, spectral, statistical, or quantum states.
 
 
 A point in the total space is therefore written schematically as
 
-\[
+$\[
 (x,\zeta)\in\mathcal E.
-\]
+\]$
 
 The entropic field is not merely a spacetime scalar \(S(x)\), but may be represented more completely as
 
-\[
+$\[
 S=S(x,\zeta).
-\]
+\]$
 
 Its dependence on \(x\) describes variation across emergent spacetime, while its dependence on \(\zeta\) encodes the internal informational structure that is invisible in the coarse-grained spacetime description.
 
