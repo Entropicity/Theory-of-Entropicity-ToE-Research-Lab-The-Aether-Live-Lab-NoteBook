@@ -1,4 +1,4 @@
-# Derivation of the RHS of the Einstein Field Equations from Momentum Fiber integrals in Obidi's Theory of Entropicity (ToE)
+# Derivation of the RHS of the Einstein Field Equations from Momentum Fiber Integrals in Obidi's Theory of Entropicity (ToE)
 
 
 ## Core idea
