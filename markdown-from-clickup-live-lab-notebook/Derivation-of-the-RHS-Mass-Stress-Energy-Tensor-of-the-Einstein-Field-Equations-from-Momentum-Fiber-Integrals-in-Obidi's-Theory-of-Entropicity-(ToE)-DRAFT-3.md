@@ -5,7 +5,7 @@
 
 ---
 
-# Third Attempt at the Actual Obidi Construction of the Einstein Field Equations: The LHS Geometric Part and the RHS Mass Stress Energy Tensor 
+# Third Attempt at the Actual Obidi Construction of the Einstein Field Equations: The LHS Geometric Part and the RHS Mass Stress-Energy Tensor Part
 
 Obidi derived the two sides of the Einstein field equations through different projections of the same underlying Entropic Field:
 
