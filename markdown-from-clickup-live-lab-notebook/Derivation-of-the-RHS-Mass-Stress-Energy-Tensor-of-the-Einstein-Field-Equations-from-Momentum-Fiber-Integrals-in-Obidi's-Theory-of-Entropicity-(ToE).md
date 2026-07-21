@@ -196,15 +196,8 @@ represent pressure, momentum flux, shear stress, and anisotropic stress.
 Thus the usual physical quantities on the right-hand side of Einstein’s equations arise as different projections of one fiber-integrated entropic tensor:
 
 $\[
-\begin{aligned}
-\text{energy density}
-&\longleftrightarrow T_{00}^{(\mathrm{ent})},\\
-\text{momentum density}
-&\longleftrightarrow T_{0i}^{(\mathrm{ent})},\\
-\text{pressure}
-&\longleftrightarrow \frac{1}{3}h^{ij}T_{ij}^{(\mathrm{ent})},\\
-\text{shear stress}
-&\longleftrightarrow
+\begin{aligned}\text{energy density}&\longleftrightarrowT_{00}^{(\mathrm{ent})},\\\text{momentum density}&\longleftrightarrowT_{0i}^{(\mathrm{ent})},\\\text{pressure}&\longleftrightarrow \frac{1}{3}h^{ij}T_{ij}^{(\mathrm{ent})},\\
+\text{shear stress}&\longleftrightarrow
 T_{\langle ij\rangle}^{(\mathrm{ent})}.
 \end{aligned}
 \]$
@@ -213,16 +206,13 @@ In Obidi’s physical interpretation:
 
 $\[
 \boxed{
-\text{matter is a stable or condensed organization of the Entropic Field}
-}
+\text{matter is a stable or condensed organization of the Entropic Field}}
 \]$
 
 and
 
 $\[
-\boxed{
-\text{radiation is a propagating excitation of the Entropic Field}
-}
+\boxed{\text{radiation is a propagating excitation of the Entropic Field}}
 \]$.
 
 Consequently, mass density, energy density, momentum, pressure, radiation flux, and stress are different coarse-grained moments of the underlying entropic distribution.
