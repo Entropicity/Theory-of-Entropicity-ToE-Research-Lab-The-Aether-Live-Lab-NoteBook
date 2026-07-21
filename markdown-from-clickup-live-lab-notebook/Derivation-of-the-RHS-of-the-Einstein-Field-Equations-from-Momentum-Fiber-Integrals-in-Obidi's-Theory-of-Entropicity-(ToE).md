@@ -8,7 +8,7 @@ Instead, he constructed a rank-two entropic stress kernel on the full entropic-i
 
 The logical chain was
 
-\[
+$\[
 \text{Entropic microstates}
 \longrightarrow
 \text{entropic momentum and stress}
@@ -18,7 +18,7 @@ The logical chain was
 T_{\mu\nu}^{(\mathrm{ent})}
 \longrightarrow
 \frac{8\pi G}{c^{4}}T_{\mu\nu}.
-\]
+\]$
 
 
 ---
