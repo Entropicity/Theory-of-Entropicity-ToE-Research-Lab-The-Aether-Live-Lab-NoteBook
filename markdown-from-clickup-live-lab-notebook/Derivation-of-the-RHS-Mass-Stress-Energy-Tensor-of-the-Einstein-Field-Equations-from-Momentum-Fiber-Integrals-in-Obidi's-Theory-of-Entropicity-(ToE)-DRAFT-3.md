@@ -1,11 +1,7 @@
-
-
-
-
-
----
-
 # Third Attempt at the Actual Obidi Construction of the Einstein Field Equations: The LHS Geometric Part and the RHS Mass Stress-Energy Tensor Part
+
+Derivation of the RHS Mass Stress Energy Tensor of the Einstein Field Equations from-Momentum Fiber Integrals in Obidi's Theory of Entropicity (ToE)-DRAFT-3
+
 
 Obidi derived the two sides of the Einstein field equations through different projections of the same underlying Entropic Field:
 
