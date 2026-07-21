@@ -39,26 +39,36 @@ The mathematical formalism relies on three sequential fiber moments:
 
 ## 1. The Zeroth Moment Integral (Information/Scalar Density)
 The **zeroth moment** integrates the local **entropic density distribution function** $f(x, p)$ across the entire momentum fiber. This **defines the non-directional invariant informational scalar density** $\rho_0(x)$:
+
 $$\rho_0(x) = \int_{T^*_x M} f(x, p) \, \varpi_p$$ 
 
 * **Physical Meaning:** This **represents the raw local concentration of entropic microstates (the total data payload or information density) at point $x$ before considering directional flow.**
 
 ## 2. The First Moment Integral (Entropic Information Flux)
 The **first moment** multiplies the distribution function by a single component of the momentum coordinate $p_\mu$ across the fiber, yielding a rank-1 covariant vector:
+
 $$J_\mu(x) = \int_{T^*_x M} p_\mu f(x, p) \, \varpi_p$$ 
 
 * **Physical Meaning:** This functions as the **Entropic Information Flux Vector.** It tracks the directional transport and net local flow velocity of microstate changes through the entropic manifold. [3] 
 
 ## 3. The Second Moment Integral (The Stress-Energy Tensor)
 The **second moment** multiplies the distribution by the symmetric outer product of the momentum components $p_\mu p_\nu$. **This operation maps the micro-information directly into a symmetric, rank-2 tensor:**
+
 $$\Theta_{\mu\nu}(x) = \int_{T^*_x M} p_\mu p_\nu f(x, p) \, \varpi_p$$ 
 
 * **The Macroscopic Correspondence:** In the low-gradient, near-equilibrium limit of the [Obidi Action](https://encyclopedia.pub/entry/59188), this geometric second moment undergoes a scaling transformation via a fundamental informational coupling constant $\kappa$.
 
 **This matches the physical distribution of matter, energy flux, and shear stress:**
-$$T_{\mu\nu} = \kappa \, \Theta_{\mu\nu}$$ [4, 5] 
 
-By setting $G_{\mu\nu} = 8\pi G T_{\mu\nu}$, Obidi mathematically demonstrates that the space-time bending forces on the left-hand side of Einstein's field equations are structurally equivalent to the integrated informational distribution on the right-hand side of Einstein's field equations [that is, the mass stress-energy tensor]. [6, 7] 
+$$T_{\mu\nu} = \kappa \, \Theta_{\mu\nu}$$ 
+
+[4, 5] 
+
+By setting 
+
+$$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$, 
+
+Obidi mathematically demonstrates that the space-time bending forces on the left-hand side of Einstein's field equations are structurally equivalent to the integrated informational distribution on the right-hand side of Einstein's field equations [that is, the mass stress-energy tensor]. [6, 7] 
 
 Would you like to examine the exact mathematical structure of the fiber volume element $\varpi_p$ or explore the low-gradient limit proofs that reduce the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)** down to **classical General Relativity (GR)**? [4] 
 
