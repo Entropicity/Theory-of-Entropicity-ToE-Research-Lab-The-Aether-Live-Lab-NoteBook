@@ -46,8 +46,8 @@ The process begins with the **Local Obidi Action ($I_{LOA}$)**, which serves as 
 The critical step where "information becomes mass" occurs in the definition of $T_{\mu\nu}^{(S)}$. Obidi derives this tensor not as a postulate, but as the **second moment** of the entropic probability distribution over the **momentum fiber spaces**.
 *   **The Formula**:
   
-  $$ T_{\mu\nu}^{(S)}(x) = \int_{\text{fiber} \Omega_x} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega
-   $$
+$$ T_{\mu\nu}^{(S)}(x) = \int_{\text{fiber} \Omega_x} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega
+$$
     
 *   **Interpretation**:
     *   $f_{\text{ent}}(x, \Omega)$ is the **entropic distribution function** describing the microscopic state of the entropy field at point $x$.
