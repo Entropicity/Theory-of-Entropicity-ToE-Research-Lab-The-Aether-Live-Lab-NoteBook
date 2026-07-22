@@ -36,7 +36,7 @@ That is the proper scientific path for an ambitious foundational theory. The exi
 Hence:
 > Obidi is attempting to build a new foundation for physics by systematically identifying and repairing the conceptual, mathematical, dimensional, covariance, conservation, and correspondence gaps in the Theory of Entropicity (ToE), with the aim of deriving spacetime geometry and matter-energy from a single entropic-information substrate.
 
-Obidi's audacity and the radicality of his Theory of Entropicity (ToE) lie in the sheer scope of the proposal. Nonetheless, its eventual scientific standing and legacy will depend on whether this iterative programme produces, or ultimately leads to, a mathematically closed and coherent theory, recovers established physics without hidden assumptions, and generates distinctive **falsifiable predictions beyond General Relativity and Quantum Mechanics, or Quantum Field Theory (QFT) and the Standard Model.**
+Obidi's audacity and the radicality of his Theory of Entropicity (ToE) lie in the sheer scope and immensity of the proposal. Nonetheless, its eventual scientific standing and legacy will depend on whether this iterative programme produces, or ultimately leads to, a mathematically closed and coherent theory, recovers established physics without hidden assumptions, and generates distinctive **falsifiable predictions beyond General Relativity and Quantum Mechanics, or Quantum Field Theory (QFT) and the Standard Model.**
 
 In light of the above expositions on the architecture and trajectory of the Theory of Entropicity (ToE), **Obidi has applied the mathematical theory of fiber bundles and fiber integrals to bridge the gap between microscopic information and macroscopic gravity.**
 
