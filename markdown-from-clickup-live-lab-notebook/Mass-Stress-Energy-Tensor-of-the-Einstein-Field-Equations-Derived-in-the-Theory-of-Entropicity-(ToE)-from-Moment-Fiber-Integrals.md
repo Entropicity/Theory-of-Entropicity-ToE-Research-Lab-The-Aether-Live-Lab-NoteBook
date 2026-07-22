@@ -96,7 +96,7 @@ In the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/from-info
 
 $T^*_x M$ 
 
-at a given point $\x\$. To accurately isolate physical information states from the broader mathematical phase space, Obidi structures $\varpi_{p}$ using the spacetime metric determinant $g =\det(g_{\mu\nu})$ and a metric-compatible constraint: [1, 2] 
+at a given point $x$. To accurately isolate physical information states from the broader mathematical phase space, Obidi structures $\varpi_{p}$ using the spacetime metric determinant $g =\det(g_{\mu\nu})$ and a metric-compatible constraint: [1, 2] 
 
 $$\varpi_{p} = \frac{1}{\sqrt{-g}} \, \delta(g^{\mu\nu}p_{\mu}p_{\nu} + m^2) \, \theta(p_0) \, dp_0 \wedge dp_1 \wedge dp_2 \wedge dp_3$$ 
 
