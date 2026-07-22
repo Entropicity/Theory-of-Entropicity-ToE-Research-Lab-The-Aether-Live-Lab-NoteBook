@@ -89,7 +89,7 @@ Would you like to examine the exact mathematical structure of the fiber volume e
 --------------------
 --------------------
 
-# Mathematical Foundations of Obidi's Derivation of Einstein Field Equations by Moment Fiber Integrals in the Theory of Entropicity (ToE)
+# Mathematical Foundations of Obidi's Derivation of the Einstein Field Equations of  General Relativity (GR) by Moment Fiber Integrals in the Theory of Entropicity (ToE)
 
 ## 1. Mathematical Structure of the Fiber Volume Element $\varpi_{p}$
 In the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab), the **fiber volume element** $\varpi_{p}$ acts as the coordinate-invariant, Lorentz-invariant integration measure on the momentum cotangent space:
@@ -116,7 +116,7 @@ The dynamics of the entropic field $S(x)$ and spacetime geometry are determined 
       
    $$\alpha \Box S + V'(S) + f'(S) R = 0$$ 
    
-   2. **Entropic Obidi-Einstein Equations:**
+   2. **Entropic Obidi-Einstein Field Equations:**
    
    $$f(S) G_{\mu\nu} + \left(g_{\mu\nu} \Box - \nabla_{\mu}\nabla_{\nu}\right) f(S) = \frac{1}{2} T_{\mu\nu}(S)$$ 
 
@@ -137,7 +137,7 @@ Where $\Box$ is the covariant d'Alembertian operator, $G_{\mu\nu}$ is the Einste
 $$\nabla_{\mu} S \to 0 \quad \implies \quad \nabla_{\mu} f(S) \to 0 \quad \text{and} \quad \Box f(S) \to 0$$ 
 
 [6] 
-* **Step 2 (Tensor Elimination):** Applying these vanishing limits simplifies the complex second-order differential term from the left-hand side of the **Entropic Obidi-Einstein Equation:**
+* **Step 2 (Tensor Elimination):** Applying these vanishing limits simplifies the complex second-order differential term from the left-hand side of the **Entropic Obidi-Einstein Field Equations:**
   
 $$\left(g_{\mu\nu} \Box - \nabla_{\mu}\nabla_{\nu}\right) f(S) \to 0$$
 [4]
@@ -146,7 +146,7 @@ $$\left(g_{\mu\nu} \Box - \nabla_{\mu}\nabla_{\nu}\right) f(S) \to 0$$
   
 $$f(S_0) G_{\mu\nu} = \frac{1}{2} T_{\mu\nu}(S_0) \quad \implies \quad G_{\mu\nu} = \frac{1}{2 f(S_0)} T_{\mu\nu}$$
 
-* **Step 4 (Final Recovery):** By mapping the stable, base informational coupling function to Einstein's gravitational constant—specifically setting $f(S_0) = \frac{1}{16\pi G}$—the Master Entropic Equation identically reproduces classical General Relativity:
+* **Step 4 (Final Recovery):** By mapping the stable, base informational coupling function to Einstein's gravitational constant—specifically setting $f(S_0) = \frac{1}{16\pi G}$—the Master Entropic Equation identically reproduces Einstein's classical General Relativity (GR):
   
 $$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$.
 
