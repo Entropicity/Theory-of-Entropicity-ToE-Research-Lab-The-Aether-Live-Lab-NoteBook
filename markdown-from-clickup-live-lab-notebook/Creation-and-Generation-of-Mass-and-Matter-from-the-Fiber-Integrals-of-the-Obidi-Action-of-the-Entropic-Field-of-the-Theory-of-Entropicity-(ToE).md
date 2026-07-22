@@ -123,7 +123,11 @@ The fiber integral yields specific mass values by calculating the **spectral mom
 
 ### 1. The Constitutive Mapping: Mass as Entropy Density
 In John Onimisi Obidi's **Theory of Entropicity (ToE)**, mass is not an arbitrary input but is rigidly linked to entropy density ($s$) via a constitutive mapping:
-$$ m \propto s $$
+
+$$ 
+m \propto s 
+$$
+
 The fiber integral computes the **second moment** of the entropic distribution $f_{\text{ent}}$. The specific value of the resulting mass ($m$) depends on the **shape** and **width** of this distribution over the momentum fiber:
 *   **Narrow Distribution**: Low variance in momentum $\rightarrow$ Low second moment $\rightarrow$ Low mass (e.g., neutrinos).
 *   **Broad Distribution**: High variance in momentum $\rightarrow$ High second moment $\rightarrow$ High mass (e.g., top quarks).
@@ -132,7 +136,11 @@ The "width" of the distribution is not random; it is fixed by the **local curvat
 
 ### 2. Quantization via the Spectral Obidi Action
 To derive discrete particle masses (the mass spectrum), Obidi employs the **Spectral Obidi Action ($I_{SOA}$)**:
-$$ I_{SOA} = -\text{Tr}(\ln \Delta) $$
+
+$$ 
+I_{SOA} = -\text{Tr}(\ln \Delta) 
+$$
+
 where $\Delta$ is the **Entropic Modular Operator** comparing the current geometry to equilibrium.
 *   **Eigenvalues determine Mass**: The specific mass values correspond to the **eigenvalues ($\lambda_i$)** of this operator. When the fiber integral is evaluated, it sums over these spectral modes.
 *   **Discrete Spectrum**: The global consistency conditions imposed by $I_{SOA}$ force the entropic field into specific vibrational modes. The fiber integral of these modes yields discrete mass values, analogous to how string theory derives mass from vibrational spectra, but here derived purely from **information geometry**.
@@ -141,7 +149,11 @@ where $\Delta$ is the **Entropic Modular Operator** comparing the current geomet
 The fiber integral also dynamically yields **relativistic mass**. As a system moves, the **Entropic Resistance Principle (ERP)** dictates that the entropy density $s$ must increase to maintain the system's coherence against the entropic gradient.
 *   **Mechanism**: The distribution function $f_{\text{ent}}$ broadens in the direction of motion due to entropic stress.
 *   **Result**: The fiber integral of this distorted distribution yields a higher second moment, mathematically reproducing the relativistic mass formula:
-    $$ m(v) = \gamma_e m_0 $$
+  
+    $$
+    m(v) = \gamma_e m_0
+    $$
+
     where $\gamma_e$ is the **Entropic Lorentz Factor**, derived directly from the entropy budget rather than geometric postulates.
 
 ### Summary
