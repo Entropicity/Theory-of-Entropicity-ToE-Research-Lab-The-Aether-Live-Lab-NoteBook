@@ -77,7 +77,7 @@ Here, $E(x)$ is the entropic density field, and $\(\mathcal{L}\)$ is the entropi
 
 * **Amari–Čencov α-connections:** The theory utilizes these connections to link informational divergence—or statistical uncertainty—directly to physical spacetime curvature.
 
-* **Rényi-Tsallis Parameters:** Rather than relying exclusively on classical Boltzmann-Gibbs statistics, ToE incorporates non-extensive formalisms (via the α-q parameters of Rényi and Tsallis) to model the complex, non-equilibrium thermodynamic states of the universe.
+* **Rényi-Tsallis Parameters:** Rather than relying exclusively on classical Boltzmann-Gibbs statistics, Obidi's Theory of Entropicity (ToE) incorporates non-extensive formalisms (via the α-q parameters of Rényi and Tsallis) to model the complex, non-equilibrium thermodynamic states of the universe.
 
 You can read more about its conceptual and mathematical formulation in the Medium/CoE Foundations of ToE Overview.
 
