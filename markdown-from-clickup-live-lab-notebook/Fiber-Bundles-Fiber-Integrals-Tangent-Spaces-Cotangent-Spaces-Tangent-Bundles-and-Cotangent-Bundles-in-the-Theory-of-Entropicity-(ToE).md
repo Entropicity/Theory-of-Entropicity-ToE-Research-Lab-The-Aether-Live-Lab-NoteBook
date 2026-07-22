@@ -1,4 +1,4 @@
-# Fiber Bundles, Fiber Integrals, Tangent Spaces, Cotangent Spaces, Tangent Bundles and Cotangent Bundles in Transformation of Entropic Information Geometry Into Physical Spacetime Geometry and Effective Mass Stress Energy Tensor of Einstein General Relativity (GR) in the Theory of Entropicity (ToE): 
+# Fiber Bundles, Fiber Integrals, Tangent Spaces, Cotangent Spaces, Tangent Bundles and Cotangent Bundles in the Transformation of Entropic Information Geometry Into Physical Spacetime Geometry and Effective Mass Stress Energy Tensor of Einstein General Relativity (GR) from the Theory of Entropicity (ToE): 
 
 # Fiber-Bundles-Fiber-Integrals-Tangent-Spaces-Cotangent-Spaces-Tangent-Bundles-and-Cotangent-Bundles-in-the-Theory-of-Entropicity-(ToE).md
 
