@@ -65,9 +65,13 @@ Obidi's Theory of Entropicity (ToE) is an entropic informational framework that 
 
 The mathematical core of ToE rests upon a few primary pillars that transition information geometry into physical spacetime dynamics:
 
-* **Information Geometry:** Instead of assuming a predefined background spacetime, ToE begins with an entropic field S(x). By establishing distinguishability between configurations, it utilizes geometric constructs like the Fisher–Rao and Fubini–Study metrics to derive a metric \(g_{\mu\nu}(x)\) from intrinsic informational content.
+* **Information Geometry:** Instead of assuming a predefined background spacetime, ToE begins with an entropic field S(x). By establishing distinguishability between configurations, it utilizes geometric constructs like the Fisher–Rao and Fubini–Study metrics to derive a metric $\(g_{\mu\nu}(x)\)$ from intrinsic informational content.
 
-* **The Obidi Action:** Analogous to the Einstein-Hilbert action in General Relativity, ToE relies on a variational principle defined on the entropic manifold M:\(S[E] = \int_{M} \mathcal{L}(E, \nabla E, \nabla^2 E) \, dV\)Here, E(x) is the entropic density field, and \(\mathcal{L}\) is the entropic Lagrangian density.
+* **The Obidi Action:** Analogous to the Einstein-Hilbert action in General Relativity, ToE relies on a variational principle defined on the entropic manifold
+
+$$M:\(S[E] = \int_{M} \mathcal{L}(E, \nabla E, \nabla^2 E) \, dV\)$$
+
+Here, $E(x)$ is the entropic density field, and $\(\mathcal{L}\)$ is the entropic Lagrangian density.
 
 * **The Master Entropic Equation (MEE)/Obidi Field Equations (OFE):** Also known as the Obidi Field Equations (OFE), this is the ToE equivalent to Einstein's field equations. It dictates how entropy gradients couple to geometry and matter.
 
