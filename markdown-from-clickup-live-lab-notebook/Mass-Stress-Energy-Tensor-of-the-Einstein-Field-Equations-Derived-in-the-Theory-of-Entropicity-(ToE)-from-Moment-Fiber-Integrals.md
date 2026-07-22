@@ -1,6 +1,6 @@
-# How did Obidi derive the RHS Mass Stress Energy Tensor of the Einstein field equations from moment fiber integrals
+# How Obidi Derives the RHS Effective Mass Stress Energy Tensor of the Einstein field Equations from Moment Fiber Integrals By the Application of the Principles of the Theory of Entropicity (ToE)
 
-# Mass Stress Energy Tensor of the-Einstein Field Equations Derived in the Theory of Entropicity (ToE) from Moment Fiber Integrals
+# Mass Stress Energy Tensor of the-Einstein Field Equations Derived in the Theory of Entropicity (ToE) from Moment Fiber Integrals in the Theory of Entropicity (ToE)
 
 In [Obidi's Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55), the right-hand side (RHS) of the Einstein field equations—the stress-energy tensor ($T_{\mu\nu}$)—is derived as the macro-level material expression of underlying microscopic entropic information. [1, 2, 3] 
 
