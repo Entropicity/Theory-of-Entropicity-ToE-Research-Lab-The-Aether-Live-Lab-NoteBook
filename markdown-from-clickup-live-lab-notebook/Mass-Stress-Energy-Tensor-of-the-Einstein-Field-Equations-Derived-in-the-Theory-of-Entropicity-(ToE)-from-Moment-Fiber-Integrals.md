@@ -172,3 +172,68 @@ Would you like to derive the explicit form of the entropic potential $V(S)$ or a
 
 [9] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
 
+
+----------------------
+
+
+
+
+# 🔷 How Obidi Derives the Einstein Effective Mass Stress–Energy Tensor from Moment Fiber Integrals by Applying the Principles of the Theory of Entropicity (ToE)
+
+The RHS of Einstein’s Field Equations in the Theory of Entropicity (ToE)
+
+In John Onimisi Obidi’s Theory of Entropicity (ToE), matter and energy are not introduced as independent primitives placed beside geometry. Instead, the stress–energy tensor T₍μν₎ is interpreted as the macroscopic expression of microscopic entropic‑information states distributed over an internal momentum fiber at every spacetime point.
+
+The basic geometric structure is the cotangent bundle  
+T M = ⋃{x∈M} Tx M,  
+where each fiber T_x M contains the possible momentum states associated with the spacetime event x*. An entropic‑information distribution f(x,p) is defined over this fiber.
+
+0 — Zeroth Moment: Entropic Information Density
+
+ρ₀(x) = ∫{T*x M} f(x,p) ϖ_p
+
+This integral measures the total local concentration of entropic microstates at x. It is a scalar: the local informational content of the Entropic Field.
+
+# 1 — First Moment: Entropic Information Flux
+
+Jμ(x) = ∫{T*x M} pμ f(x,p) ϖ_p
+
+Multiplication by one momentum component produces a rank‑one covector. This moment describes the net direction and transport of entropic information through the emergent spacetime manifold.
+
+# 2 — Second Moment: The Stress–Energy Tensor
+
+Θ{μν}(x) = ∫{T*x M} pμ pν f(x,p) ϖp
+
+Because pμ pν is a symmetric rank‑two tensor, integrating it over the momentum fiber preserves the spacetime indices μ and ν. The resulting tensor contains the macroscopic quantities normally represented by T_{μν}: energy density, momentum density, energy flux, pressure, shear and mechanical stress.
+
+ToE then identifies
+
+T{μν} = κI Θ_{μν},
+
+where κ_I converts the informational second moment into the physical units and normalization of stress–energy.
+
+# Invariant Fiber Measure (schematic)
+
+ϖp ∼ (1 / √−g) · δ( g^{μν} pμ p_ν + m² c² ) · θ(p⁰) · d⁴p
+
+The delta function restricts integration to the physical mass shell; θ(p⁰) selects future‑directed states.
+
+# One Entropic Field — Two Macroscopic Manifestations
+
+Within ToE, the two sides of Einstein’s equation are different projections of the same underlying Entropic Field:
+- Entropic‑information geometry  →  G_{μν}  
+- Condensed entropic‑information moments  →  T_{μν}
+
+Thus the field equation
+
+G{μν} = (8πG / c⁴) T{μν}
+
+is interpreted as a correspondence between the geometric organization of entropic information (left) and its localized, transported and condensed material expression (right). The second‑moment integral supplies the rank‑two structure and physical content of T_{μν}; the numerical gravitational factor 8πG/c⁴ must be fixed by the Newtonian limit or derived from deeper microscopic parameters of the Entropic Field.
+
+#InformationGravity #GeneralRelativity #StressEnergyTensor #FiberBundles #FiberIntegrals
+
+**For Details:**
+# 📚Reference(s):
+The Canonical Archives: https://lnkd.in/gdwBXNmP
+
+
