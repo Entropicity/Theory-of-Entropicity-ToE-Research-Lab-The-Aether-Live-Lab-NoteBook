@@ -37,9 +37,10 @@ Yes, John Onimisi Obidi explicitly generates **mass** from the **fiber integral*
 The process begins with the **Local Obidi Action ($I_{LOA}$)**, which serves as the geometric sector of the theory. Unlike the standard Einstein-Hilbert action which assumes matter fields, the LOA treats the **entropy field $S(x)$** as the sole fundamental dynamical variable.
 *   **The Action**: The LOA integrates curvature, asymmetric transport, and entropy gradients into a single variational principle:
 
-  $$ I_{LOA} = \int d^4x \sqrt{-g} \left[\frac{1}{2}(\nabla_\mu S)(\nabla^\mu S) - V(S) + \dots \right] $$
+ $$ I_{LOA} = \int d^4x \sqrt{-g} \left[\frac{1}{2}(\nabla_\mu S)(\nabla^\mu S) - V(S) + \dots \right]
+ $$
     
-   (Note: The full action includes coupling to the emergent metric and higher-order entropic terms).
+(Note: The full action includes coupling to the emergent metric and higher-order entropic terms).
 *   **Variation**: When this action is varied with respect to the emergent metric $g_{\mu\nu}$, it yields the **Entropic Stress-Energy Tensor** ($T_{\mu\nu}^{(S)}$).
 
 ### 2. The Fiber Integral Mechanism
@@ -93,7 +94,8 @@ In standard physics, a distribution function $f(x, p)$ describes *already existi
 ### 2. The Generative Output (The Fiber Integral)
 The fiber integral acts as a **transformation operator**, not a summary statistic:
 
-$$ T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(S, \nabla S) \, d\Omega 
+$$ 
+T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(S, \nabla S) \, d\Omega 
 $$
 
 *   **Mechanism**: The integral sums the **momentum moments** ($p_\mu p_\nu$) of these informational configurations.
