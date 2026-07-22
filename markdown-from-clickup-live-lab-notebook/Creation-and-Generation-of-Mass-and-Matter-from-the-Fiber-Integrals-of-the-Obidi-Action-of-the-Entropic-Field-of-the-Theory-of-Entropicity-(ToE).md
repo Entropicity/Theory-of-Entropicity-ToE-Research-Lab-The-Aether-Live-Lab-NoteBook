@@ -10,7 +10,7 @@ Obidi’s framework posits that mass is not a fundamental property but **"frozen
 1.  **The Entropic Action**: The theory starts with the **Obidi Action** (specifically the *Local* Obidi Action, $I_{LOA}$), which couples the entropy field $S(x)$ directly to geometry via an exponential weight $e^{S/k_B}$.
 2.  **Variation and Tensor Derivation**: Varying this action with respect to the emergent metric yields the **Entropic Stress-Energy Tensor** ($T_{\mu\nu}^{(S)}$).
 3.  **Fiber Integration**: This tensor is mathematically constructed as the **second moment** of the entropic distribution function over the fiber (the space of microscopic quantum states):
-4.  
+4.  **The Fiber Integral Formula:**
 
    $$ T_{\mu\nu}^{(S)} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \,d\Omega
     $$
