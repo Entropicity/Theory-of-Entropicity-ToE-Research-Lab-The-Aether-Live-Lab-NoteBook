@@ -124,7 +124,7 @@ Obidi succeeds in unifying Quantum Mechanics and General Relativity by treating 
 | **Fibers** | Internal symmetries (Charge, Color) | **Quantum State Space** (Full Hilbert Space) |
 | **Matter ($T_{\mu\nu}$)** | Fundamental source of gravity | **Statistical Moment**: Integral of entropic distribution |
 | **Time** | Fundamental dimension | **Emergent**: Direction of maximum entropy gradient |
-| **Metric Origin** | Dynamic variable (Einstein Eq.) | **Deformed Information Metric** (Obidi Transformation) |
+| **Metric Origin** | Dynamic variable (Einstein Eq.) | **Deformed Information Metric** (Disformal Obidi Transformation [DOT] + Obidi Metric) |
 
 ### 5. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE)
 The entire structure is governed by the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)**, derived from the **Obidi Action**. This single non-linear field equation replaces the separate postulates of Einstein’s Field Equations and the Schrödinger Equation.
