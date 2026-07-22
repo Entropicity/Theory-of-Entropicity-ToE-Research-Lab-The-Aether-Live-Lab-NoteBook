@@ -72,7 +72,9 @@ In ToE, fiber integrals perform a specific physical operation: **Ontological Coa
 *   **Standard Use**: Often used for calculating topological invariants or reducing dimensions in Kaluza-Klein theories.
 *   **Obidi’s Use**: The fiber integral explicitly **integrates out the quantum entropic fluctuations** to generate the **classical stress-energy tensor** ($T_{\mu\nu}$).
   
-    $$ T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}} \, d\Omega $$
+    $$
+    T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}} \, d\Omega
+    $$
     
     This equation asserts that **matter and energy are not fundamental substances** but are merely the **second statistical moments** of the entropic distribution hidden in the fiber.
 
