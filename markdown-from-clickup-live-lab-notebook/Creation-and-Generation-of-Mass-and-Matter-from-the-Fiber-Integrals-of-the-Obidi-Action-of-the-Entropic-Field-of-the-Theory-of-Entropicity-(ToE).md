@@ -153,7 +153,7 @@ The fiber integral also dynamically yields **relativistic mass**. As a system mo
     $$m(v) = \gamma_e m_0$$
     
 
-    where $\gamma_e$ is the **Entropic Lorentz Factor**, derived directly from the entropy budget rather than geometric postulates.
+    where $\gamma_e$ is the **Entropic Lorentz Factor**, which Obidi has derived directly from the entropy budget rather than geometric postulates.
 
 ### Summary
 The fiber integral yields specific mass values because the **entropic distribution function** is not arbitrary; it is constrained by the **spectral geometry** of the universe. The integral acts as a machine that converts the **eigenvalues of the entropic modular operator** (which encode the "stiffness" of the information field) into the **numerical values of mass** observed in nature.
