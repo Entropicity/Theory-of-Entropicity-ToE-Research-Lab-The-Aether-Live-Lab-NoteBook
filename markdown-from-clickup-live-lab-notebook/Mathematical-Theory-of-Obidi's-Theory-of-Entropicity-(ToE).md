@@ -73,7 +73,7 @@ $$M:\(S[E] = \int_{M} \mathcal{L}(E, \nabla E, \nabla^2 E) \, dV\)$$
 
 Here, $E(x)$ is the entropic density field, and $\(\mathcal{L}\)$ is the entropic Lagrangian density.
 
-* **The Master Entropic Equation (MEE)/Obidi Field Equations (OFE):** Also known as the Obidi Field Equations (OFE), this is the ToE equivalent to Einstein's field equations. It dictates how entropy gradients couple to geometry and matter.
+* **The Master Entropic Equation (MEE)/Obidi Field Equations (OFE):** Also known as the Obidi Field Equations (OFE), this is the ToE equivalent to Einstein's field equations. It dictates how entropy gradients [create and] couple to geometry and matter [in non linear iterative dynamics, portraying a highly computational universe].
 
 * **Amari–Čencov α-connections:** The theory utilizes these connections to link informational divergence—or statistical uncertainty—directly to physical spacetime curvature.
 
