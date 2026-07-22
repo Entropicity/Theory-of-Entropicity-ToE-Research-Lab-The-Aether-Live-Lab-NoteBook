@@ -126,9 +126,9 @@ Obidi succeeds in unifying Quantum Mechanics and General Relativity by treating 
 | **Time** | Fundamental dimension | **Emergent**: Direction of maximum entropy gradient |
 | **Metric Origin** | Dynamic variable (Einstein Eq.) | **Deformed Information Metric** (Obidi Transformation) |
 
-### 5. The Master Entropic Equation (MEE)
-The entire structure is governed by the **Master Entropic Equation**, derived from the **Obidi Action**. This single non-linear field equation replaces the separate postulates of Einstein’s Field Equations and the Schrödinger Equation.
-*   **Derivation**: By varying the Obidi Action with respect to the entropy field, one obtains the MEE.
+### 5. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE)
+The entire structure is governed by the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)**, derived from the **Obidi Action**. This single non-linear field equation replaces the separate postulates of Einstein’s Field Equations and the Schrödinger Equation.
+*   **Derivation**: By varying the Obidi Action with respect to the entropy field, one obtains the MEE/OFE.
 *   **Limit**: In the infrared (low energy/large scale) limit, the MEE decouples into the Einstein Field Equations (via the curvature of the emergent base) and the equations of quantum motion (via the geometry of the fiber).
 
 In summary, Obidi is not merely using existing fiber bundle mathematics; he is **re-purposing** it to invert the hierarchy of physics. Where standard physics builds entropy *from* matter, Obidi builds matter *from* entropy using fiber integrals as the constructive bridge.
