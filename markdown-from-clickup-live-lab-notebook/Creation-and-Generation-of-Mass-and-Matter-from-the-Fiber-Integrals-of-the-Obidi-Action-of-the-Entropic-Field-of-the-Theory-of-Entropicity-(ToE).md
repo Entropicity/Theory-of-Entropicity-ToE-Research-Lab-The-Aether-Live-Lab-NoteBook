@@ -150,7 +150,7 @@ The fiber integral also dynamically yields **relativistic mass**. As a system mo
 *   **Mechanism**: The distribution function $f_{\text{ent}}$ broadens in the direction of motion due to entropic stress.
 *   **Result**: The fiber integral of this distorted distribution yields a higher second moment, mathematically reproducing the relativistic mass formula:
   
-    $$  m(v) = \gamma_e m_0 $$
+    $$ m(v) = \gamma_e m_0 $$
     
 
     where $\gamma_e$ is the **Entropic Lorentz Factor**, derived directly from the entropy budget rather than geometric postulates.
