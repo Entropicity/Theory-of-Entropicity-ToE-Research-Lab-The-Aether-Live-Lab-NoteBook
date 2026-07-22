@@ -20,7 +20,7 @@ Would you like to know more about the **Obidi Action** or how the **Disformal Ob
 
 
 
-In Joni Misi Obidi's Theory of Entropicity (ToE), fiber integrals are used to mathematically translate localized entropic and statistical information into the macroscopic, rank-two Energy-Momentum Tensors (or Entropic Source Tensors) used in general relativity.
+In **John Onimisi Obidi's Theory of Entropicity (ToE),** **fiber integrals are used to mathematically translate localized entropic and statistical information into the macroscopic, rank-two Energy-Momentum Tensors (or Entropic Source Tensors) used in Einstein's general relativity (GR).**
 
 Obidi applies fiber bundles to entropic information distributions such that:
 
@@ -43,6 +43,33 @@ If you want, we can:
 Let us know how you'd like to explore the math of Obidi's Theory of Entropicity (ToE).
 
 
+------------------------
+
+
+In the **Theory of Entropicity (ToE),** **John Onimisi Obidi** used fiber integrals to translate scalar entropic information into a rank-two macroscopic source tensor that can interface directly with the geometric curvature of spacetime. [1, 2] 
+
+Rather than allowing a scalar probability density or entropic field to enter the right-hand side of Einstein's field equations directly, Obidi applied a fiber structure over the momentum fiber at each individual spacetime point. [1] 
+
+## The Mechanism of Obidi's Fiber Integrals
+
+* **Information Input:** The localized entropic information density acts as a foundational scalar or probability distribution. [1] 
+* **Momentum Integration:** Obidi performed a fiberwise pushforward (integration) across the momentum space fibers mapped to each point. [1, 3] 
+* **Second Covariant Moment:** This specific integration calculates the mathematically exact second covariant moment of the information distribution. [1] 
+* **Tensor Generation:** The output of this fiber integration is a rank-two Entropic Source Tensor (EST). The EST is then used to construct the total entropic stress tensor (TEST). [1] 
+
+**This mathematical framework mirrors relativistic kinetic theory, where particle distribution functions are integrated over momentum fibers to define the divergence-free stress-energy tensor. Through this method, Obidi's ToE formally unifies information geometry with general relativity, deriving gravitational coupling directly from constraints on entropic reconfiguration.** [2, 4, 5] 
+
+Would you like to explore the Obidi Action equations or examine how ToE connects to Fisher-Rao information metrics?
+
+[1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/6857821.pdf?abstractid=6857821&mirid=1&type=2)
+
+[2] [https://www.researchgate.net](https://www.researchgate.net/publication/405620453_From_Information_Geometry_to_Information_Gravity_Information_Geometry_as_the_Origin_of_Einstein%27s_Gravity_Correspondence_of_the_Obidi_Action_and_the_Einstein-Hilbert_Action_in_the_Theory_of_Entropicit)
+
+[3] [https://grokipedia.com](https://grokipedia.com/page/integration_along_fibers)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab)
 
 
 
