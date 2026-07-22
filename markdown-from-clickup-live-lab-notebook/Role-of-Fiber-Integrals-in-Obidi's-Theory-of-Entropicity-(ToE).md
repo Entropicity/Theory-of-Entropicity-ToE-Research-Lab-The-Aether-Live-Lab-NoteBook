@@ -12,8 +12,11 @@ The Theory of Entropicity posits that spacetime and gravity are not fundamental 
 The most critical application of fiber integrals in ToE is the derivation of the right-hand side of the Einstein field equations. In this framework, the **stress-energy tensor** ($T_{\mu\nu}$) is not a fundamental postulate but emerges as the **second moment** of an entropic probability distribution.
 
 Mathematically, this is expressed as a fiber integral over the momentum fiber spaces:
+
 $$ T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega $$
+
 where:
+
 *   $p_\mu p_\nu$ represents the momentum components.
 *   $f_{\text{ent}}(x, \Omega)$ is the **entropic distribution function** defined over the fiber $\Omega$ at spacetime point $x$.
 *   The integration is performed over the fiber, effectively "summing up" or coarse-graining the microscopic entropic degrees of freedom to produce the macroscopic energy-momentum content observed in General Relativity.
