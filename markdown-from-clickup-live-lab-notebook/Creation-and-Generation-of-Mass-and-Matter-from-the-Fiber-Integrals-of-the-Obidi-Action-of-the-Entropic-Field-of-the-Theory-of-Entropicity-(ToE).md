@@ -11,7 +11,8 @@ Obidi’s framework posits that mass is not a fundamental property but **"frozen
 2.  **Variation and Tensor Derivation**: Varying this action with respect to the emergent metric yields the **Entropic Stress-Energy Tensor** ($T_{\mu\nu}^{(S)}$).
 3.  **Fiber Integration**: This tensor is mathematically constructed as the **second moment** of the entropic distribution function over the fiber (the space of microscopic quantum states):
 4.  
-    $$ T_{\mu\nu}^{(S)} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega $$
+    $$ T_{\mu\nu}^{(S)} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega
+    $$
     
     Here, the integration over the fiber "sums up" the microscopic entropic fluctuations. The result of this integral manifests macroscopically as **mass-energy density**, **pressure**, and **flux**.
 
