@@ -37,18 +37,17 @@ Yes, John Onimisi Obidi explicitly generates **mass** from the **fiber integral*
 The process begins with the **Local Obidi Action ($I_{LOA}$)**, which serves as the geometric sector of the theory. Unlike the standard Einstein-Hilbert action which assumes matter fields, the LOA treats the **entropy field $S(x)$** as the sole fundamental dynamical variable.
 *   **The Action**: The LOA integrates curvature, asymmetric transport, and entropy gradients into a single variational principle:
 
-    $$ I_{LOA} = \int d^4x \sqrt{-g} \left[ \frac{1}{2}(\nabla_\mu S)(\nabla^\mu S) - V(S) + \dots \right]
-    $$
+  $$ I_{LOA} = \int d^4x \sqrt{-g} \left[\frac{1}{2}(\nabla_\mu S)(\nabla^\mu S) - V(S) + \dots \right] $$
     
-    (Note: The full action includes coupling to the emergent metric and higher-order entropic terms).
+   (Note: The full action includes coupling to the emergent metric and higher-order entropic terms).
 *   **Variation**: When this action is varied with respect to the emergent metric $g_{\mu\nu}$, it yields the **Entropic Stress-Energy Tensor** ($T_{\mu\nu}^{(S)}$).
 
 ### 2. The Fiber Integral Mechanism
 The critical step where "information becomes mass" occurs in the definition of $T_{\mu\nu}^{(S)}$. Obidi derives this tensor not as a postulate, but as the **second moment** of the entropic probability distribution over the **momentum fiber spaces**.
 *   **The Formula**:
   
-    $$ T_{\mu\nu}^{(S)}(x) = \int_{\text{fiber } \Omega_x} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega
-    $$
+  $$ T_{\mu\nu}^{(S)}(x) = \int_{\text{fiber} \Omega_x} p_\mu p_\nu \, f_{\text{ent}}(x, \Omega) \, d\Omega
+   $$
     
 *   **Interpretation**:
     *   $f_{\text{ent}}(x, \Omega)$ is the **entropic distribution function** describing the microscopic state of the entropy field at point $x$.
