@@ -96,7 +96,9 @@ In the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/from-info
 
 $T^*_x M$ 
 
-at a given point $x$. To accurately isolate physical information states from the broader mathematical phase space, Obidi structures $\varpi_{p}$ using the spacetime metric determinant $g =\det(g_{\mu\nu})$ and a metric-compatible constraint: [1, 2] 
+at a given point $x$. 
+
+To accurately isolate physical information states from the broader mathematical phase space, Obidi structures $\varpi_{p}$ using the spacetime metric determinant $g =\det(g_{\mu\nu})$ and a metric-compatible constraint: [1, 2] 
 
 $$\varpi_{p} = \frac{1}{\sqrt{-g}} \, \delta(g^{\mu\nu}p_{\mu}p_{\nu} + m^2) \, \theta(p_0) \, dp_0 \wedge dp_1 \wedge dp_2 \wedge dp_3$$ 
 
@@ -145,7 +147,10 @@ $$\left(g_{\mu\nu} \Box - \nabla_{\mu}\nabla_{\nu}\right) f(S) \to 0$$
 $$f(S_0) G_{\mu\nu} = \frac{1}{2} T_{\mu\nu}(S_0) \quad \implies \quad G_{\mu\nu} = \frac{1}{2 f(S_0)} T_{\mu\nu}$$
 
 * **Step 4 (Final Recovery):** By mapping the stable, base informational coupling function to Einstein's gravitational constant—specifically setting $f(S_0) = \frac{1}{16\pi G}$—the Master Entropic Equation identically reproduces classical General Relativity:
-$$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$ [4, 6, 7, 8] 
+  
+$$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$.
+
+[4, 6, 7, 8] 
 
 Would you like to derive the explicit form of the entropic potential $V(S)$ or analyze the attosecond entanglement proofs associated with this limit? [9] 
 
