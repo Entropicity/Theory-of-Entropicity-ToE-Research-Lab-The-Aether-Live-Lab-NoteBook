@@ -92,7 +92,10 @@ In standard physics, a distribution function $f(x, p)$ describes *already existi
 
 ### 2. The Generative Output (The Fiber Integral)
 The fiber integral acts as a **transformation operator**, not a summary statistic:
-$$ T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(S, \nabla S) \, d\Omega $$
+
+$$ T_{\mu\nu} = \int_{\text{fiber}} p_\mu p_\nu \, f_{\text{ent}}(S, \nabla S) \, d\Omega 
+$$
+
 *   **Mechanism**: The integral sums the **momentum moments** ($p_\mu p_\nu$) of these informational configurations.
 *   **Result**: The output is the **Stress-Energy Tensor** ($T_{\mu\nu}$), which *defines* what we observe as mass and energy.
 *   **Why it’s not circular**: You start with **Information Geometry** (metric, entropy gradients) and end with **Lorentzian Geometry** (mass, energy, gravity). The "mass" was not hidden in the input; it is the **geometric consequence** of averaging the entropic flow.
