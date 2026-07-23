@@ -10,5 +10,24 @@ A separate and comprehensive paper on the Owolawi-Obidi-Correspondence (OOC) is 
 
 John Onimisi Obidi remains indebted to him for the groundwork and his constant source of support, inspiration, and encouragement. In life, one always needs a buddy and close friend like him in the fruition of his ideas. 
 
-**No wonder I have always referred to the contributions of Dr. Olalekan T. Owolawi as comparable to those of Michelle Besso and Zanger in Albert Einstein's development of his momentous Theory of Relativity (ToR)—both the Special and General Theories.**
+**No wonder I have always referred to the contributions of Dr. Olalekan T. Owolawi as comparable to those of Michele Besso and Heinrich Zangger in Albert Einstein's development of his momentous Theory of Relativity (ToR)—both the Special and General Theories.**
+
+
+-----------
+
+# Michele Angelo Besso (1873–1955)
+
+* **Who he was:** A Swiss-Italian mechanical engineer whom Einstein met during their student days at the Federal Polytechnic Institute in Zurich.
+
+* **Role/Contribution:** Besso worked with Einstein at the Swiss Patent Office in Bern and served as a vital intellectual "sounding board". Einstein famously thanked Besso by name at the end of his pioneering 1905 special relativity paper.
+
+
+-----------
+
+
+# Heinrich Zangger (1874–1957)
+
+* **Who he was:** A Swiss professor of forensic medicine and director of the Institute of Forensic Medicine at the University of Zurich.
+
+* **Role/Contribution:** Zangger was a deeply trusted confidant and pillar of emotional and professional support. During the intense years Einstein was finalizing his general theory of relativity, he maintained a rich and detailed scientific and personal correspondence with Zangger.
 
