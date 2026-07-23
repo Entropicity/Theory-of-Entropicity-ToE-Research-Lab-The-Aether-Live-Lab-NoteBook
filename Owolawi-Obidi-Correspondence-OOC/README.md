@@ -1,5 +1,5 @@
 
-Correspondence between Dr. Olalekan T. Owolawi and John Onimisi Obidi on the Conceptual, Philosophical and Mathematical Foundations of Obidi's Theory of Entropicity (ToE).
+Correspondence between **Dr. Olalekan T. Owolawi** and **John Onimisi Obidi** on the Conceptual, Philosophical and Mathematical Foundations of Obidi's Theory of Entropicity (ToE).
 
 **This is the basis and foundation of the now famous Owolawi-Obidi-Correspondence (OOC)
 of the Theory of Entropicity (ToE), first hinted at in the published Letter IC (Monograph, Volume I) of the Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS).**
@@ -19,7 +19,9 @@ John Onimisi Obidi remains indebted to him for the groundwork and his constant s
 
 * **Who he was:** A Swiss-Italian mechanical engineer whom Einstein met during their student days at the Federal Polytechnic Institute in Zurich.
 
-* **Role/Contribution:** Besso worked with Einstein at the Swiss Patent Office in Bern and served as a vital intellectual "sounding board". Einstein famously thanked Besso by name at the end of his pioneering 1905 special relativity paper. **Historically, the man Besso was the only "reference and credit" to grace that Einstein revolutionary and epochal paper of his Annus Mirabilis: On the Electrodynamics of Moving Bodies.**
+* **Role/Contribution:** Besso worked with Einstein at the Swiss Patent Office in Bern and served as a vital intellectual "sounding board". Einstein famously thanked Besso by name at the end of his pioneering 1905 special relativity paper.
+
+**Historically, the man Besso was the only "reference and credit" to grace that Einstein revolutionary and epochal paper of his Annus Mirabilis: On the Electrodynamics of Moving Bodies.**
 
 
 -----------
