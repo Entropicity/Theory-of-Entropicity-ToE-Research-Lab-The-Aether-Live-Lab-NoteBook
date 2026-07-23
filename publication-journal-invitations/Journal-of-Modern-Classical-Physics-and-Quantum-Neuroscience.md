@@ -38,7 +38,9 @@ We look forward to the opportunity to collaborate with you.
 Warm regards,
 
 John Ethan
+
 Managing Editor
+
 Journal of Modern Classical Physics & Quantum Neuroscience
 
- 
+https://wmjournals.com/journal/physics
