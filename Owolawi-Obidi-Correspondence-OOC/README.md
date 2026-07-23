@@ -1,5 +1,5 @@
 
-Correspondence between **Dr. Olalekan T. Owolawi** and **John Onimisi Obidi** on the Conceptual, Philosophical and Mathematical Foundations of Obidi's Theory of Entropicity (ToE).
+In this markdown Volume, I preserve the Correspondence between **Dr. Olalekan T. Owolawi** and **John Onimisi Obidi** on the Conceptual, Philosophical and Mathematical Foundations of Obidi's Theory of Entropicity (ToE).
 
 **This is the basis and foundation of the now famous Owolawi-Obidi-Correspondence (OOC)
 of the Theory of Entropicity (ToE), first hinted at in the published Letter IC (Monograph, Volume I) of the Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS).**
