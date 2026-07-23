@@ -1,4 +1,4 @@
-# Did Obidi generate and create mass from the fiber integral of the Entropic Action?
+# Did Obidi generate and create mass and matter from the fiber integral of the Entropic Action?
 
 # Creation-and-Generation-of-Mass-and-Matter-from-the-Fiber-Integrals-of-the-Obidi-Action-on-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE)
 
