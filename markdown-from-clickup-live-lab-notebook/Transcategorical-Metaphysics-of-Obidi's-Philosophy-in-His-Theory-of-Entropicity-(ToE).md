@@ -37,7 +37,7 @@ The **philosophical differences between the Theory of Entropicity (ToE) and quan
 
 ---------------
 
-Obidi's Metaphysics primarily refers to the philosophical and ontological foundations established by theoretical physicist and researcher John Onimisi Obidi through his Theory of Entropicity (ToE). [1, 2] 
+Obidi's Metaphysics primarily refers to the philosophical and ontological foundations established by **theoretical physicist and researcher, philosopher-scientist and humanist John Onimisi Obidi through his Theory of Entropicity (ToE).** [1, 2] 
 
 ## The Core Metaphysical Framework
 Rather than treating space, time, matter, or fields as fundamental constants, Obidi’s framework introduces an ontological shift where entropy is elevated to the primary substance and causal substrate of reality. [3, 4] 
