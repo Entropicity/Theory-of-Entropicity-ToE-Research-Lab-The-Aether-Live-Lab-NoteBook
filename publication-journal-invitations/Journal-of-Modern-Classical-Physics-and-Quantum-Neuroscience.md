@@ -1,9 +1,13 @@
 
 
 ---------- Forwarded message ---------
+
 From: Physics Journal <physics.journals@wmjournals.com>
+
 Date: Fri, Jun 19, 2026, 2:34 AM
+
 Subject: Reg: Submit Your Most Valuable Article
+
 To: <jonimisiobidi@gmail.com>
 
 
