@@ -15,7 +15,7 @@ Dear Dr. John Onimisi Obidi,
 
 Good day to you.
 
-‘’A Simple Explanation of the Unifying Mathematical Architecture of the Theory of Entropicity (ToE) Crucial Elements of ToE as a Field Theory’’.
+**‘’A Simple Explanation of the Unifying Mathematical Architecture of the Theory of Entropicity (ToE) Crucial Elements of ToE as a Field Theory’’.**
 
 We are pleased to invite you to submit your research to our “Journal of Quantum Energy Physics & Dynamics”.
 
@@ -28,21 +28,6 @@ Regards,
 Mary Smit
 
 Editorial Board
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
 Unsubscribe
@@ -76,7 +61,7 @@ Good day to you.
 
 We would like to invite authors to submit their articles to our esteemed Journal of Quantum Energy Physics & Dynamics database.
 
-I’m pleased to invite your posted article: “Entropicity, Neutrino Mixing, and the PMNS Matrix: A New Perspective on Neutrino Oscillations and Symmetries Based on New Insights from the Theory of Entropicity(ToE)” because we are aware of your expertise. 
+I’m pleased to invite your posted article: **“Entropicity, Neutrino Mixing, and the PMNS Matrix: A New Perspective on Neutrino Oscillations and Symmetries Based on New Insights from the Theory of Entropicity(ToE)”** because we are aware of your expertise. 
 
 Submission procedure: Submit your research work on or before May 29th, 2026, via this mail or ONLINE SUBMISSION       
 
