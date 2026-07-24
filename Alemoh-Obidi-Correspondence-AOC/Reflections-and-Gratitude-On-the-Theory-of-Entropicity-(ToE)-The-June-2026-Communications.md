@@ -1,4 +1,58 @@
-# The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—The June 2026 Communications
+# Subject: The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—The June 2026 Communications
+
+------------------
+----------------
+
+
+
+
+------------
+------------
+
+
+
+## Subject: Thoughts on recent photon-splitting findings and your Theory of Entropicity
+
+
+---------- Forwarded message ---------
+From: Daniel Alemoh <danielalemoh2@gmail.com>
+Date: Fri, Jun 19, 2026, 3:01 AM
+Subject: Subject: Thoughts on recent photon-splitting findings and your Theory of Entropicity
+To: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+Dear John Obidi,
+
+I hope you are doing well.
+
+It’s Daniel here—.... I came across an interesting physics write-up recently and it immediately made me think of your Theory of Entropicity.
+
+The article discusses a theoretical quantum optics result where a single photon, when effectively “split” through certain measurement conditions, produces a highly unusual outcome. Instead of behaving in a simple binary way, the system is described as spanning a probability distribution ranging from no photons at all to, in extreme interpretations, a very large—almost unbounded—number of photons.
+
+Here is the link for reference: https://www.livescience.com/physics-mathematics/particle-physics/a-mixture-from-zero-to-infinity-physicists-split-apart-a-photon-and-ended-up-with-an-improbable-swarm-of-particles
+
+What stood out to me is how the system seems to shift between apparent simplicity at the local level and extreme complexity when viewed globally. It feels like there is something deeper going on in how structure emerges from quantum constraints.
+
+I wanted to ask how you think this aligns with your Theory of Entropicity (ToE). Specifically:
+
+Would this kind of “zero-to-infinity” distribution be interpreted as entropic structuring within your framework?
+How do you think the tension between local simplicity and global complexity should be understood through your theory?
+Could this kind of result be seen as evidence that entropy is organizing outcomes rather than just dispersing them?
+
+I’d really appreciate your perspective on whether this supports or refines any part of your thinking.
+
+Looking forward to hearing from you.
+
+Warm regards,
+
+Daniel
+
+
+
+------------
+------------
+
+
 
 
 
