@@ -15,12 +15,12 @@ $$\rho_0(x) = \int_{T^*_x M} f(x,p)\varpi_p$$.
 This defines local mass density. In ToE, mass is not an intrinsic property; it is "frozen" or stabilized internal entropic content. [1, 2] 
 * **First Moment (Entropic Flux):**
 
-$$J_\mu(x) = \int_{T^*_x M}p_\muf(x,p)\varpi_p$$.
+$$J_\mu(x) = \int_{T^*_xM}p_\muf(x,p)\varpi_p$$.
 
 This governs the localized flow of information through the manifold. [1] 
 * Second Moment (Stress-Energy Tensor):
 
-$$\Theta_{\mu\nu}(x) = \int_{T^*_x M}p_\mup_\nu f(x,p)\varpi_p$$. 
+$$\Theta_{\mu\nu}(x) = \int_{T^*_xM}p_\mup_\nu f(x,p)\varpi_p$$. 
 
 In the macroscopic limit, this directly yields the matter stress-energy tensor ($T_{\mu\nu}$) of general relativity. [1, 6] 
 
