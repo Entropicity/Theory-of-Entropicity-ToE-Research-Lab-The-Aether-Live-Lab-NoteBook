@@ -49,4 +49,48 @@ Unsubscribe
 
 This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
 
+
+
+
+ ----------------
+
+
+
+ 
+
+---------- Forwarded message ---------
+
+From: <mary.smit@glintopenaccess.org>
+
+Date: Thu, May 14, 2026, 12:07 PM
+
+Subject: Article Submission to Journal of 
+Quantum Energy Physics & Dynamics
+
+To: <jonimisiobidi@gmail.com>
+
+
+Dear Dr. John Onimisi Obidi,
+
+Good day to you.
+
+We would like to invite authors to submit their articles to our esteemed Journal of Quantum Energy Physics & Dynamics database.
+
+I’m pleased to invite your posted article: “Entropicity, Neutrino Mixing, and the PMNS Matrix: A New Perspective on Neutrino Oscillations and Symmetries Based on New Insights from the Theory of Entropicity(ToE)” because we are aware of your expertise. 
+
+Submission procedure: Submit your research work on or before May 29th, 2026, via this mail or ONLINE SUBMISSION       
+
+We are looking for your response. 
+
+Sincerely,
+
+Mary Smit
+
+(Assistant Managing Editor)
+ 
+
+Unsubscribe
+
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+
  
