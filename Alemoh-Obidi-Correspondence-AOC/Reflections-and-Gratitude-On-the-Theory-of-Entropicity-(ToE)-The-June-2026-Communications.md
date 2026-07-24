@@ -4,7 +4,7 @@
 ----------------
 
 
-## Subject: Questions Regarding the Mathematical Foundations and Predictive Structure of the Theory of Entropicity
+## Subject: Questions Regarding the Mathematical Foundations and Predictive Structure of the Theory of Entropicity (ToE)
 
 
 ---------- Forwarded message ---------
@@ -13,7 +13,7 @@ From: Daniel Alemoh <danielalemoh2@gmail.com>
 
 Date: Mon, Jun 22, 2026, 3:55 PM
 
-Subject: Questions Regarding the Mathematical Foundations and Predictive Structure of the Theory of Entropicity
+**Subject: Questions Regarding the Mathematical Foundations and Predictive Structure of the Theory of Entropicity (ToE)**
 
 To: JOHN OBIDI <jonimisiobidi@gmail.com>
 
@@ -82,7 +82,7 @@ I look forward to any insights you may be willing to share.
 
 Warm Regards,
 
-Daniel 
+**Daniel Alemoh**
 
 ------------
 ------------
@@ -93,9 +93,13 @@ Daniel
 
 
 ---------- Forwarded message ---------
+
 From: Daniel Alemoh <danielalemoh2@gmail.com>
+
 Date: Fri, Jun 19, 2026, 3:01 AM
-Subject: Subject: Thoughts on recent photon-splitting findings and your Theory of Entropicity
+
+**Subject: Subject: Thoughts on recent photon-splitting findings and your Theory of Entropicity (ToE)**
+
 To: JOHN OBIDI <jonimisiobidi@gmail.com>
 
 
@@ -123,7 +127,7 @@ Looking forward to hearing from you.
 
 Warm regards,
 
-Daniel
+**Daniel Alemoh**
 
 
 
@@ -144,7 +148,7 @@ From: Daniel Alemoh <danielalemoh2@gmail.com>
 
 Date: Tue, Jun 9, 2026, 12:19 AM
 
-Subject: Blown Away by the Amari-Čencov Discovery / A Momentous Leap in Entropicity!
+**Subject: Blown Away by the Amari-Čencov Discovery / A Momentous Leap in the Theory of Entropicity (ToE)!**
 
 To: JOHN OBIDI <jonimisiobidi@gmail.com>
 
@@ -168,10 +172,13 @@ Keep pushing the boundaries.
 
 Warmest regards,
 
-Daniel 
+**Daniel Alemoh**
 
 --------------
 -------------
+
+
+## Subject: Re: Reflections and Gratitude on the Theory of Entropicity (ToE)
 
 
 ---------- Forwarded message ---------
@@ -180,7 +187,7 @@ From: Daniel Alemoh <danielalemoh2@gmail.com>
 
 Date: Wed, Jun 3, 2026, 9:02 AM
 
-Subject: Re: Reflections and Gratitude
+**Subject: Re: Reflections and Gratitude on the Theory of Entropicity (ToE)**
 
 To: JOHN OBIDI <jonimisiobidi@gmail.com>
 
@@ -201,4 +208,8 @@ Wishing you peace, good health, and a refreshing week ahead.
 
 Yours sincerely,
 
-Daniel Alemoh 
+**Daniel Alemoh**
+
+
+-----------
+-----------
