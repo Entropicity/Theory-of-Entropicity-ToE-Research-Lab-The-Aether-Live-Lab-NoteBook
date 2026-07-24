@@ -1,4 +1,4 @@
-# The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—the June 2026 Communications
+# The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—The June 2026 Communications
 
 
 ---------- Forwarded message ---------
