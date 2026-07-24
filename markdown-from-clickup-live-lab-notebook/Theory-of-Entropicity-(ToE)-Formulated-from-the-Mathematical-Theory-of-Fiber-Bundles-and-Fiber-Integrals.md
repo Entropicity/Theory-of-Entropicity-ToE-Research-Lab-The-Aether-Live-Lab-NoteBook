@@ -1,4 +1,4 @@
-#  Theoryof Entropicity (ToE) Formulated from the Mathematical Theory of Fiber Bundles and Fiber Integrals 
+#  Theory of Entropicity (ToE) Formulated from the Mathematical Theory of Fiber Bundles and Fiber Integrals 
 
 
 In **John Onimisi Obidi’s Theory of Entropicity (ToE),** fiber integrals serve as the mathematical machinery that translates microscopic information-geometric states into macroscopic physical reality. Instead of treating matter, mass, and spacetime as fundamental building blocks, ToE posits that entropy is the universal scalar field from which everything else emerges. [1, 2, 3, 4] 
