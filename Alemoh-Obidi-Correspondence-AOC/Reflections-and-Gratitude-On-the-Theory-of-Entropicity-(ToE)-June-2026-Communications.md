@@ -1,3 +1,5 @@
+# The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—the June 2026 Communications
+
 
 ---------- Forwarded message ---------
 
@@ -25,4 +27,5 @@ Thank you once again for everything, and for keeping me in your thoughts. I pray
 Wishing you peace, good health, and a refreshing week ahead.
 
 Yours sincerely,
+
 Daniel Alemoh 
