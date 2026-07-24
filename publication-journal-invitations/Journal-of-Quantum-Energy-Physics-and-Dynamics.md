@@ -38,9 +38,48 @@ This email and any files transmitted with it are confidential and intended solel
 
 
  ----------------
+------------------
 
 
 
+
+---------- Forwarded message ---------
+
+From: <mary.smit@glintopenaccess.org>
+
+Date: Thu, May 14, 2026, 12:12 PM
+
+Subject: Submit Today Your Impactful Article: Journal of Quantum Energy Physics & Dynamics
+
+To: <jonimisiobidi@gmail.com>
+
+
+Dear Dr. John Onimisi Obidi,
+
+**“Comparative Analysis Between John Onimisi Obidi's Theory of Entropicity (ToE) and Waldemar Marek Feldt's FELDT-HIGGS Universal Bridge (F-HUB) Theory: From Information Fields to Entropic Dynamics: Evaluating Competing Foundations for a Post-Einsteinian Physics”.**
+
+It is with great pleasure and utmost respect that we extend a sincere invitation for you to submit your esteemed article to our prestigious Journal of Quantum Energy Physics & Dynamics database.
+
+Share your article as an attachment to this email before May 29th, 2026, or online submission portal.
+
+Looking forward to your reply.
+
+Regards,
+
+Mary Smit
+
+(Assistant Managing Editor)
+
+
+Unsubscribe
+
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+
+ 
+
+
+-----------------
+---------------
  
 
 ---------- Forwarded message ---------
