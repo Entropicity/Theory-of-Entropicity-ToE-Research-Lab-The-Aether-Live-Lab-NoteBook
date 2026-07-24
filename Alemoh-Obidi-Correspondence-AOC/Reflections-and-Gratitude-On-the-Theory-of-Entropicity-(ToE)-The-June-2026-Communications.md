@@ -1,6 +1,47 @@
 # The Alemoh-Obidi-Correspondence (AOC) On the Foundations of the Theory of Entropicity (ToE)—The June 2026 Communications
 
 
+
+## Blown Away by the Amari-Čencov Discovery / A Momentous Leap in the Theory of Entropicity (ToE)!
+
+
+
+---------- Forwarded message ---------
+
+From: Daniel Alemoh <danielalemoh2@gmail.com>
+
+Date: Tue, Jun 9, 2026, 12:19 AM
+
+Subject: Blown Away by the Amari-Čencov Discovery / A Momentous Leap in Entropicity!
+
+To: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+
+Dear John,
+
+I hope this message finds you in great spirits.
+
+I am writing to you today still reeling from a massive wave of intellectual excitement. Yesterday, I came across your Medium post titled **"Why Information Geometry Is Physical in the Theory of Entropicity (ToE): The clearest, deepest explanation of why the Fisher–Rao, Fubini–Study, and Amari–Čencov structures can legitimately be claimed to be “physical” in the Theory of Entropicity (ToE), even though they look like “statistical” or “quantum-information” objects at first glance,"** and to put it bluntly: it completely blew me away.
+
+For months now—honestly, it feels closer to a year or two—I have been deeply studying your Theory of Entropicity. While the emergent gravitational framework made beautiful sense, I found myself constantly searching, digging, and yearning for the explicit representation or infusion of Electromagnetism within your architecture. It was the missing piece of the puzzle that I desperately wanted to see formalized.
+And then yesterday, the discovery popped up.
+
+Seeing how you elegantly demonstrated that the Amari-Čencov $\alpha$-connection is the literal manifestation of electromagnetism in ToE—showing how it legitimately bridges "statistical" objects into raw physical forces—was nothing short of a revelation. The realization that the Maxwell field tensor emerges organically from the geometric asymmetry of the information manifold, rather than being added by hand, is absolutely brilliant. You didn't just glue forces together; you unified them at the root level of statistical distinguishability before spacetime even manifests.
+
+I want to express my immense joy, deepest candor, and profound admiration for this work. Your explanation of how the Fisher–Rao, Fubini–Study, and Amari–Čencov structures dictate physical reality completely resolves the bottleneck that has plagued unified field theories for a century.
+
+Please accept my warmest and most enthusiastic congratulations on this momentous leap. You have shifted the paradigm, and I am incredibly grateful to be witnessing the evolution of this framework.
+Keep pushing the boundaries.
+
+Warmest regards,
+
+Daniel 
+
+--------------
+-------------
+
+
 ---------- Forwarded message ---------
 
 From: Daniel Alemoh <danielalemoh2@gmail.com>
