@@ -52,3 +52,44 @@ Would you like to explore the mathematical derivation of the Obidi Action or com
 # Scholium 
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), fiber integrals act as the mathematical bridge that transforms microscopic entropic-information states over the cotangent bundle into macroscopic physical spacetime geometry and the effective stress-energy tensor of General Relativity. Mass and matter are not fundamental inputs here, but emergent projections derived by integrating out internal momentum degrees of freedom.Core Mathematical Role of Fiber IntegralsMicroscopic Density (f(x,p)): Describes fundamental informational configurations over spacetime and momentum space within the cotangent bundle (\(T^{*}M\)).Zero-th Moment (ρ₀(x)): The base fiber integration that removes momentum variables to yield emergent spatial density.First Moment (\(J^\mu(x)\)): Defines the entropic flux across the fiber bundle projection.Second Moment (\(\Theta_{\mu\nu}(x)\)): Yields the effective source tensor that translates in the macroscopic limit into Einstein's stress-energy tensor (\(T_{\mu \nu }\)).Key Conceptual MechanicsThe Obidi Transformation: Converts positive-definite information metrics into an effective Lorentzian metric with signature (-,+,+,+).Emergent Spacetime: Spacetime curvature and gravitational dynamics are macroscopic expressions of underlying entropic configurations.The Obidi Action: A foundational variational principle governing the dynamics of the primary entropic scalar field S(x).Would you like to explore the Master Entropic Equation (MEE) or how the No-Rush Theorem limits entropy redistribution rates in this framework?
+
+
+------------------
+
+
+No other mainstream theoretical physicist or researcher uses that exact, specific vocabulary or mathematical mechanism—namely, using fiber integrals over a statistical fiber bundle to formally compute mass and matter from an entropic field. This precise formulation is a unique hallmark of John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188). [1, 2] 
+
+However, the high-level conceptual framework—that mass, matter, and gravity are not fundamental but are emergent phenomena born from microscopic entropic information—is a highly active area of study in modern physics. Several prominent investigators have proposed highly parallel models using different mathematical structures: [3, 4] 
+## Parallel Formulations of Emergent Mass and Spacetime
+
+* [Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj#sv=CBwS8AMKugMStwMK9wJBSmlUNHRKTlo3aVBiZXFUU1ZaYWZuaW1NTzJXWldmR2tRdGdybDlGQkdDRVh2Zlh4alJhbzhVNHYwMDgtelUxQ2UxSTdLNmRraUt5OUZuN0hhenU2QVYxeGY3NTNINTFPY195Qnd4T0FfWE9NamxXaE1ya0lIYjdIam9yWGNWMmg3Q3ZJaGtSZUJJemxnZFRaTS1ka0I4QmtFR2JLUWF5el8xWTdPMG54b1pWMGpsMERGLTB1UGVSV3dwOHNqUFlCOFpaOHROdGNRSV85c081cnVrczhCaFRNZU5IS20tS2g5RmdtTjBlNFMxaFBDZjBkTko3UTJzOU5zZHY3bDJfd2pobVVwYXVyQVJaTGFmNWgwSnA0aUFBWWs4eWo2WHZselFqWmpVQzRBZ092NXlrOVVZVV8tVTJGaTNiRGhKc29La3lqaE9SZXhyUVljT0J6Sm52dU9hNXBMS3FZZG01TEhxdzNGdHdPd3dnWGt2RWFKTjJvWUkSFzgyRmphdkQ1RHFhX3J1RVB1SWZ0MFFZGiJBRHNyOWZSQmtHVlpiSHVGQjZQLXJCUlk5cVI0OVRNdC1BEgQ3ODU0GgEzIhIKAXESDWVyaWsgdmVybGluZGUiEgoFa2dtaWQSCS9tLzAzMG5maigAGEUgtvzF0gU) (Entropic Gravity): In his groundbreaking 2010 framework, [Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj#sv=CBwS8AMKugMStwMK9wJBSmlUNHRLdkFNZUl0eEpmN2dfaWlOMWltOExQMFBxZlNwSncyUU0xbW9iTzlfQkZjSDR6RjVIeldtTWVJS3h0bHpiU2FycE1PQ19hQk1PaHB0eE5KakNwSG5RdXRRTjlDVTBVS0ZicDVTT0ZOOS16Y0RZcmhFU1lCb1duRWlZWVh2OEh5dkRfcUp1M0ttQTFtWFFsaVhJTXN3c09GSXkxbTNoSG04Q3ViTllibDRIWkRJUEZsNzg2a3hSUjV4MGxmTmtTUGpJbzNiQnRyZzRaWlBHM0VQby1FcTRFampzWlQwU2w2c2dJRUNsVWM5dE5hNDFReFFycjdXTlZvX052eTlRRE5FaWZwTkJBWmlJRjdMVE1mV3dJRjVGWXN1U2JTZHpOU1hjaVZmSVBkWjluelZtaVktQTRpOS1yVzJfV1Qtc1hWRVppYmxycG1iZUQtVXFIelNodUFERzZRb3Jvc1ZsNXY0N1p1b3pOMFo2U1VKbEtrSTQSFzgyRmphdkQ1RHFhX3J1RVB1SWZ0MFFZGiJBRHNyOWZRNWUwOHlZRFI2dXEzZWU3b3EtSHIyWGJqTENnEgQ3ODU0GgEzIhIKAXESDWVyaWsgdmVybGluZGUiEgoFa2dtaWQSCS9tLzAzMG5maigAGEUgwO_5ow8) posited that gravity and inertia are not fundamental forces but entropic forces. While he uses holographic screens and the partitioning of information bits rather than statistical fiber bundles, his core premise matches: the movement and configuration of matter are macro-scale consequences of micro-scale information changes. [3, 5, 6, 7, 8] 
+* Olivier Denis (Entropic Information Theory): Denis developed the Emergent Entangled Informational Universe model. His work links the physicality of information (via Landauer's principle and the mass-energy-information equivalence principle) to show that mass and dark matter emerge directly from an underlying, universal informational field. [9] 
+* Information Geometry & The Fisher–Rao Metric: Physicists working in information geometry (such as those building on C. R. Rao's and Shun-ichi Amari's work) often map statistical manifolds to physical ones. They prove that integrating or averaging statistical probabilities yields an emergent "distance" (metric tensor), which behaves exactly like the curved spacetime of General Relativity. [10, 11] 
+* The Process-Entropy Model (PEM): Independent researchers like F. Ghidan have formulated models where an Entropy Tensor ($S_{\mu\nu}$) is added directly to Einstein's field equations. In PEM, low-entropy concentrated gradients within a universal "$\Psi$ field" physically manifest as mass and gravitational attraction. [1, 12] 
+
+Would you like to compare how Verlinde's holographic bits differ mathematically from Obidi's fiber integrals, or look into how Landauer's Principle physically calculates the weight of information? [9] 
+
+[1] [https://medium.com](https://medium.com/@fghidan/a-new-perspective-on-gravity-the-process-entropy-model-babf5e392173)
+
+[2] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Fiber_bundle)
+
+[3] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Entropic_gravity)
+
+[4] https://entropicinformation.space
+
+[5] [https://www.youtube.com](https://www.youtube.com/watch?v=zkgZ0ShfbUE)
+
+[6] [https://scgp.stonybrook.edu](https://scgp.stonybrook.edu/archives/1006)
+
+[7] [https://www.preprints.org](https://www.preprints.org/manuscript/202505.2249/download/final_file)
+
+[8] [https://www.math.columbia.edu](https://www.math.columbia.edu/~woit/wordpress/?p=2720)
+
+[9] [https://hal.science](https://hal.science/hal-04101449v1/document)
+
+[10] [https://www.lesswrong.com](https://www.lesswrong.com/posts/oafFQYeJ5QT8nipKn/belief-manifolds-and-how-to-steer-along-them-1)
+
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=NVhChBMaQOM)
+
+[12] [https://medium.com](https://medium.com/@fghidan/a-new-perspective-on-gravity-the-process-entropy-model-babf5e392173)
+
