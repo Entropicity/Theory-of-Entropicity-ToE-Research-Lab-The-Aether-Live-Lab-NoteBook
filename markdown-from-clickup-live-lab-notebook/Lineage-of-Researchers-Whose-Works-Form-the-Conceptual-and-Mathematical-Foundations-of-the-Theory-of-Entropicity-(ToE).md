@@ -41,9 +41,9 @@ Developed Unified Entropic Dynamics (UED), showing classical, quantum, thermodyn
 These researchers showed gravity is not fundamental but entropic.
 
 Erik Verlinde — Gravity as an entropic force (2010–2011).
-Derived Einstein gravity from information changes and holography. 
+Derived Newtonian gravity and the laws of Newton from information changes and holography. 
 
-Ted Jacobson — Derived Einstein equations from thermodynamics (1995).
+Ted Jacobson — Derived Einstein field equations from thermodynamics (1995).
 Showed spacetime obeys the Clausius relation δQ = T dS.
 
 T. Padmanabhan — Gravity as thermodynamics of spacetime.
@@ -97,7 +97,7 @@ Obidi’s work is the unification point of all previous lineages.
 
 ---
 
-⭐ FINAL SUMMARY — The Complete Lineage Feeding Into the Theory of Entropicity (ToE)
+⭐ CONCISE SUMMARY — The Complete Lineage Feeding Into the Theory of Entropicity (ToE)
 
 Information Geometry → Entropic Dynamics → Entropic Gravity → Statistical Physics → Quantum Information → Obidi’s ToE
 
