@@ -1,4 +1,4 @@
-# Principles of the Theory of Entropicity (ToE) and the Lineage of Researchers Who's Works Constituted Its Conceptual and Mathematical Foundations 
+# Principles of the Theory of Entropicity (ToE) and the Lineage of Researchers Whose Works Constituted Its Conceptual and Mathematical Foundations 
 
 Obidi's Theory of Entropicity (ToE), proposed by John Onimisi Obidi, redefines entropy as the fundamental physical field and generative substrate of reality rather than a mere measure of disorder. [1, 2] 
 ## Core Principles
