@@ -8,10 +8,12 @@ No entropic gradients→No Čencov tensor → No curvature→No gravity.
 ## 🔶 1️⃣ Dual Connections and the Čencov Structural Tensor
 On a statistical manifold with Fisher information metric gᵢⱼ, the Amari–Čencov connections are:
 
-- Mixture connection (+1):  
+- Mixture connection (+1):
+  
   Γ⁽¹⁾ = Γ⁽⁰⁾ + ½·C
   
-- Exponential connection (−1):  
+- Exponential connection (−1):
+  
   Γ⁽⁻¹⁾ = Γ⁽⁰⁾ − ½·C
 
 Here, Cᵢⱼₖ is the Čencov structural tensor — the “entropic curvature generator.” These two connections represent opposing informational update geometries: one linear (mixture), one exponential (log‑linear). Their divergence encodes the entropic structure of the manifold.
@@ -28,11 +30,15 @@ If either the +1 or −1 connection is individually flat (as in exponential fami
 Obidi shows that the physical Riemann curvature tensor is:
 
 R⁽⁰⁾ = ½·(R⁽¹⁾ + R⁽⁻¹⁾) − ¼·(C·C − C·C)
+
 In ToE’s informationally flat substrate:
+
 - R⁽¹⁾ = 0  
+
 - R⁽⁻¹⁾ = 0
 
 So the physical curvature reduces to:
+
 R⁽⁰⁾ = −¼·(C × C)
 
 Thus:
@@ -43,11 +49,14 @@ The tensor Cᵢⱼₖ acts as the entropic “shear” that generates curvature 
 ## 🔶 4️⃣ The Physical Interpretation
 🔹 Gravity = Entropic Friction
 Curvature emerges from the algebraic clash between the +1 and −1 informational update rules. This “friction” is encoded in the Čencov tensor. Gravity is therefore the macroscopic geometric shadow of microscopic entropic divergence.
+
 🔹 No Entropy→No Curvature
 If the entropic field is uniform:
 
 - Cᵢⱼₖ = 0
+  
 - ⇒ Rᵢⱼₖₗ = 0  
+
 - ⇒ spacetime becomes flat (Minkowski)
 
 This is a direct mathematical demonstration of ToE’s core claim:
