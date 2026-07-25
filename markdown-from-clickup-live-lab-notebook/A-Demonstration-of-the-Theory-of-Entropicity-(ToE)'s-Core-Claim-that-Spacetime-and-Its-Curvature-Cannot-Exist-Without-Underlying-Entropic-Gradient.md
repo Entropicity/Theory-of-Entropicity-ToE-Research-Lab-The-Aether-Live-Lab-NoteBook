@@ -6,6 +6,7 @@ This is the heart of ToE’s claim:
 No entropic gradients→No Čencov tensor → No curvature→No gravity.
 
 ## 🔶 1️⃣ Dual Connections and the Čencov Structural Tensor
+
 On a statistical manifold with Fisher information metric gᵢⱼ, the Amari–Čencov connections are:
 
 - Mixture connection (+1):
@@ -19,17 +20,23 @@ On a statistical manifold with Fisher information metric gᵢⱼ, the Amari–Č
 Here, Cᵢⱼₖ is the Čencov structural tensor — the “entropic curvature generator.” These two connections represent opposing informational update geometries: one linear (mixture), one exponential (log‑linear). Their divergence encodes the entropic structure of the manifold.
 
 ## 🔶 2️⃣ The Riemann Curvature Tensor
+
 The curvature of any affine connection is defined by the failure of covariant derivatives to commute:
 
 R = ∂Γ + Γ·Γ − (terms with k ↔ l)
 
-If either the +1 or −1 connection is individually flat (as in exponential families), its curvature vanishes. Yet physical curvature does not vanish — meaning it must arise from the interaction between the two dual connections. Key insight: curvature is not a primitive geometric axiom but a statistical consequence of entropic asymmetry.
+If either the +1 or −1 connection is individually flat (as in exponential families), its curvature vanishes. Yet physical curvature does not vanish — meaning it must arise from the interaction between the two dual connections. 
+
+Key insight: 
+
+curvature is not a primitive geometric axiom but a statistical consequence of entropic asymmetry.
 
 ## 🔶 3️⃣ The Explicit Construction: Curvature = Clash of Dual Structures
 
 Obidi shows that the physical Riemann curvature tensor is:
 
 R⁽⁰⁾ = ½·(R⁽¹⁾ + R⁽⁻¹⁾) − ¼·(C·C − C·C)
+
 
 In ToE’s informationally flat substrate:
 
@@ -39,6 +46,7 @@ In ToE’s informationally flat substrate:
 
 So the physical curvature reduces to:
 
+
 R⁽⁰⁾ = −¼·(C × C)
 
 Thus:
@@ -47,6 +55,7 @@ Thus:
 The tensor Cᵢⱼₖ acts as the entropic “shear” that generates curvature when informational flows disagree.
 
 ## 🔶 4️⃣ The Physical Interpretation
+
 🔹 Gravity = Entropic Friction
 Curvature emerges from the algebraic clash between the +1 and −1 informational update rules. This “friction” is encoded in the Čencov tensor. Gravity is therefore the macroscopic geometric shadow of microscopic entropic divergence.
 
