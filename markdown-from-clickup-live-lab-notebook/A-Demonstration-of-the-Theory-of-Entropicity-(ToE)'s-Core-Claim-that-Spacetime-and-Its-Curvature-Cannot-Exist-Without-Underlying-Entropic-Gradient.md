@@ -7,8 +7,10 @@ No entropic gradients→No Čencov tensor → No curvature→No gravity.
 
 ## 🔶 1️⃣ Dual Connections and the Čencov Structural Tensor
 On a statistical manifold with Fisher information metric gᵢⱼ, the Amari–Čencov connections are:
+
 - Mixture connection (+1):  
   Γ⁽¹⁾ = Γ⁽⁰⁾ + ½·C
+  
 - Exponential connection (−1):  
   Γ⁽⁻¹⁾ = Γ⁽⁰⁾ − ½·C
 
@@ -16,19 +18,25 @@ Here, Cᵢⱼₖ is the Čencov structural tensor — the “entropic curvature 
 
 ## 🔶 2️⃣ The Riemann Curvature Tensor
 The curvature of any affine connection is defined by the failure of covariant derivatives to commute:
+
 R = ∂Γ + Γ·Γ − (terms with k ↔ l)
+
 If either the +1 or −1 connection is individually flat (as in exponential families), its curvature vanishes. Yet physical curvature does not vanish — meaning it must arise from the interaction between the two dual connections. Key insight: curvature is not a primitive geometric axiom but a statistical consequence of entropic asymmetry.
 
 ## 🔶 3️⃣ The Explicit Construction: Curvature = Clash of Dual Structures
 
 Obidi shows that the physical Riemann curvature tensor is:
+
 R⁽⁰⁾ = ½·(R⁽¹⁾ + R⁽⁻¹⁾) − ¼·(C·C − C·C)
 In ToE’s informationally flat substrate:
 - R⁽¹⁾ = 0  
 - R⁽⁻¹⁾ = 0
+
 So the physical curvature reduces to:
 R⁽⁰⁾ = −¼·(C × C)
+
 Thus:
+
 > Spacetime curvature is literally the antisymmetrized product of Čencov tensors — the “friction” between mixture and exponential information geometries.
 The tensor Cᵢⱼₖ acts as the entropic “shear” that generates curvature when informational flows disagree.
 
@@ -37,14 +45,20 @@ The tensor Cᵢⱼₖ acts as the entropic “shear” that generates curvature 
 Curvature emerges from the algebraic clash between the +1 and −1 informational update rules. This “friction” is encoded in the Čencov tensor. Gravity is therefore the macroscopic geometric shadow of microscopic entropic divergence.
 🔹 No Entropy→No Curvature
 If the entropic field is uniform:
-- Cᵢⱼₖ = 0  
+
+- Cᵢⱼₖ = 0
 - ⇒ Rᵢⱼₖₗ = 0  
 - ⇒ spacetime becomes flat (Minkowski)
+
 This is a direct mathematical demonstration of ToE’s core claim:
 > Spacetime curvature cannot exist without underlying entropic gradients.
 Gravity is not a primitive force—it is emergent from entropy.
 
 
-For Details:
-📚Reference(s):
-The Canonical Archives: https://entropicity.github.io/Theory-of-Entropicity-ToE/
+**For Details:**
+
+## 📚Reference(s):
+
+The Canonical Archives: 
+
+https://entropicity.github.io/Theory-of-Entropicity-ToE/
