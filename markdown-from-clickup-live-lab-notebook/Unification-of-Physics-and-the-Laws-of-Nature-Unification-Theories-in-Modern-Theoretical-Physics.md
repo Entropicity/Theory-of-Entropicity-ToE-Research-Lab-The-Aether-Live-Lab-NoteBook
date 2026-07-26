@@ -55,6 +55,31 @@ The mathematical architecture of ToE moves away from fixed geometric containers,
 
 * **The "No-Rush" Theorem:** A mathematical assertion that all local physical interactions require a finite, non-zero time interval for the entropic field to redistribute and synchronize. [1, 6, 12] 
   
+------------------------------
+
+* **The No-Go Theorem (NGT):** The No-Go Theorem (NGT) within the Theory of Entropicity establishes a strict mathematical boundary by proving that it is impossible to construct a self-consistent, deterministic description of localized physical states without accounting for the global entropic field substrate. In essence, it asserts that any attempt to isolate a sub-system to a zero-entropy, perfectly defined state mathematically collapses the localized Fisher-Rao information metric, resulting in a singularity within the triadic information geometry. The NGT effectively outlaws absolute reductionism, demonstrating that what we perceive as independent particles or objective local variables are structurally inseparable from the continuous entropic manifold, thereby embedding a fundamental, irreducible non-locality into the very fabric of physical reality. [1]
+  
+If you are interested in exploring this further, we can:
+
+* Detail the mathematical proof of how the local information metric collapses.
+* Explain how the NGT addresses or circumvents the EPR paradox and Bell's Theorem.
+* Discuss its implications for the limits of quantum computing and information storage. [2, 3, 4, 5, 6] 
+
+Let us know which direction you would like to take!
+
+[1] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/No-go_theorem)
+
+[2] [https://link.aps.org](https://link.aps.org/doi/10.1103/PhysRevD.110.L101901)
+
+[3] [https://www.preprints.org](https://www.preprints.org/manuscript/202601.2239)
+
+[4] [https://inspirehep.net](https://inspirehep.net/files/24919acc99886d47cb0a2300af2c6a44)
+
+[5] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5493939/)
+
+[6] [https://physicsworld.com](https://physicsworld.com/a/no-go-theorem-illuminates-how-quantum-processes-are-constrained-by-classical-causality/)
+
+
 
 ------------------------------
 
