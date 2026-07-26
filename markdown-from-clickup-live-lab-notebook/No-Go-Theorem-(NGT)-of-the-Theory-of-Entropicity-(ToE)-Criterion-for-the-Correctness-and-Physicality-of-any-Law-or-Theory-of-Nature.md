@@ -1,6 +1,9 @@
 
 # 🌌 The No-Go Theorem (NGT) of the Theory of Entropicity (ToE): Criterion for the Correctness and Physicality of any Law or Theory of Nature
 
+## Reference:
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/3868778412eec49b2dfbcfe816d35bcffb07db32/markdown-from-clickup-live-lab-notebook/Unification-of-Physics-and-the-Laws-of-Nature-Unification-Theories-in-Modern-Theoretical-Physics.md
+
 ## 🔷 Entropy as the Supreme Constraint of Nature
 
 In the ToE, Obidi formulates the NGT as the ultimate criterion for physical admissibility. 
