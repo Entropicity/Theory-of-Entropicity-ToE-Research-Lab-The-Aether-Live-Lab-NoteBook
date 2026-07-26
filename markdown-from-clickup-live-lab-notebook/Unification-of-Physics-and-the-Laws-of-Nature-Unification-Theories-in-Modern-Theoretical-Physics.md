@@ -58,7 +58,7 @@ The mathematical architecture of ToE moves away from fixed geometric containers,
 
 ------------------------------
 
-## 2. Comparison with Existing Quantum Gravity Theories
+## 2. Comparison of the Theory of Entropicity (ToE) with Existing Quantum Gravity Theories
 ToE differs drastically from mainstream quantum gravity programs by treating gravity as an emergent property of information geometry rather than a fundamental quantized force: [6, 11, 13] 
 
 | Feature | Theory of Entropicity (ToE) | String Theory | Loop Quantum Gravity (LQG) | Verlinde’s Entropic Gravity |
