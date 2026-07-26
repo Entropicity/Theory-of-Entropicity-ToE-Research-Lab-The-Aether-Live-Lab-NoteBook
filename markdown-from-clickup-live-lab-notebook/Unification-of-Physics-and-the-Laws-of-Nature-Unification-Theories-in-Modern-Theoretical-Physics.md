@@ -1,4 +1,4 @@
-# Unification of Physics and the Laws of Nature: Unification Theories in Modern Theoretical Physics 
+# Unification of Physics and the Laws of Nature: Unification Theories in Modern Theoretical Physics—Valiant Attempts of the Theory of Entropicity (ToE)
 
 John Onimisi Obidi's work on the Theory of Entropicity (ToE) focuses on unifying physical laws, focusing on a single underlying substance or mathematical framework from which all matter, energy, and forces emerge.
 
