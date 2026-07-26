@@ -45,7 +45,7 @@ Under ToE, the wave function ($\psi$) is not a physical object, nor does it requ
 Obidi introduces the Vuli-Ndlela Integral, which modifies Feynman's path integral formulation by applying entropy-based weighting to histories. Paths that generate entropic interactions exceeding the threshold inequality (governed by the Obidi Curvature Invariant of $\ln(2)$) undergo a natural phase transition. Reality filters out non-realized states purely based on thermodynamic irreversibility, completely independent of whether a measurement device or a human is looking. [3, 18, 19] 
 
 ## Observers as Constrained Subsystems [3] 
-Instead of placing the observer outside the system, ToE forces the observer inside the system. [13, 15] 
+Instead of placing the observer outside the system, the Theory of Entropicity (ToE) forces the observer inside the system. [13, 15] 
 
 
 * **Pre-Computed Dynamics:** The observer, the measuring device, and the quantum particle are all local subsystems embedded within the exact same overarching entropic field. [13] 
@@ -53,7 +53,7 @@ Instead of placing the observer outside the system, ToE forces the observer insi
 * **The Illusion of Choice:** The apparent "collapse" is simply the localized entropic field forces equalizing and distributing state information to the observer subsystem. [1, 13] 
 * 
 
-By making the universal entropic field monistic and entirely generative, Obidi attempts to show that the universe does not wait for an observer to choose reality; the entropic field has already dynamically mapped the state progression beforehand. [4, 13] 
+By making the universal entropic field monistic and entirely generative, Obidi attempts to show that the universe does not wait for an observer to choose reality or realize itself; the entropic field has already dynamically mapped the state progression beforehand. [4, 13] 
 
 ------------------------------
 
