@@ -1,5 +1,8 @@
 # Unification of Physics and the Laws of Nature: Unification Theories in Modern Theoretical Physics—Valiant Attempts of the Theory of Entropicity (ToE)
 
+## Reference:
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/b01ccc970b6a999429bcbdf8b9767f0045816e69/markdown-from-clickup-live-lab-notebook/No-Go-Theorem-(NGT)-of-the-Theory-of-Entropicity-(ToE)-Criterion-for-the-Correctness-and-Physicality-of-any-Law-or-Theory-of-Nature.md
+
 John Onimisi Obidi's work on the Theory of Entropicity (ToE) focuses on unifying physical laws, focusing on a single underlying substance or mathematical framework from which all matter, energy, and forces emerge.
 
 ## Core Concepts of a Singular Substrate
