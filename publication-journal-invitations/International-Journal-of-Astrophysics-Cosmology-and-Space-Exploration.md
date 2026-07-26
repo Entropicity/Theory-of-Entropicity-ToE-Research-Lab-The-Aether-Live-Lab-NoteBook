@@ -12,7 +12,7 @@ Date: Mon, Mar 23, 2026, 11:40 PM
 
 To: <jonimisiobidi@gmail.com>
 
-Dear Dr. John Onimisi Obidi,
+**Dear Dr. John Onimisi Obidi,**
 
 Good day to you.
 
@@ -30,7 +30,7 @@ Looking forward to your reply.
 
 Best regards,
 
-Mila Hayes
+**Mila Hayes**
 
 Glint Open Access
 
