@@ -196,7 +196,7 @@ Would you like to look at the mathematical conditions Obidi prescribes to bridge
 # 🔷 The No‑Go Theorem (NGT) of the Theory of Entropicity (ToE)
 In Obidi’s No‑Go Theorem (NGT), entropy is elevated to the supreme criterion of physical admissibility: any law or theory of nature that is incompatible with entropy cannot exist and cannot be a correct description of reality. 
 
-**The No-Go Theorem (NGT) asserts that**:
+**The No-Go Theorem (NGT) of Obidi's Theory of Entropicity (ToE) asserts that**:
 > reversible laws—whether classical or quantum—are fundamentally incomplete unless they satisfy specific irreversibility conditions prescribed by the Entropic Field. Under NGT, a reversible equation must reduce to a classical, entropy‑respecting limit where macroscopic irreversibility naturally emerges from the underlying entropic geometry. 
 
 ## If a theory cannot meet these requirements, Obidi shows that its mathematical structure collapses into contradiction, making it physically impossible. 
