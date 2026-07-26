@@ -29,8 +29,9 @@ https://doi.org/10.47191/ijcsrr/V8-i11-21
 
 ------
 Thanks
+
 Journal Manager 
 
-International Journal of Current Science Research and Review (IJCSRR)
+**International Journal of Current Science Research and Review (IJCSRR)**
 
 Google Scholar,  Academia,  Orcid ID,  LinkedIn,  SciProfile,  OpenAlex
