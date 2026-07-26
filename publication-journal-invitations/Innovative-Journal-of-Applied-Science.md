@@ -29,11 +29,12 @@ Best regards,
 
 **Innovative Journal of Applied Science**
 
-
+-----------
 
 On 2025-11-08 01:57, JOHN OBIDI wrote:
 
 Dear Team,
+
 Please find attached for your information!
  
 Corresponding Author: John Onimisi Obidi 
@@ -52,6 +53,7 @@ Kindest regards,
 
 **John**
 
+----------------
 
 On Fri, Nov 7, 2025, 3:53 AM Science <appliedscience@research-meteorpub.com> wrote:
 Dear Dr. John Onimisi Obidi,
@@ -75,7 +77,7 @@ Best regards,
 
 Editorial Team
 
-
+----------------
 
 On 2025-11-06 17:49, JOHN OBIDI wrote:
 
@@ -87,13 +89,15 @@ Kindest regards,
 
 John
  
+----------------
 
 On Thu, Nov 6, 2025 at 5:57 AM Science <appliedscience@research-meteorpub.com> wrote:
-Dear Dr. John Onimisi Obidi,
+
+**Dear Dr. John Onimisi Obidi,**
 
 Hope this email finds you well!
 
-We have gone through your preprint work entitled "The Theory of Entropicity (ToE) Derives Einstein's Relativistic Speed of Light (c) as a Function of the Entropic Field: ToE Applies Logical Entropic Concepts and Principles to Derive Einstein's Second Postulate (Version 2.0)" and enthralled to know about your reputation and commitment.
+We have gone through your preprint work entitled **"The Theory of Entropicity (ToE) Derives Einstein's Relativistic Speed of Light (c) as a Function of the Entropic Field: ToE Applies Logical Entropic Concepts and Principles to Derive Einstein's Second Postulate (Version 2.0)"** and enthralled to know about your reputation and commitment.
 
 We strongly believe that this potential research would be beneficial to the people working in the field of Innovative Journal of Applied Science.
 
@@ -106,7 +110,9 @@ Looking forward for your response
 Have a nice day ahead.
 
 Best Regards,
+
 Editor in Chief
+
 ISSN: 3049-3072
 
 
