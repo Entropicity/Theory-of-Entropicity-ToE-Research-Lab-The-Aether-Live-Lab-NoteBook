@@ -1,4 +1,4 @@
-# International Journal of Astrophysics Cosmology and Space Exploration
+# International Journal of Astrophysics, Cosmology and Space Exploration
 
 
 
