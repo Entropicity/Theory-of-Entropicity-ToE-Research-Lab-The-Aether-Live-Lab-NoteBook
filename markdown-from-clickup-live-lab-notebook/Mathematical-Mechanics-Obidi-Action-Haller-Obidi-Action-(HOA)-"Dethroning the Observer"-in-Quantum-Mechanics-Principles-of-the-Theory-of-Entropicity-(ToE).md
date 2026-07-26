@@ -8,8 +8,13 @@ In the **Theory of Entropicity (ToE)** formulated by **[John Onimisi Obidi](http
 The Obidi Action ($S_{\text{Obidi}}$) is the central variational principle of the theory. It plays a role identical to the Principle of Least Action in classical mechanics or the Einstein-Hilbert action in General Relativity. However, instead of minimizing kinetic/potential differences or geometric curvature, it minimizes "entropic resistance" across an information-geometric manifold. [4, 5] 
 
 ## The Covariant Entropic Lagrangian [6] 
-In ToE, the standard physical action is rewritten to show that classical and quantum fields are manifestations of the local dynamics of the entropic field $S(x)$. According to [Obidi's recent publications on Cambridge Engage](https://www.cambridge.org/engage/coe/article-details/69e5ddf3810b9dcc824e10b0), the field dynamics can be mapped to a worldline single-particle sector via the Haller-Obidi Action. This utilizes John L. Haller Jr.'s entropy-action identity ($H = \frac{2}{\hbar}\int(mc^2 - L)dt$) and lifts it into a fully covariant field formulation. [6, 7, 8] 
-The generalized covariant entropic Lagrangian ($\mathcal{L}_{\text{ent}}$) is written as:
+In ToE, the standard physical action is rewritten to show that classical and quantum fields are manifestations of the local dynamics of the entropic field $S(x)$. According to [Obidi's recent publications on Cambridge Engage](https://www.cambridge.org/engage/coe/article-details/69e5ddf3810b9dcc824e10b0), the field dynamics can be mapped to a worldline single-particle sector via the Haller-Obidi Action. This utilizes John L. Haller Jr.'s entropy-action identity: 
+
+($H = \frac{2}{\hbar}\int(mc^2 - L)dt$) 
+
+and lifts it into a fully covariant field formulation. [6, 7, 8] 
+
+The generalized covariant entropic Lagrangian ($\mathcal{L}_{\text{ent}}$) is written by Obidi in his Theory of Entropicity (ToE) as:
 
 $$\mathcal{L}_{\text{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial_\mu S)$$ 
 
@@ -19,7 +24,7 @@ Where:
 * $c$ is the speed of light, defined in ToE as the maximum rate of local entropic reconfiguration.
 * $u^\mu$ is the four-velocity of the system.
 * $\partial_\mu S$ represents the local gradient of the entropic field. [1, 6, 9, 10, 11] 
-* 
+  
 
 ## Information-Geometric Unification
 The full Obidi Action embeds these dynamics into a triadic information geometry. Rather than treating physical properties as static values, it uses an iterative, probabilistic manifold: [3, 10, 12] 
@@ -100,3 +105,62 @@ Let us know how you would like to proceed.
 [19] [https://grokipedia.com](https://grokipedia.com/page/John_Onimisi_Obidi)
 
 [20] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+
+---------------
+
+# Scholium 
+
+
+John Onimisi Obidi is a scientific researcher, physicist, philosopher, and humanist who is best known as the creator of the Theory of Entropicity (ToE); and publishes academic frameworks proposing a radical restructuring of the foundations of theoretical physics. [1, 2, 3] 
+
+Importantly, he is a distinct personality from the well-known Nigerian social media consultant who shares a similar name. [1, 4] 
+
+## The Theory of Entropicity (ToE)
+
+Obidi's primary contribution to theoretical physics is the Theory of Entropicity (ToE), a non-mainstream framework positioned as a candidate for a Grand Unified Theory. Rather than viewing entropy as a statistical abstraction or a passive byproduct of disorder, his theory treats it as the foundational, dynamic field of reality (S(x)) from which space, time, gravity, and quantum mechanics emerge. [5, 6, 7, 8] 
+
+## Key pillars of his published work include:
+
+* **The Master Entropic Equation (MEE):** An entropic field equation analogous to Einstein's Field Equations of General Relativity. It attempts to show how thermodynamic variables drive spacetime curvature. [9, 10, 11] 
+* **The Obidi Action:** A universal variational principle used to derive physical laws and unify classical and quantum information geometries. [12, 13] 
+* **Reinterpreting the Speed of Light (c):** In ToE, the speed of light is not an independent geometric constant, but rather the maximum rate at which the universal entropic field can rearrange and redistribute itself. [8, 14] 
+* **Ontodynamics:** An extension of his physical theories into philosophy, studying existence itself as a consequence of entropic motion and irreversible state distribution. [3, 15] 
+  
+
+His papers and research profiles can be found on platforms such as [Google Scholar](https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/John-Obidi-4), and his professional thoughts are shared via [LinkedIn](https://ng.linkedin.com/in/john-onimisi-obidi-a2041911) and Medium. [1, 2, 4, 16] 
+
+If you would like, we can provide more details on the mathematical equations behind the Obidi Action or explain how **his theory successfully attempts to dethrone the observer** in quantum mechanics. [8, 11] 
+
+[1] [https://www.researchgate.net](https://www.researchgate.net/profile/John-Obidi-4)
+
+[2] [https://ng.linkedin.com](https://ng.linkedin.com/in/john-onimisi-obidi-a2041911)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
+
+[6] [https://notd.io](https://notd.io/@jonimisiobidi)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/on-obidis-ontodynamics-of-being-and-becoming-in-his-theory-of-entropicity-toe-552720452514)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921)
+
+[10] [https://figshare.com](https://figshare.com/authors/John_Onimisi_Obidi/20850605)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-action-and-the-mathematical-rigour-of-the-theory-of-entropicity-toe-c578ac498a88)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1)
+
+[13] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-foundations-of-the-theory-of-entropicity-toe-conceptual-and-mathematical-formulation-2f0228b320fc)
+
+[14] [https://medium.com](https://medium.com/@jonimisiobidi/how-has-obidi-explained-the-origin-of-the-speed-of-light-c-using-his-theory-of-entropicity-toe-412c2bd12e24)
+
+[15] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+[16] [https://scholar.google.com](https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en)
+
