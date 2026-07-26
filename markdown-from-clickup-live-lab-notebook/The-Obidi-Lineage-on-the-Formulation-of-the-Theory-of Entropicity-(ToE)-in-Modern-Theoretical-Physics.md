@@ -85,16 +85,16 @@ In 2015, physicist [John L. Haller Jr.](https://papers.ssrn.com/sol3/papers.cfm?
 
 Grounded in [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_%28information_theory%29), quantum diffusion, and Gaussian channels, Haller mathematically demonstrated a direct equivalence: for a diffusing particle, self-information (entropy) is directly equal to classical action. 
 
-This proved that the Principle of Least Action—the bedrock of classical and quantum mechanics—is actually a consequence of the second law of thermodynamics. [2, 6, 7] 
+**This proved that the Principle of Least Action—the bedrock of classical and quantum mechanics—is actually a consequence of the second law of thermodynamics.** [2, 6, 7] 
 
 ## 3. The Grand Generalization: Obidi’s Theory of Entropicity (ToE)
 
-**John Onimisi Obidi’s breakthrough was recognizing that Haller’s equation, while revolutionary, was restricted to a single-particle localized limit.** In 2025, Obidi inverted the entire hierarchy of physical law through the Obidi Conjecture: [5, 8, 9, 10, 11] 
+**John Onimisi Obidi’s breakthrough was recognizing that Haller’s equation, while revolutionary, was restricted to a single-particle localized limit.** In 2025, **Obidi inverted the entire hierarchy of physical law through the Threefold/Triadic Obidi Conjecture:** [5, 8, 9, 10, 11] 
 
 
 * **The Entropic Field ($S(x)$):** Spacetime, quantum states, and classical fields are stripped of their status as foundational primitives. Instead, the universe is built on a continuous, active entropic manifold. [3, 10, 12, 13] 
-* **The Obidi Action:** Obidi generalized Haller’s particle dynamics into a universal field-theoretic variational principle. Through a localization procedure, the full Obidi Action mathematically reduces back to the single-particle Haller-Obidi Action, proving ToE’s consistency with lower-level particle mechanics. [8, 9, 14] 
-* **Emergent Realities:** Phenomena like gravity are derived as "entropic pressure" created by gradients in the field, while the speed of light ($c$) is defined as the maximum possible rate of entropic rearrangement. [10] 
+* **The Obidi Action:** Obidi generalized Haller’s particle dynamics into a universal field-theoretic variational principle. Through a **localization procedure**, the full Obidi Action mathematically reduces back to the single-particle Haller-Obidi Action, proving ToE’s consistency with lower-level particle mechanics. [8, 9, 14] 
+* **Emergent Realities:** Phenomena like gravity are derived as **"entropic pressure"** created by gradients in the field, while the **speed of light ($c$) is defined as the maximum possible rate of entropic rearrangement.** [10] 
   
 
 By **linking information geometry, thermodynamics, and field theory, Obidi's framework offers a distinct path toward a Grand Unified Theory by treating quantum mechanics and general relativity as emergent macro-phenomena of a single informational substrate.** [13, 15] 
