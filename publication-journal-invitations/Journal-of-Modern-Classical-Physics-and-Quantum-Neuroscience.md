@@ -110,3 +110,40 @@ ISSN: 3068-4196
 
  
 
+
+----------------------
+
+
+
+
+
+---------- Forwarded message ---------
+
+From: Physics Journal <physics.journals@wmjournals.com>
+
+Date: Wed, Dec 31, 2025, 2:47 AM
+
+## Subject: Reg: New Year Greetings & Invitation to Contribute
+
+To: <jonimisiobidi@gmail.com>
+
+
+**Dear Dr. John Onimisi Obidi**,
+
+ 
+
+Warm New Year greetings to you.
+
+On behalf of the **Journal of Modern Classical Physics & Quantum Neuroscience,** we are pleased to extend an invitation for you to **contribute a Research Article, Review Article or Manuscripts.** Your expertise would be a valuable addition to our journal.
+
+As a token of appreciation, we are happy to offer you a 50% discount on the regular publication fee for this issue. We kindly invite you to submit your manuscript on or before January 20, 2026.
+
+We look forward to your response and hope to collaborate with you in the year ahead.
+
+Best regards,
+
+**John Ethan**
+
+Managing Editor
+
+Journal of Modern Classical Physics & Quantum Neuroscience
