@@ -40,8 +40,17 @@ In **John Onimisi Obidi’s Theory of Entropicity (ToE)**, fiber integrals are u
 By defining mathematical projections over fiber bundles, Obidi eliminates microscopic momentum variables to produce the macroscopic tensors that drive Einstein's General Relativity equations. [1] 
 
 ------------------------------
+
 ## 1. The Core Mechanism: Coarse-Graining Information
-Obidi utilizes a fiber bundle structure where the projection map $\pi: T^*M \to M$ links each momentum state in the cotangent bundle ($T^*M$) to its respective point in physical spacetime (M). The individual fiber is represented by $\pi^{-1}(x) = T_x^*M$. [2] 
+Obidi utilizes a fiber bundle structure where the projection map $\pi: T^*M \to M$ links each momentum state in the cotangent bundle
+
+($T^*M$) 
+
+to its respective point in physical spacetime (M). The individual fiber is represented by 
+
+$$\pi^{-1}(x) = T_x^*M$$. 
+
+[2] 
 
 A microscopic distribution function f(x,p) maps out information over this space. To retrieve macroscopic physics, Obidi integrates along these fibers—a process that strips away microscopic momentum coordinates p while leaving explicit spacetime dependence x intact. [1, 2] 
 
@@ -69,7 +78,7 @@ In traditional physics, mass-energy is an inherent, assumed baseline property th
    2. **Frozen Entropy:** Matter and mass are not foundational inputs; they are emergent outputs. Mass is literally interpreted as stabilized, "frozen" internal entropic fluctuations. [4] 
    3. **Gravity Integration:** The resulting stress-energy tensor plugs directly into the right-hand side of Einstein’s field equations
  
- ($$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$),
+ ($$G_{\mu\nu} + \Lambda g_{\mu\nu} =\frac{8\pi G}{c^4}T_{\mu\nu}$$),
 
 showing that informational geometry is the root source of gravitational force. [1] 
 
@@ -82,7 +91,7 @@ If you would like to explore this framework further, please let us know if you w
 
 * The mathematical construction of the underlying metric transformation
 
-($$G^{INF}_{\alpha\beta} \to g_{\mu\nu}$$)
+($G^{INF}_{\alpha\beta} \to g_{\mu\nu}$)
 
 * How the Local Obidi Action (LOA) dictates the local field equations
 * The relation of this model to relativistic kinetic theory [1, 2, 3, 4, 5] 
