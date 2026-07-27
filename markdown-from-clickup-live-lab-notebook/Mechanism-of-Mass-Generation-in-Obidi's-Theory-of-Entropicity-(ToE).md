@@ -58,7 +58,9 @@ A microscopic distribution function f(x,p) maps out information over this space.
 Obidi calculates three distinct types of fiber integrals (or statistical moments) to derive physical properties from the information distribution: [1] 
 
 * **Zeroth Moment (Entropic Density):**
+
 $$\rho_0(x) = \int_{T_x^*M} f(x,p)\varpi_p$$ 
+
 This defines the localized entropic-information density across spacetime.
 * **First Moment (Entropic Flux):**
 
@@ -91,7 +93,7 @@ If you would like to explore this framework further, please let us know if you w
 
 * The mathematical construction of the underlying metric transformation
 
-($G^{INF}_{\alpha\beta} \to g_{\mu\nu}$)
+($$G^{INF}_{\alpha\beta}\to g_{\mu\nu}$$)
 
 * How the Local Obidi Action (LOA) dictates the local field equations
 * The relation of this model to relativistic kinetic theory [1, 2, 3, 4, 5] 
