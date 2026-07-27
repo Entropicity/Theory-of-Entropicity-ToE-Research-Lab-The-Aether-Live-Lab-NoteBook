@@ -51,11 +51,6 @@ $$
 T_{\mu\nu}^{(S)} = \int_{\Omega_x} p_\mu p_\nu\, f_{\text{ent}}(x,\Omega)\, d\Omega
 $$
 
-
-$$\[
-T{\mu\nu}^{(S)} = \int{\Omegax} p\mu p\nu f{\text{ent}}(x,\Omega)\, d\Omega
-\]$$
-
 This integral produces:
 
 * energy density  
