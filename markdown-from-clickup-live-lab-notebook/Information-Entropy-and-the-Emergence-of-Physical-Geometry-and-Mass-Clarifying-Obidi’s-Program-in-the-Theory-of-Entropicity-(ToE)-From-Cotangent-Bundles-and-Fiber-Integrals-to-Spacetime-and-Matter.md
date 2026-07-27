@@ -1,4 +1,6 @@
-# Information, Entropy, and Emergence: Clarifying Obidi’s Program in the Theory of Entropicity (ToE)—From Cotangent Bundles and Fiber Integrals to Spacetime and Matter 
+# Information, Entropy, and the Emergence of Physical Geometry and Mass: Clarifying Obidi’s Program in the Theory of Entropicity (ToE)—From Cotangent Bundles and Fiber Integrals to Spacetime and Matter 
+
+the-Emergence-of-Physical-Geometry-and-Mass-
 
 ## Preamble 
 This paper is written to give readers a clear understanding of what Obidi is attempting in the Theory of Entropicity (ToE), why the criticisms arise, and how the framework addresses them. No rhetoric, no poetry — just conceptual clarity.
