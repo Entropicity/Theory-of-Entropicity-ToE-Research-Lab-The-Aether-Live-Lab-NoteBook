@@ -46,6 +46,12 @@ Thus, the claim that “fibers require spacetime” is not applicable. Obidi’s
 
 Obidi’s mass-generation mechanism is based on informational microstate distributions. The relevant structure is the entropic stress–energy tensor:
 
+
+$$
+T_{\mu\nu}^{(S)} = \int_{\Omega_x} p_\mu p_\nu\, f_{\text{ent}}(x,\Omega)\, d\Omega
+$$
+
+
 $$\[
 T{\mu\nu}^{(S)} = \int{\Omegax} p\mu p\nu f{\text{ent}}(x,\Omega)\, d\Omega
 \]$$
