@@ -141,17 +141,25 @@ He didn't invent fiber integration or the concept of taking moments to get the s
 
 If you want to pull apart the pieces further, we can look at:
 
-* The Fisher-Rao or information metrics he uses as the baseline before integration.
+* The Fisher-Rao or information metrics Obidi uses as the baseline before integration.
 * How this overlaps with other "spacetime from information" concepts like Verlinde's entropic gravity.
 * The mathematical vulnerabilities when trying to map a positive-definite information space into a Lorentzian physical space. [2, 9] 
 
 
 [1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/6857821.pdf?abstractid=6857821&mirid=1&type=2)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/fiber-bundles-fiber-integrals-tangent-spaces-cotangent-spaces-tangent-bundles-and-cotangent-e57b6915aa1c)
+
 [3] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
 [4] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4)
+
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/creation-and-generation-of-mass-and-matter-from-the-fiber-integrals-of-the-obidi-action-on-the-98cae21ea1a3)
+
 [6] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590)
+
 [7] [https://ncatlab.org](https://ncatlab.org/nlab/show/fiber+integration)
+
 [8] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
 [9] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
