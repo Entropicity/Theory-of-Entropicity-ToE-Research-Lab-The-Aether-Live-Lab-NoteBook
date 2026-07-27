@@ -95,6 +95,9 @@ If you would like to explore this framework further, please let us know if you w
 
 ($$G^{INF}_{\alpha\beta}\to g_{\mu\nu}$$)
 
+$$G^{INF}_{\alpha\beta} \rightarrow g_{\mu\nu}$$
+
+
 * How the Local Obidi Action (LOA) dictates the local field equations
 * The relation of this model to relativistic kinetic theory [1, 2, 3, 4, 5] 
 
