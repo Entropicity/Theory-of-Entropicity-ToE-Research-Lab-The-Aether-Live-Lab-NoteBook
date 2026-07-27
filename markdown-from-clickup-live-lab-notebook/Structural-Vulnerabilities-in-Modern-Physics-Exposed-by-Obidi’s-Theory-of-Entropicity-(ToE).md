@@ -19,7 +19,7 @@ Physics has increasingly embraced the idea that “information is physical,” y
 
 Through the Obidi Curvature Invariant (ln 2), the fundamental unit of information becomes a metric of spatial distinguishability, giving physical meaning to informational structure. This provides a mathematical anchor for Wheeler’s “It from Bit” vision and suggests that physical reality is a continuous negotiation between informational gradients and geometric emergence.
 
-## 🌟 The Intellectual Legacy of Obidi’s ToE
+## 🌟 The Intellectual Legacy of Obidi’s Theory of Entropicity (ToE)
 Even if ToE remains audacious and provocative, its core instinct is historically aligned with the deepest revolutions in physics. Science repeatedly demotes seemingly solid primitives into emergent illusions:  
 
 * Heat was once “caloric”; now it is particle motion.  
