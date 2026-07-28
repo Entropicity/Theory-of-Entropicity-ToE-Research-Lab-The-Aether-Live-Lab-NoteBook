@@ -28,9 +28,9 @@ What I find especially compelling about the framework is its attempt to invert t
 
 As I have worked through the available literature, several questions have emerged regarding the mathematical foundations and physical implications of the theory. I would be grateful for any clarification you may be willing to provide, particularly if these issues are addressed in existing monographs, forthcoming publications, or ongoing work.
 
-### 1. The Derivation and Universality of the OCI Value (ln 2)
+### 1. The Derivation and Universality of the Obidi Curvature Invariant (OCI) Value (ln 2)
 
-One of the most distinctive aspects of ToE is the elevation of ln 2 from its familiar role in information theory to the status of a universal physical threshold.
+One of the most distinctive aspects of ToE is the elevation of ln 2 from its familiar role in information theory to the status of a universal physical threshold [the now famous Obidi Curvature Invariant (OCI) of ln 2].
 
 My question concerns the mathematical status of this result. Is there a formal derivation within ToE demonstrating that a general information-geometric flow necessarily undergoes a bifurcation or loss of structural stability at exactly ln 2 nats, independent of local parameters, topology, dimensionality, or boundary conditions?
 
