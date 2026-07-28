@@ -1,5 +1,7 @@
 # Relativistic Quantum Information and the Theory of Entropicity (ToE): Conceptual Relationships, Structural Differences, and the Unique Contributions of Obidi's Framework
 
+Relativistic-Quantum-Information-RQI-and-Obidi's-Theory-of-Entropicity-(ToE)-Conceptual-Relationships-Structural-Differences-and-the-Unique-Contributions-of-Obidi's-Framework.md
+
 
 Date: Tuesday, 28 July 2026  
 
