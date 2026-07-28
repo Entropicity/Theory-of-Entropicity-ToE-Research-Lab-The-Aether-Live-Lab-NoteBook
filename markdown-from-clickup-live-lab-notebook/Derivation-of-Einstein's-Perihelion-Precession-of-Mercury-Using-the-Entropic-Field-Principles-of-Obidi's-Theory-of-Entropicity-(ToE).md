@@ -42,3 +42,48 @@ If you would like to explore this topic further, let us know if you want to look
 [5] [https://www.academia.edu](https://www.academia.edu/143782139/Mercurys_Perihelion_Precession_Revisited)
 
 [6] [https://physics.stackexchange.com](https://physics.stackexchange.com/questions/873252/how-is-the-relativistic-perihelion-movement-of-mercury-and-other-planets-explain)
+
+
+-------------
+
+
+# 🌌 Re‑Deriving Mercury’s Perihelion Precession of Einstein's General Relativity Through Entropy: Obidi’s Breakthrough in the Theory of Entropicity (ToE)
+
+Einstein’s explanation of Mercury’s perihelion precession is one of the great triumphs of General Relativity. Newtonian gravity could not account for the extra rotation in Mercury’s orbit, but Einstein’s curved spacetime produced the correct value: 43 arcseconds per century.
+
+John Onimisi Obidi has now reproduced this same result using a completely different foundation—entropy, not spacetime geometry.
+
+## 🔷 A New Foundation: Gravity as an Entropic Phenomenon
+
+Obidi’s ToE proposes that gravity is not a geometric deformation of spacetime but an emergent entropic effect arising from informational microstructure. Instead of assuming spacetime as fundamental, ToE treats entropy as the underlying field that governs gravitational behavior.
+
+This entropic approach modifies Newtonian gravity through higher‑order entropy corrections. As mass interacts with the entropic field, the gravitational influence transitions from classical Newtonian behavior to black‑hole‑scale entropy dynamics.
+
+## 🔶 How the Entropic Derivation Works
+
+ToE blends classical orbital vis-viva mechanics with modern thermodynamic and quantum‑informational principles. Obidi's derivation incorporates:
+
+* Unruh temperature
+* Hawking temperature
+* horizon entropy
+* holographic information constraints  
+
+These thermodynamic inputs generate entropy‑driven corrections that act as the physical source of the additional orbital shift Einstein attributed to spacetime curvature.
+
+By applying these corrections within the orbital equations, Obidi’s entropic mechanics reproduces the exact perihelion precession Einstein predicted—without invoking curved spacetime.
+
+This achievement demonstrates that one of the most iconic predictions of GR can emerge from purely entropic principles.
+
+## 🔷 Why This Achievement Matters
+
+Obidi’s work suggests that gravitational phenomena may have a deeper informational and thermodynamic origin. If gravity can be reproduced from entropy alone, then spacetime curvature may be a secondary, emergent description rather than the fundamental engine of gravitational dynamics.
+
+This opens a new conceptual doorway:  
+What if the universe’s geometry is not the starting point, but the outcome of deeper entropic processes?
+
+It also raises compelling questions about other classical predictions. If perihelion precession can be re‑derived from entropy, what about starlight deflection, gravitational redshift, or even quantum measurement phenomena such as wave‑function collapse?
+
+## 🌠 The Larger Implication
+
+Obidi’s entropic derivation does more than match Einstein’s numbers. It challenges the assumption that spacetime geometry is the deepest layer of physical reality. By showing that entropy can reproduce a cornerstone prediction of General Relativity, Obidi positions entropy—not geometry—as the potential foundation of [gravitational] physics.
+
