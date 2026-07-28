@@ -1,4 +1,4 @@
-# Bogoliubov Transformation of Quantum Field Theory (QFT) and its Resolution in Obidi's Theory of Entropicity (ToE)
+# Bogoliubov Transformation of Observer Dependent Creation and Annihilation Operators of Quantum Field Theory (QFT) and its Resolution in Obidi's Theory of Entropicity (ToE)
 
 ## References:
 
