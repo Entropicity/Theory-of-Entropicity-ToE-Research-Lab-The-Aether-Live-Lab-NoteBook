@@ -1,8 +1,7 @@
 
 Tuesday 28th July 2026
 
-# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the existence of the soul independent of the physical world and the physical body, [a video clip](https://www.facebook.com/share/v/19pX1ctw1U/)
-which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
+# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the existence of the soul independent of the physical world and the physical body, [a video clip](https://www.facebook.com/share/v/19pX1ctw1U/)which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
  
 > Profound StarTalk/Galaxy Glimps from the legendary Neil deGrasse Tyson
 
@@ -22,8 +21,7 @@ which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
 
 Friday 24th July 2026
 
-# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the physical world and the spiritual world, [a video clip](https://www.facebook.com/share/v/1GDC64Bs8G/)
-which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
+# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the physical world and the spiritual world, [a video clip](https://www.facebook.com/share/v/1GDC64Bs8G/)which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
 
 > Profound StarTalk from the legendary Neil deGrasse Tyson
 
