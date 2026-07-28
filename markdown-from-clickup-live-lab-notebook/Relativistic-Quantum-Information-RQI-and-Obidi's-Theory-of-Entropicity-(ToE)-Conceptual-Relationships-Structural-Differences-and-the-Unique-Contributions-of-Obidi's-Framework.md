@@ -1,23 +1,23 @@
 # Relativistic Quantum Information and the Theory of Entropicity: Conceptual Relationships, Structural Differences, and the Unique Contributions of Obidi's Framework
 
-**Date: Tuesday, 28 July 2026** 
+**First Publication Date: Tuesday, 28 July, 2026** 
 
 ## Scope: 
-Comprehensive conceptual and structural mapping between Relativistic Quantum Information (RQI) as a mature subfield of modern theoretical physics, and the Theory of Entropicity (ToE) as formulated by John Onimisi Obidi, with emphasis on convergences, divergences, and original contributions.
+Comprehensive conceptual and structural mapping between **Relativistic Quantum Information (RQI)** as a mature subfield of modern theoretical physics, and the **Theory of Entropicity (ToE)** as formulated by **John Onimisi Obidi,** with emphasis on convergences, divergences, and original contributions.
 
 ---
 
 ## Executive Summary
 
-- Relativistic Quantum Information (RQI) is a subfield that investigates how quantum information-theoretic quantities — entanglement, discord, quantum Fisher information, channel capacity — behave when quantum mechanics is placed within the framework of special and general relativity. Its canonical results include Bogoliubov-transformation-induced vacuum inequivalence, entanglement degradation by Hawking and Unruh effects, and entanglement harvesting from quantum fields.
+- **Relativistic Quantum Information (RQI)** is a subfield that investigates how quantum information-theoretic quantities — entanglement, discord, quantum Fisher information, channel capacity — behave when quantum mechanics is placed within the framework of special and general relativity. Its canonical results include Bogoliubov-transformation-induced vacuum inequivalence, entanglement degradation by Hawking and Unruh effects, and entanglement harvesting from quantum fields.
   
-- The Theory of Entropicity (ToE) is a foundational framework asserting that entropy is not a statistical secondary quantity but the primary ontological dynamical field from which spacetime geometry, matter, quantum behavior, and causality emerge. It is governed by the Obidi Conjecture, the Obidi Action, and a family of structural principles including the No-Rush Theorem, the Obidi Curvature Invariant, and the Entropic Resistance Principle.
+- The **Theory of Entropicity (ToE)** is a foundational framework asserting that entropy is not a statistical secondary quantity but the primary ontological dynamical field from which spacetime geometry, matter, quantum behavior, and causality emerge. It is governed by the Obidi Conjecture, the Obidi Action, and a family of structural principles including the No-Rush Theorem, the Obidi Curvature Invariant, and the Entropic Resistance Principle.
 
-- At the convergence: both RQI and ToE treat entropy and information as physically constitutive, not merely descriptive; both recognize that quantum states, vacua, and entanglement are observer-dependent or context-relative; and both draw on the differential geometry of information (the Fisher–Rao metric) as a fundamental structural tool.
+- At the **convergence:** both RQI and ToE treat entropy and information as physically constitutive, not merely descriptive; both recognize that quantum states, vacua, and entanglement are observer-dependent or context-relative; and both draw on the differential geometry of information (the Fisher–Rao metric) as a fundamental structural tool.
 
-- At the divergence: RQI treats spacetime as a fixed or dynamically curved background within which quantum states are defined — entropy remains a secondary quantity computed from those states. ToE inverts this: spacetime and quantum states are emergent from the entropic field. RQI is instrumental; ToE is ontological.
+- At the **divergence:** RQI treats spacetime as a fixed or dynamically curved background within which quantum states are defined — entropy remains a secondary quantity computed from those states. ToE inverts this: spacetime and quantum states are emergent from the entropic field. RQI is instrumental; ToE is ontological.
 
-- Unique to ToE: the Obidi Curvature Invariant as an entropic analogue of ℏ, the No-Rush Theorem as a thermodynamic derivation of the speed of light, Entropic Accounting as a unified explanation of time dilation and length contraction, and the Vuli–Ndlela Integral as an entropic reformulation of the Feynman path integral. These contributions have no equivalent in RQI.
+- **Unique to ToE:** the Obidi Curvature Invariant as an entropic analogue of ℏ, the No-Rush Theorem as a thermodynamic derivation of the speed of light, Entropic Accounting as a unified explanation of time dilation and length contraction, and the Vuli–Ndlela Integral as an entropic reformulation of the Feynman path integral. These contributions have no equivalent in RQI.
 
 ---
 
