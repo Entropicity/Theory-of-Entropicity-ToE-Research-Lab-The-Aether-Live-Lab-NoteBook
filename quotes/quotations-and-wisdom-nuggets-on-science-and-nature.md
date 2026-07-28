@@ -3,7 +3,7 @@
 
 # From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the existence of the soul independent of the physical world and the physical body, [a video clip](https://www.facebook.com/share/v/19pX1ctw1U/) which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
  
-> **Profound StarTalk/Galaxy Glimps from the legendary Neil deGrasse Tyson**
+> **Profound StarTalk/Galaxy "Glimps" from the legendary Neil deGrasse Tyson**
 
 > **.... because we desire to live forever, we want to know about the nature of a separate entity we call the soul. But we still don't have any scientific evidence for its existence independent of the living body.**
 
