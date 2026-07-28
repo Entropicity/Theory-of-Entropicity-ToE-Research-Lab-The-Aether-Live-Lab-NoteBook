@@ -17,7 +17,39 @@
 
 > **Ahahaha**
 
+
+> **I have just been reliably informed by our destructive testers that NDE stands for Non Destructive Examination and that NDT stands for Non Destructive Testing.....So that overall I can actually still conclude as follows without being too wrong:**
+
+> **NDE = NDT !**
+
+> **Plenty of laughs....and I guarantee mischievously that this laugh is not on me — but on our Neil deGrasse Tyson! Ahahaha!** 
+
+
+> **I hope he doesn't ever get to see this in a billion light years!**
+
+> **Ahahaha!**
+
+> **So, I conclude: NDE as Near Death Experience is a kind of Non Destructive Testing NDT or Non Destructive Examination NDE!**
+
+
+> **Which brings me to my Non Destructive Conclusion NDC: There is a soul, and the soul is never destroyed and so lives on Independent of the physical death and dissolution of the physical body!**
+
+> **QED!**
+
+> **Let the court arise, Court!**
+
+> **We are therefore sending Neil deGrasse Tyson into a Rehab Center!**
+
+> **Ahahaha....**
+
+> **Exeunt as the lights fade and the curtains fall.**
+
+> **End of Act 12, Scene 665!**
+
+
+
 -------------
+
 
 
 **Friday, 24th July, 2026:**
