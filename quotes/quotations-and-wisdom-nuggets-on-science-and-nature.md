@@ -1,7 +1,29 @@
 
+Tuesday 28th July 2026
+
+# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the existence of the soul independent of the physical world and the physical body, [a video clip](https://www.facebook.com/share/v/19pX1ctw1U/)
+which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
+ 
+> Profound StarTalk/Galaxy Glimps from the legendary Neil deGrasse Tyson
+
+> .... because we desire to live forever, we want to know about the nature of a separate entity we call the soul. But we still don't have any scientific evidence for its existence independent of the living body.
+
+
+> It is true that we have encountered out of the body experiences and that we have also heard of narrations of near death experiences NDE, but I think that one strong proof of an independent existence of the soul is if my grandmother's soul begins a personal conversation with me on a regular basis as would my cousin who lives abroad in far away Australia would converse with me, giving me assurance of a separate existence in Australia, so that I don't have to constantly worry and debate that once me too I am in Australia I would be alive and can converse with my other relatives whom I have left behind in my former home called Nigeria (Earth). 
+
+
+> So, I am compelled to side with our legendary Neil deGrasse Tyson; but again I am also compelled not to side with me, so that Neil deGrasse Tyson has transfixed me in a most discomforting and discombobulated position! 
+
+> I wish I knew as much or more than NDT! And alas, his name is even only just a T short of an E to be an NDE! 
+
+> Ahahaha
+-------------
+
+
 Friday 24th July 2026
 
 # From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the physical world and the spiritual world, [a video clip](https://www.facebook.com/share/v/1GDC64Bs8G/)
+which Owolawi sent in a message to Obidi, and to which Obidi replies as follows:
 
 > Profound StarTalk from the legendary Neil deGrasse Tyson
 
