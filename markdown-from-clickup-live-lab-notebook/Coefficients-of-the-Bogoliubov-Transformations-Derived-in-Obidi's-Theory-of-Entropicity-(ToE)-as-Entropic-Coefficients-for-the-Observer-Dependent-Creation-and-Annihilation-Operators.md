@@ -296,15 +296,15 @@ The key point is that this hyperbolic mixing is forced by the Lorentzian signatu
 In ToE, quantum fields are not fundamental; they are emergent structures associated with entropic modes on $\(\mathcal{M}_S\)$. These modes are eigenfunctions of an entropic Laplacian constructed from the Obidi metric:
 
 $$\[
-\BoxS \phi k(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambdak\phi k(\theta),
+\Box S \phi k(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambda k\phi k(\theta),
 \]$$
 
-where $\(\lambdak\)$ are eigenvalues and $\(\phi k\)$ are mode functions.
+where $\(\lambda k\)$ are eigenvalues and $\(\phi k\)$ are mode functions.
 
-Associated with each mode $\(\phik\)$ are annihilation and creation operators $\(ak, ak^\dagger\)$ for observer $\(\mathcal{O}1\)$, and $\(bk, bk^\dagger\)$ for observer $\(\mathcal{O}_2\)$. These operators are defined by expanding the entropic field in the respective mode bases:
+Associated with each mode $\(\phi k\)$ are annihilation and creation operators $\(ak, ak^\dagger\)$ for observer $\(\mathcal{O}1\)$, and $\(bk, bk^\dagger\)$ for observer $\(\mathcal{O}_2\)$. These operators are defined by expanding the entropic field in the respective mode bases:
 
 $$\[
-\Phi(\theta)=\sumk \left( ak \phi k^{(1)}(\theta) + ak^\dagger \bar{\phi}_k^{(1)}(\theta) \right)=\sumk \left( bk \phi k^{(2)}(\theta) + bk^\dagger \bar{\phi}_k^{(2)}(\theta) \right).
+\Phi(\theta)=\sum k \left( ak \phi k^{(1)}(\theta) + ak^\dagger \bar{\phi}_k^{(1)}(\theta) \right)=\sum k \left( bk \phi k^{(2)}(\theta) + bk^\dagger \bar{\phi}_k^{(2)}(\theta) \right).
 \]$$
 
 The mode functions $\(\phi k^{(1)}\)$ and $\(\phi k^{(2)}\)$ are related by the entropic Lorentz transformation induced by the Obidi metric. In the simplest case, the transformation between the two mode bases can be written as a hyperbolic rotation in the two-dimensional subspace spanned by $\(\phi k\)$ and $\(\bar{\phi}k\)$:
