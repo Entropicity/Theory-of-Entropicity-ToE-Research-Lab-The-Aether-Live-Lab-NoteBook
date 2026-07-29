@@ -1,8 +1,8 @@
-# Bogoliubov Transformation of Observer Dependent Creation and Annihilation Operators of Quantum Field Theory (QFT) and its Resolution in Obidi's Theory of Entropicity (ToE)
+# Bogoliubov Transformations of Observer Dependent Creation and Annihilation Operators of Quantum Field Theory (QFT) and its Resolution in Obidi's Theory of Entropicity (ToE)
 
 ## References:
 
-https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/343e416ad8b6c845cf74d7e06a0d8d84b5b0890f/markdown-from-clickup-live-lab-notebook/How-Obidi's-Theory-of-Entropicity-(ToE)-Resolves-the-Bogoliubov-Transformation-of-Relativistic-Quantum-Information-(RQI)-Theory.md
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/343e416ad8b6c845cf74d7e06a0d8d84b5b0890f/markdown-from-clickup-live-lab-notebook/How-Obidi's-Theory-of-Entropicity-(ToE)-Resolves-the-Bogoliubov-Transformations-of-Relativistic-Quantum-Information-(RQI)-Theory.md
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), the conventional paradoxes of the Bogoliubov transformation—such as observer-dependent particle creation (the Unruh and Hawking effects) and the degradation of quantum entanglement—are resolved by demoting spacetime and quantum states to emergent structures derived from a fundamental, ontological entropic field ($S(x)$). [1, 2, 3, 4, 5] 
 
