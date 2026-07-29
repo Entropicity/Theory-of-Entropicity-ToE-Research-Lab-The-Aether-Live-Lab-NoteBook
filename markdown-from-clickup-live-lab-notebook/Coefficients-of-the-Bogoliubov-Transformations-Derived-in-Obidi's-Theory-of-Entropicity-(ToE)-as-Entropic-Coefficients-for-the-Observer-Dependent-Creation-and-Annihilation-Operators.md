@@ -329,10 +329,8 @@ $$\[
 one finds that the operators transform as
 
 $$\[
-\begin{pmatrix}
-a_k \\
-a_k^\dagger
-\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta & \cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\
+\begin{pmatrix}a_k \\a_k^\dagger
+\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta &\cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\
 b_k^\dagger\end{pmatrix}.
 \]$$
 
@@ -341,8 +339,8 @@ This is the entropic Bogoliubov transformation.
 Explicitly,
 
 $$\[
-ak = \alphak bk + \betak b_k^\dagger,\qquad
-ak^\dagger = \alphak bk^\dagger + \betak b_k,
+ak = \alpha k bk + \betak b_k^\dagger,\qquad
+ak^\dagger = \alpha k bk^\dagger + \betak b_k,
 \]$$
 
 with
@@ -352,7 +350,7 @@ $$\[
 \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
-The coefficients $\(\alphak\)$ and $\(\betak\)$ are thus hyperbolic functions of the entropic displacement $\(\Delta S\)$, arising directly from the Lorentzian structure of the Obidi metric on the entropic manifold.
+The coefficients $\(\alpha k\)$ and $\(\beta k\)$ are thus hyperbolic functions of the entropic displacement $\(\Delta S\)$, arising directly from the Lorentzian structure of the Obidi metric on the entropic manifold.
 
 ---
 
