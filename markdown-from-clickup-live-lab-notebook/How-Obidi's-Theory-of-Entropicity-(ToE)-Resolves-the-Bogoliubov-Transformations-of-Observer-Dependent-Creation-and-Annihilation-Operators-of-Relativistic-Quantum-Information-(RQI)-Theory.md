@@ -3,7 +3,7 @@
 
 ## References:
 
-https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/051e5bd13fb56de39291642cb71a18489fe6208d/markdown-from-clickup-live-lab-notebook/Bogoliubov-Transformations-of-Quantum-Field-Theory-(QFT)-and-its-Resolution-in-Obidi's-Theory-of-Entropicity-(ToE).md
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/2f5dc44f86f545dc461db846404ee60b10897d39/markdown-from-clickup-live-lab-notebook/Bogoliubov-Transformations-of-Observer-Dependent-Creation-and-Annihilation-Operators-of-Quantum-Field-Theory-(QFT)-and-its-Resolution-in-Obidi's-Theory-of-Entropicity-(ToE).md
 
 ## Scope: 
 In this paper, we endeavor to present a full structural and ontological analysis — from the unsolved conceptual tensions within the standard Bogoliubov Transformation (BT) formalism to their complete resolution within the Theory of Entropicity (ToE) framework, working through every operative mechanism of the transformation.
