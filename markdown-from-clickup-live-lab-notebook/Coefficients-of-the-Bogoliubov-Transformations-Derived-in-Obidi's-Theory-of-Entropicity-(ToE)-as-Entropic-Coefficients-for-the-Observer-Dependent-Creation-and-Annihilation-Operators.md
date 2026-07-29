@@ -16,9 +16,9 @@ $$\[
 ds^2 = g^{(FR)}_{\mu\nu} \, d\theta^\mu d\theta^\nu.
 \]$$
 
-In ToE, the coordinates \( \theta^\mu \) are entropic parameters, not quantum phases.
+In ToE, the coordinates $\( \theta^\mu \)$ are entropic parameters, not quantum phases.
 
-This metric is then deformed by the entropic gradient:
+This metric is then deformed by the entropic gradient [Obidi Metric]:
 
 $$\[
 g^{(L)}_{\mu\nu}=g^{(FR)}_{\mu\nu}-\beta^2
@@ -27,7 +27,7 @@ g^{(L)}_{\mu\nu}=g^{(FR)}_{\mu\nu}-\beta^2
 \nabla\rho S \, \nabla\sigma S}.
 \]$$
 
-This deformation introduces a Lorentzian signature into the entropic manifold.
+This deformation [via the disformal Obidi Transformation] introduces a Lorentzian indefinite signature into the entropic manifold.
 
 That is the key.
 
