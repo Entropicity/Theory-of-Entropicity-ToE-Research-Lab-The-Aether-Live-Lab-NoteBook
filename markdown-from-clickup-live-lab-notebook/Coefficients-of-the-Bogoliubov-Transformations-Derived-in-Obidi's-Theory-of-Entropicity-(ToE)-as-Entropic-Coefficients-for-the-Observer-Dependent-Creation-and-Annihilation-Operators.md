@@ -307,7 +307,7 @@ $$\[
 \Phi(\theta)=\sumk \left( ak \phi k^{(1)}(\theta) + ak^\dagger \bar{\phi}_k^{(1)}(\theta) \right)=\sumk \left( bk \phi k^{(2)}(\theta) + bk^\dagger \bar{\phi}_k^{(2)}(\theta) \right).
 \]$$
 
-The mode functions $\(\phik^{(1)}\)$ and $\(\phik^{(2)}\)$ are related by the entropic Lorentz transformation induced by the Obidi metric. In the simplest case, the transformation between the two mode bases can be written as a hyperbolic rotation in the two-dimensional subspace spanned by $\(\phik\)$ and $\(\bar{\phi}k\)$:
+The mode functions $\(\phi k^{(1)}\)$ and $\(\phi k^{(2)}\)$ are related by the entropic Lorentz transformation induced by the Obidi metric. In the simplest case, the transformation between the two mode bases can be written as a hyperbolic rotation in the two-dimensional subspace spanned by $\(\phi k\)$ and $\(\bar{\phi}k\)$:
 
 $$\[
 \begin{pmatrix}
