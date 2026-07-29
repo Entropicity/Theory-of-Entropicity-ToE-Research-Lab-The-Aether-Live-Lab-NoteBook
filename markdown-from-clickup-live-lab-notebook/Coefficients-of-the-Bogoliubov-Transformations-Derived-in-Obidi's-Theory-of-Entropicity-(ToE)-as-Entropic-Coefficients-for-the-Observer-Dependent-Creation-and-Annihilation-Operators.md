@@ -336,14 +336,14 @@ This is the entropic Bogoliubov transformation.
 Explicitly,
 
 $$\[
-ak = \alpha k bk + \betak b_k^\dagger,\qquad
-ak^\dagger = \alpha k bk^\dagger + \betak b_k,
+ak = \alpha k bk + \beta k b_k^\dagger,\qquad
+ak^\dagger = \alpha k bk^\dagger + \beta k b_k,
 \]$$
 
 with
 
 $$\[
-\alpha_k =\cosh\left(\frac{\DeltaS{2}\right),\qquad \beta_k = \sinh\left(\frac{\Delta S{2}\right).
+\alpha_k =\cosh\left(\frac{\Delta S{2}\right),\qquad \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
 The coefficients $\(\alpha k\)$ and $\(\beta k\)$ are thus hyperbolic functions of the entropic displacement $\(\Delta S\)$, arising directly from the Lorentzian structure of the Obidi metric on the entropic manifold.
