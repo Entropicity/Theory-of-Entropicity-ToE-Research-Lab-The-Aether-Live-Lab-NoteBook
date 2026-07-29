@@ -282,7 +282,7 @@ e_0' \\
 e_1'
 \end{pmatrix}=\begin{pmatrix}
 \cosh\eta & \sinh\eta \\\sinh\eta & \cosh\eta
-\end{pmatrix}\begin{pmatrix}e_0\\e_1\end{pmatrix}.
+\end{pmatrix}\begin{pmatrix}e_0 \\ e_1\end{pmatrix}.
 \]$$
 
 This is the standard form of a Lorentz transformation in a $\(1+1\)$-dimensional Minkowski space, now realized in the entropic manifold rather than spacetime.
