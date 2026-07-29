@@ -8,7 +8,7 @@
 [Max Planck is] One of those few worshippers in the Temple of Science who would still remain should an angel of God descend and drive out of the temple all those lesser scientists, who under different circumstances might become politicians or captains of industry.
 ..."**
 
-~ **Albert Einstein** (His introduction to the work of Max Planck on *"Where is Science Going"*)
+~ **Albert Einstein** (His introduction to the work of Max Planck on *"Where is Science Going?"*)
 
 ## PS:
 In this historic passage, Einstein apparently alludes to and perceptively reenacts the biblical scene where Jesus came to whip off those conducting trades and commerce in the Temple of the Lord; but here, Einstein deliciously and deliberately, and mischievously too, invokes a scene where an angel actually descends to whip out scientists conducting marketing and political transactions instead of doing science in the Temple. Ahahaha!)
