@@ -158,3 +158,10 @@ It is a new way of understanding the universe.
 
 ---
 
+For Details:
+
+📚Reference(s):
+
+The Canonical Archives: 
+
+https://entropicity.github.io/Theory-of-Entropicity-ToE/
