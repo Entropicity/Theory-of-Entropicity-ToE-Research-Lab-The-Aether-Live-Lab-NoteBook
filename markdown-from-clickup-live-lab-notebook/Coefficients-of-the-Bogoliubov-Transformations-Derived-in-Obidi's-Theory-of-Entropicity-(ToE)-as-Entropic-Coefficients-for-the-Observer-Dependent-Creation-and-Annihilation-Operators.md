@@ -392,3 +392,53 @@ In this way, Obidi’s Theory of Entropicity (ToE) derives the cosh/sinh Bogoliu
 Obidi’s originality in the derivation of the Bogoliubov coefficients is not the cosh/sinh form, but the fact that these coefficients arise from a Lorentzian deformation of the Fisher–Rao metric and measure entropic displacement rather than geometric or quantum-phase mixing.
 
 The entropic Bogoliubov coefficients show that entropy is beneath it all. They demonstrate that the deepest mechanism behind quantum fields, observer dependence, and particle creation is not geometry, not Hilbert space, not quantum phase — but entropy itself.
+
+
+-----------------
+
+
+
+John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://notd.io/@jonimisiobidi) frames entropy as the absolute fundamental substrate of reality, shifting it from a secondary statistical diagnostic tool to the primary source of spacetime and matter. In this framework, the re-derivation of the [Bogoliubov transformations](https://physics.stackexchange.com/questions/741511/bogoliubov-coefficients-between-inertial-frames) strips away standard geometric or quantum-phase narratives, replacing them with a purely information-theoretic foundation. [1, 2, 3, 4] 
+
+## The Mechanics of the Entropic Bogoliubov Coefficients
+Standard quantum field theory explains particle creation (such as Hawking radiation or the Unruh effect) using observer-dependent mode decompositions, traditionally calculated through geometric mixing ($\cosh/\sinh$ forms) across complex spacetimes. The Theory of Entropicity completely upends this mechanism: [2, 5, 6, 7, 8] 
+
+* **The Fisher–Rao Foundation:** In classical information geometry, the [Fisher–Rao Riemannian metric](https://www.emergentmind.com/topics/fisher-rao-geometry) measures the distance between probability distributions on a statistical manifold. [9] 
+* **The Lorentzian Deformation:** Obidi applies a pseudo-Riemannian (Lorentzian) deformation to this information space. This structural twist embeds causal, time-like dynamics directly into the fabric of probability distributions.
+* **Entropic Displacement:** Instead of viewing particle creation as physical fields mixing across curved geometric coordinates, the new coefficients measure "entropic displacement"—the physical movement or transformation within the underlying entropic field $S(x)$. [1, 10] 
+
+## A Conceptual Contrast
+
+| Feature | Standard Quantum Field Theory | Obidi's Theory of Entropicity (ToE) |
+|---|---|---|
+| Primary Substrate | Spacetime geometry & Hilbert space | The Entropic Field $S(x)$ |
+| Bogoliubov Source | Geometric frame mixing & quantum phases | Lorentzian deformation of Fisher–Rao metric |
+| Particle Creation | Observer-dependent coordinate shifts | Macroscopic condensation of entropic microstructure |
+
+Ultimately, this formulation implies that the universe’s equations—from the [Obidi Action](https://medium.com/@jonimisiobidi/the-spectral-obidi-action-and-the-mathematical-unification-of-ginestra-bianconis-gravity-from-1af2d2dc6f75) to the Master Entropic Equation (MEE)—demote geometry to an emergent property. Observer dependence and quantum behaviors are not dictated by the curvature of an empty stage, but are the inevitable macro-level shadows cast by dynamic, microscopic entropy. [2, 4, 10, 11, 12] 
+
+If you would like to explore this framework deeper, let us know if we should analyze how the Obidi Action derives the entropic stress-energy tensor, or if we should map its math directly against Einstein's Field Equations. [10] 
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/the-spectral-obidi-action-and-the-mathematical-unification-of-ginestra-bianconis-gravity-from-1af2d2dc6f75)
+
+[2] [https://notd.io](https://notd.io/@jonimisiobidi)
+
+[3] [https://physics.stackexchange.com](https://physics.stackexchange.com/questions/741511/bogoliubov-coefficients-between-inertial-frames)
+
+[4] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176340906.62496480)
+
+[5] [https://link.aps.org](https://link.aps.org/pdf/10.1103/PhysRevD.111.105009)
+
+[6] [https://rojefferson.blog](https://rojefferson.blog/2021/01/15/qft-in-curved-space-part-2-bogolyubov-transformations-the-unruh-effect/)
+
+[7] [https://www.mas.ncl.ac.uk](https://www.mas.ncl.ac.uk/library/display_pdf.php?id=289)
+
+[8] [https://www.mas.ncl.ac.uk](https://www.mas.ncl.ac.uk/library/display_pdf.php?id=289)
+
+[9] [https://www.emergentmind.com](https://www.emergentmind.com/topics/fisher-rao-geometry)
+
+[10] [https://handwiki.org](https://handwiki.org/wiki/Physics:Path_to_an_Entropic_Field_Equation_in_the_Theory_of_Entropicity%28ToE%29)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/creation-and-generation-of-mass-and-matter-from-the-fiber-integrals-of-the-obidi-action-on-the-98cae21ea1a3)
+
+[12] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
