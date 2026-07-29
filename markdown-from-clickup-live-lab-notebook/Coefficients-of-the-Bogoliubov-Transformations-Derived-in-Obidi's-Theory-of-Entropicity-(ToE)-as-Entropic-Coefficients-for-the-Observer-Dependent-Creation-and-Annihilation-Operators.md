@@ -343,6 +343,12 @@ ak^\dagger = \alpha k bk^\dagger + \beta k b_k,
 with
 
 $$\[
+\alpha_k = \cosh\left(\frac{\Delta S}{2}\right), \qquad
+\beta_k = \sinh\left(\frac{\Delta S}{2}\right).
+\]$$
+
+
+$$\[
 \alpha_k =\cosh\left(\frac{\Delta S{2}\right),\qquad \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
