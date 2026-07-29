@@ -340,13 +340,6 @@ b_k^\dagger
 \end{pmatrix}.
 \]$$
 
-
-
-$$\[
-\begin{pmatrix}a_k \\a_k^\dagger
-\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta &\cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\b_k^\dagger\end{pmatrix}.
-\]$$
-
 This is the entropic Bogoliubov transformation.
 
 Explicitly,
