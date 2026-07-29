@@ -282,8 +282,7 @@ e_0' \\
 e_1'
 \end{pmatrix}=\begin{pmatrix}
 \cosh\eta & \sinh\eta \\\sinh\eta & \cosh\eta
-\end{pmatrix}\begin{pmatrix}e_0 \\e_1
-\end{pmatrix}.
+\end{pmatrix}\begin{pmatrix}e_0 \\e_1\end{pmatrix}.
 \]$$
 
 This is the standard form of a Lorentz transformation in a $\(1+1\)$-dimensional Minkowski space, now realized in the entropic manifold rather than spacetime.
@@ -297,7 +296,7 @@ The key point is that this hyperbolic mixing is forced by the Lorentzian signatu
 In ToE, quantum fields are not fundamental; they are emergent structures associated with entropic modes on $\(\mathcal{M}_S\)$. These modes are eigenfunctions of an entropic Laplacian constructed from the Obidi metric:
 
 $$\[
-\BoxS \phik(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambdak \phik(\theta),
+\BoxS \phik(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambdak\phik(\theta),
 \]$$
 
 where $\(\lambdak\)$ are eigenvalues and $\(\phik\)$ are mode functions.
@@ -349,7 +348,7 @@ ak^\dagger = \alphak bk^\dagger + \betak b_k,
 with
 
 $$\[
-\alpha_k = \cosh\left(\frac{\Delta S{2}\right),\qquad
+\alpha_k = \cosh\left(\frac{\DeltaS{2}\right),\qquad
 \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
