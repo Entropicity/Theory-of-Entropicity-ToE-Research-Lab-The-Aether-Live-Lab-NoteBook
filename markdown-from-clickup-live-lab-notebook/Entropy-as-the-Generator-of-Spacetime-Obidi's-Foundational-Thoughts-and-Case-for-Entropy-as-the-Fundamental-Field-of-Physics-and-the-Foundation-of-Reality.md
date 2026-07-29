@@ -24,4 +24,3 @@ Without entropy, there is no differentiation, no ordering, no geometry, no flow 
 
 ---
 
-If you want, I can now integrate this subsection into the larger chapter structure or expand it into a full section on the entropic origin of geometry.
