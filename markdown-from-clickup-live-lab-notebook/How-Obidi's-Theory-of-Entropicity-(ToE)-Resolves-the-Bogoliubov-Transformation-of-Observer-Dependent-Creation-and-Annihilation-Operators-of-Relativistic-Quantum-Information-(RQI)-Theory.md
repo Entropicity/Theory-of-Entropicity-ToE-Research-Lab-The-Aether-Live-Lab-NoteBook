@@ -1,4 +1,5 @@
-# How Obidi's Theory of Entropicity (ToE) Resolves the Bogoliubov Transformation of Relativistic Quantum Information (RQI) Theory 
+# How Obidi's Theory of Entropicity (ToE) Resolves the Bogoliubov Transformation of Observer Dependent Creation and Annihilation Operators of Relativistic Quantum Information (RQI) Theory 
+
 
 ## References:
 
