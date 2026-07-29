@@ -282,7 +282,7 @@ e_0' \\
 e_1'
 \end{pmatrix}=\begin{pmatrix}
 \cosh\eta & \sinh\eta \\\sinh\eta & \cosh\eta
-\end{pmatrix}\begin{pmatrix}e_0 \\e_1\end{pmatrix}.
+\end{pmatrix}\begin{pmatrix}e_0\\e_1\end{pmatrix}.
 \]$$
 
 This is the standard form of a Lorentz transformation in a $\(1+1\)$-dimensional Minkowski space, now realized in the entropic manifold rather than spacetime.
@@ -296,24 +296,23 @@ The key point is that this hyperbolic mixing is forced by the Lorentzian signatu
 In ToE, quantum fields are not fundamental; they are emergent structures associated with entropic modes on $\(\mathcal{M}_S\)$. These modes are eigenfunctions of an entropic Laplacian constructed from the Obidi metric:
 
 $$\[
-\BoxS \phik(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambdak\phik(\theta),
+\BoxS \phi k(\theta)=g^{(L)\,\mu\nu} \nabla\mu \nabla\nu \phi_k(\theta)=-\lambdak\phi k(\theta),
 \]$$
 
-where $\(\lambdak\)$ are eigenvalues and $\(\phik\)$ are mode functions.
+where $\(\lambdak\)$ are eigenvalues and $\(\phi k\)$ are mode functions.
 
 Associated with each mode $\(\phik\)$ are annihilation and creation operators $\(ak, ak^\dagger\)$ for observer $\(\mathcal{O}1\)$, and $\(bk, bk^\dagger\)$ for observer $\(\mathcal{O}_2\)$. These operators are defined by expanding the entropic field in the respective mode bases:
 
 $$\[
-\Phi(\theta)=\sumk \left( ak \phik^{(1)}(\theta) + ak^\dagger \bar{\phi}_k^{(1)}(\theta) \right)=\sumk \left( bk \phik^{(2)}(\theta) + bk^\dagger \bar{\phi}_k^{(2)}(\theta) \right).
+\Phi(\theta)=\sumk \left( ak \phi k^{(1)}(\theta) + ak^\dagger \bar{\phi}_k^{(1)}(\theta) \right)=\sumk \left( bk \phi k^{(2)}(\theta) + bk^\dagger \bar{\phi}_k^{(2)}(\theta) \right).
 \]$$
 
 The mode functions $\(\phik^{(1)}\)$ and $\(\phik^{(2)}\)$ are related by the entropic Lorentz transformation induced by the Obidi metric. In the simplest case, the transformation between the two mode bases can be written as a hyperbolic rotation in the two-dimensional subspace spanned by $\(\phik\)$ and $\(\bar{\phi}k\)$:
 
 $$\[
 \begin{pmatrix}
-\phi_k^{(2)} \\
-\bar{\phi}_k^{(2)}
-\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\\sinh\eta & \cosh\eta\end{pmatrix}
+\phi_k^{(2)} \\ \bar{\phi}_k^{(2)}
+\end{pmatrix}=\begin{pmatrix}\cosh\eta &\sinh\eta \\\sinh\eta &\cosh\eta\end{pmatrix}
 \begin{pmatrix}\phi_k^{(1)} \\ \bar{\phi}_k^{(1)}\end{pmatrix},
 \]$$
 
@@ -322,16 +321,14 @@ with $\(\eta = \Delta S/2\)$.
 Because the field expansion must remain invariant, the transformation of mode functions induces a corresponding transformation of the operators. Requiring that the canonical commutation relations are preserved,
 
 $$\[
-[ak, a{k'}^\dagger] = \delta_{kk'}, \qquad
-[bk, b{k'}^\dagger] = \delta_{kk'},
+[ak, a{k'}^\dagger] = \delta_{kk'}, \qquad[bk, b{k'}^\dagger] = \delta_{kk'},
 \]$$
 
 one finds that the operators transform as
 
 $$\[
 \begin{pmatrix}a_k \\a_k^\dagger
-\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta &\cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\
-b_k^\dagger\end{pmatrix}.
+\end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta &\cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\b_k^\dagger\end{pmatrix}.
 \]$$
 
 This is the entropic Bogoliubov transformation.
@@ -346,8 +343,7 @@ ak^\dagger = \alpha k bk^\dagger + \betak b_k,
 with
 
 $$\[
-\alpha_k = \cosh\left(\frac{\DeltaS{2}\right),\qquad
-\beta_k = \sinh\left(\frac{\Delta S{2}\right).
+\alpha_k =\cosh\left(\frac{\DeltaS{2}\right),\qquad \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
 The coefficients $\(\alpha k\)$ and $\(\beta k\)$ are thus hyperbolic functions of the entropic displacement $\(\Delta S\)$, arising directly from the Lorentzian structure of the Obidi metric on the entropic manifold.
