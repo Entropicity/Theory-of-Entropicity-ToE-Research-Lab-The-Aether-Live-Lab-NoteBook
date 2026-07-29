@@ -1,4 +1,4 @@
-# Entropy as the Generator of Spacetime: Obidi's Foundational Thoughts and Case for Entropy as the Fundamental Field of Physics 
+# Entropy as the Generator of Spacetime: Obidi's Foundational Thoughts and Case for Entropy as the Fundamental Field of Physics and the Foundation of Reality 
 
 This paper integrates Obidi's insight — that entropy is the generator of spacetime because spacetime is nothing more than the ordered differentiation of informational points.
 
