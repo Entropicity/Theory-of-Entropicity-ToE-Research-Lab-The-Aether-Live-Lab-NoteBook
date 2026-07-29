@@ -327,6 +327,22 @@ $$\[
 one finds that the operators transform as
 
 $$\[
+\begin{pmatrix}
+a_k \\
+a_k^\dagger
+\end{pmatrix}=\begin{pmatrix}
+\cosh\eta & \sinh\eta \\
+\sinh\eta & \cosh\eta
+\end{pmatrix}
+\begin{pmatrix}
+b_k \\
+b_k^\dagger
+\end{pmatrix}.
+\]$$
+
+
+
+$$\[
 \begin{pmatrix}a_k \\a_k^\dagger
 \end{pmatrix}=\begin{pmatrix}\cosh\eta & \sinh\eta \\ \sinh\eta &\cosh\eta\end{pmatrix}\begin{pmatrix}b_k \\b_k^\dagger\end{pmatrix}.
 \]$$
@@ -345,11 +361,6 @@ with
 $$\[
 \alpha_k = \cosh\left(\frac{\Delta S}{2}\right), \qquad
 \beta_k = \sinh\left(\frac{\Delta S}{2}\right).
-\]$$
-
-
-$$\[
-\alpha_k =\cosh\left(\frac{\Delta S{2}\right),\qquad \beta_k = \sinh\left(\frac{\Delta S{2}\right).
 \]$$
 
 The coefficients $\(\alpha k\)$ and $\(\beta k\)$ are thus hyperbolic functions of the entropic displacement $\(\Delta S\)$, arising directly from the Lorentzian structure of the Obidi metric on the entropic manifold.
