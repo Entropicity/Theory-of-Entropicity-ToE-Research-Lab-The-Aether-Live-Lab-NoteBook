@@ -4,9 +4,9 @@
 
 # Worshippers in the Temple of Science:
 
-"...
-**[Max Planck is] One of those few worshippers in the Temple of Science who would still remain should an angel of God descend and drive out of the temple all those lesser scientists, who under different circumstances might become politicians or captains of industry.**
-..."
+**"...
+[Max Planck is] One of those few worshippers in the Temple of Science who would still remain should an angel of God descend and drive out of the temple all those lesser scientists, who under different circumstances might become politicians or captains of industry.
+..."**
 
 ~ **Albert Einstein** (His introduction to the work of Max Planck on "Where is Science Going")
 
