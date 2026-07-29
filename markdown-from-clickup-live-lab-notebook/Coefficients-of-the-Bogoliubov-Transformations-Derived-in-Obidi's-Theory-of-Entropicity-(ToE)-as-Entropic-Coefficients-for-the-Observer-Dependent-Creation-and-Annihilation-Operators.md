@@ -387,3 +387,8 @@ ak = \cosh\left(\frac{\Delta S}{2}\right) bk + \sinh\left(\frac{\Delta S}{2}\rig
 with coefficients determined entirely by the entropic displacement $\(\Delta S\)$.
 
 In this way, Obidi’s Theory of Entropicity (ToE) derives the cosh/sinh Bogoliubov coefficients step-by-step from the Obidi metric, revealing them as a direct manifestation of the Lorentzian entropic geometry rather than an ad hoc choice.
+
+
+Obidi’s originality in the derivation of the Bogoliubov coefficients is not the cosh/sinh form, but the fact that these coefficients arise from a Lorentzian deformation of the Fisher–Rao metric and measure entropic displacement rather than geometric or quantum-phase mixing.
+
+The entropic Bogoliubov coefficients show that entropy is beneath it all. They demonstrate that the deepest mechanism behind quantum fields, observer dependence, and particle creation is not geometry, not Hilbert space, not quantum phase — but entropy itself.
