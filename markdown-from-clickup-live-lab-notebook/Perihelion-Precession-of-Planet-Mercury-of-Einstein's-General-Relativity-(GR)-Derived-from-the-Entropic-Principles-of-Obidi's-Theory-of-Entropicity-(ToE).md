@@ -20,3 +20,28 @@ If you would like, we can:
 * Explore how the **Theory of Entropicity (ToE)** handles other classical tests, like gravitational light deflection [2, 10, 11, 12] 
 
 Which aspect would you like to explore next?
+
+
+-------------
+
+
+# Scholium 
+
+
+**Ted Jacobson** was the first to derive the Einstein field equations of general relativity from thermodynamic entropy relations. In 1995, he showed that the fundamental relation $\delta Q = T dS$ applied to **local Rindler horizons yields Einstein's equation.** [1, 2] 
+
+## Key Details of the Derivation
+
+* Author: **[Ted Jacobson](https://arxiv.org/abs/gr-qc/9504004),** a physicist at the University of Maryland. [1, 3, 4] 
+* **Publication Date:** Published in Physical Review Letters in August 1995 (submitted April 1995). [5] 
+* **Core Principle:** Combined the proportionality of horizon area to entropy with the thermodynamic relation $\delta Q = T dS$. [1] 
+* **The Setup:** Demanded that the heat-entropy-temperature relation hold for all local Rindler causal horizons through every spacetime point. [1] 
+* **The Result:** Interpreted $\delta Q$ as energy flux and $T$ as the Unruh temperature, proving that Einstein's equations act as an equation of state rather than a fundamental standalone geometric rule. [1] 
+
+If you'd like, we can:
+
+* Detail the step-by-step math behind **Jacobson's derivation**
+* Explain how Unruh temperature relates to accelerated observers
+* Discuss later work by **T. Padmanabhan** or **Verlinde** expanding on entropic gravity
+
+Let us know how you want to proceed.
