@@ -1,5 +1,4 @@
-On a New Theory and Foundation of Matter:
-From Physical Fields to Obidi’s Theory of Entropicity (ToE)  
+# On a New Theory and Foundation of Matter: From Physical Fields to Obidi’s Theory of Entropicity (ToE)  
 
 Part I — Introduction and Historical Background
 
