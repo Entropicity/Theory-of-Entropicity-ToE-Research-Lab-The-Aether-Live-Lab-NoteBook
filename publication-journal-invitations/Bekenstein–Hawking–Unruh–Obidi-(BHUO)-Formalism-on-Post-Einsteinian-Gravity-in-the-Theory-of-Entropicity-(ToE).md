@@ -22,7 +22,7 @@ While orthodox physics treats these three phenomena as distinct consequences of 
 
 $$S_{\text{local}} = \frac{k_B \cdot c^3 \cdot A_{\text{eff}}}{4 G \hbar} \cdot \Phi_O(x)$$ 
 
-The above is the Bekenstein-Hawking-Unruh-Obidi (BHUO) Equation, where:
+The above is the Bekenstein-Hawking-Unruh-Obidi (BHUO) Equation (BHUOE), where:
 
 * S_{local}: The local entropic density at a given point in space, rather than just on a black hole horizon.
 * A_{eff}: The effective informational boundary area dictated by local acceleration or gravitational fields.
