@@ -176,7 +176,7 @@ Would you like to explore how tensor networks visually map this process, or look
 
 Modern holography explains spacetime as emerging from discrete quantum entanglement. In this view, smooth geometry is built from qubits arranged on a boundary, and the Ryu–Takayanagi (RT) formula expresses this relationship directly:
 
-RT Formula (LinkedIn‑safe):  
+RT Formula:  
 S(A) = Area(gammaA) / (4 * GN)
 
 This states that the entanglement entropy S(A) of a boundary region A equals the area of a minimal surface gamma_A in the bulk spacetime.
