@@ -1,5 +1,6 @@
 # Ryu-Takayanagi Formula of Holographic Spacetime and Spacetime in Obidi's Theory of Entropicity (ToE) 
 
+## The Ryu-Takayanagi Formula of Holographic Spacetime and Its Reformulation in Obidi's Theory of Entropicity (ToE)
 
 ## How Smooth Space Emerges from Discrete Quantum Bits and Obidi's Theory of Entropicity (ToE)
 
