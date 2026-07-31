@@ -18,6 +18,8 @@ To: <jonimisiobidi@gmail.com>
 
 Reminder: You’ve been invited to join the Discussion of John Blaszynski's paper **“The Holographic Information Metric (HIM).pdf”.**
 
+https://www.academia.edu/t/gtmyY-TuxAVjo-KUgKS/s/ebec479b85
+
 You have been invited either because you are following **John Blaszynski** or because **Academia** thinks you'd be interested based on the overlap between this paper and what you read and write on Academia. Since the Discussion started 4 days ago, there have been 7 comments and 39 participants.
 
 I welcome thoughtful discussion from physicists, mathematicians, engineers, and anyone interested in fundamental physics. This manuscript proposes a geometric framework that attempts to connect quaternionic electrodynamics, Hopf fibrations, digital signal processing, topology, information theory, and quantum foundations into a single engineering model. Whether you ultimately agree or disagree with its conclusions, 
