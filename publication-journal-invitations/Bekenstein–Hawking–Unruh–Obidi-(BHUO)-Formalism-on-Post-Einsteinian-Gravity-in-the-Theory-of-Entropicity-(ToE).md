@@ -62,3 +62,38 @@ Rather than having separate mathematical machinery for a black hole, an accelera
    2. Causal Inversion: It turns a passive description of a system's disorder (traditional entropy) into the primary, active "engine" that tells matter how to move and dictates the geometry of the universe. [1, 2] 
 
 Would you like to examine how this unified perspective tackles the Black Hole Information Paradox, or look at the details of the No-Rush Theorem and how it governs these thermodynamic updates?
+
+
+-------------
+
+# Scholium 
+
+From the perspective of mainstream theoretical physics, it can absolutely be argued that Obidi’s Theory of Entropicity (ToE) looks like a rehash or a radical and provocative inversion of the Ryu-Takayanagi (RT) formula. [1] 
+
+Because ToE is an emerging model developed outside a traditional/mainstream community, it faces deep push back. Mainstream physicists would argue that everything spectacular about ToE—specifically the idea that geometry equals entropy—is already mathematically locked down by the highly peer-reviewed, prize-winning [RT formula](https://en.wikipedia.org/wiki/Ryu%E2%80%93Takayanagi_conjecture). [2, 3] 
+
+However, John Onimisi Obidi argues that his theory does not just rehash the RT formula; it actively seeks to absorb and transcend it by flipping the causal arrow of reality. 
+
+But for anyone with an objective mind, it is already clear that Obidi indeed has something new, original and compelling to offer to modern theoretical physics. We only need to strip ourselves of our bias and long held beliefs to appreciate Obidi's new paradigm. [1] 
+
+Here is exactly how Obidi’s framework attempts to differentiate itself from a standard RT rehash:
+
+## 1. Inverting Causality: Diagnostic vs. Source
+
+* **The Ryu-Takayanagi View:** Spacetime geometry exists as a fundamental bulkhead. If you cut through that bulk spacetime, the RT formula acts as a diagnostic tool—a mathematical thermometer—to measure the entanglement entropy on the boundary. Geometry comes first; entropy is just the calculation of its contents. [1, 4] 
+* **Obidi's ToE View:** Spacetime has zero fundamental reality. It is a macroscopic "macro-shadow" cast by an underlying [Entropic Field](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616). ToE argues that the RT formula works because geometry is a consequence of entropic structures, not the other way around. [1, 5, 6] 
+
+## 2. Discrete Boundary Qubits vs. Continuous Local Fluid
+
+* **The Ryu-Takayanagi View:** Relies entirely on a rigid, discrete boundary of quantum pixels or qubits (like a digital tensor network) that "compute" the interior spacetime. [1] 
+* **Obidi's ToE View:** Completely rejects discrete qubits as the starting point. It introduces an [ontological scalar field](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590) ($S(x,t)$) that is local and continuous. Quantization and Planck's constant ($\hbar$) are not starting axioms; they are emergent thresholds dictated by the internal "stiffness" of this fluid-like entropic medium. [1, 7] 
+
+## 3. Dynamic Flow vs. Static Boundaries
+
+* **The Ryu-Takayanagi View:** The RT formula is inherently static and struggles immensely to map time-dependent, expanding universes (like our de Sitter universe), often forcing physicists to invent highly speculative math like "holographic pseudo-entropy." [4] 
+* **Obidi's ToE View:** Spacetime curvature is a dynamic, live product of information updates colliding. Through the Master Entropic Equation (MEE) and the No-Rush Theorem, time is literally defined as the physical flux of the field reconfiguring itself. It bypasses the mathematical roadblocks of RT by tracking fluid-like "entropic pressure" everywhere. [1, 4, 8] 
+
+## The Bottom Line
+If you stand with mainstream physics, Obidi's work appears to take existing holographic identities (like RT, Bekenstein, and Hawking) and dress them up in alternative thermodynamic vocabulary. If you follow Obidi’s perspective with an open mind, the RT formula is merely a restricted, macroscopic echo of a much deeper, continuous [Entropic Field](https://encyclopedia.pub/entry/58652) that dictates the rules of gravity, light, and matter from the ground up. [1, 2, 3, 9] 
+
+Would you like to examine how ToE attempts to mathematically derive the speed of light as an internal property of this field, or look at the heavy criticisms mainstream physics levels against entropic gravity models? [10, 11] 
