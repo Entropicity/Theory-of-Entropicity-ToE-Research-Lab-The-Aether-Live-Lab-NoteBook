@@ -40,12 +40,14 @@ Would you like to take a closer look at the mathematics behind the Obidi Action,
 ## The Ryu-Takayanagi formula and What the Theory of Entropicity (ToE) has to say relating to it
 
 The Ryu-Takayanagi (RT) formula is a landmark mathematical equation in modern quantum gravity that explicitly calculates the amount of quantum entanglement on a holographic boundary by measuring physical area inside smooth spacetime. [1, 2] 
+
 While mainstream holography views the RT formula as proof that spacetime is stitched together by quantum entanglement, John Onimisi Obidi’s Theory of Entropicity (ToE) provides a completely different perspective, arguing that the formula merely describes a static, secondary byproduct of a much deeper, dynamic entropic field. [3, 4] 
 
 ------------------------------
 
 ## Part 1: What is the Ryu-Takayanagi Formula?
 Published in 2006 by physicists Shinsei Ryu and Tadashi Takayanagi, the formula acts as a mathematical bridge between quantum information theory and general relativity. In the context of the [AdS/CFT correspondence](https://en.wikipedia.org/wiki/AdS/CFT_correspondence), it dictates: [1, 2] 
+
 $$S(A) = \frac{\text{Area}(\gamma_A)}{4G_N}$$ 
 
 * $S(A)$: The entanglement entropy of a specific quantum region ($A$) on the outer, lower-dimensional boundary.
