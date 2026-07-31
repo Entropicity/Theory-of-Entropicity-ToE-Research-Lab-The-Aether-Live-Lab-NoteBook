@@ -53,7 +53,7 @@ To see how these concepts are compacted together, look at how each physicist's r
 
 * The Unruh Factor ($a$): Represents the local acceleration or localized dynamics experienced by a system.
 * The Hawking & Bekenstein Core ($k_B, c, G, \hbar$): Anchors the physics directly to the fundamental properties of quantum mechanics, relativity, and thermodynamics. [5, 6] 
-* The Obidi Element ($\(\Phi_O(x))$): Introduces a variable correction factor tied to the Obidi Action. This modifies how the constants interact depending on local entropic densities and "stiffness" across the statistical manifold. [1, 7] 
+* The Obidi Element (\Phi_O(x))$: Introduces a variable correction factor tied to the Obidi Action. This modifies how the constants interact depending on local entropic densities and "stiffness" across the statistical manifold. [1, 7] 
 
 ## What This Type of Formalism Achieves
 Rather than having separate mathematical machinery for a black hole, an accelerating rocket, and empty space, this synthesized view attempts to simplify the universe into a unified description: [8, 9] 
