@@ -3,6 +3,8 @@
 
 In the alternative unified field framework of John Onimisi Obidi’s Theory of Entropicity (ToE), the Bekenstein–Hawking–Unruh–Obidi (BHUO) formalism is a conceptual expansion of semiclassical gravity. [1] 
 
+Here, for the first time, we combine the insights of Bekenstein, Hawking, Unruh, and Obidi into a generalized equation.
+
 Instead of treating horizons as the only places where thermodynamic laws dictate gravity, this formalism generalizes the relationship, making spacetime geometry a direct manifestation of local entropic fields.
 
 The synthesis unifies established physics concepts with Obidi's alternative axioms through a distinct structural progression:
@@ -19,6 +21,8 @@ The formalism builds upon three universally accepted milestones of modern theore
 While orthodox physics treats these three phenomena as distinct consequences of quantum fields in curved geometry, the BHUO formalism rephrases the system. It scales a generalized equation where thermodynamic properties dictate spatial parameters everywhere:
 
 $$S_{\text{local}} = \frac{k_B \cdot c^3 \cdot A_{\text{eff}}}{4 G \hbar} \cdot \Phi_O(x)$$ 
+
+The above is the Bekenstein-Hawking-Unruh-Obidi (BHUO) Equation, where:
 
 * S_{local}: The local entropic density at a given point in space, rather than just on a black hole horizon.
 * A_{eff}: The effective informational boundary area dictated by local acceleration or gravitational fields.
