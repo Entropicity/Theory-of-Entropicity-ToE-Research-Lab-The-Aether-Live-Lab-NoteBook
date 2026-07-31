@@ -37,6 +37,62 @@ Would you like to take a closer look at the mathematics behind the Obidi Action,
 
 # Scholium 
 
+## The Ryu-Takayanagi formula and What the Theory of Entropicity (ToE) has to say relating to it
+
+The Ryu-Takayanagi (RT) formula is a landmark mathematical equation in modern quantum gravity that explicitly calculates the amount of quantum entanglement on a holographic boundary by measuring physical area inside smooth spacetime. [1, 2] 
+While mainstream holography views the RT formula as proof that spacetime is stitched together by quantum entanglement, John Onimisi Obidi’s Theory of Entropicity (ToE) provides a completely different perspective, arguing that the formula merely describes a static, secondary byproduct of a much deeper, dynamic entropic field. [3, 4] 
+
+------------------------------
+
+## Part 1: What is the Ryu-Takayanagi Formula?
+Published in 2006 by physicists Shinsei Ryu and Tadashi Takayanagi, the formula acts as a mathematical bridge between quantum information theory and general relativity. In the context of the [AdS/CFT correspondence](https://en.wikipedia.org/wiki/AdS/CFT_correspondence), it dictates: [1, 2] 
+$$S(A) = \frac{\text{Area}(\gamma_A)}{4G_N}$$ 
+
+* $S(A)$: The entanglement entropy of a specific quantum region ($A$) on the outer, lower-dimensional boundary.
+* $\gamma_A$: A minimal surface (or shortest geometric path) that stretches through the inner, higher-dimensional smooth spacetime (the bulk) and anchors onto the edges of region $A$.
+* $G_N$: Newton’s gravitational constant. [2, 5, 6] 
+
+## Why it matters
+The RT formula reveals that geometry is equivalent to information. It implies that if you reduce the quantum entanglement on the boundary, the corresponding geometric surface in the interior stretches and tears. In short, mainstream physics uses this equation to declare that entanglement creates spacetime geometry. [2, 4, 5, 7] 
+
+------------------------------
+
+## Part 2: How the Theory of Entropicity (ToE) Differs
+John Onimisi Obidi’s [Theory of Entropicity](https://encyclopedia.pub/entry/58652) (ToE) drastically shifts this paradigm. Rather than treating entanglement as the primary "glue" and geometry as the result, ToE claims that both quantum entanglement and geometry are emergent consequences of a continuous, fluid Entropic Field. [3, 8, 9] 
+Here is how ToE challenges and reinterprets the foundations underlying the RT formula:
+## 1. From Boundary "Pixels" to the "Master Entropic Equation"
+
+* Standard RT Formula: Assumes a discrete, structural boundary of quantum bits (Qubits) that "compute" the interior spacetime.
+* Obidi's ToE: Rejects the idea that reality is dictated by an external boundary. It replaces boundary states with a primary, ontological scalar field ($S(x)$) governed by the Obidi Action. Instead of calculating static minimal areas, ToE uses the Master Entropic Equation (MEE) to show how continuous gradients of entropy actively curve reality from the inside out. [8, 9, 10, 11, 12] 
+
+## 2. Reinterpreting "Entanglement" as an "Entropic Seesaw"
+
+* Standard RT Formula: Views entanglement as an intrinsic, fundamental quantum correlation between separated subsystems.
+* Obidi's ToE: Explains quantum entanglement mechanically via the Entropic Seesaw Model. In ToE, two seemingly separated quantum particles are physically linked by an underlying "entropic bar" within the continuous field. Therefore, the entanglement calculated by the RT formula isn't a magical, non-local connection weaving space; it is simply a measurement of the field's internal resistance and redistributive flow. [5, 13, 14] 
+
+## 3. Moving Beyond "Pseudo-Entropy" Constraints
+
+* Standard RT Formula: Struggles to maintain mathematical validity in realistic, time-dependent, or flat/de Sitter (dS) universes, often forcing physicists to rely on highly volatile, complex-valued "pseudo-entropy" to map spacetime evolution. [4, 15] 
+* Obidi's ToE: Bypasses the need for pseudo-entropy entirely. Because ToE treats spacetime curvature as a natural, macroscopic limit of informational updates colliding (using the Amari–Čencov dual connections on a statistical manifold), it naturally derives time-dependent gravitational changes. If there are no active entropic gradients, the Čencov tensor drops to zero, meaning geometry collapses naturally without needing to monitor rigid quantum entanglement boundaries. [4, 12, 16] 
+
+------------------------------
+
+## Summary of the Conflict
+
+| Feature | The Ryu-Takayanagi View | The Obidi ToE View |
+|---|---|---|
+| What creates space? | The static architecture of boundary quantum entanglement. | The dynamic, local flow and gradients of an Entropic Field. |
+| Role of the Formula | A fundamental law proving geometry is information. | A restricted, macroscopic shadow of deeper informational updates colliding. |
+| The Core Mechanism | Spacetime geometry minimizes entanglement area. | The universe dynamically reorganizes to maximize entropic flow. |
+
+If you want to dig deeper into the math, we can explore how Obidi's dual statistical connections replace Einstein's metric tensor, or look at how the [No-Rush Theorem](https://medium.com/@jonimisiobidi/what-is-actually-unique-about-the-theory-of-entropicity-toe-3fcdb8b1ada3) establishes a finite speed limit for these entropic updates. [12, 17] 
+
+
+
+---------------
+
+# Scholium 
+
 ## How Smooth Space Emerges from Discrete Quantum Bits
 
 Smooth space emerges from discrete quantum bits through the process of quantum entanglement, which acts as the physical "glue" holding spacetime together. [1] 
