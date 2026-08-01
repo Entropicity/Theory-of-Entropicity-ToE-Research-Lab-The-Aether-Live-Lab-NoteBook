@@ -8,8 +8,10 @@ In standard physics, entropy is a description—a mathematical tally of how diso
 
 ## The Conceptual Shift
 
-* Traditional View: Spacetime is a stage $\rightarrow$ Particles occupy the stage $\rightarrow$ When particles scatter, we calculate the "disorder" and call it entropy.
-* Obidi's View: The entropic field is the fundamental reality $\rightarrow$ Fluctuations in this field create particles and space $\rightarrow$ What we call "disorder" is just our macroscopic view of the field changing shape. Each point of, and in, spacetime is Entropic; Entropy is at each point and region of spacetime. Obidi says this Entropicity in each point in spacetime is what makes it possible for an action, and any decay or disorder or reorganization or reordering to be possible at all.
+* **Traditional View:** Spacetime is a stage $\rightarrow$ Particles occupy the stage $\rightarrow$
+  
+When particles scatter, we calculate the "disorder" and call it entropy.
+* **Obidi's View:** The entropic field is the fundamental reality $\rightarrow$ Fluctuations in this field create particles and space $\rightarrow$ What we call "disorder" is just our macroscopic view of the field changing shape. Each point of, and in, spacetime is Entropic; Entropy is at each point and region of spacetime. Obidi says this Entropicity in each point in spacetime is what makes it possible for an action, and any decay or disorder or reorganization or reordering to be possible at all.
 
 ## Key Implications of This View
 
