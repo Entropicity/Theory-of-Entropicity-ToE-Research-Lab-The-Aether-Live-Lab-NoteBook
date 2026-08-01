@@ -12,4 +12,6 @@ Instead of sewing spacetime together using discrete qubits or minimal bulk surfa
 * Emergent Minimal Surfaces: Minimal surfaces do not fundamentally encode correlations; instead, they appear macroscopically because the entropic field’s internal stiffness forces geometry to behave like an area law at the boundary. [1] 
 
 Ultimately, the reformulation generalizes the linearized gravitational limits of holographic pseudo-entropy into a fully non-linear, time-asymmetric foundation, summarized by Obidi's core axiom: “Entropy curves existence.” [1, 2] 
+
+
 Would you like to explore the specific mathematical role of the Obidi Action or the Master Entropic Equation in this framework?
