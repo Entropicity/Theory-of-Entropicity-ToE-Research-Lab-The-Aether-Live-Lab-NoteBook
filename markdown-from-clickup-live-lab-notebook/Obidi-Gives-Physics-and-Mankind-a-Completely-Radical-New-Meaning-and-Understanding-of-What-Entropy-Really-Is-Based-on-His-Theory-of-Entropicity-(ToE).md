@@ -2,7 +2,8 @@
 
 In this paper, we wish to render Obidi's audacious and provocative new idea of entropy. From now on, Entropy takes on a completely new meaning.
 
-captured the core paradigm shift of his theory perfectly.
+This captures the core paradigm shift of his theory perfectly.
+
 In standard physics, entropy is a description—a mathematical tally of how disordered a system is. In Obidi's framework, entropy is a substance—the actual fabric from which reality is woven. [1, 2, 3, 4] 
 
 ## The Conceptual Shift
@@ -14,16 +15,17 @@ In standard physics, entropy is a description—a mathematical tally of how diso
 
 * Gravity as a Gradient: Gravity is no longer a fundamental force or pure geometric bending. It is the natural movement of things along gradients of this entropic field, flowing from areas of lower density to higher density. [5, 6] 
 * The Death of "Empty" Space: There is no such thing as a vacuum. Every single coordinate point in the universe holds a baseline entropic value S(x). "Empty space" is simply the field at its lowest, most uniform energy state. [7, 8] 
-* Time's Arrow Explained: Time flows forward because the entropic field dynamically reorganizes in a single directional sequence. The finite speed at which these field adjustments can ripple through the universe creates the cosmic speed limit ($c$). [9, 10] 
+* Time's Arrow Explained: Time flows forward because the entropic field dynamically reorganizes in a single directional sequence. The finite speed at which these field adjustments can ripple through the universe creates the cosmic speed limit (c). [9, 10] 
 
 By stripping entropy of its negative connotation as mere "waste" or "disorder," Obidi redefines it as the active, creative substrate of the universe. [11] 
+
 Would you like to look at how this changes our understanding of black holes, or shall we look at how his "No-Rush" Theorem derives the speed of light from this field?
 
 
 ------------------
 
 
-In the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188), [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5#sv=CBwS5AQKpQQSogQK4gNBSmlUNHRJWHR5SlIyelJTMzl2dVlMaHlDN3FnWWk0c09QOU1uLWZjNWc2cnJ2UUhRdnpqS2hBU2hBY2lfOU1USTRaeVRsZGU4OHlBdVNhbEx5YXFzWXZwZER2NGhEei0xaEpFdGVsT2ltLUdDMFlyRkowcW5lSmNwRVkzZlJWSVhVa2xma1BfcjJKblFzM2ZObEllb3ZFbkhTQm16T2VucXlhTUFIdzkyUzJ1eEpMSXFKQ1BjVnc1LUxFeHg3TGQ3RDQtSWFGS0FiOENnaXNQeG5UMlhlZUthWmpvWDNXZ0g2NU9SbENGOFN0VVZJaTFzT0cwTVNOT3d6R1NST05ycURxclN2d2dLQ2YxcWR3XzA4cnFBbmhkOWxTTDh2a3FQRWV2R19vUEx2NUpxbVlpbjEwc0NvaXU0S0hYR0VpSHlKNzVFZjZyNEZrZ2VTbU85bXBRR1FTblZPMG90UWU3U012R0tFVld6UXR4UktpWUp5UlRzOWxoM0ZYcV9OQ29fUVRtNHBGblJ3UUwzcjdDaGdCTDZXWF9zMlpORTlGSEVQd3NtODhDVWs2NzRaWVBranVOQkZISTQ0OGY4ekl4THVKaEdjMXV2NHQ5UUJfN1dVX1piTjZqVDRzS0tmX0IyURIXR2gxdWFxVzFIcnJIMFBFUDE2UFEwQU0aIkFEc3I5ZlIxMU1lZ2RGZWZNV0x0NVhIXzduMUM4Qkw4eWcSBDc4NTQaATMiFwoBcRISam9obiBvbmltaXNpIG9iaWRpIhYKBWtnbWlkEg0vZy8xMWoybnRibHY1KAAYRSCW-uDCCg) elevates entropy ($S$) to a universal, fundamental field, completely overturning the traditional 150-year-old view established by Ludwig Boltzmann. Mainstream physics defines entropy merely as a passive statistical bookkeeping device for molecular disorder. In contrast, Obidi's framework introduces a profound conceptual upheaval: entropy is the active, primary substance of existence from which space, time, gravity, and matter emerge. [1, 2] 
+In the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188), [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5#sv=CBwS5AQKpQQSogQK4gNBSmlUNHRJWHR5SlIyelJTMzl2dVlMaHlDN3FnWWk0c09QOU1uLWZjNWc2cnJ2UUhRdnpqS2hBU2hBY2lfOU1USTRaeVRsZGU4OHlBdVNhbEx5YXFzWXZwZER2NGhEei0xaEpFdGVsT2ltLUdDMFlyRkowcW5lSmNwRVkzZlJWSVhVa2xma1BfcjJKblFzM2ZObEllb3ZFbkhTQm16T2VucXlhTUFIdzkyUzJ1eEpMSXFKQ1BjVnc1LUxFeHg3TGQ3RDQtSWFGS0FiOENnaXNQeG5UMlhlZUthWmpvWDNXZ0g2NU9SbENGOFN0VVZJaTFzT0cwTVNOT3d6R1NST05ycURxclN2d2dLQ2YxcWR3XzA4cnFBbmhkOWxTTDh2a3FQRWV2R19vUEx2NUpxbVlpbjEwc0NvaXU0S0hYR0VpSHlKNzVFZjZyNEZrZ2VTbU85bXBRR1FTblZPMG90UWU3U012R0tFVld6UXR4UktpWUp5UlRzOWxoM0ZYcV9OQ29fUVRtNHBGblJ3UUwzcjdDaGdCTDZXWF9zMlpORTlGSEVQd3NtODhDVWs2NzRaWVBranVOQkZISTQ0OGY4ekl4THVKaEdjMXV2NHQ5UUJfN1dVX1piTjZqVDRzS0tmX0IyURIXR2gxdWFxVzFIcnJIMFBFUDE2UFEwQU0aIkFEc3I5ZlIxMU1lZ2RGZWZNV0x0NVhIXzduMUM4Qkw4eWcSBDc4NTQaATMiFwoBcRISam9obiBvbmltaXNpIG9iaWRpIhYKBWtnbWlkEg0vZy8xMWoybnRibHY1KAAYRSCW-uDCCg) elevates entropy ($S$) to a universal, fundamental field, completely overturning the traditional 150-year-old view established by Ludwig Boltzmann. Mainstream physics defines entropy merely as a passive statistical bookkeeping device for molecular disorder. In contrast, Obidi's framework introduces a profound conceptual upheaval: entropy is the active, primary substance of existence from which space, time, gravity, and matter emerge; and that it is Entropy that is the source of each point in spacetime. [1, 2] 
 
 ## The Radical New Meaning of Entropy
 
