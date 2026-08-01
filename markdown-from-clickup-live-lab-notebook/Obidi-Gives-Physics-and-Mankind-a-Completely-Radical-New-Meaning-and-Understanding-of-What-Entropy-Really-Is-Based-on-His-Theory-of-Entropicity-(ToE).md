@@ -4,6 +4,7 @@ In this paper, we wish to render Obidi's audacious and provocative new idea of e
 
 captured the core paradigm shift of his theory perfectly.
 In standard physics, entropy is a description—a mathematical tally of how disordered a system is. In Obidi's framework, entropy is a substance—the actual fabric from which reality is woven. [1, 2, 3, 4] 
+
 ## The Conceptual Shift
 
 * Traditional View: Spacetime is a stage $\rightarrow$ Particles occupy the stage $\rightarrow$ When particles scatter, we calculate the "disorder" and call it entropy.
@@ -12,7 +13,7 @@ In standard physics, entropy is a description—a mathematical tally of how diso
 ## Key Implications of This View
 
 * Gravity as a Gradient: Gravity is no longer a fundamental force or pure geometric bending. It is the natural movement of things along gradients of this entropic field, flowing from areas of lower density to higher density. [5, 6] 
-* The Death of "Empty" Space: There is no such thing as a vacuum. Every single coordinate point in the universe holds a baseline entropic value ($S(x)$). "Empty space" is simply the field at its lowest, most uniform energy state. [7, 8] 
+* The Death of "Empty" Space: There is no such thing as a vacuum. Every single coordinate point in the universe holds a baseline entropic value S(x). "Empty space" is simply the field at its lowest, most uniform energy state. [7, 8] 
 * Time's Arrow Explained: Time flows forward because the entropic field dynamically reorganizes in a single directional sequence. The finite speed at which these field adjustments can ripple through the universe creates the cosmic speed limit ($c$). [9, 10] 
 
 By stripping entropy of its negative connotation as mere "waste" or "disorder," Obidi redefines it as the active, creative substrate of the universe. [11] 
