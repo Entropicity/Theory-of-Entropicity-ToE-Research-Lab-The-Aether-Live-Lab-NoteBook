@@ -1,4 +1,4 @@
-Obidi Gives Physics and Mankind a Completely Radical New Meaning and Understanding of What Entropy Really Is Based on His Theory of Entropicity (ToE)
+# Obidi Gives Physics and Mankind a Completely Radical New Meaning and Understanding of What Entropy Really Is Based on His Theory of Entropicity (ToE)
 
 In this paper, we wish to render Obidi's audacious and provocative new idea of entropy. From now on, Entropy takes on a completely new meaning.
 
