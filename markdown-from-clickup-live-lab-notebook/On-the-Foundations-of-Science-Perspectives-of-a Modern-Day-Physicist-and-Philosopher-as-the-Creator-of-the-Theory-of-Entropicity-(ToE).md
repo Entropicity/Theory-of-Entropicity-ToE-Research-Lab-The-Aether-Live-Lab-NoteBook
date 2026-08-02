@@ -1,5 +1,4 @@
-# On the Foundations of Science:
-Perspectives of a Modern Day Physicist and Philosopher as the Creator of the Theory of Entropicity (ToE)
+# On the Foundations of Science: Perspectives of a Modern Day Physicist and Philosopher as the Creator of the Theory of Entropicity (ToE)
 
 **Sunday, August 2nd, 2026**
 
