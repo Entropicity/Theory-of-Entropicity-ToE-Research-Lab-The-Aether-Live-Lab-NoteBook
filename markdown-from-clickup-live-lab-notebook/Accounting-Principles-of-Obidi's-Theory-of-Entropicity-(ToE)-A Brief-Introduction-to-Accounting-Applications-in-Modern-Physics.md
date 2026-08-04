@@ -132,3 +132,21 @@ For modern physics, this means:
 
 - efficiency is entropic compliance, not just geometric elegance  
 
+
+------------
+
+The **Theory of Entropicity (ToE)** is a theoretical physics framework by **John Onimisi Obidi** rather than a corporate financial discipline. Its core "accounting" mechanism—the **Entropic Accounting Principle (EAP)**—acts as a universal ledger governing physical budgets rather than monetary assets.
+
+
+## Core Concepts of Entropic Accounting
+
+### Finite Entropic Budget: 
+Every physical system holds a strict, total allowance of entropy that cannot be arbitrarily increased or depleted.
+
+### Budget Allocation: 
+A system’s finite energy splits dynamically between internal structural maintenance, active motion, and environmental interactions.
+
+### Relativistic Bookkeeping: 
+When a system accelerates, the universal ledger reallocates more of its entropic budget toward motion and global field consistency, directly reducing the allocation left for internal processing (which external observers measure as time dilation and mass increase).
+
+Would you like to explore how the Entropic Accounting Principle mathematically derives relativistic effects like time dilation, length contraction, and mass increase?
