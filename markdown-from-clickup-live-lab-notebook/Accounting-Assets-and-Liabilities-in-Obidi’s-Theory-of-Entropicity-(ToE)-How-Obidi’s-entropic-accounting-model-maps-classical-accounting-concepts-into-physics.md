@@ -68,7 +68,7 @@ The Obidi Budget Equation (OBE) is the entropic equivalent of the accounting bal
 * - TKA (Motion)  
 * - TCA (Interaction)
 
-###🔸 Liabilities
+### 🔸 Liabilities
 * - ERP  
 * - ERF  
 * - ET  
