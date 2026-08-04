@@ -1,4 +1,4 @@
-# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—TEB, OBE, ERP, ERF, NRT, ELF, ET, RET, OET, CAT
+# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—TEB, OBE, ERP, ERF, NRT, ELF, EF, ET, RET, OET, CAT
 
 
 ## Reference(s):
@@ -90,7 +90,7 @@ If you would like to examine this framework further, would you prefer to explore
 --------------------
 
 
-# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, ET, RET, OET, CAT
+# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—TEB, OBE, ERP, ERF, NRT, ELF, EF, ET, RET, OET, CAT
 
 Modern physics has long treated Einstein’s relativistic kinematics as a geometric consequence of spacetime curvature. But in John Onimisi Obidi’s Audacious Theory of Entropicity (ToE), relativity is not geometric — it is accounting.  
 
