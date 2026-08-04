@@ -182,7 +182,7 @@ The **Entropic Time Limit (ETL)** introduces a strict "accrual" rule for physica
 
 ## 4. Entropic Resistance and the Budget Ceiling (Obidi's Loop)
 **As a system attempts to push past the limits of the field (such as approaching the speed of light), it triggers the Entropic Resistance Principle (ERP). The entropic field levies a steep tax on rapid reconfigurations.** This culminates in a phenomenon called **Obidi's Loop:** 
-> **the harder a system strives to advance, the more its remaining budget is absorbed purely into resisting the field, making further progress impossible to attain.** [2, 5] 
+> **The harder a system strives to advance, the more its remaining budget is absorbed purely into resisting the field, making further progress impossible to attain.** [2, 5] 
 
 ------------------------------
 
