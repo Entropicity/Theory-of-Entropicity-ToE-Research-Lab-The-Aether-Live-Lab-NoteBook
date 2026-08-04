@@ -1,4 +1,4 @@
-# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature
+# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, OET, CAT
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), Obidi’s Loop serves as the definitive mechanism that strips away Einstein's reliance on four-dimensional spacetime geometry. Instead of treating time dilation, length contraction, and mass increase as the geometric bending of a spacetime fabric, ToE derives these exact kinematic transformations from strict resource allocation and ledger-balancing rules within a universal, dynamic entropic field. [1, 2, 3] 
 
@@ -84,14 +84,14 @@ If you would like to examine this framework further, would you prefer to explore
 --------------------
 
 
-# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, OBE, ERP, ERF, NRT, ELF, OET, CAT
+# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, OET, CAT
 
 Modern physics has long treated Einstein’s relativistic kinematics as a geometric consequence of spacetime curvature. But in John Onimisi Obidi’s Audacious Theory of Entropicity (ToE), relativity is not geometric — it is accounting.  
 
 ToE reframes motion, time dilation, mass increase, and length contraction as ledger‑balancing operations inside a finite, universal entropic field. The result is a complete re‑derivation of Einstein’s equations using resource allocation, transaction limits, and entropic bookkeeping rather than spacetime geometry.
 
 ## 📘 1. The Entropic Accounting Principle (EAP)
-Every physical system possesses a finite Total Entropic Budget (E_B).  
+Every physical system possesses a finite Total Entropic Budget (E_B)—TEB.  
 This budget must be continuously allocated across three competing accounts:
 
 EB = Γ₍Identity₎ + Γ₍Motion₎ + Γ₍Interaction₎
