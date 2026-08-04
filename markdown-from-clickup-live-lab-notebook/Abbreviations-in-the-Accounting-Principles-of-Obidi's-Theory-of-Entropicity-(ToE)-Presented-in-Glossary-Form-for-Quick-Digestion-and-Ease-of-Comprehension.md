@@ -94,3 +94,61 @@ The global constraint preventing any massive object from surpassing the throughp
 
 ## 🔷 Closing Note
 All 25 acronyms above form the complete accounting vocabulary of Obidi’s Theory of Entropicity (ToE) as used in the resource materials. They collectively define the entropic-ledger reinterpretation of Einstein's relativistic physics.
+
+
+------------
+
+# 🔷 The 25 Core Accounting Acronyms of Obidi’s Theory of Entropicity (ToE): Accounting Principles in Physics
+## 🔹 1. EB — Entropic Budget
+The finite entropic currency available to a system at any moment.
+## 🔹 2. TEB — Total Entropic Budget
+The full closed entropic account of a system; the maximum resource capacity.
+## 🔹 3. EBE — Entropic Budget Equation
+The formal partitioning of EB into identity, motion, and interaction ledgers.
+## 🔹 4. OBE — Obidi Budget Equation
+The canonical ToE ledger: EB = TRA + TKA + TCA.
+## 🔹 5. TL — Transactional Limits
+The constraints on how fast entropic currency can be spent or redistributed.
+## 🔹 6. THC — The Hard Ceiling
+The absolute upper bound on entropic processing speed, manifesting as c.
+## 🔹 7. DTL — Derived Transaction Limit
+The reinterpretation of c as a throughput limit derived from entropic mechanics.
+## 🔹 8. ID — Internal Deficit
+The reduction of internal entropic resources when motion consumes EB, causing time dilation.
+## 🔹 9. IS — Internal State
+The entropic condition of a system’s identity ledger; governs proper time evolution.
+## 🔹 10. SC — Spatial Compression
+The contraction of spatial intervals required to maintain entropic consistency at high velocity.
+## 🔹 11. EAP — Entropic Accounting Principle
+The rule that EB must always be conserved and redistributed across ledgers.
+## 🔹 12. ERP — Entropic Resistance Principle
+Rapid reconfiguration triggers entropic taxation; faster motion → higher resistance.
+## 🔹 13. ERF — Entropic Resistance Field
+The field enforcing ERP; grows exponentially with velocity and produces mass increase.
+## 🔹 14. TRA — The Rest Account
+Γ₍Identity₎ — entropic resources for clocks, decay, and structural maintenance.
+## 🔹 15. TKA — The Kinetic Account
+Γ₍Motion₎ — entropic expenditure required to change position in the field.
+## 🔹 16. TCA — The Causal Account
+Γ₍Interaction₎ — entropic cost of signal exchange and causal consistency.
+## 🔹 17. NRT — No‑Rush Theorem
+The entropic field has a maximum update rate; this creates the cosmic speed limit.
+## 🔹 18. ELF — Entropic Lorentz Factor
+The entropic analogue of γ; emerges from EB reallocation and ERF growth.
+## 🔹 19. EF — Entropic Field
+The universal field that processes entropic currency and enforces throughput limits.
+## 🔹 20. ET — Entropic Tax
+The cost imposed by ERP when a system attempts rapid motion; explains mass increase.
+## 🔹 21. OL — Obidi’s Loop
+The systemic bottleneck preventing any massive object from reaching c.
+## 🔹 22. DR —Diminishing Returns
+Acceleration yields exponentially less effective velocity as ERF increases.
+## 🔹 23. RET —Rising Entropic Tax
+The escalating entropic cost that consumes all added energy near c.
+## 🔹 24. OET —Obidi Entropic Trap
+Conversion efficiency collapses to zero; no further velocity can be purchased.
+## 🔹 25. CAT —Cosmic Accounting Trap
+The universal constraint preventing any massive object from surpassing the throughput limit.
+## 🔷 Closing Insight
+Obidi’s ToE shows that the universe is not a geometric fabric but an entropic accounting ledger.
+
