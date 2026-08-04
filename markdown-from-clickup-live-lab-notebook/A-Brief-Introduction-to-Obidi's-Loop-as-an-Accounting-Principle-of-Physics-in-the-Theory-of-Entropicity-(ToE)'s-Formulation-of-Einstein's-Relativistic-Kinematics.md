@@ -14,7 +14,9 @@ Instead of moving through space, an object is actively "rearranging its state" w
 
 $$E_B = \Gamma_{\text{Identity}} + \Gamma_{\text{Motion}} + \Gamma_{\text{Interaction}}$$ 
 
-whete:
+The above is**Obidi's Budget Equation (OBE)**, 
+
+where:
 
 * **$\Gamma_{\text{Identity}}$ (The Rest Account):** The entropic resource spent locally to maintain internal processes (e.g., the ticking of a local clock, chemical bonds, or particle decay).
 
