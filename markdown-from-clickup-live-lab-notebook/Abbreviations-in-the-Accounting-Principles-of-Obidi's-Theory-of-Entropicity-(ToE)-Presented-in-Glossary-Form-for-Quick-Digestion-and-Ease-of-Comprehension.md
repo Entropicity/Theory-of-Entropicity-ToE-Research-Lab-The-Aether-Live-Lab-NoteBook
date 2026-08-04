@@ -99,6 +99,9 @@ All 25 acronyms above form the complete accounting vocabulary of Obidi’s Theor
 ------------
 
 # 🔷 The 25 Core Accounting Acronyms of Obidi’s Theory of Entropicity (ToE): Accounting Principles in Physics
+
+In Obidi’s ToE, relativity, motion, and physical transformation are governed not by geometric curvature but by entropic bookkeeping. These 25 acronyms form the complete accounting vocabulary of ToE’s reinterpretation of Einstein’s relativistic kinematics.
+
 ## 🔹 1. EB — Entropic Budget
 The finite entropic currency available to a system at any moment.
 ## 🔹 2. TEB — Total Entropic Budget
@@ -150,5 +153,5 @@ Conversion efficiency collapses to zero; no further velocity can be purchased.
 ## 🔹 25. CAT —Cosmic Accounting Trap
 The universal constraint preventing any massive object from surpassing the throughput limit.
 ## 🔷 Closing Insight
-Obidi’s ToE shows that the universe is not a geometric fabric but an entropic accounting ledger.
+Obidi’s ToE shows that the universe is not a geometric fabric but an entropic accounting ledger. Every relativistic effect — time dilation, mass increase, length contraction — emerges from resource allocation, resistance, and entropic limits, not spacetime curvature. Physics becomes accounting; relativity becomes bookkeeping.
 
