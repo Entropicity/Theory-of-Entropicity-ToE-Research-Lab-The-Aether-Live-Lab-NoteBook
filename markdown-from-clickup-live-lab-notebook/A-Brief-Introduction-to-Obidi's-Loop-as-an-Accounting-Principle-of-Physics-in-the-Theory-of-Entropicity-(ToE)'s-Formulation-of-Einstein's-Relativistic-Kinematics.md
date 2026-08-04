@@ -84,7 +84,7 @@ If you would like to examine this framework further, would you prefer to explore
 --------------------
 
 
-# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, OBE, ERP, ERF, NRT, ELF, OET
+# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, OBE, ERP, ERF, NRT, ELF, OET, CAT
 
 Modern physics has long treated Einstein’s relativistic kinematics as a geometric consequence of spacetime curvature. But in John Onimisi Obidi’s Audacious Theory of Entropicity (ToE), relativity is not geometric — it is accounting.  
 
@@ -117,7 +117,7 @@ This creates a hard ceiling on how much entropic currency can be spent on motion
 
 Acceleration therefore forces mandatory reallocation of the budget.
 
-## 📊 3. Ledger‑Based Re‑Derivation of Relativistic Kinematics
+## 📊 3. Ledger‑Based Re-Derivation of Relativistic Kinematics
 
 ### ⏳ A. Time Dilation — The Identity Deficit
 Increasing (Γ₍Motion₎) drains (Γ₍Identity₎).  
@@ -136,9 +136,9 @@ To maintain global consistency at fixed throughput (c), the field compresses spa
 
 Length contraction becomes a transaction‑distance reduction, not geometric deformation.
 
-## 🔁 4. Obidi’s Loop (OL): The Cosmic Accounting Trap
+## 🔁 4. Obidi’s Loop (OL): The Cosmic Accounting Trap (CAT)
 
-Obidi’s Loop is the systemic bottleneck that prevents any massive object from reaching (c).
+**Obidi’s Loop is the systemic bottleneck that prevents any massive object from reaching (c).**
 
 ### 🔸 1. Diminishing Returns
 As velocity increases, ERF grows exponentially.
