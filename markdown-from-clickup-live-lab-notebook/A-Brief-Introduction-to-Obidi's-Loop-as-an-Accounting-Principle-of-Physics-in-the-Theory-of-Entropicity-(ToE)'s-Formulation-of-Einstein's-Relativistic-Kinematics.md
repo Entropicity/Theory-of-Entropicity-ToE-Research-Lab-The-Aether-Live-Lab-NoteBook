@@ -88,6 +88,8 @@ If you would like to examine this framework further, would you prefer to explore
 
 Modern physics has long treated Einstein’s relativistic kinematics as a geometric consequence of spacetime curvature. But in John Onimisi Obidi’s Audacious Theory of Entropicity (ToE), relativity is not geometric — it is accounting.  
 
+> **In Obidi's Theory of Entropicity ToE), Relativity is Accounting!**
+
 ToE reframes motion, time dilation, mass increase, and length contraction as ledger‑balancing operations inside a finite, universal entropic field. The result is a complete re‑derivation of Einstein’s equations using resource allocation, transaction limits, and entropic bookkeeping rather than spacetime geometry.
 
 ## 📘 1. The Entropic Accounting Principle (EAP)
