@@ -1,5 +1,11 @@
 # A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, OET, CAT
 
+
+## Reference(s):
+
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/9db5cef4433036a544dcc869e2f52ecdc8c5cd02/markdown-from-clickup-live-lab-notebook/Accounting-Principles-of-Obidi's-Theory-of-Entropicity-(ToE)-A%20Brief-Introduction-to-Accounting-Applications-in-Modern-Physics.md
+
+
 In John Onimisi Obidi’s Theory of Entropicity (ToE), Obidi’s Loop serves as the definitive mechanism that strips away Einstein's reliance on four-dimensional spacetime geometry. Instead of treating time dilation, length contraction, and mass increase as the geometric bending of a spacetime fabric, ToE derives these exact kinematic transformations from strict resource allocation and ledger-balancing rules within a universal, dynamic entropic field. [1, 2, 3] 
 
 The framework reinterprets Einstein's relativistic kinematics as a literal system of physical bookkeeping, replacing geometric curvature with transactional limits. [2, 3] 
