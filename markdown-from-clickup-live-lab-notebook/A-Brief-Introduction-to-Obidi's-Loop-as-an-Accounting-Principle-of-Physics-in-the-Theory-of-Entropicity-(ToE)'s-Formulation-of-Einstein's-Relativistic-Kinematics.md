@@ -1,4 +1,4 @@
-# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, OET, CAT
+# A Brief Introduction to Obidi's Loop as an Accounting Principle of Physics in the Theory of Entropicity (ToE)'s Reinterpretation, Explanation and Derivation of Einstein's Relativistic Kinematics Without Resorting to Geometric Curvature—TEB, OBE, ERP, ERF, NRT, ELF, ET, RET, OET, CAT
 
 
 ## Reference(s):
@@ -90,7 +90,7 @@ If you would like to examine this framework further, would you prefer to explore
 --------------------
 
 
-# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, OET, CAT
+# 🔷 Obidi’s Loop as the Accounting Principle of Physics: How the Theory of Entropicity (ToE) Re‑Derives Einstein’s Relativistic Kinematics Without Geometric Curvature—EAP, TEB, OBE, ERP, ERF, NRT, ELF, ET, RET, OET, CAT
 
 Modern physics has long treated Einstein’s relativistic kinematics as a geometric consequence of spacetime curvature. But in John Onimisi Obidi’s Audacious Theory of Entropicity (ToE), relativity is not geometric — it is accounting.  
 
@@ -118,7 +118,7 @@ This is the Obidi Budget Equation (OBE) — the master ledger of ToE.
 Relativistic effects emerge when these ledgers rebalance under stress.
 
 ## ⚡ 2. The No‑Rush Theorem (NRT): Reinterpreting (c) as a Throughput Limit
-In ToE, the speed of light is not a geometric constant — it is the maximum processing speed of the entropic field.  
+In ToE, the speed of light c is not a geometric constant — it is the maximum processing speed of the entropic field [EF].  
 
 The field cannot update reality faster than (c).  
 This creates a hard ceiling on how much entropic currency can be spent on motion per unit time.
@@ -132,7 +132,7 @@ Increasing (Γ₍Motion₎) drains (Γ₍Identity₎).
 With fewer resources for internal updates, the system’s proper time slows.  
 Time dilation becomes an accounting shortfall, not geometric stretching.
 
-### 🧱 B. Mass Increase — The Entropic Tax (ERP + ERF)
+### 🧱 B. Mass Increase — The Entropic Tax [ET] (ERP + ERF)
 The Entropic Resistance Principle (ERP) states that the field taxes rapid reconfiguration.  
 
 This tax is enforced by the **Entropic Resistance Field (ERF).**  
@@ -152,7 +152,7 @@ Length contraction becomes a transaction‑distance reduction, not geometric def
 As velocity increases, ERF grows exponentially.
 
 ### 🔸 2. The Consumption Loop
-New energy intended for motion is immediately consumed by rising entropic tax (ERP).
+New energy intended for motion is immediately consumed by rising entropic tax [RET] (ERP).
 
 ### 🔸 3. The Obidi Entropic Trap (OET)
 As velocity approaches (c), conversion efficiency collapses to zero.  
