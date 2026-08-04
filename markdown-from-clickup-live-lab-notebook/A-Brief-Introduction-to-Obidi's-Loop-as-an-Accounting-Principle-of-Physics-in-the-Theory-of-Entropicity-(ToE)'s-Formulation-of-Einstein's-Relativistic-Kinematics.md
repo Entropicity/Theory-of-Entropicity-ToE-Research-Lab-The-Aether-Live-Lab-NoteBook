@@ -60,11 +60,17 @@ To preserve global consistency without changing the universal processing speed $
 
 When external energy is continuously pumped into a system to increase its velocity, the ledger undergoes a compounding crisis: [3] 
 
-   1. **Diminishing Returns:** As velocity climbs, the **Entropic Resistance Field (ERF) scales exponentially.** [3] 
+### 1. **Diminishing Returns:**
+
+As velocity climbs, the **Entropic Resistance Field (ERF) scales exponentially.** [3] 
    
-2. **The Consumption Loop:** Every new unit of energy intended to increase velocity ($\Gamma_{\text{Motion}}$) is instead automatically consumed by the rising entropic tax ($ERP$) required to fight the field's resistance. [2, 3] 
+### 2. **The Consumption Loop:**
+
+Every new unit of energy intended to increase velocity ($\Gamma_{\text{Motion}}$) is instead automatically consumed by the rising entropic tax ($ERP$) required to fight the field's resistance. [2, 3] 
    
-3. **The Trap (Obidi's Entropic Trap—OET):** As the velocity asymptotically approaches the cosmic update limit ($c$), the efficiency of energy conversion drops to zero. The harder the system strives to advance, the more its total effort is completely absorbed by the field's resistance. [3] 
+### 3. **The Trap (Obidi's Entropic Trap—OET):**
+
+As the velocity asymptotically approaches the cosmic update limit ($c$), the efficiency of energy conversion drops to zero. The harder the system strives to advance, the more its total effort is completely absorbed by the field's resistance. [3] 
 
 Ultimately, progress becomes unmeasurable and unattainable. **The system is permanently locked in Obidi's Loop: it cannot purchase higher velocities because the transaction tax has entirely swallowed its purchasing power.** [3] 
 
