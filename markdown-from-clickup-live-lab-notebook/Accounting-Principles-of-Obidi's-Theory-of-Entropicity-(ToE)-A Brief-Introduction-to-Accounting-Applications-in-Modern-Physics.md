@@ -1,5 +1,10 @@
 # 📘 Accounting Principles of Obidi's Theory of Entropicity (ToE): A Brief Introduction to Accounting Applications in Modern Physics
 
+## Reference(s):
+
+https://github.com/Entropicity/Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/blob/2381d29037f700a8d9797b603f285e915e539a37/markdown-from-clickup-live-lab-notebook/A-Brief-Introduction-to-Obidi's-Loop-as-an-Accounting-Principle-of-Physics-in-the-Theory-of-Entropicity-(ToE)'s-Formulation-of-Einstein's-Relativistic-Kinematics.md
+
+
 We usually think of Einstein’s relativity in terms of geometry—spacetime, Lorentz transformations, and invariant intervals. Obidi’s ToE flips that script: it shows that relativistic kinematics is, at its core, an accounting problem—a rigorous redistribution of entropy between motion, timekeeping, and physical structure.   
 
 
