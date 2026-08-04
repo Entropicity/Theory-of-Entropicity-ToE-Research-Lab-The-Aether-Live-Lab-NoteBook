@@ -92,5 +92,5 @@ The global constraint preventing any massive object from surpassing the throughp
 
 ---
 
-🔷 Closing Note
-All 25 acronyms above form the complete accounting vocabulary of Obidi’s Theory of Entropicity (ToE) as used in the resource materials. They collectively define the entropic-ledger reinterpretation of relativistic physics.
+## 🔷 Closing Note
+All 25 acronyms above form the complete accounting vocabulary of Obidi’s Theory of Entropicity (ToE) as used in the resource materials. They collectively define the entropic-ledger reinterpretation of Einstein's relativistic physics.
