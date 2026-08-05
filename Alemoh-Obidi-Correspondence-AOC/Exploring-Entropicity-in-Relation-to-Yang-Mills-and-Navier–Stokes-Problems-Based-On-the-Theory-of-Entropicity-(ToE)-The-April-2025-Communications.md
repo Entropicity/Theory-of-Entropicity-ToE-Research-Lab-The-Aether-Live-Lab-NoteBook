@@ -1,6 +1,6 @@
-# Exploring Entropicity in Relation to Yang-Mills and Navier–Stokes Problems On the Theory of Entropicity (ToE)—The April 2025 Communications
+# Exploring Entropicity in Relation to Yang-Mills and Navier–Stokes Problems Based On the Theory of Entropicity (ToE)—The April 2025 Communications
 
-Exploring-Entropicity-in-Relation-to-Yang-Mills-and-Navier–Stokes-Problems-On-the-Theory-of-Entropicity-(ToE)-The-April-2025-Communications.md
+Exploring-Entropicity-in-Relation-to-Yang-Mills-and-Navier–Stokes-Problems-Based-On-the-Theory-of-Entropicity-(ToE)-The-April-2025-Communications.md
 
 
 
