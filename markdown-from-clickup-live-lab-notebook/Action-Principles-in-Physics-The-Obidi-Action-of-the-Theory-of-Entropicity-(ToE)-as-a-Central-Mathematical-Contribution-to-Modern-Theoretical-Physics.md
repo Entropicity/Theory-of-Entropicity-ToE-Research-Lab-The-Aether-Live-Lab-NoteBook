@@ -1,4 +1,4 @@
-# Action Principles in Physics: The Obidi Action of the Theory of Entropicity ToE as a Central Mathematical Contribution to Modern Theoretical Physics 
+# Action Principles in Physics: The Obidi Action of the Theory of Entropicity (ToE) as a Central Mathematical Contribution to Modern Theoretical Physics 
 
 Action-Principles-in-Physics-The-Obidi-Action-of-the-Theory-of-Entropicity-(ToE)-as-a-Central-Mathematical-Contribution-to-Modern-Theoretical-Physics.md
 
@@ -34,4 +34,4 @@ Even though the Obidi Action is viewed as a groundbreaking contribution, it is s
 * Skeptics argue that the Obidi Action is a highly complex mathematical overlay that utilizes existing tools from information geometry to reproduce classical results (like the precession of Mercury) without yet offering new, uniquely testable predictions, even though it **[ToE] currently offers some higher order corrections to Einstein's result in the perihelion precession of planet Mercury.** [1, 5, 6, 13, 14] 
 * 
 
-Would you like to see how the Master Entropic Equation differs structurally from Einstein's Field Equations, or should we look at how the action enforces the No-Rush Theorem?
+Would you like to see how the Master Entropic Equation (MEE)/Obidi Field Equations (OFE) differs structurally from Einstein's Field Equations, or should we look at how the action enforces the No-Rush Theorem (NRT)?
