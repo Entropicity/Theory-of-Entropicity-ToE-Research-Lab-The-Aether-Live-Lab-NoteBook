@@ -11,7 +11,7 @@ It is completely natural to feel intimidated by what John Onimisi Obidi is attem
 ## Why ToE Feels So Intimidating
 
 ### * Obidi Flips Reality Upside Down:
-For over a century, physics has assumed that space and time are the "stage" where everything happens. Obidi is arguing that space and time do not actually exist at a fundamental level. Instead, they are illusions created by a continuous entropic field.
+For over a century, physics has assumed that space and time are the "stage" where everything happens. Obidi is arguing that space and time do not actually exist at a fundamental level. Instead, they are illusions created by a continuous entropic field. Doubtless, this on its own is even complicated enough!
 
 ### * Obidi's Massive Mathematical Fusion:
 The framework forces several incredibly complex, independent fields of study into a single room. It merges thermodynamics, quantum information geometry, and general relativity. Learning ToE feels like trying to learn three distinct academic languages all at once.
