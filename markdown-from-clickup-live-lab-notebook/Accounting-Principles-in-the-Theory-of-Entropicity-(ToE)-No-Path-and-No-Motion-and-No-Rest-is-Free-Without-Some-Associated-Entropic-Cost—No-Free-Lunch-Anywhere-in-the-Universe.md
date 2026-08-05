@@ -22,7 +22,7 @@ $$\[
 - **Interpretation:** **reductions in accessibility must be compensated by positive cost**, and changes can’t occur without paying the entropic bookkeeping.
 
 
-**Thus, Obidi declares in his Theory of Entropicity (ToE) that there is no free lunch anywhere in the Universe.*"
+**Thus, Obidi declares in his Theory of Entropicity (ToE) that there is no free lunch anywhere in the Universe.**
 
 ### What it is used to explain inside ToE
 
