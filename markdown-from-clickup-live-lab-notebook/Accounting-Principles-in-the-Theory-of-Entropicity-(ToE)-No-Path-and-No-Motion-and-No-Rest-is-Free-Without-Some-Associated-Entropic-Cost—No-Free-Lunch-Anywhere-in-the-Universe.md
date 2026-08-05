@@ -32,3 +32,9 @@ $$\[
 If you want, tell us which ToE section/letter you’re reading (e.g., “EAP”, “Entropic Constraint”, or “Entropic Resistance”), and we’ll map the EAP to the adjacent principles exactly as that Obidi's ToE presents them.  
 
 <citation src="3"></citation><citation src="4"></citation>
+
+
+-------------------
+
+**This is elegant. A nice way to see the appeal of Obidi's Accounting Principles of the Theory of Entropicity (ToE) is that it turns “conservation” into a single bookkeeping story: if spacetime evolution is tracked by how much entropic accessibility you have, then allowed changes are exactly those that satisfy the budget constraint—so constraints and dynamics come from the same accounting rule.**
+
