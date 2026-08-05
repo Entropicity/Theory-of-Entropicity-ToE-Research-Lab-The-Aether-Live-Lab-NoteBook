@@ -199,7 +199,7 @@ In Einstein’s physics, relativistic effects like time dilation and mass increa
 * Time Dilation: Because the budget is heavily drained to sustain rapid motion, less budget remains for internal change, which observers see as a slowed proper time (clocks ticking slower). [1, 5] 
 
 ## The Curvature Threshold ($\ln 2$)
-Under the EAP, a quantum state, measurement, or physical distinction only becomes locally "real" within a frame of reference when that specific frame has paid the $\ln 2$ curvature cost. This fundamental unit of information serves as a literal metric of spatial distinguishability, meaning information directly translates into physical geometry. Because these transactions require a non-instantaneous "maturation" time, the principle rejects instantaneous quantum collapse or "spooky action at a distance" in favour of strict causal bookkeeping. [4, 6, 7] 
+Under the EAP, a quantum state, measurement, or physical distinction only becomes locally "real" within a frame of reference when that specific frame has paid the $\ln 2$ curvature cost **[the Obidi Curvature Invariant (OCI)].** This fundamental unit of information serves as a literal metric of spatial distinguishability, meaning information directly translates into physical geometry. Because these transactions require a non-instantaneous "maturation" time, the principle rejects instantaneous quantum collapse or "spooky action at a distance" in favour of strict causal bookkeeping. [4, 6, 7] 
 
 Would you like to explore the mathematical framework of the Obidi Action or see how this principle relates to the No-Rush Theorem?
 
