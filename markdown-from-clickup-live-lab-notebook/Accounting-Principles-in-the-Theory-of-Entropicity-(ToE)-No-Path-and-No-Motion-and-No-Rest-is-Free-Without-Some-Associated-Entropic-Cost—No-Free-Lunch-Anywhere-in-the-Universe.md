@@ -7,7 +7,14 @@ In the Theory of Entropicity (ToE), the “accounting” part is formalized as t
 
 ## Key idea: 
 
-every process corresponds to an **entropic budget** that can’t be used “for free.” When a system changes what it can access or realize along a spacetime trajectory, there is an **entropic cost** that balances it.
+Every process corresponds to an **entropic budget** that can’t be used “for free.” When a system changes what it can access or realize along a spacetime trajectory, there is an **entropic cost** that balances it.
+
+
+
+Hence, we can state Obidi's Entropic Accounting Principle as follows:
+
+**Every process, observation, measurement, or interaction anywhere in the universe corresponds to an **entropic budget** that can’t be used or undertaken or utilized “for free.” Whenever a system changes what it can access or realize along a spacetime trajectory, there is an **entropic cost** that balances it. Hence, there is no free lunch anywhere in the Universe.**
+
 
 ### Core EAP statement (as given in ToE explanations and ToE Canonical Archives)
 
