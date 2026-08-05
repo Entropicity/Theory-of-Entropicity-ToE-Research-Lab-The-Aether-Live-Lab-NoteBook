@@ -18,7 +18,7 @@ The mathematical structure of the Obidi Action unifies different metric systems:
 * It binds classical information geometry (the Fisher-Rao metric, which ToE maps to macro-level spacetime curvature).
 * It integrates quantum information geometry (the Fubini-Study metric).
 * By packaging these into one variational principle, it attempts to bridge classical relativity and quantum mechanics under a single information-theoretic roof. [6, 7, 8, 9] 
-* 
+  
 
 ## 3. Generating the Master Entropic Equation (MEE)/Obidi Field Equations (OFE)
 Just as minimizing the Einstein-Hilbert action yields Einstein’s Field Equations for General Relativity, applying the variational principle to the Obidi Action yields the Master Entropic Equation (MEE). The MEE dictates exactly how entropy gradients evolve, interact, and generate what we perceive as gravity, time, and matter. [2, 10, 11, 12] 
@@ -29,9 +29,9 @@ The Obidi Action underpins a new mechanical law: systems do not just move to min
 ## The Critical Consensus
 Even though the Obidi Action is viewed as a groundbreaking contribution, it is still being vigorously and rigorously peer reviewed under intense mathematical scrutiny.
 
-* 
-* Proponents argue the Obidi Action provides the exact unified mathematical "engine" that previous entropic gravity frameworks lacked.
-* Skeptics argue that the Obidi Action is a highly complex mathematical overlay that utilizes existing tools from information geometry to reproduce classical results (like the precession of Mercury) without yet offering new, uniquely testable predictions, even though it **[ToE] currently offers some higher order corrections to Einstein's result in the perihelion precession of planet Mercury.** [1, 5, 6, 13, 14] 
-* 
+
+* Proponents argue that the **Obidi Action** provides the exact unified mathematical "engine" that previous entropic gravity frameworks lacked.
+* Skeptics argue that the **Obidi Action** is a highly complex mathematical overlay that utilizes existing tools from information geometry to reproduce classical results (like the precession of Mercury) without yet offering new, uniquely testable predictions, even though it **[ToE] currently offers some higher order corrections to Einstein's result in the perihelion precession of planet Mercury.** [1, 5, 6, 13, 14] 
+  
 
 Would you like to see how the Master Entropic Equation (MEE)/Obidi Field Equations (OFE) differs structurally from Einstein's Field Equations, or should we look at how the action enforces the No-Rush Theorem (NRT)?
