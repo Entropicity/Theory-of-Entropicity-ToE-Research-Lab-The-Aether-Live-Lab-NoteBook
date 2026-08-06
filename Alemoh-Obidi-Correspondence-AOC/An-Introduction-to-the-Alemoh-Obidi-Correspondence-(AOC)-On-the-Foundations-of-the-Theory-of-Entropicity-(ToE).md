@@ -5,23 +5,24 @@ An-Introduction-to-the-Alemoh-Obidi-Correspondence-(AOC)-On-the-Foundations-of-t
 
 The **Alemoh-Obidi Correspondence (AOC)** is a reconstructed series of intellectual communications between **Daniel Moses Alemoh** and **John Onimisi Obidi** spanning from August 2024 to April 2026. [1] 
 
-The correspondence serves as a foundational text for the Theory of Entropicity (ToE), an "entropy-first" theoretical physics framework formulated by John Onimisi Obidi. ToE posits that entropy is not merely a statistical byproduct of physical reactions, but rather the primary field from which space, time, geometry, and physical matter emerge. [2, 3] 
+The **correspondence serves as a foundational text for the Theory of Entropicity (ToE),** an "entropy-first" theoretical physics framework formulated by John Onimisi Obidi. ToE posits that entropy is not merely a statistical byproduct of physical reactions, but rather the primary field from which space, time, geometry, and physical matter emerge. [2, 3] 
 
 ## Core Themes and Philosophical Debates
 Published as "Letter IC" within the Theory of Entropicity Living Review Letters Series, the dialogue documents the dynamic, iterative refining of the physics theory. It primarily focuses on resolving complex structural issues in emergent-space frameworks: [1, 2, 4] 
 
-* The Entropic Limit of Light Speed: The correspondence derives the speed of light (c) not as an unyielding, pre-existing postulate, but as the maximum throughput rate at which the entropic field can reorganize information. [1, 5] 
-* Cosmic Expansion vs. Causal Bounds: A central segment of the dialogue resolves how local causal boundaries can coexist with global cosmic expansion. The correspondence clarifies that local physical propagation and global manifold evolution are categorically distinct mechanisms. [2] 
-* The Emergence of Spacetime: The authors debate how causal order and smooth spacetime metrics naturally arise out of a underlying, chaotic entropic field. [1] 
+* **The Entropic Limit of Light Speed c:** The correspondence derives the speed of light (c) not as an unyielding, pre-existing postulate, but as the maximum throughput rate at which the entropic field can reorganize information. [1, 5] 
+* **Cosmic Expansion vs. Causal Bounds:** A central segment of the dialogue resolves how local causal boundaries can coexist with global cosmic expansion. The correspondence clarifies that local physical propagation and global manifold evolution are categorically distinct mechanisms. [2] 
+* **The Emergence of Spacetime:** The authors debate how causal order and smooth spacetime metrics naturally arise out of a underlying, chaotic entropic field. [1] 
 
 ## Key Equations Contextualized by the AOC
 The debates in the correspondence directly shaped the mathematical architecture found on the [Theory of Entropicity Documentation Page](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/index.html), including: [6] 
 
-   1. The Obidi Action: The universal variational principle governing how the entropic field evolves, ultimately unifying thermodynamics, quantum mechanics, and general relativity. [7] 
-   2. The Master Entropic Equation (MEE): The information-geometric analogue to Einstein’s field equations, derived using inputs from the Fisher-Rao and Fubini-Study metrics. [5] 
+   1. **The Obidi Action:** The universal variational principle governing how the entropic field evolves, ultimately unifying thermodynamics, quantum mechanics, and general relativity. [7] 
+   2. **The Master Entropic Equation (MEE)/Obidi Field Equations (OFE)**: The information-geometric analogue to Einstein’s field equations, derived using inputs from the Fisher-Rao and Fubini-Study metrics. [5] 
 
 The full textual monograph of these letters can be accessed on academic repositories like [Cambridge Open Engage](https://www.cambridge.org/engage/coe/article-details/69edfc4d810b9dcc828b43bb) and the [Social Science Research Network (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652760). [1, 8] 
-Are you looking to explore a specific part of the Alemoh-Obidi Correspondence, such as:
+
+Are you looking to explore a specific part of the **Alemoh-Obidi Correspondence (AOC)**, such as:
 
 * The mathematical formulation of the Obidi Action?
 * How the theory addresses superluminal recession and the cosmic expansion paradox?
