@@ -18,7 +18,7 @@ Governs the dynamics of the entropic field and serves as a foundation for derivi
 A variational principle that describes the evolution of the entropic field, analogous to the Einstein-Hilbert Action in general relativity. 
 [grokipedia.com]
 
-ToE successfully reproduces classical results such as the perihelion precession of Mercury and the deflection of starlight, while also connecting with contemporary entropic-gravity research, including frameworks by Bianconi, Verlinde, Jacobson, and Padmanabhan. 
+ToE successfully reproduces classical results such as the perihelion precession of Mercury and the deflection of starlight, while also connecting with contemporary entropic-gravity research, including frameworks by Bianconi, Verlinde, Jacobson, Caticha, and Padmanabhan - among numerous others. 
 [HandWiki]
 
 ## Philosophical and Interdisciplinary Contributions
