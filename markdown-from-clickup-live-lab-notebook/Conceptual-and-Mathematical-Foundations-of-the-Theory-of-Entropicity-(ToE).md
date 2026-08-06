@@ -1,14 +1,14 @@
 # Conceptual and Mathematical Foundations of the Theory of Entropicity (ToE)
 
-The Theory of Entropicity (ToE), developed by John Onimisi Obidi, proposes a radical redefinition of entropy: not as a statistical byproduct of disorder, but as the primary ontological field from which geometry, dynamics, matter, and information emerge ([entropicity.github.io+1]). This “entropic substrate” is modeled as a continuous, dynamical field 
+The Theory of Entropicity (ToE), developed by John Onimisi Obidi, proposes a radical redefinition of entropy: not as a statistical byproduct of disorder, but as the primary ontological field from which geometry, dynamics, matter, and information emerge ([entropicity.github.io]). This “entropic substrate” is modeled as a continuous, dynamical field 
 ℰ(x) over an entropic manifold ℳ, whose gradients generate motion, gravitation, time, and information flow ([Cambridge University Press & Assessment]).
 
 ## Conceptual Pillars
-* Ontology of Entropy – Entropy is the fundamental “stuff” of the universe, constituting reality rather than being a derived quantity ([entropicity.github.io]).
+* **Ontology of Entropy** – Entropy is the fundamental “stuff” of the universe, constituting reality rather than being a derived quantity ([entropicity.github.io]).
 
-* Ontodynamics – Physics is reframed as the study of entropic evolution, replacing traditional force- and symmetry-based approaches ([entropicity.github.io]).
+* **Ontodynamics** – Physics is reframed as the study of entropic evolution, replacing traditional force- and symmetry-based approaches ([entropicity.github.io]).
 
-* Unification Motivation – Many unresolved problems in GR, QFT, and information theory (e.g., singularities, unification, information paradoxes) are addressed by treating entropy as primary ([entropicity.github.io]).
+* **Unification Motivation** – Many unresolved problems in GR, QFT, and information theory (e.g., **singularities, unification, information paradoxes**) are addressed by treating entropy as primary ([entropicity.github.io]).
 
 ## Mathematical Framework
 * **Obidi Action Principle** – A variational principle for the entropy field that yields:
