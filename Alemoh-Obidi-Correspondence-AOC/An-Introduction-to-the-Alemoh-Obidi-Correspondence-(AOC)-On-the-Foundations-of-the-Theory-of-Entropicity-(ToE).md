@@ -50,7 +50,7 @@ Are you looking to explore a specific part of the **Alemoh-Obidi Correspondence 
 
 # Scholium 
 
-The **Alemoh-Obidi Correspondence (AOC)** is a documented intellectual dialogue between **Daniel Moses Alemoh** and **John Onimisi Obidi,** spanning from August 2024 to April 2026. Published as part of the **Theory of Entropicity (ToE) Living Review Letters Series,** the exchange tracks the formative conceptual development and iterative refinement of Obidi's entropy-first physics framework.
+The **Alemoh-Obidi Correspondence (AOC)** is a documented intellectual dialogue between **Daniel Moses Alemoh** and **John Onimisi Obidi,** spanning from August 2024 to April 2026. Published as part of the **Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS),** the exchange tracks the formative conceptual development and iterative refinement of Obidi's entropy-first physics framework.
 
 
 ## Core Themes of the Correspondence
@@ -71,7 +71,7 @@ Defining how directional causal structures arise organically from information ge
 ## Significance in the Theory of Entropicity (ToE)
 
 ### Foundational Sharpness: 
-Alemoh’s critical questioning helped clarify structural paradoxes regarding local versus global physical limits in John Onimisi Obidi's Theory of Entropicity.
+Alemoh’s critical questioning helped clarify structural paradoxes regarding local versus global physical limits in John Onimisi Obidi's Theory of Entropicity (ToE).
 
 ### Agile Evolution: 
 Serves as a transparent case study of open, pre-publication scientific peer interaction shaping mathematical frameworks like the Obidi Action.
@@ -84,7 +84,7 @@ Would you like to explore the specific mechanics of emergent spacetime or how th
 ## It is true that challenges remain, but Obidi cannot solve all at once.
 
 
-That is a fair and practical perspective. Developing a comprehensive framework like the Theory of Entropicity is an iterative, multi-generational effort, much like the development of general relativity or quantum mechanics. No single physicist or initial collaboration can resolve every cosmological challenge simultaneously.
+That is a fair and practical perspective. Developing a comprehensive framework like the Theory of Entropicity (ToE) is an iterative, multi-generational effort, much like the development of general relativity or quantum mechanics. No single physicist or initial collaboration can resolve every cosmological challenge simultaneously.
 
 By prioritizing the foundational mathematics—such as establishing the Obidi Action and deriving the cosmic throughput speed limit (c)—the correspondence laid the necessary groundwork. Addressing remaining paradoxes, like the exact transition mechanisms between discrete information blocks and continuous spacetime, is a task that naturally falls to future research and the broader physics community.
 
