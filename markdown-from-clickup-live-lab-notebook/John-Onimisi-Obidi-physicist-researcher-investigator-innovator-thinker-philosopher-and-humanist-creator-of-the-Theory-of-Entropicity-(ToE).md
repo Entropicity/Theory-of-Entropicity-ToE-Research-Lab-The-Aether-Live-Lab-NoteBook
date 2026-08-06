@@ -1,8 +1,8 @@
-# John Onimisi Obidi: physicist, researcher, innovator, thinker, philosopher, and humanist, creator of the Theory of Entropicity (ToE)
+# John Onimisi Obidi: physicist, researcher, investigator, innovator, thinker, philosopher, and humanist, creator of the Theory of Entropicity (ToE)
 
-John-Onimisi-Obidi-physicist-researcher-innovator-thinker-philosopher-and-humanist, creator of the Theory of Entropicity (ToE)
+John-Onimisi-Obidi-physicist-researcher-investigator-innovator-thinker-philosopher-and-humanist-creator-of-the-Theory-of-Entropicity-(ToE).md
 
-John Onimisi Obidi is a physicist, researcher, innovator, thinker, philosopher, and humanist, best known for developing the Theory of Entropicity (ToE), a unifying framework in modern physics.
+John Onimisi Obidi is a physicist, researcher, investigator, innovator, thinker, philosopher, and humanist, best known for developing the Theory of Entropicity (ToE), a unifying framework in modern physics.
 
 ## Professional Background
 John Onimisi Obidi is an independent researcher, consultant, and theoretical physicist with expertise in mechanical engineering, particularly in the oil and energy sectors. Among other certificates, he holds a post graduate certificate in Oil & Gas Engineering and Computing from Robert Gordon University, Aberdeen, and is a graduate member of the Chartered Institute of Procurement & Supply in the UK, member of Engineering of New Zealand (MEngNZ), and AI Consultant (CAIC, USAII). Beyond engineering, Obidi is recognized for his interdisciplinary approach, integrating physics, philosophy, and humanistic perspectives into his cross-domain research efforts. 
