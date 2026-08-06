@@ -30,5 +30,5 @@ Obidi has actively published his work on preprint platforms and open-access repo
 [grokipedia.com]
 
 His rigorous LaTeX documentation and reproducible workflows have contributed to the scholarly permanence of his research.
-In summary, John Onimisi Obidi is a pioneering physicist and thinker whose Theory of Entropicity offers a comprehensive, unifying perspective on the fundamental laws of nature, integrating physics, philosophy, and humanistic inquiry. 
+In summary, John Onimisi Obidi is a pioneering physicist and thinker whose Theory of Entropicity (ToE) offers a comprehensive, unifying perspective on the fundamental laws of nature, integrating physics, philosophy, and humanistic inquiry. 
 [HandWiki]
