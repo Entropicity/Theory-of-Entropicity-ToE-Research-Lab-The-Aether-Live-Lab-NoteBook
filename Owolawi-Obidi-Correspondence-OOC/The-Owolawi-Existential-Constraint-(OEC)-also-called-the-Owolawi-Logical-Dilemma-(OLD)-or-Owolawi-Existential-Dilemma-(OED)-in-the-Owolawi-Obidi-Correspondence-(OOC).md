@@ -3,7 +3,7 @@
 
 The-Owolawi-Existential-Constraint-(OEC)-also-called-the-Owolawi-Logical-Dilemma-(OLD)-or-Owolawi-Existential-Dilemma-(OED)-in-the-Owolawi-Obidi-Correspondence-(OOC).md
 
-The Owolawi Existential Constraint (OEC) — also called the Owolawi Logical Dilemma (OLD) or Owolawi Existential Dilemma (OED) — is one of the most elegant and troubling formulations to emerge from the Owolawi–Obidi-Correspondence (OOC). It begins with a simple question — “Who created the creator?” — but ends by destabilizing the very foundations of metaphysics, theology, duality, and human moral experience.
+The **Owolawi Existential Constraint (OEC)** — also called the **Owolawi Logical Dilemma (OLD)** or **Owolawi Existential Dilemma (OED)** — is one of the most elegant and troubling formulations to emerge from the **Owolawi–Obidi-Correspondence (OOC)**. It begins with a simple question — “Who created the creator?” — but ends by destabilizing the very foundations of metaphysics, theology, duality, and human moral experience.
 
 ---
 
@@ -168,11 +168,11 @@ Thus:
 This is the Owolawi Logical Dilemma:  
 To exist is to be trapped in duality.
 
-This is the Owolawi Existential Constraint:  
-To act is to generate your opposite.
+**This is the Owolawi Existential Constraint (OEC)**:  
+> **To act is to generate your opposite. And not to act is equally also to generate your opposite**
 
 This is the Owolawi Existential Dilemma:  
-To seek the creator is to rediscover nothingness.
+**To seek the creator is to rediscover nothingness.**
 
 ---
 
