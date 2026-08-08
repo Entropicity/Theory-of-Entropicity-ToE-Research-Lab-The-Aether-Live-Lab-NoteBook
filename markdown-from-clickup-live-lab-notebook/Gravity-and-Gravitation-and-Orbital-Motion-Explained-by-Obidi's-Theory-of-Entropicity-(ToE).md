@@ -5,15 +5,15 @@ Gravity-and-Gravitation-and-Orbital-Motion-Explained-by-Obidi's-Theory-of-Entrop
 
 
 ## Perennial Questions:
-* ### It still doesn't make any logical sense to me why the earth and other planets will continue to be locked in with the Sun and rotating around the sun for millions of years
+* 1) ### It still doesn't make any logical sense to me why the earth and other planets will continue to be locked in with the Sun and rotating around the sun for millions of years
 
-* ### My question is why must the sun pull the planets? Why must there be any pull at all?
-
-
-* ### I am not satisfied; my question remains, why must a mass bend Spacetime at all?
+* 2) ### My question is why must the sun pull the planets? Why must there be any pull at all?
 
 
-* ### How does Obidi's Theory of Entropicity (ToE) answer that question?
+* 3) ### I am not satisfied; my question remains, why must a mass bend Spacetime at all?
+
+
+* 4) ### How does Obidi's Theory of Entropicity (ToE) answer that question?
 
 John Onimisi Obidi’s Theory of Entropicity (ToE) solves your frustration by flipping the entire logic of physics upside down. [1, 2, 3] 
 
