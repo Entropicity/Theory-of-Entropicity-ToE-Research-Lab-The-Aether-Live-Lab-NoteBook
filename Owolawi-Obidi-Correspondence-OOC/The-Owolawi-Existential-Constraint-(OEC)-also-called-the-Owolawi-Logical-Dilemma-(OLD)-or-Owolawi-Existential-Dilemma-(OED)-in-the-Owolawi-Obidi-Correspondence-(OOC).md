@@ -23,6 +23,7 @@ Owolawi’s intervention breaks this regress by introducing a dualistic ontology
 ---
 
 2. Owolawi’s Foundational Insight: Nothingness Requires Its Opposite
+
 Owolawi argues that nothingness cannot exist alone. It requires a complementary opposite — somethingness — in order to be conceptually meaningful:
 
 > “For absolutely nothing to exist, it also needs a polar opposite which is something… nothingness itself can never exist on its own without its polar opposite.” 
@@ -44,6 +45,7 @@ This is logical necessity.
 ---
 
 3. Obidi’s Expansion: Duality Makes God’s Existence Tautological
+
 Obidi immediately recognizes the profundity of this structure:
 
 > “Once we accept… that things exist in opposites, then it is pointless to want to know about the existence of God, because God’s existence is therefore inclusive and hence tautological!” 
@@ -59,6 +61,7 @@ This is the Owolawi–Obidi Theorem of Necessary Duality.
 ---
 
 4. The Second Regression: Who Created Duality Itself?
+
 Obidi then pushes the argument into deeper waters:
 
 > “Who or what initiated the existence of the opposites or dualities we experience? Why must such opposites exist in the first place?” 
@@ -79,6 +82,7 @@ Thus, the OEC reveals that the question “Who created the creator?” is ill‑
 ---
 
 5. The Moral Catastrophe: The Good–Evil Entanglement
+
 Owolawi then introduces the most disturbing consequence of his logic:
 
 > “Can there be death without life? Can there be good if there was no evil?” 
@@ -90,8 +94,11 @@ Obidi recognizes the existential danger immediately:
 This is the Owolawi Existential Constraint in its most troubling form:
 
 OEC Principle 3 — Moral Entanglement
+
 Every moral action automatically generates its opposite.  
+
 Good → calls forth → Evil  
+
 Evil → calls forth → Good
 
 This is not metaphor.  
@@ -102,6 +109,7 @@ Obidi notes that this destroys the Buddhist Middle Way and collapses moral philo
 ---
 
 6. The Kybalion Connection: The Principle of Polarity
+
 Obidi identifies that Owolawi’s logic mirrors the Fourth Hermetic Principle:
 
 > “Everything is dual; everything has poles… Opposites are identical in nature but different in degree.” 
@@ -129,7 +137,7 @@ This is why Obidi concludes:
 ---
 
 8. The Philosophical Significance of the OEC
-The Owolawi Existential Constraint accomplishes four unprecedented things at once:
+The Owolawi Existential Constraint (OEC) accomplishes four unprecedented things at once:
 
 1). It resolves the “creator regress” without invoking theology.
 Duality makes the creator logically necessary.
@@ -165,7 +173,7 @@ Thus:
 - All existence emerges from their tension.  
 - All moral states emerge from their entanglement.
 
-This is the Owolawi Logical Dilemma:  
+This is the **Owolawi Logical Dilemma (OLD)**:  
 To exist is to be trapped in duality.
 
 **This is the Owolawi Existential Constraint (OEC)**:  
