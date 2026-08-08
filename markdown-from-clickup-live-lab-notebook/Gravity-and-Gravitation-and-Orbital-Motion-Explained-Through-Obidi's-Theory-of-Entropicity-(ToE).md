@@ -1,4 +1,4 @@
-# Gravity and Gravitation and Orbital Motion Explained by Obidi's Theory of Entropicity (ToE)
+# Gravity and Gravitation and Orbital Motion Explained Through Obidi's Theory of Entropicity (ToE)
 
 
 Gravity-and-Gravitation-and-Orbital-Motion-Explained-by-Obidi's-Theory-of-Entropicity-(ToE).md
