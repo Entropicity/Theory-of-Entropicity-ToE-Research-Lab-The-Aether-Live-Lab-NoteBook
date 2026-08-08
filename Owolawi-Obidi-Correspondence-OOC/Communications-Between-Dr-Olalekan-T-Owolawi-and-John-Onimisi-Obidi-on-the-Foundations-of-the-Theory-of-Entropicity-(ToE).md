@@ -5,6 +5,55 @@
 Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Foundations-of-the-Theory-of-Entropicity-(ToE).md
 
 
+**Saturday, 8th August, 2026:**
+
+## From Owolawi to Obidi:
+
+*WHO CREATED THE CREATOR?* 
+
+A guy named *Norm* said _there has to be a creator_ .
+
+Then *Pamela Smyth* asks _who created the creator?_ 
+
+ *Anonymous person* responds:
+
+🤔 
+
+In trying to process your question, I am thinking:
+
+1. What created the laws of nature and all the natural systems that seem soo perfectly aligned to ensure our existence and survival?
+
+2. What setup the evolutionary system  that may have brought many living things into existence?
+
+3. Why are there anything at all when there should be absolutely nothing?
+
+The answer to this last question brings in the *concept of polar opposites which complement each other such that if one does not exist, the other also can't exist.* 
+
+Common examples of polar opposites are:
+- Up and Down.
+- Left and Right.
+- Ligth and Darkness.
+- Life and Death 
+
+Remember if one of the above does not exist, the other also can't exist.
+
+So, to answer your question on who created the creator when there should be absolutely nothing in existence, it looks like for absolutely nothing to exist, it also needs a polar opposite which is something. 
+
+That something that is the polar opposite of nothingness is the creator responsible for everything that are in existence. So, the creator is the polar opposite of nothingness and has to coexist with nothingness otherwise, nothingness itself can never exist on its own without its polar opposite. 
+
+Just think about it. Nothingness needs it complementary polar opposite too.
+
+Since nothingness has to exist but must have a polar opposite, for the sake of clearity, lets call the polar opposite of nothingness somethingness. 
+
+Since somethingness is responsible for all the things in existence, somethingness can be referred to as the creator through which all things were created. 
+
+So to conclude, the creator and nothingness were never created, they are polar opposites that complement each other and must both exist together.
+
+
+
+
+-----------
+
 **Friday, 7th August, 2026:**
 
 # From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the "Criticism of the Foundations of the Relativity Theory" by A.N. Arteha 
