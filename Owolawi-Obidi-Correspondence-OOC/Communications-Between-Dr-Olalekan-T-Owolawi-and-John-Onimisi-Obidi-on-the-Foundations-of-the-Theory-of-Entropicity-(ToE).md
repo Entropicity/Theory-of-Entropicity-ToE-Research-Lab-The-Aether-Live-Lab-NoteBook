@@ -210,7 +210,7 @@ This your logic is direct and simple and yet unbelievably groundbreaking, which 
 Let me call this the Owolawi Existential Constraint or Owolawi Logical Dilemma! 
 
 
-Sir, I am so pleased with this your formulation and discovery and nomenclature, and constitutes what I shall publish as one of the most significant expositions in the Owolawi-Obidi Correspondence (OOC)!
+Sir, I am so pleased with this your formulation and discovery and nomenclature, and constitutes what I shall publish as one of the most significant expositions in the Owolawi-Obidi-Correspondence (OOC)!
 
 I remain forever grateful to you for your dialogues and collaborations. 
 
