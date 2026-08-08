@@ -5,6 +5,51 @@
 Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Foundations-of-the-Theory-of-Entropicity-(ToE).md
 
 
+**Friday, 7th August, 2026:**
+
+# From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the "Criticism of the Foundations of the Relativity Theory" by A.N. Arteha 
+
+https://www.academia.edu/149078025/Criticism_of_the_Foundations_of_the_Relativity_Theory?rhid=41865370101&swp=rr-rw-wc-112016560&nav_from=b5dbe31a-36ed-44c5-9ba8-3ba1d0301274 
+
+## Owolawi:
+
+Interesting. 
+
+Some people like Newton and Einstein are good at imagining what is not yet well known to others while others are very good at holding them to account and keeping them honest by critiquing their work.
+
+
+## Obidi:
+
+There is always positive and negative in this world, no matter what you do. Just do your best and leave the rest. I particularly love what Newton told the world:
+
+".... Nature is too vast for only one mind to grasp...It is enough that I have done my own share, and I leave the rest to posterity...."
+
+
+And Einstein concluded his magnum opus by confessing that same Newtonian chorus in his veridical Einsteinian refrain....."... this is my own infinitesimal role in eternity..."
+
+
+So that even when over 100 authors rose against Einstein to disdain and counter his Theory of Relativity, Einstein's Relativistic faith was never dimmed!
+
+
+
+....I still think that all these great men in one way or the other have some religious and spiritual faith..... for one has to have faith in the face of the unknown for one to continue to go on even when and where there is no physical evidence that one is on the right path.... So that even in science, faith still reigns supreme..... hence science as far as I can see, is in itself a kind of religion and spirituality! We cannot do science without some form of belief and faith, however much we pretend to the contrary.
+
+
+
+Einstein's Criticism of Science/Scientists and Philosophy/Philosophers:
+
+Why then should it not be the right thing for the physicist to let the philosopher do the philosophizing? Such might indeed be the right thing at a time when the physicist believes he has at his disposal a rigid system of fundamental concepts and fundamental laws which are so well established that waves of doubt can not reach them; but it can not be right at a time when the very foundations of physics itself have become problematic as they are now. At a time like the present, when experience 
+forces us to seek a newer and more solid foundation, the physicist cannot simply surrender to the philosopher the critical contemplation of the theoretical foundations; for, he himself knows best, and feels more surely where the shoe pinches. In looking for a new foundation, he must try to make clear in his own mind just how far the concepts which he uses are justified, and are necessities.” (Einstein 1936, 349)
+
+~ Everything About Einstein's Relativity Theory [Omar A.H. Shabsigh 
+; Email: omar.shabsigh@gmail.com]
+
+https://www.academia.edu/63991587/Everything_About_Einstein_s_Relativity_Theory?rhid=41865373701&swp=rr-rw-wc-149078025&nav_from=57bdbbbe-8b25-4000-b9f9-8301ced2e674
+
+------------------
+
+
+
 **Tuesday, 28th July, 2026:**
 
 # From John Onimisi Obidi to Dr. Olalekan T. Owolawi, on the "Worshippers in the Temple of Science": Albert Einstein on the enduring legacy of Max Planck: https://en.wikipedia.org/wiki/Max_Planck#Personal_life_and_death
