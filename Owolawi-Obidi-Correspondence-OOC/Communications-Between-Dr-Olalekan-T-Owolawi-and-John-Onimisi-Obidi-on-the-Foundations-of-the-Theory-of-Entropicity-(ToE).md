@@ -50,6 +50,38 @@ Since somethingness is responsible for all the things in existence, somethingnes
 So to conclude, the creator and nothingness were never created, they are polar opposites that complement each other and must both exist together.
 
 
+## From Obidi to Owolawi 
+
+
+This argument is simply profound!
+
+
+This proposition rests on the principle of duality, the doctrine of opposites.
+
+
+Once we accept the simple experience that most of what we know demonstrates that things exist in opposites, then it is pointless for us to want to know about the existence of God, because God's existence is therefore inclusive and hence tautological!
+
+
+Again, but we must still ask for the existence of God because then we are still brought to the essence and foundation and perennial problem of the existence of God: 
+
+Now that we know with apodictic certainty of the unequivocal existence of opposites, we are at once inexorably confronted with our primordial question and inquiry:
+
+Who or what initiated the existence of the opposites or dualities we experience and encounter? Why must such opposites exist in the first place? 
+
+And we are brought back again in a collateral collision course with our initial problem of the existence of God!
+
+
+Maybe we can inoculate ourselves with the anesthesia that the problem of the existence of God is an ill posed problem in the first place.
+
+But for how long such a clinical or unclinical anaesthesia would last for us to awaken again to be confronted with the existence of God, I am not even certain. 
+
+
+In the end, I think it is enough that such a transcendental inquiry is good for our mental gymnastics only and not that we can fully resolve this existential malaise.
+
+And again, I must call on God Himself to help resolve and answer all this vexing questions and inquiries about His own very existence. 
+
+So, please permit me to conclude like our incomparable Newton: Hypotheses non fingo!
+
 
 
 -----------
