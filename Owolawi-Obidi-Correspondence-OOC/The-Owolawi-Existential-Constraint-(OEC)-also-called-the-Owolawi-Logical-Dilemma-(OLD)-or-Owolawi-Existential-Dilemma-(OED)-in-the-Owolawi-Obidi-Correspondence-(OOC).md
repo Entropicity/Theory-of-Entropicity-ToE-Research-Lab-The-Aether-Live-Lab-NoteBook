@@ -169,7 +169,7 @@ This is the Owolawi Logical Dilemma:
 To exist is to be trapped in duality.
 
 **This is the Owolawi Existential Constraint (OEC)**:  
-> **To act is to generate your opposite. And not to act is equally also to generate your opposite**
+> **To act is to generate your opposite. And not to act is equally also to generate your opposite.**
 
 This is the Owolawi Existential Dilemma:  
 **To seek the creator is to rediscover nothingness.**
