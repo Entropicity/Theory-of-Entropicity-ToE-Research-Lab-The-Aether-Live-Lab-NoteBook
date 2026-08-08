@@ -190,6 +190,32 @@ Gender:
 
 This manifests on all planes (physical, mental, and spiritual).
 
+-----------
+
+Now, having said all I had to say above concerning your expositions, I am constrained to worry about the troubling consequences to which your cogitations give rise:
+
+For if my creation or establishment or institutioning of A, then that -A must be instantiated instantly for my A to make any sense and have any [intrinsic] meaning, how then do we even survive this world, or any existence for that matter? Because what is before me and which is about to cause me another round of ceaseless nightmares and sleepless nights, as your incisive wisdom often condemns and consigns me to, it is this:
+
+Going by your logical If-Then-Go-To imposition above, does it not mean that the moment we talk of Good, we automatically call in the very elements of Evil and vice versa? And which is even much more potent: whenever we do good, don't we also automatically and irreversibility call and bring forth evil?  
+
+Has your well thought out logic not now entangled us all in a distressing bind from which we have no way of escape in any form? Does your inescapable logic not rope us all in that our good calls forth evil and our evil calls forth good? And you have given us no middle way, which means your unyielding logic confronts and collides with Buddha's Middle Way in an existential annihilation? 
+
+
+I for one am most happy with the logic you have above put forward and laid out, and I have no intention and I have no capacity infact to even begin to think I can overhaul or counter it. I am only bedazzled at the consequences you have brought upon us as homo sapiens, that we are now living in a dire strait. 
+
+
+This your logic is direct and simple and yet unbelievably groundbreaking, which is in every genre a mark of genius.
+
+
+Let me call this the Owolawi Existential Constraint or Owolawi Logical Dilemma! 
+
+
+Sir, I am so pleased with this your formulation and discovery and nomenclature, and constitutes what I shall publish as one of the most significant expositions in the Owolawi-Obidi Correspondence (OOC)!
+
+I remain forever grateful to you for your dialogues and collaborations. 
+
+Medawasi-o.
+
 
 -----------
 -----------
