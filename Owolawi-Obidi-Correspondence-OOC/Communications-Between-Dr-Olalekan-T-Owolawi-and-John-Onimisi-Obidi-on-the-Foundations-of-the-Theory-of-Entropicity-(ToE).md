@@ -46,6 +46,15 @@ forces us to seek a newer and more solid foundation, the physicist cannot simply
 
 https://www.academia.edu/63991587/Everything_About_Einstein_s_Relativity_Theory?rhid=41865373701&swp=rr-rw-wc-149078025&nav_from=57bdbbbe-8b25-4000-b9f9-8301ced2e674
 
+
+
+## Einstein's Wager:
+
+Einstein once said that a mouse would never invent and build a mouse trap. Yet humans have designed and built weapons of mass destruction. 
+
+What does that tell us about intelligence? Who/which is more intelligent? The mouse or humans? Food for thought!
+
+
 ------------------
 
 
