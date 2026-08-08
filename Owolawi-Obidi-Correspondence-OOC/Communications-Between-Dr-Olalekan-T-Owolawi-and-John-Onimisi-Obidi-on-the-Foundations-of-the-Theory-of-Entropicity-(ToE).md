@@ -7,6 +7,10 @@ Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Found
 
 **Saturday, 8th August, 2026:**
 
+
+# Discussions on the Existence of God 
+
+
 ## From Owolawi to Obidi:
 
 *WHO CREATED THE CREATOR?* 
@@ -110,6 +114,26 @@ In space there is no definite up or down.  But if for the sake of navigation, yo
 ## From Obidi to Owolawi:
 
 
+What you have just pointed out, that any indication of a position or direction or element or entity automatically creates its opposite existent, that is a very arguable example of what is tantamount to quantum entanglement! 
+
+
+And it aligns well also with the previous or earlier arguments of opposites and dualities.
+
+You are completely correct in all your statements above and I am unable to find any loophole in your propositions and axioms. So, I agree with all you said about:
+
+1) Anaesthesia can't last even for a day 
+
+2) There can't be death without life 
+
+3) There can't be good if there was no evil 
+
+4) No one decided on the existence of opposites 
+
+5) The existence of one opposite instantly brings the opposite into existence so that [the initial opposite] itself can have a meaningful existence 
+
+6) In space, there is no definite up or down. But the moment you designate a direction as up, that up instantly creates a down direction; because that up needs a down for it to be a valid up
+
+   
 
 
 -----------
