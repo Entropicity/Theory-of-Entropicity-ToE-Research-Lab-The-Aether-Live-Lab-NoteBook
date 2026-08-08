@@ -129,7 +129,7 @@ This is why Obidi concludes:
 ---
 
 8. The Philosophical Significance of the OEC
-The Owolawi Existential Constraint accomplishes four unprecedented things:
+The Owolawi Existential Constraint accomplishes four unprecedented things at once:
 
 1). It resolves the “creator regress” without invoking theology.
 Duality makes the creator logically necessary.
