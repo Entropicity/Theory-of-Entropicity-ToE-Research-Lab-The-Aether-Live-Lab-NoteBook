@@ -86,6 +86,30 @@ And again, I must call on God Himself to help resolve and answer all this vexing
 
 So, please permit me to conclude like our incomparable Newton: Hypotheses non fingo!
 
+----------------
+
+## From Owolawi to Obidi:
+
+Absolutely 💯 percent 👍🏽
+
+I bet that anesthesia will not last a day before someone starts asking about God. It is in human nature to seek our source just like an adopted child can't stop thinking about the biological parents. 
+
+On opposites, can there be death without life?
+
+Can there be good if there was no evil?
+
+It is like no one decided on the existence of opposites. 
+
+It is like the existence of one opposite instantly bring the other opposite into existence so that itself can have a meaningful existence. 
+
+In space there is no definite up or down.  But if for the sake of navigation, you decide to designate a direction as up, that up instantly creates a down direction as well for you because that up needs a down for it to be an valid up.
+
+
+-----------------
+
+## From Obidi to Owolawi:
+
+
 
 
 -----------
