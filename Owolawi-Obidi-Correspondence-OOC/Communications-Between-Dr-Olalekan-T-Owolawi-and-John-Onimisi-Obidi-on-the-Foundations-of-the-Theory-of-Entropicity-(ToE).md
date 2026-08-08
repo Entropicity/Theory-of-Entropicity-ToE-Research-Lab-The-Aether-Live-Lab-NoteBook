@@ -1,6 +1,6 @@
 # Communications Between Dr. Olalekan T. Owolawi and John Onimisi Obidi on the Foundations of the Theory of Entropicity (ToE)
 
-
+## Conceptual and Philosophical Perspectives Between Two Kindred Minds
 
 Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Foundations-of-the-Theory-of-Entropicity-(ToE).md
 
