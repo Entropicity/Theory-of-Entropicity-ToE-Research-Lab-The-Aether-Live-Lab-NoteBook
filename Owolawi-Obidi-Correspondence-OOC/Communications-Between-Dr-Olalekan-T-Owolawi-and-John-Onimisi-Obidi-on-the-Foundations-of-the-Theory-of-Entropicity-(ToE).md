@@ -36,12 +36,12 @@ So that even when over 100 authors rose against Einstein to disdain and counter 
 
 
 
-Einstein's Criticism of Science/Scientists and Philosophy/Philosophers:
+## Einstein's Criticism of Science/Scientists and Philosophy/Philosophers:
 
 Why then should it not be the right thing for the physicist to let the philosopher do the philosophizing? Such might indeed be the right thing at a time when the physicist believes he has at his disposal a rigid system of fundamental concepts and fundamental laws which are so well established that waves of doubt can not reach them; but it can not be right at a time when the very foundations of physics itself have become problematic as they are now. At a time like the present, when experience 
 forces us to seek a newer and more solid foundation, the physicist cannot simply surrender to the philosopher the critical contemplation of the theoretical foundations; for, he himself knows best, and feels more surely where the shoe pinches. In looking for a new foundation, he must try to make clear in his own mind just how far the concepts which he uses are justified, and are necessities.” (Einstein 1936, 349)
 
-~ Everything About Einstein's Relativity Theory [Omar A.H. Shabsigh 
+~ [Obidi's Reconstruction from] Everything About Einstein's Relativity Theory [Omar A.H. Shabsigh 
 ; Email: omar.shabsigh@gmail.com]
 
 https://www.academia.edu/63991587/Everything_About_Einstein_s_Relativity_Theory?rhid=41865373701&swp=rr-rw-wc-149078025&nav_from=57bdbbbe-8b25-4000-b9f9-8301ced2e674
