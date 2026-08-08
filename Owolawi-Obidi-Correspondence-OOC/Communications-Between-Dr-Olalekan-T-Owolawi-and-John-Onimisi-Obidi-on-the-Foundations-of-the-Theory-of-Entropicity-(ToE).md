@@ -133,7 +133,62 @@ You are completely correct in all your statements above and I am unable to find 
 
 6) In space, there is no definite up or down. But the moment you designate a direction as up, that up instantly creates a down direction; because that up needs a down for it to be a valid up
 
-   
+------------
+
+I have just been reminded that the principle of opposites and dualities we have discussed above are fully expounded upon in the esoteric text called The Kybalion. 
+
+In The Kybalion, our discussions on opposites and dualities are summarized under the fourth hermetic principle called the principle of Polarity, among the seven arcane / hermetic principles enunciated in The Kybalion.
+
+The 7 Hermetic Principles of The Kybalion: The book teaches that these seven distinct laws govern our entire universe:
+
+1)
+Mentalism: 
+
+"The All is Mind; the Universe is Mental". 
+
+Everything that exists begins as a thought or consciousness.
+
+2)
+Correspondence:
+
+"As above, so below; as below, so above". 
+
+There is always a harmony and agreement between the physical, mental, and spiritual planes.
+
+3)
+Vibration:
+
+"Nothing rests; everything moves; everything vibrates". 
+
+Matter, energy, and spirit are simply the same substance vibrating at different frequencies.
+
+4)
+Polarity:
+
+"Everything is dual; everything has poles".
+
+Opposites are actually identical in nature, but different in degree (like hot and cold).
+
+5)
+Rhythm:
+
+"Everything flows, out and in; everything has its tides". 
+
+A measured motion exists between the two poles established by the principle of polarity.
+
+6)
+Cause and Effect: 
+
+"Every cause has its effect; every effect has its cause". 
+
+Chance is merely a name for a law not recognized; nothing escapes it.
+
+7)
+Gender:
+
+"Gender is in everything; everything has its masculine and feminine principles". 
+
+This manifests on all planes (physical, mental, and spiritual).
 
 
 -----------
