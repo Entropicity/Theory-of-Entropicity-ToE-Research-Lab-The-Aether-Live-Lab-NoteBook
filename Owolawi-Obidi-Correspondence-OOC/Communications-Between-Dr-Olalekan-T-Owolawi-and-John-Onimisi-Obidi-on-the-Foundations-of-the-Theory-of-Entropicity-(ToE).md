@@ -55,12 +55,16 @@ So to conclude, the creator and nothingness were never created, they are polar o
 
 This argument is simply profound!
 
+-----------
 
 This proposition rests on the principle of duality, the doctrine of opposites.
 
+----------
 
 Once we accept the simple experience that most of what we know demonstrates that things exist in opposites, then it is pointless for us to want to know about the existence of God, because God's existence is therefore inclusive and hence tautological!
 
+
+----------
 
 Again, but we must still ask for the existence of God because then we are still brought to the essence and foundation and perennial problem of the existence of God: 
 
@@ -84,6 +88,7 @@ So, please permit me to conclude like our incomparable Newton: Hypotheses non fi
 
 
 
+-----------
 -----------
 
 **Friday, 7th August, 2026:**
