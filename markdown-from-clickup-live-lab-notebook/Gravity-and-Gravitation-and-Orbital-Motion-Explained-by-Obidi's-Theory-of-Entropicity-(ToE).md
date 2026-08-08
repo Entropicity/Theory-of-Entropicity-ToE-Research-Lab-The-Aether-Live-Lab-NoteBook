@@ -71,3 +71,135 @@ Would you like to look closer at how Obidi's theory uses the Master Entropic Equ
 [16] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6900d89c113cc7cfff94ef3a/original/the-theory-of-entropicity-to-e-derives-and-explains-mass-increase-time-dilation-and-length-contraction-in-einstein-s-theory-of-relativity-to-r-to-e-applies-logical-entropic-concepts-and-principles-to-verify-einstein-s-relativity.pdf)
 
 [17] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+
+
+----------------
+
+# Scholium 1 of 3
+
+Gravity from the Sun pulls the planets inward, while their forward speed pushes them outward into space. This balance creates a stable orbit. Because space is a vacuum with no air, there is no friction to slow the planets down, so they keep moving and orbiting forever. [1, 2, 3, 4, 5] 
+## Why Orbits Last Forever## The Two Forces
+
+* Gravity: The Sun pulls every planet toward its center like an invisible rubber band.
+* Forward Speed: Planets move very fast sideways through space.
+* Balance: The pull and the speed cancel each other out. [6, 7, 8, 9] 
+
+## Why Speed Does Not Fade
+
+* No Air in Space: Air causes friction and slows things down on Earth.
+* Vacuum: Space is empty.
+* Constant Motion: Nothing pushes back, so planets never lose their speed. [10, 11, 12, 13, 14] 
+
+## The First Law of Motion
+
+* Inertia: An object in motion stays in motion unless a force stops it.
+* No Stopping Force: No big force exists to stop the planets.
+* Endless Travel: They coast along the same path forever. [15, 16, 17] 
+
+Would you like to know how fast Earth moves through space, or how gravity first formed the solar system?
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=2BqQLkOMhlQ)
+[2] [https://www.instagram.com](https://www.instagram.com/reel/DJwNka2pNOq/)
+[3] [https://www.spacerangerfred.com](https://www.spacerangerfred.com/2026/01/10/how-do-planets-orbit-the-sun/)
+[4] [https://www.britannica.com](https://www.britannica.com/video/Earth-rotation-axis-revolution-Sun/-159380)
+[5] [https://missionastro.org](https://missionastro.org/falling-but-not-crashing-the-science-behind-satellites-in-orbit/)
+[6] [https://www.campliveoakfl.com](https://www.campliveoakfl.com/20-crazy-facts-about-our-solar-system/)
+[7] [https://www.spacerangerfred.com](https://www.spacerangerfred.com/2026/01/10/how-do-planets-orbit-the-sun/)
+[8] [https://www.instagram.com](https://www.instagram.com/reel/DS0kdx3kjGZ/)
+[9] [https://www.facebook.com](https://www.facebook.com/StarTalk/posts/what-is-the-three-body-problem/1463601468732241/)
+[10] [https://theconversation.com](https://theconversation.com/curious-kids-could-the-earth-ever-stop-spinning-and-what-would-happen-if-it-did-174132)
+[11] [https://www.reddit.com](https://www.reddit.com/r/explainlikeimfive/comments/xmxfwd/eli5_what_causes_celestial_objects_to_spin_around/)
+[12] [https://www.reddit.com](https://www.reddit.com/r/AskPhysics/comments/16c65jy/when_you_go_in_a_high_altitude_balloon_why_does/)
+[13] [https://www.reddit.com](https://www.reddit.com/r/todayilearned/comments/1tq5i4x/til_the_sun_orbits_the_center_of_the_milky_way_at/)
+[14] [https://www.reddit.com](https://www.reddit.com/r/StardustCrusaders/comments/1px8f74/wont_kars_eventually_hit_something/)
+[15] [https://www.skyatnightmagazine.com](https://www.skyatnightmagazine.com/space-science/why-planets-orbit-sun)
+[16] [https://www.reddit.com](https://www.reddit.com/r/cosmology/comments/anc70h/what_force_is_preventing_the_planets_to_lose/)
+[17] [https://www.q-files.com](https://www.q-files.com/earth/planet-earth/earths-rotation/print)
+
+
+
+-----------
+
+# Scholium 2 of 3
+
+
+There is a pull because mass bends space, and matter naturally follows the straightest possible path through that bent space. According to Albert Einstein's theory of General Relativity, gravity is not a magical tug of war, but a shape change in the universe. [1, 2] 
+## Why Gravity Must Exist## Mass Bends Space
+
+* The Rule: Any object with mass stretches the fabric of space.
+* The Sun: The Sun has massive weight and bends space deeply.
+* The Fabric: Think of a heavy bowling ball sitting on a flexible trampoline. [3, 4, 5, 6] 
+
+## Planets Follow the Curve
+
+* The Path: Planets move forward in a straight line.
+* The Curve: The space they travel through is already bent by the Sun.
+* The Orbit: Rolling straight on a curved trampoline forces a circular path. [7, 8, 9] 
+
+## Why Matter Stretches Space
+
+* Energy Density: Mass is highly concentrated energy.
+* Field Reaction: Space-time fields must warp around high energy.
+* No Choice: Matter and space are locked together; one always deforms the other. [10, 11, 12] 
+
+Would you like to explore how Einstein proved this idea, or should we look at how black holes warp space even more?
+
+[1] [https://www.facebook.com](https://www.facebook.com/secretsofuniverse/photos/-the-day-that-changed-the-course-of-physics-backdrop-in-the-early-20th-century-p/1258214329285499/)
+[2] [https://www.facebook.com](https://www.facebook.com/AdamFrankAuthor/posts/einstein-realized-that-apples-dont-fall-because-of-forces-they-fall-because-that/473467656077704/)
+[3] [https://astroedu.iau.org](https://astroedu.iau.org/documents/820/astroedu-1749-en.pdf)
+[4] [https://www.facebook.com](https://www.facebook.com/AstroKirsten/videos/how-do-we-know-how-much-the-sun-weighs-and-who-figured-it-out-first-%EF%B8%8Fbelieve-it-/1188312202647490/)
+[5] [https://www.reddit.com](https://www.reddit.com/r/explainlikeimfive/comments/1j3rpx5/eli5_what_gravitational_force_is_pulling_us_away/)
+[6] [https://www.quantamagazine.org](https://www.quantamagazine.org/janna-levin-on-seeing-and-hearing-black-holes-20200303/)
+[7] [https://www.astronomycast.com](https://www.astronomycast.com/2010/02/ep-171-solar-system-movements-and-positions/)
+[8] [https://www.instagram.com](https://www.instagram.com/reel/DMS8tf5sduF/)
+[9] [https://ssaroha123.medium.com](https://ssaroha123.medium.com/notes-from-seven-brief-lessons-on-physics-b6325b0cc720)
+[10] [https://bigthink.com](https://bigthink.com/hard-science/quantum-mechanics-disproves-an-exotic-type-of-black-hole/)
+[11] [https://www.reddit.com](https://www.reddit.com/r/askscience/comments/ou1g76/why_is_light_attracted_to_black_holes_if_it_has/)
+[12] [https://profmattstrassler.com](https://profmattstrassler.com/2012/09/24/how-the-higgs-field-does-its-thing/)
+
+
+--------
+
+
+# Scholium 3 of 3
+
+The ultimate, honest scientific answer is that we do not know why mass must bend spacetime—we only know how it does it. Science can model the universe with extreme accuracy, but it cannot explain the absolute, underlying purpose of why the fundamental laws of physics are written this way. [1, 2, 3, 4, 5] 
+To help bridge this logical gap, we can look at the deepest layers of physics where mass and spacetime cease to be separate things.
+## The Deepest Connections Between Mass and Space## 1. Mass and Space are the Same Thing
+
+* Energy is Space: Einstein's famous equation ($E=mc^2$) proves mass is just highly concentrated energy.
+* Fields: Space is not empty; it is a collection of quantum fields.
+* The Knot: Mass is a tight "knot" of energy inside those fields.
+* The Ripple: You cannot tie a knot in a fabric without pulling the surrounding fabric tight. [6, 7, 8, 9, 10] 
+
+## 2. The Boundary of Science ("The Brute Fact")
+
+* Axioms: In logic, a "brute fact" is something that is true simply because it is the baseline of reality.
+* The Rulebook: The warping of spacetime is a foundational rule of our universe's code.
+* Other Universes: A universe where mass does not bend space could theoretically exist, but it would have no gravity, no stars, no planets, and no life. [11, 12, 13, 14] 
+
+## 3. The Thermodynamic Answer
+
+* Order: Concentrated energy (like a sun) naturally affects its environment to maintain balance.
+* Distribution: Bending spacetime is how the universe distributes the immense pressure of that concentrated energy.
+
+If you want to dive deeper, we can explore Quantum Gravity, which tries to find an even smaller particle responsible for this link. Would you like to look into how gravitons might cause this connection, or discuss the philosophy of "brute facts" in science? [15, 16, 17] 
+
+[1] [https://www.reddit.com](https://www.reddit.com/r/AskPhysics/comments/1db9e3i/why_gravity_or_whats_gravity/)
+[2] [https://astronomy.stackexchange.com](https://astronomy.stackexchange.com/questions/4761/does-mass-create-space)
+[3] [https://www.reddit.com](https://www.reddit.com/r/askscience/comments/vxqu3n/when_astronomers_say_that_space_is_expanding_does/)
+[4] [https://www.reddit.com](https://www.reddit.com/r/DebateAChristian/comments/3648tw/arent_the_laws_of_physics_a_lot_more_god_like/)
+[5] [https://www.reddit.com](https://www.reddit.com/r/space/comments/11m0exr/ive_always_been_curious_about_origins_and_find/)
+[6] [https://www.irishtimes.com](https://www.irishtimes.com/news/science/einstein-for-dummies-space-time-and-whole-lot-more-1.2435081)
+[7] [https://www.facebook.com](https://www.facebook.com/groups/1685507044817357/posts/26128639550077433/)
+[8] [https://www.instagram.com](https://www.instagram.com/reel/DOJug_mEjxI/)
+[9] [https://www.facebook.com](https://www.facebook.com/StarTalk/videos/how-empty-is-space/955438802795096/)
+[10] [https://www.linkedin.com](https://www.linkedin.com/posts/dr-k-v-n-rajesh_physicist-michio-kaku-says-dark-matter-might-activity-7473447084072001536-ywCi)
+[11] [https://www.facebook.com](https://www.facebook.com/tokimonsta/posts/not-to-be-dramatic-but-why-is-existence-so-physics-based/1563191651841833/)
+[12] [https://www.reddit.com](https://www.reddit.com/r/explainlikeimfive/comments/16hvtdc/eli5_if_einstein_says_gravity_is_not_a/)
+[13] [https://www.instagram.com](https://www.instagram.com/reel/DX4N2cGFenL/)
+[14] [https://www.reddit.com](https://www.reddit.com/r/AskPhysics/comments/11x232l/in_a_universe_without_mass_would_time_still_exist/)
+[15] [https://ethz.ch](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/a-contradiction-at-the-heart-of-physics.html)
+[16] [https://www.reddit.com](https://www.reddit.com/r/DebateAnAtheist/comments/1nihibf/contingency_argument_is_not_doing_a_fallacy_of/)
+[17] [https://www.facebook.com](https://www.facebook.com/intlspacefed/posts/why-cant-the-laws-of-physics-agree-for-over-a-century-scientists-have-wrestled-w/1114752677494338/)
