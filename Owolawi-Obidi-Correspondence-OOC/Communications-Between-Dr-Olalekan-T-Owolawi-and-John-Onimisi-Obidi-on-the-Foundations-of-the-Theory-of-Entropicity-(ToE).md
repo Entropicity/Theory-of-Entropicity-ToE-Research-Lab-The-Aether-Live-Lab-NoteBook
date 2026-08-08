@@ -50,7 +50,7 @@ Since somethingness is responsible for all the things in existence, somethingnes
 So to conclude, the creator and nothingness were never created, they are polar opposites that complement each other and must both exist together.
 
 
-## From Obidi to Owolawi 
+## From Obidi to Owolawi: 
 
 
 This argument is simply profound!
