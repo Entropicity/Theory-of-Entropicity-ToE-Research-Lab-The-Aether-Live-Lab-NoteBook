@@ -6,7 +6,7 @@ The Obidi Curvature Invariant (OCI) is a foundational geometric constant in the 
 Rather than treating $\ln 2$ as a mere statistical artifact or unit conversion factor, this framework elevates it to a fundamental, local structural invariant of reality. [2] 
 
 ## Core Principles of the Invariant
-The Obidi Curvature Invariant alters the traditional view of information geometry and spacetime through several key mechanisms defined in the [Theory of Entropicity](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/universality-of-obidi-curvature-invariant-in-toe.html): [2, 3, 4, 5] 
+The Obidi Curvature Invariant alters the traditional view of information geometry and spacetime through several key mechanisms defined in the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/universality-of-obidi-curvature-invariant-in-toe.html): [2, 3, 4, 5] 
 
 * Information as Curvature: Entropy is treated as a fundamental physical scalar field rather than a macroscopic statistical measurement. Information is defined directly as continuous curvature within this field. [1, 2, 6] 
 * The Threshold of Distinguishability: For two informational configurations or states to be physically distinct, their entropic curvature profiles must differ by a finite geometric gap. The OCI ($\ln 2$) dictates the absolute minimum boundary of this gap. [1, 2, 7] 
