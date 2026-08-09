@@ -1,4 +1,4 @@
-# The Obidi Curvature Invariant OCI of ln 2 
+# The Obidi Curvature Invariant (OCI) of ln 2 
 
 The-Obidi-Curvature-Invariant-(OCI)-of-ln-2.md 
 
