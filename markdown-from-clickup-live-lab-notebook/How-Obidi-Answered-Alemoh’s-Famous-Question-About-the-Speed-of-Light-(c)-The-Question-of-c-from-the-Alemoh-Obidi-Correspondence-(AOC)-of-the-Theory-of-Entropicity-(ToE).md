@@ -1,4 +1,4 @@
-# 🔷 How Obidi Answered Alemoh’s Famous Question About the Speed of Light (c): The Question of c. [Excerpt from the Alemoh-Obidi-Correspondence (AOC) of the Theory of Entropicity (ToE)]
+# 🔷 How Obidi Answered Alemoh’s Famous Question About the Speed of Light (c): "The Question of c". [Excerpt from the Alemoh-Obidi-Correspondence (AOC) of the Theory of Entropicity (ToE)]
 
 How-Obidi-Answered-Alemoh’s-Famous-Question-About-the-Speed-of-Light-(c)-The-Question-of-c-from-the-Alemoh-Obidi-Correspondence-(AOC)-of-the-Theory-of-Entropicity-(ToE).md
 
