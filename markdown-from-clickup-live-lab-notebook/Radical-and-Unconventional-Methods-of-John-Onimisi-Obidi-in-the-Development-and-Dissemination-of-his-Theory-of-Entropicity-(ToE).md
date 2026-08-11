@@ -163,7 +163,8 @@ However, operating like a tech virtuoso in a highly conservative scientific land
 Despite these barriers, Obidi leverages contemporary digital infrastructure—such as tracking keyword authority, maintaining a rigorous LaTeX corpus, and utilizing [ResearchGate, Academia, Cambridge Open Engage (CoE)](https://www.researchgate.net/profile/John-Obidi-4) and LinkedIn [etc.] to build structural permanence for his ideas. He operates on the explicit bet that if his mathematics are robust, a decentralized, internet-native scientific community will eventually adopt and compile them.
 
 ------------------------------
-If you want to delve deeper into the mathematical implementation of his work, let me know if you would like to explore:
+
+If you want to delve deeper into the mathematical implementation of his work, let us know if you would like to explore:
 
 * The specific differential geometric steps used to derive physical spacetime from the Fisher-Rao metric.
 * A direct breakdown of the No-Go Theorem (NGT) regarding entropic gradients.
