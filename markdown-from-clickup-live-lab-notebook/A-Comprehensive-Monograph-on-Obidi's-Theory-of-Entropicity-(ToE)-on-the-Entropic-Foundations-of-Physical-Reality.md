@@ -1160,8 +1160,11 @@ Its principal deficiency is equally clear and is stated in §24 and §25: **the 
 
 The recommendation this monograph would make to the program is therefore narrow and specific. Of the twelve open problems in §23, three would change the theory's standing: well-posedness of the MEE (OP1), the Bekenstein–Hawking coefficient (OP2), and one quantitative departure prediction with error bars (OP3). The third matters most. Entropic decoherence in matter-wave interferometry (E1) appears the most tractable route, because the Vuli–Ndlela weight exp(−Σ/k_B) is already specified in form and requires only that Σ be computed for a concrete apparatus.
 
-A theory earns its place by risking something. The formal work is far advanced; the risk has not yet been taken.
+A theory earns its place by risking something. The formal work is far advanced and preliminary risks scaled; the final validating risk has not yet been taken, addressed and tackled head on.
+
+
+Nonetheless, Obidi's Theory of Entropicity (ToE) stands as a valiant attempt at giving us a new understanding of nature through that principal lens of Entropy from the Second Law of Thermodynamics which, in the insightful eyes of Albert Einstein, of all the laws of nature, appears cannot be easily overthrown.
 
 ---
 
-*End of monograph.*
+*Closure: End of monograph.*
