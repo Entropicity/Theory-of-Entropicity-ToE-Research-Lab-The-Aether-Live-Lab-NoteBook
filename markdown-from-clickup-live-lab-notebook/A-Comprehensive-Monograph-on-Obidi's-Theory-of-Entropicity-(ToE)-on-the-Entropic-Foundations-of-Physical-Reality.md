@@ -17,15 +17,19 @@
 
 ## Editorial Note on Method and Standing
 
-This monograph is a systematic, comprehensive exposition of the Theory of Entropicity as its originator has developed and published it. It is written to the standard of a scholarly reference work, which means three commitments are held simultaneously:
+This monograph is a systematic, comprehensive exposition of the Theory of Entropicity (ToE) as its originator, John Onimisi Obidi, has developed and published it. It is written to the standard of a scholarly reference work, which means three commitments are held simultaneously:
 
 1. **Faithfulness.** The theory is presented in its own vocabulary, on its own terms, following its own logical order — not translated into a rival framework and judged there.
-2. **Mathematical honesty.** Where a construct is standard mathematics (the Fisher–Rao metric, the Amari–Čencov α-connections, the Einstein–Hilbert action), it is stated exactly as mathematics has it. Where a construct is ToE's own proposal, it is marked as a *postulate*, *identification*, or *conjecture* rather than a theorem. Where a step is currently a program rather than a completed proof, this is said plainly.
-3. **Critical completeness.** A monograph that omits the open problems, the load-bearing assumptions, and the strongest objections is a brochure, not a monograph. Part VII exists for that reason, and it is the most important part of the document for the theory's future.
+2. **Mathematical honesty.** Where a construct is standard mathematics (the Fisher–Rao metric, the Amari–Čencov α-connections, the Einstein–Hilbert action, etc.), it is stated exactly as mathematics has it. Where a construct is ToE's own proposal, it is marked as a *postulate*, *identification*, or *conjecture* rather than a theorem. Where a step is currently a program rather than a completed proof, this is said plainly.
+3. **Critical completeness.** A monograph that omits the open problems, the load-bearing assumptions, and the strongest objections is a brochure, not a monograph. Part VII exists for that reason, and it is the most important part of the document for the theory's future [and and also especially for students, researchers, and investigators].
 
-ToE is an independent research program outside the current consensus of theoretical physics. Nothing in this document should be read as a claim that its results are accepted, replicated, or peer-established. It is a claim about what the theory says, how it is structured, and what would have to be true for it to succeed.
+Obidi's Theory of Entropicity (ToE) is an independent research program outside the current consensus of theoretical physics. Nothing in this document should be read as a claim that its results are accepted wholesale by the traditional physics or science community, replicated, or peer-established. It is a claim about what the theory says, how it is structured, and what would have to be true for it to succeed. 
 
-Equations are given in canonical schematic form. Where numerical coefficients, coupling normalizations, or sign conventions vary across the primary preprint series, this is flagged rather than silently resolved.
+Equations are given in canonical schematic form. Where numerical coefficients, coupling normalizations, or sign conventions vary across the primary published series, this is pointed out rather than silently resolved.
+
+We note that this is a live document on Obidi's monumental work; so that any infelicities in it should not be taken as a permanent detraction from its inherent merit; because such shall be rectified in subsequent developmental work on the Theory. 
+
+With that said, we commit this work to the reader with our conviction and the objectivity of our studies. 
 
 ---
 
