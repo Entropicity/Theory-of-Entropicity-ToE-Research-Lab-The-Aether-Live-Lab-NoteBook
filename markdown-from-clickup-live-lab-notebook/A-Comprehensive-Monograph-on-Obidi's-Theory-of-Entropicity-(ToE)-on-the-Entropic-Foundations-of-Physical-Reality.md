@@ -812,7 +812,7 @@ The KOL also grounds ToE's compatibility with algorithmic thinking: the Kolmogor
 
 ### 17.2 The Alemoh–Obidi Correspondence (AOC)
 
-The AOC arises from the sustained mathematical stress-testing of ToE's foundations by the mathematician Daniel Alemoh.
+The AOC arises from the sustained mathematical stress-testing of ToE's foundations by the mathematical physicist Daniel Moses Alemoh.
 
 Its function within the research program is that of an internal adversarial review: a mapping between ToE's physical constructs and their strict mathematical prerequisites, identifying at each point what must be proved for the physical claim to be licensed. The correspondence has served to sharpen several of the theory's constructions — particularly around the well-posedness of the metric-affine variation and the conditions under which the α = 0 limit is uniform rather than merely pointwise.
 
