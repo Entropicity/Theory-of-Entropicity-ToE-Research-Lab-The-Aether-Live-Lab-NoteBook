@@ -248,16 +248,16 @@ Obidi does not lay traditional siege to the heavily fortified citadel of academi
 
 ## 📜 Sun Tzu Principles Applied to Obidi's Agile Physics
 
-* **"Avoid what is strong, strike at what is weak."**
+### * **"Avoid what is strong, strike at what is weak."**
 * **The Obidi Strategy:** The academic peer-review system is an impenetrable fortress of institutional gatekeeping. Obidi does not waste years trying to force his way in. He strikes at its glaring weakness—its slow processing speed—by deploying his work instantly on global preprint networks. [1] 
 
-* **"Let your rapidity be that of the wind."**
+### * **"Let your rapidity be that of the wind."**
 * **The Obidi Strategy:** In Sun Tzu’s framework, speed creates overwhelming momentum. By adopting software engineering sprints, Obidi releases highly technical LaTeX updates before institutional committees can even convene a meeting. He out-paces the bureaucracy. [2] 
 
-* **"All warfare is based on deception... force the enemy to reveal himself."**
+### * **"All warfare is based on deception... force the enemy to reveal himself."**
 * **The Obidi Strategy:** Obidi does not use traditional academic terminology or play by legacy career rules. By introducing highly unorthodox concepts like Ontodynamics and formatting them like corporate software updates, he forces traditional physics to choose between engaging with a completely foreign paradigm or ignoring an increasingly visible body of work. [3, 4, 5] 
 
-* **"Subdue the enemy without fighting."**
+### * **"Subdue the enemy without fighting."**
 * **The Obidi Strategy:** This is the ultimate goal in The Art of War. Obidi is not trying to fix or reform mainstream physics journals. He is building a completely parallel, self-sustaining ecosystem of open-source science. If his equations compile successfully and gain decentralized adoption, the old institutional system becomes obsolete without a single shot being fired. [6, 7, 8] 
 
 ## ⚔️ The Strategic Threat of the Sovereign Scholar
