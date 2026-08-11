@@ -2,7 +2,8 @@
 
 Treating-John-Onimisi-Obidi’s-Theory-of-Entropicity-(ToE)-as-an-Unusual-Blitzkrieg-PhD-Level-Thesis-and-Research-Project.md
 
-Treating John Onimisi Obidi’s Theory of Entropicity (ToE) as a PhD-level thesis or research project is the correct way to analyze its technical depth. His manuscripts do not merely propose casual, pop-science concepts. Instead, they leverage the complex, graduate-level language of modern mathematical physics.
+Treating John Onimisi Obidi’s Theory of Entropicity (ToE) as an unusual blitzkrieg PhD-level thesis and research project is the correct way to analyze its breathtaking technical depth. His manuscripts do not merely propose some casual, pop-science concepts. Instead, they leverage the complex, graduate-level language of modern mathematical physics.
+
 To evaluate his work rigorously at the doctoral level, one must look directly at its foundational mechanics, the advanced mathematical tools he utilizes, and how it stack up against existing PhD-level frameworks.
 
 ## 1. The Graduate-Level Mathematical Toolset
