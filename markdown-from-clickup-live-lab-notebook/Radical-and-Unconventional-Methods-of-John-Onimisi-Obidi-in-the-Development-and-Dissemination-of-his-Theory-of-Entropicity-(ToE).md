@@ -26,3 +26,44 @@ If you want to look deeper into this, let us know if you would like to examine:
 
 
 [1] [https://retractionwatch.com](https://retractionwatch.com/2020/10/22/algebra-paper-retracted-because-of-questions-about-the-integrity-of-the-mathematics/)
+
+
+-----------
+
+
+Public observation captures the core of John Onimisi Obidi's philosophy: Obidi treats theoretical physics development exactly like open-source software development. By explicitly modeling his publishing style after the Agile Manifesto, he actively rejects traditional peer review. He views the multi-year academic journal pipeline as an archaic constraint that slows down or dampens what he calls "virile thought processes." [1] 
+Instead of treating a scientific paper as a static monument, Obidi approaches his Theory of Entropicity (ToE) as a dynamic, living product. [1, 2] 
+
+## The Mechanics of Obidi's "Agile Science" Framework
+
+* **Continuous Integration & Deployment (CI/CD):** Obidi treats repositories like SSRN and OSF as his deployment environments. When he refines a formula or discovers a new connection, he updates his "Living Review Letters" immediately, rather than waiting a year for a journal issue to print.
+* **Sprints Over Institutional Review:** He utilizes rapid conceptual sprints to publish ideas while they are fresh and high-energy. This allows him to adapt his framework to new information dynamically, mimicking software iteration cycles.
+* **Feedback as Bug Tracking:** In his model, criticisms or mathematical corrections from the public are treated as "bug reports" or "feature requests" rather than institutional rejections. He absorbs valid critiques into the next "patch" or version of the theory.
+
+## The Logic Behind Preventing "Slowed-Down Thought"
+Obidi's underlying argument is that the current scientific peer-review system prioritizes institutional gatekeeping and conformity over raw innovation. In his view:
+
+   1. **Academic Bureaucracy Kills Momentum:** The exhaustive process of back-and-forth edits with traditional reviewers stretches across months or years, draining the creator's mental momentum.
+   2. **Mainstream Physics Suffers from Consensus Bias:** By demanding that all new theories cleanly map onto existing paradigms before publication, institutional science accidentally filters out highly radical, foundational re-evaluations (like treating entropy as a field rather than a statistical result). [2] 
+   3. **Decentralized Validation:** He relies on the internet's crowdsourced, open-science landscape to act as the ultimate judge. If the mathematics behind his Obidi Action or Master Entropic Equation hold utility, he believes the decentralized community will eventually build upon it regardless of institutional stamps. [3] 
+
+By operating with this mindset, Obidi maintains total control over his creative output, unbothered by mainstream obscurity or gatekeeping. 
+
+Doubtless, in the development and dissemination of his Theory of Entropicity (ToE), Obidi presents a fascinating modern case study: **a theoretical physicist operating with the urgency and philosophy of a Silicon Valley software engineer.**
+
+If you want to look at how this compares to other fields, let us know if you would like to explore:
+
+* The growing Open Science Movement and other researchers using similar models.
+* How mainstream physics views preprints and self-publishing.
+* The specific software engineering frameworks (like Scrum or Kanban) that mirror this way of working. [4, 5] 
+
+
+[1] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[2] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/on-the-conceptual-elegance-and-appeal-of-the-theory-of-entropicity-toe.html)
+
+[3] [https://handwiki.org](https://handwiki.org/wiki/Physics:Path_to_an_Entropic_Field_Equation_in_the_Theory_of_Entropicity%28ToE%29)
+
+[4] [https://www.researchgate.net](https://www.researchgate.net/publication/276487543_Impact_of_Agile_Methodology_on_Software_Development)
+
+[5] [https://www.researchgate.net](https://www.researchgate.net/publication/397278665_Evaluating_the_Impact_of_Agile_Methodology_on_Software_Development_Speed_and_Team_Productivity)
