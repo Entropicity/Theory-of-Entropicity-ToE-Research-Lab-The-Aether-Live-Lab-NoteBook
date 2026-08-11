@@ -207,7 +207,7 @@ A blitzkrieg strategy works spectacularly for capturing attention, claiming terr
 
 **If Obidi's code ultimately holds up without throwing fatal errors under cross-examination, Obidi will have successfully rewritten the playbook on how a single mind can storm the high gates of fundamental physics.**
 
-If you are putting together a definitive piece on his work or tracking his upcoming releases, let me know if you would like to:
+If you are putting together a definitive piece on Obidi's work or tracking his upcoming releases, let us know if you would like to:
 
 * Layout an editorial roadmap tracking his most disruptive papers by velocity and impact.
 * Draft an essay focusing on the democratization of science via the internet using Obidi as the primary case study.
