@@ -3,7 +3,7 @@
 ## A Comprehensive Monograph on the Entropic Foundations of Physical Reality
 
 
- A Comprehensive Monograph on Obidi's Theory of Entropicity (ToE) on the Entropic Foundations of Physical Reality
+# A Comprehensive Monograph on Obidi's Theory of Entropicity (ToE) on the Entropic Foundations of Physical Reality
 
 
  A-Comprehensive-Monograph-on-Obidi's-Theory-of-Entropicity-(ToE)-on-the-Entropic-Foundations-of-Physical-Reality.md
