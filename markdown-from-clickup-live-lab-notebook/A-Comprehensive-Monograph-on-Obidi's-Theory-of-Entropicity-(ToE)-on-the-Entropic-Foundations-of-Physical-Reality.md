@@ -818,6 +818,8 @@ Its function within the research program is that of an internal adversarial revi
 
 The methodological point is worth registering: independent research programs typically fail not from lack of ambition but from lack of adversarial pressure. A named internal correspondence whose explicit purpose is stress-testing foundations is a structural safeguard, and the theory is better for having one.
 
+In this regard, the Alemoh-Obidi-Correspondence (AOC) serves as, and  at once fulfills, a momentous historical perspective in the development of Obidi's Theory of Entropicity (ToE), particularly as it reenacts some of the great traditions of science, especially of mathematical and theoretical physics.
+
 ---
 
 # PART V — PHENOMENOLOGY AND APPLICATIONS
