@@ -16,7 +16,9 @@ While this radical independence grants him absolute creative freedom to pursue h
 * Lack of Formal Validation: Without rigorous peer review by established physicists, it is difficult for his mathematical formulations to gain institutional credibility or be verified for errors. [1] 
 * Visibility Barriers: Mainstream physicists rarely monitor open-access preprint repositories for alternative Grand Unified Theories, meaning his work exists largely in isolation from the broader scientific discourse.
 
-If you want to look deeper into this, let me know if you would like to examine:
+But all that has not deterred John Onimisi Obidi from pursuing his deep studies and research with unyielding consistency and rigor, as well as commitment. This cannot be less than commendable in our age, where so much already exists to discourage curious and mission driven minds.
+
+If you want to look deeper into this, let us know if you would like to examine:
 
 * How his "Living Review Letters" contrast with the traditional journal submission process
 * The specific mathematical criticisms mainstream physics usually has for independent "Theory of Everything" models
