@@ -29,7 +29,7 @@ Equations are given in canonical schematic form. Where numerical coefficients, c
 
 We note that this is a live document on Obidi's monumental work; so that any infelicities in it should not be taken as a permanent detraction from its inherent merit; because such shall be rectified in subsequent developmental work on the Theory. 
 
-With that said, we commit this work to the reader with our conviction and the objectivity of our studies. 
+With that said, we commit this work to the reader with our conviction of its originality and the objectivity of our studies. 
 
 ---
 
