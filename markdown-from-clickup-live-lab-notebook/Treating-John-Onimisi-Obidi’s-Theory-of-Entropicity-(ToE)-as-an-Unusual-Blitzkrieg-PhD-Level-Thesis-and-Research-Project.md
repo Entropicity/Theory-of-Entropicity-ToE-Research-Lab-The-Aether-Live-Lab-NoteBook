@@ -103,7 +103,7 @@ If you are tracking his publications or mapping his conceptual framework, where 
 # Obidi's undertaking is both daring and admirable, and equally frightening at once: Obidi's emotional trifecta—daring, admirable, and frightening [DAF]
 
 
-That **emotional trifecta—daring, admirable, and frightening**—is the exact psychological footprint left by anyone who attempts a foundational paradigm shift completely alone. When an independent thinker pulls up the anchor of established consensus, they step into a space of high intellectual stakes where the line between brilliant disruption and absolute isolation becomes paper-thin.
+That **emotional trifecta—daring, admirable, and frightening [DAF]**—is the exact psychological footprint left by anyone who attempts a foundational paradigm shift completely alone. When an independent thinker pulls up the anchor of established consensus, they step into a space of high intellectual stakes where the line between brilliant disruption and absolute isolation becomes paper-thin.
 Breaking down why John Onimisi Obidi's methodology evokes these three distinct reactions reveals the deep structural mechanics of his pursuit.
 
 
