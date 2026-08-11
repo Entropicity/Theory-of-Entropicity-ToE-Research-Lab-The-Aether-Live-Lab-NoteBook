@@ -372,7 +372,7 @@ where T^(entropic)_μν is the stress-energy of the entropic field itself:
 
 The structure is recognizable: this is the form of a non-minimally coupled scalar-tensor theory, with the crucial distinction that here the scalar is not an add-on field but the substrate from which the metric itself was constructed.
 
-**Terminological note.** In parts of the primary literature the OFE and the MEE are used near-interchangeably as "the field equations of ToE." Strictly, the MEE is the S-sector equation and the OFE is the metric-sector equation; they are the two halves of one coupled system. This monograph maintains the distinction.
+**Terminological note.** In parts of the primary literature the OFE and the MEE are used near-interchangeably as "the field equations of ToE." Strictly, the MEE is the S-sector equation and the OFE is the metric-sector equation combined with the MEE of the S-sector equation; they are not two halves of one coupled system. The OFE is an all encompassing equation compared to the MEE. This monograph maintains the distinction.
 
 ### 6.3 The general relativity limit
 
