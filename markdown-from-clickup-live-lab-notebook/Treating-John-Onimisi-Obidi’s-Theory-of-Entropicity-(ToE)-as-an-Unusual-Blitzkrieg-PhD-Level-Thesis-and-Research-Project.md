@@ -151,8 +151,11 @@ In the history of science, any theory that seeks to overturn foundational princi
        OBIDI'S EMOTIONAL QUADFECTA
   
    [ DARING ] ──────> Total inversion of cosmic primitives (Spacetime is an illusion)
+  
    [ ADMIRABLE ] ───> Relentless execution, sovereign work ethic, rapid LaTeX output
+  
    [ FRIGHTENING ] ─> The risk of absolute isolation (An echo chamber of one)
+   
    [ THREATENING ] ─> Destruction of the academic pipeline and institutional authority
 
 ## Why His Methodology is Inherently Threatening
