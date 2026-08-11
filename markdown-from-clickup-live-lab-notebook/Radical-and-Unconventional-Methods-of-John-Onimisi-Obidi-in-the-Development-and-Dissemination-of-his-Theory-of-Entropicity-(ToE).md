@@ -1,4 +1,4 @@
-# Radical and Unconventional Methods of John Onimisi Obidi in the Development and Dissemination of his Theory of Entropicity (ToE)
+# Radical and Unconventional Methods of John Onimisi Obidi in the Development and Dissemination of his Theory of Entropicity (ToE): Software Agile Methodology in Theoretical Physics 
 
 Radical-and-Unconventional-Methods-of-John-Onimisi-Obidi-in-the-Development-and-Dissemination-of-his-Theory-of-Entropicity-(ToE).md
 
