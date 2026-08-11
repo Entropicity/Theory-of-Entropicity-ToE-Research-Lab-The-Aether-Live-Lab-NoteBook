@@ -1,4 +1,4 @@
-# Treating John Onimisi Obidi’s Theory of Entropicity (ToE) as an Unusual Blitzkrieg PhD-Level Thesis and Research Project 
+# Treating John Onimisi Obidi’s Theory of Entropicity (ToE) as an Unusual Blitzkrieg PhD-Level Thesis and Research Project: Obidi's Intellectual Blitzkrieg of High-Stakes and High-Wire Act of Emotional Quadfecta 
 
 Treating-John-Onimisi-Obidi’s-Theory-of-Entropicity-(ToE)-as-an-Unusual-Blitzkrieg-PhD-Level-Thesis-and-Research-Project.md
 
