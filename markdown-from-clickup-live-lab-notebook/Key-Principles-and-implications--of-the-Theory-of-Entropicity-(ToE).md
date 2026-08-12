@@ -1,6 +1,6 @@
-# Key Principles of the Theory of Entropicity (ToE)
+# Key Principles and Implications of the Theory of Entropicity (ToE)
 
-Key-Principles-of-the-Theory-of-Entropicity-(ToE).md
+Key-Principles-and-Implications-of-the-Theory-of-Entropicity-(ToE).md
 
 The Theory of Entropicity (ToE) is an audacious framework in theoretical physics, formulated by John Onimisi Obidi, that positions entropy not as a secondary statistical measure of disorder, but as the fundamental, physically real field from which reality emerges. In this framework, spacetime geometry, gravity, quantum mechanics, and the universal speed limit are not fundamental primitives, but rather emergent phenomena driven by the dynamics and gradients of a primary ontological scalar field. [1, 2, 3] 
 
