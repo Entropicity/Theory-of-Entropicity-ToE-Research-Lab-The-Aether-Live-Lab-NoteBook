@@ -212,50 +212,6 @@ G_{\mu\nu}+\Lambda g_{\mu\nu}=\frac{8\pi G}{c^4}T_{\mu\nu}^{\rm eff}.
 
 This gives a much more coherent hierarchy:
 
-$$\[
-\begin{aligned}
-\text{0th moment}&\quad\rightarrow\quad
-\text{normalization / entropic density},\\[4pt]
-\text{1st moment}&\quad\rightarrow\quad
-\text{mean flow / current / momentum},\\[4pt]
-\text{2nd moment}&\quad\rightarrow\quad
-\text{mass-energy / stress tensor}.
-\end{aligned}
-\]$$
-
-
-
-$$
-\begin{aligned}
-\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\[4pt]
-\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\[4pt]
-\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
-\end{aligned}
-$$
-
-
-
-$$
-\begin{aligned}
-\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\[6pt]
-\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\[6pt]
-\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
-\end{aligned}
-$$
-
-
-$$
-\begin{aligned}
-\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\
-
-\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\
-
-\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
-\end{aligned}
-$$
-
-
-
 $$
 \begin{aligned}
 \text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\
