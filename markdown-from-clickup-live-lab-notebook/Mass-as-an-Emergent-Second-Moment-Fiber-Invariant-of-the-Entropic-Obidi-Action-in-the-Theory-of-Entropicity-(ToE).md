@@ -1,5 +1,9 @@
 # Mass as an Emergent Second-Moment Fiber Invariant of the Entropic Obidi Action in the Theory of Entropicity (ToE)
 
+
+# DRAFT, WORK IN PROGRESS 
+
+
 Mass-as-an-Emergent-Second-Moment-Fiber-Invariant-of-the-Entropic-Obidi-Action-in-the-Theory-of-Entropicity-(ToE).md
 
 ## From Information Geometry and Entropic Fiber Dynamics to the Effective Stress–Energy Tensor and the Right-Hand Side of Einstein’s Field Equations
