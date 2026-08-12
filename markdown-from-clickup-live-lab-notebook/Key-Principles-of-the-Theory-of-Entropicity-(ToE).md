@@ -35,20 +35,35 @@ ToE functions as a unified alternative to traditional theories, attempting to br
 | Time asymmetry (the Arrow of Time) is an emergent byproduct. | Time asymmetry is built into the intrinsic irreversibility of the foundational entropic field. |
 
 Beyond theoretical physics, the conceptual framework of ToE is being extended to explore optimization dynamics, artificial intelligence architectures, quantum information theory, and clinical metrics of consciousness. Detailed technical layouts and repositories can be reviewed through the official Theory of Entropicity GitHub Archive. [2, 11, 13, 14] 
+
 ------------------------------
-To help explore this topic further, let me know if you would like to examine the mathematical framework (such as the Obidi Field Equations), how it contrasts with Verlinde's entropic gravity, or the experimental tests proposed to verify it.
+
+To help explore this topic further, let us know if you would like to examine the mathematical framework (such as the Obidi Field Equations), how it contrasts with Verlinde's entropic gravity, or the experimental tests proposed to verify it.
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
 [2] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/)
+
 [3] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
 [4] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/69e313c1d1922e37d58d982b/original/the-theory-of-entropicity-to-e-living-review-letters-series-letter-i-the-ontological-primacy-of-entropy.pdf)
+
 [5] [https://arxiv.org](https://arxiv.org/pdf/0708.2837)
+
 [6] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6900d89c113cc7cfff94ef3a/original/the-theory-of-entropicity-to-e-derives-and-explains-mass-increase-time-dilation-and-length-contraction-in-einstein-s-theory-of-relativity-to-r-to-e-applies-logical-entropic-concepts-and-principles-to-verify-einstein-s-relativity.pdf)
+
 [7] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
+
 [8] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/695017eb900d745c43da8a56)
+
 [9] [https://osf.io](https://osf.io/7y35s/overview)
+
 [10] [https://www.authorea.com](https://www.authorea.com/doi/10.22541/au.176236357.75572690)
+
 [11] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/68630f541a8f9bdab5e1939d)
+
 [12] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6900d89c113cc7cfff94ef3a)
+
 [13] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/68ea8b61bc2ac3a0e07a6f2c)
+
 [14] [https://osf.io](https://osf.io/d7pky/overview)
