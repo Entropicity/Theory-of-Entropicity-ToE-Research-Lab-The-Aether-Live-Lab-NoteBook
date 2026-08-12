@@ -268,3 +268,10 @@ and further show that the complete second moment produces the accepted forms of 
 If and once those steps can be established, then Obidi's definitive claim becomes much more profound and undeniable: For then, it would become so much more obvious that indeed Obidi would not be putting mass into the fundamental action as primitive input; mass would then apodictically become the macroscopic second-moment projection of microscopic entropic structure in the fiber.
 
 **That we shall embark upon in a subsequent development and exposition of the advanced constructs of the foundations of Obidi's Theory of Entropicity (ToE).**
+
+
+## Reference(s) 
+
+OSF https://share.google/AD4l4P9ClnXucj1NS
+
+https://doi.org/10.17605/OSF.IO/Q8HNB
