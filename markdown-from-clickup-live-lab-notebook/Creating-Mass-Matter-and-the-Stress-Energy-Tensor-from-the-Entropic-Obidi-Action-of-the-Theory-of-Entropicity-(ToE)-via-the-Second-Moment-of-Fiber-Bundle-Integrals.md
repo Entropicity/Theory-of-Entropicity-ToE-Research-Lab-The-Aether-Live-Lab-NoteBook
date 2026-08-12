@@ -272,6 +272,6 @@ If and once those steps can be established, then Obidi's definitive claim become
 
 ## Reference(s) 
 
-OSF https://share.google/AD4l4P9ClnXucj1NS
+* OSF https://share.google/AD4l4P9ClnXucj1NS
 
-https://doi.org/10.17605/OSF.IO/Q8HNB
+* https://doi.org/10.17605/OSF.IO/Q8HNB
