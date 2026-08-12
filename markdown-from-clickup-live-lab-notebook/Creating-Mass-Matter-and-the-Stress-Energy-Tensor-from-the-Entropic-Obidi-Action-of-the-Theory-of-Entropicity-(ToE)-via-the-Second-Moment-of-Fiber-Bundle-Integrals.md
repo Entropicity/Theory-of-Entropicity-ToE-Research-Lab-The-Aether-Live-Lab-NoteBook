@@ -221,7 +221,7 @@ $$
 $$
 
 
-## And this is precisely why Obidi's construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for Einstein Stress Energy Tensor of General Relativity (GR) \(T_{\mu\nu}\).
+## And this is precisely why Obidi's construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for Einstein Stress Energy Tensor of General Relativity (GR) $\(T_{\mu\nu}\)$.
 
 Schematically, we can therefore write:
 
