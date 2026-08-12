@@ -157,3 +157,86 @@ If you'd like to dive deeper, we can explore:
 [12] [https://www.researchgate.net](https://www.researchgate.net/publication/405620453_From_Information_Geometry_to_Information_Gravity_Information_Geometry_as_the_Origin_of_Einstein%27s_Gravity_Correspondence_of_the_Obidi_Action_and_the_Einstein-Hilbert_Action_in_the_Theory_of_Entropicit)
 
 [13] [https://arxiv.org](https://arxiv.org/abs/2306.14533)
+
+
+------------
+
+# Obidi's Theory of Entropicity (ToE) makes interesting logical sense, but it still seems surreal to think how information can compare with the reality of the ultra small and ultra large worlds
+
+It is completely natural for this to feel surreal. For centuries, physics has taught us to think of reality as being made of "hard stuff"—particles, fields, rocks, and stars—while "information" is just something we write down in a notebook or store on a computer chip. [1] 
+
+To bridge that gap and see why Obidi's framework connects information geometry to the cosmos, it helps to shift how we define "information" in physics. In this context, information is not a human concept; it is the fundamental measure of what can be known or distinguished about a physical system. [2] 
+Here is how that abstract concept translates into the physical reality of the very small and the very large.
+
+------------------------------
+
+## 1. The Ultra-Small: Information as "Distinguishability"
+In the quantum world, particles do not have fixed, definite identities until they interact. Instead, they exist in a cloud of probabilities. [3, 4, 5] 
+
+* The Analogy: Imagine two identical, blurry photographs. If they are completely identical, the "distance" between them is zero. If you sharpen the focus, you begin to see tiny differences. [6] 
+* The Physical Reality: In information geometry, the Fubini-Study metric measures how hard it is to tell two quantum states apart. Obidi argues that this "difficulty in distinguishing states" is a physical barrier. If two quantum states are highly distinct, moving from one to the other requires a massive rearrangement of the underlying entropic field. This takes physical time and energy. [7, 8] 
+* The Takeaway: At the quantum scale, "information" is the physical structure that prevents everything from happening all at once. It forces particles to occupy distinct states and sets a strict speed limit on how fast matter can change. [9] 
+
+## 2. The Ultra-Large: Information as "Geometric Constraint"
+When we look at the cosmic scale, we see gravity warping spacetime. General Relativity tells us that matter tells space how to curve. But why does it curve? [10, 11] 
+
+* The Analogy: Think of a crowded room. If everyone is scattered evenly, you can move anywhere easily (high entropy/low constraint). If everyone suddenly rushes to the center of the room to look at something, it becomes incredibly dense and tightly packed. It becomes harder to move toward that center because of the physical constraint of the crowd. [12, 13, 14] 
+* The Physical Reality: The Fisher-Rao metric measures the "space" of probabilities. Obidi's theory suggests that what we call "mass" or "energy" is actually a region where the entropic field has become highly constrained and densely packed with information. Because nature naturally tends to distribute information and maximize entropy, objects are drawn toward each other. [15, 16] 
+* The Takeaway: Gravity isn't a mysterious tether pulling two planets together. It is the large-scale statistical result of a universe trying to balance its information budget. Spacetime curvature is just the physical shape of that statistical balancing act. [17, 18] 
+
+------------------------------
+## The Unified Picture: The Universe as a Computing Medium
+
+If you look at the universe through this lens, the surrealism begins to fade into a strange kind of logic. The universe can be thought of as a massive, self-assembling quantum computer. [19] 
+
+* Matter and Energy are the data.
+* Spacetime is the screen showing the output.
+* The Entropic Field is the processing power, governed by the Amari-Čencov $\alpha$-connections, which dictate how information transforms as it scales up from a single quantum bit (the ultra-small) to a spinning galaxy (the ultra-large). [20, 21] 
+
+When Obidi uses information geometry, he isn't saying the universe is a mathematical illusion. He is saying that geometry is the language of physical constraints, and those constraints are fundamentally [entropic] informational.
+
+------------------------------
+
+Would you like to look at the historical stepping stones that led to this—like John Archibald Wheeler’s famous phrase "It from Bit"—or would you prefer to explore a specific physical anomaly (like black hole thermodynamics) where this connection between information and gravity is most visible?
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=4ni-sGaf-2M)
+
+[2] [https://voicesofvr.com](https://voicesofvr.com/698-universal-mind-quantum-mechanics-idealism-as-fundmental-consciousness-vr/)
+
+[3] [https://www.facebook.com](https://www.facebook.com/timesandsundaytimes/posts/a-formula-sketched-out-decades-ago-by-richard-feynman-has-now-been-tested-by-sci/1442728007884591/)
+
+[4] [https://www.youtube.com](https://www.youtube.com/watch?v=NhjAKTZhUS4)
+
+[5] [https://www.instagram.com](https://www.instagram.com/reel/DZpoIbsOiZJ/)
+
+[6] [https://www.reddit.com](https://www.reddit.com/r/consciousness/comments/1k6te2k/each_of_our_consciousnesses_is_an_irreducibly/)
+
+[7] [https://arxiv.org](https://arxiv.org/html/2506.15830v1)
+
+[8] [https://www.reddit.com](https://www.reddit.com/r/singularity/comments/22xnu3/arguments_against_singularity/)
+
+[9] [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il/space-physics/will-quantum-physics-revolutionize-digital-world)
+
+[10] [https://www.washingtonpost.com](https://www.washingtonpost.com/podcasts/post-reports/a-mindbending-discovery-about-our-universe/)
+
+[11] [https://medium.com](https://medium.com/starts-with-a-bang/are-we-approaching-quantum-gravity-all-wrong-48984fa65f16)
+
+[12] [https://elifesciences.org](https://elifesciences.org/articles/52371)
+
+[13] [https://www.reddit.com](https://www.reddit.com/r/Cosmere/comments/5gt69l/all_shadesmar_topology_or_maps_how_do_they_work/)
+
+[14] [https://www.youtube.com](https://www.youtube.com/watch?v=x2Swkyy-qbc)
+
+[15] [https://valeman.medium.com](https://valeman.medium.com/the-information-gap-why-the-bell-curve-is-the-most-random-shape-in-the-universe-74d763fc1e8f)
+
+[16] [https://journal.media-culture.org.au](https://journal.media-culture.org.au/index.php/mcjournal/article/view/482)
+
+[17] [https://www.facebook.com](https://www.facebook.com/thebrainmazeofficial/videos/how-do-planets-influence-each-other/1356387771584201/)
+
+[18] [https://www.instagram.com](https://www.instagram.com/reel/DZc82AMzA6P/)
+
+[19] [https://www.discovermagazine.com](https://www.discovermagazine.com/the-best-computer-in-all-possible-worlds-11814)
+
+[20] [https://www.facebook.com](https://www.facebook.com/MissMayim/posts/what-if-everything-you-thought-you-knew-about-reality-is-wrongin-this-episode-of/1677877403700404/)
+
+[21] [https://www.reddit.com](https://www.reddit.com/r/space/comments/bm6sq4/spacetime_may_be_a_sort_of_hologram_generated_by/)
