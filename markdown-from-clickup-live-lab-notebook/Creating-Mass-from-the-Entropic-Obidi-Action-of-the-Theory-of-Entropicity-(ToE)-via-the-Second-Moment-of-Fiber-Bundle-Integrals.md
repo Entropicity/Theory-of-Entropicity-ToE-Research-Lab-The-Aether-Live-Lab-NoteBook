@@ -20,7 +20,7 @@ $$\[
 
 where \(x\in\mathcal M\) denotes an ordinary spacetime point and \(\xi^A\in\mathcal F_x\) denotes the internal entropic degrees of freedom in the fiber above \(x\).
 
-Let the Entropic Obidi Action induce a local fiber weight
+## Let the Entropic Obidi Action induce a local fiber weight:
 
 $$\[
 \mathcal P_x[\xi]=\frac{1}{Z(x)}
@@ -36,14 +36,14 @@ Z(x)=\int_{\mathcal F_x}\mathcal D\xi\,
 
 Here $\(\Theta_{\rm E}\)$ represents whatever entropic/action scale is appropriate to the final version of ToE.
 
-The zeroth fiber moment gives normalization:
+## The zeroth fiber moment gives normalization:
 
 $$\[
 M^{(0)}(x)=\int_{\mathcal F_x}\mathcal D\xi\,
 \mathcal P_x[\xi]=1.
 \]$$
 
-The first moment
+## The first moment:
 
 $$\[
 \bar{\xi}^{A}(x)=\int_{\mathcal F_x}
@@ -52,7 +52,7 @@ $$\[
 
 gives the mean entropic configuration.
 
-But the crucial object in Obidi's formulation is the second central moment:
+## But the crucial object in Obidi's formulation is the second central moment:
 
 $$\[
 \boxed{
@@ -63,7 +63,7 @@ $$\[
 
 This measures the magnitude and correlations of the internal entropic fluctuations.
 
-## Where mass enters:
+## And this is where mass enters Obidi's formulation:
 
 If the fiber possesses an internal metric $\(h_{AB}\)$, the scalar contraction then yields:
 
@@ -93,7 +93,7 @@ That is the sense in which mass emerges from the second-moment fiber integral of
 
 And there is a very good structural reason why the second moment, rather than the first, is the natural place for mass to appear.
 
-Momentum is a first-order quantity,
+## Momentum is a first-order quantity:
 
 $$\[
 p^\mu,
@@ -125,7 +125,7 @@ e^{-\mathcal S_{\rm O}[x,\xi]/\Theta_{\rm E}}
 \mathcal D\xi\,e^{-\mathcal S_{\rm O}[x,\xi]/\Theta_{\rm E}}}.
 \]$$
 
-Conceptually,
+## Conceptually:
 
 $$\[
 \boxed{
@@ -147,21 +147,21 @@ $$\[
 S\longrightarrow m.
 \]$$
 
-There is another important consequence of Obidi's formulation. If the first moment vanishes,
+## There is another important consequence of Obidi's formulation. If the first moment vanishes:
 
 $$\[
 \langle\Pi_A\rangle=0,
 \]$$
 
-the second moment need not vanish:
+## the second moment need not vanish:
 
 $$\[
 \langle\Pi_A\Pi_B\rangle\neq0.
 \]$$
 
-Thus a system can have zero net internal entropic momentum while possessing nonzero mass.
+## Thus a system can have zero net internal entropic momentum while possessing nonzero mass.
 
-That correctly parallels familiar statistical mechanics. We already know from Statistical Mechanics that a gas at rest has
+## That correctly parallels familiar statistical mechanics. We already know from Statistical Mechanics that a gas at rest has
 
 $$\[
 \langle\mathbf p\rangle=0,
@@ -173,28 +173,28 @@ $$\[
 \langle\mathbf p^2\rangle>0.
 \]$$
 
-Therefore, the Obidi ToE formulation can be understood with this profound consequence and interpretation:
+## Therefore, the Obidi ToE formulation can be understood with this profound consequence and interpretation:
 
 > Mass is not the mean entropic motion of the fiber. Mass measures the quadratic content—the variance or second-moment structure—of the internal entropic degrees of freedom.
 
 
 
-This also further clarifies Obidi's earlier exposition where he obtained the right-hand side of Einstein's equation through fiber integration.
+## This also further clarifies Obidi's earlier exposition where he obtained the right-hand side (RHS) of Einstein's equation through fiber integration.
 
-The second moment should infact actually produce something richer than a scalar mass. Once the internal fiber variables are projected onto spacetime,
+## The second moment should infact actually produce something richer than a scalar mass. Once the internal fiber variables are projected onto spacetime,
 
 $$\[
 \Pi_\mu=E_\mu{}^{A}\Pi_A,
 \]$$
 
-the second moment becomes
+## the second moment becomes
 
 $$\[
 \mathcal M_{\mu\nu}(x)=\left\langle
 \Pi_\mu\Pi_\nu\right\rangle_{\mathcal F_x}.
 \]$$
 
-That is a rank-2 spacetime tensor. Consequently, after the appropriate normalization and subtraction/trace terms, ToE imposes a correspondence of the form
+## That is a rank-2 spacetime tensor. Consequently, after the appropriate normalization and subtraction/trace terms, ToE imposes a correspondence of the form
 
 $$\[
 \boxed{
@@ -210,7 +210,7 @@ $$\[
 G_{\mu\nu}+\Lambda g_{\mu\nu}=\frac{8\pi G}{c^4}T_{\mu\nu}^{\rm eff}.
 \]$$
 
-This thus gives us the ToE coherent hierarchy:
+## This thus gives us the ToE coherent hierarchy:
 
 $$
 \begin{aligned}
@@ -221,9 +221,9 @@ $$
 $$
 
 
-And this is precisely why Obidi's construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for \(T_{\mu\nu}\).
+## And this is precisely why Obidi's construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for Einstein Stress Energy Tensor of General Relativity (GR) \(T_{\mu\nu}\).
 
-Schematically, we can write
+Schematically, we can therefore write:
 
 $$\[
 \boxed{
@@ -239,7 +239,7 @@ T_{\mu\nu}
 }
 \]$$
 
-while its appropriate scalar contraction gives
+## while its appropriate scalar contraction yields:
 
 $$\[
 \boxed{
@@ -257,7 +257,7 @@ So, in proper perspective, based on the foregoing insights, we would sharpen our
 
 > ## In the Theory of Entropicity (ToE), Obidi declares, then shows and demonstrates, that physical mass is an emergent quadratic invariant of the internal entropic degrees of freedom, obtained from the second central fiber moment integral of the probability measure generated by the Entropic Obidi Action. The uncontracted Obidi second moment gives the precursor of the spacetime stress-energy tensor of the right hand side (RHS) of Einstein's Field Equations of General Relativity, while an appropriate invariant contraction of the same Obidi second moment yields the effective mass squared.
 
-We recognize at once that the remaining burden on the Theory of Entropicity (ToE) is substantial, however. For the above to become a genuinely conclusive derivation of mass, rather than a compelling definition, Obidi must demonstrate the existence of the fiber variables and their measure explicitly, then establish dimensional normalization, prove Lorentz covariance after the Obidi transformation (OT), and then recover the potent mass-shell condition.
+We recognize at once that the remaining burden on the Theory of Entropicity (ToE) is substantial, however. For the above to become a genuinely conclusive derivation of mass, rather than a compelling definition, Obidi must demonstrate the existence of the fiber variables and their measure explicitly, then establish dimensional normalization, prove Lorentz covariance after the Obidi transformation (OT), and then recover the potent mass-shell condition:
 
 $$\[
 p_\mu p^\mu=-m^2c^2,
@@ -267,4 +267,4 @@ and further show that the complete second moment produces the accepted forms of 
 
 If and once those steps can be established, then Obidi's definitive claim becomes much more profound and undeniable: For then, it would become so much more obvious that indeed Obidi would not be putting mass into the fundamental action as primitive input; mass would then apodictically become the macroscopic second-moment projection of microscopic entropic structure in the fiber.
 
-That we shall embark upon in a subsequent development and expositions of the advanced constructs of the foundations of Obidi's Theory of Entropicity (ToE).
+**That we shall embark upon in a subsequent development and exposition of the advanced constructs of the foundations of Obidi's Theory of Entropicity (ToE).**
