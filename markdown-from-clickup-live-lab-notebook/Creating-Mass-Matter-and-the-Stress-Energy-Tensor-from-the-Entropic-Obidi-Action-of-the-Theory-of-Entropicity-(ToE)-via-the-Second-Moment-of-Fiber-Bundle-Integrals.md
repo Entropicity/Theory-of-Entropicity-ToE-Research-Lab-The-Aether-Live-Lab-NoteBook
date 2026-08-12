@@ -1,6 +1,6 @@
-# Creating Mass from the Entropic Obidi Action of the Theory of Entropicity (ToE) via the Second Moment of Fiber Bundle Integrals
+# Creating Mass, Matter, and the Stress Energy Tensor from the Entropic Obidi Action of the Theory of Entropicity (ToE) via the Second Moment of Fiber Bundle Integrals
 
-Creating-Mass-from-the-Entropic-Obidi-Action-of-the-Theory-of-Entropicity-(ToE)-via-the-Second-Moment-of-Fiber-Bundle-Integrals.md
+Creating-Mass-Matter-and-the-Stress-Energy-Tensor-from-the-Entropic-Obidi-Action-of-the-Theory-of-Entropicity-(ToE)-via-the-Second-Moment-of-Fiber-Bundle-Integrals.md
 
 
 
