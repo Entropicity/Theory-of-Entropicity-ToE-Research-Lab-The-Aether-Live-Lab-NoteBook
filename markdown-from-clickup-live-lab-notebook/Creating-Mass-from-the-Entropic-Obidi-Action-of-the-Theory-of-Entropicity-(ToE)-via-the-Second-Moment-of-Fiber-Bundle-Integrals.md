@@ -194,7 +194,7 @@ $$\[
 \Pi_\mu\Pi_\nu\right\rangle_{\mathcal F_x}.
 \]$$
 
-That is a rank-2 spacetime tensor. Consequently, after the appropriate normalization and subtraction/trace terms, ToE can seek a correspondence of the form
+That is a rank-2 spacetime tensor. Consequently, after the appropriate normalization and subtraction/trace terms, ToE seeks a correspondence of the form
 
 $$\[
 \boxed{
@@ -222,6 +222,38 @@ $$\[
 \text{mass-energy / stress tensor}.
 \end{aligned}
 \]$$
+
+
+
+$$
+\begin{aligned}
+\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\[4pt]
+\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\[4pt]
+\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
+\end{aligned}
+$$
+
+
+
+$$
+\begin{aligned}
+\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\[6pt]
+\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\[6pt]
+\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\
+
+\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\
+
+\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
+\end{aligned}
+$$
+
 
 And this is precisely why the construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for \(T_{\mu\nu}\).
 
