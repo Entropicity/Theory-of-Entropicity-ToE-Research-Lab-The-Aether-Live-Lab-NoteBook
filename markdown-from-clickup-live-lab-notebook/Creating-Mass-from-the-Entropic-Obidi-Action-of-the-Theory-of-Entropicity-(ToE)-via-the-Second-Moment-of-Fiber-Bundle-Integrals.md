@@ -255,6 +255,16 @@ $$
 $$
 
 
+
+$$
+\begin{aligned}
+\text{0th moment} &\;\rightarrow\; \text{normalization / entropic density},\\
+\text{1st moment} &\;\rightarrow\; \text{mean flow / current / momentum},\\
+\text{2nd moment} &\;\rightarrow\; \text{mass-energy / stress tensor}.
+\end{aligned}
+$$
+
+
 And this is precisely why the construction becomes interesting: the same second fiber moment that contains the scalar mass invariant can, before contraction, contain the full tensorial information needed for \(T_{\mu\nu}\).
 
 Schematically,
