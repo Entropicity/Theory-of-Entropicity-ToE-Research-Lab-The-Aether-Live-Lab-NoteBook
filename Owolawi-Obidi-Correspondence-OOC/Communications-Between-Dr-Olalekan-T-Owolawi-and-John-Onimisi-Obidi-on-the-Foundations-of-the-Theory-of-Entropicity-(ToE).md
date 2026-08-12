@@ -4,6 +4,17 @@
 
 Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Foundations-of-the-Theory-of-Entropicity-(ToE).md
 
+-----------
+
+## Addendum made on Wednesday, 12th August, 2026
+
+Prof, it has also just come to my attention that the earlier discussions we had in which you formulated what I came to call the Owolawi Existential Constraint (OEC)....that in the Chinese philosophical tradition, it is the Ying and Yang; and that we also find such correspondence in the Yoruba foundation of existential duality in "Ire-Atibi", of good and evil conjoined in an eternal matrix.
+
+The way you phrased it in the OEC gives us a satisfying logical closure to this perennial dilemma. Posterity will have cause to thank you for your services to philosophical logic and cosmogony. 
+
+A-ase!
+
+---------
 
 **Saturday, 8th August, 2026:**
 
