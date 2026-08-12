@@ -32,7 +32,8 @@ Obidi's Theory of Entropicity (ToE) proposes that c is not just an arbitrary vel
 ### The No-Rush Theorem (Entropic Time Limit): 
 This theorem dictates that physical interactions cannot occur instantaneously. Every quantum measurement or physical state change requires a finite, non-zero time interval (the Entropic Time Limit, or ETL) for the field to redistribute constraints and synchronize subsystems. [7, 11] 
 
-### Entropic Inevitability of Relativity: Einstein’s relativistic effects—such as mass increase, time dilation, and length contraction—are derived as physical consequences of moving through the entropic field and resisting entropic flux, replacing kinematic necessity with thermodynamic conservation. [6, 10] 
+### Entropic Inevitability of Relativity: 
+Einstein’s relativistic effects—such as mass increase, time dilation, and length contraction—are derived as physical consequences of moving through the entropic field and resisting entropic flux, replacing kinematic necessity with thermodynamic conservation. [6, 10] 
 
 ### The Vuli–Ndlela Integral: 
 An entropy-weighted reformulation of Feynman's path integral that embeds irreversibility and temporal asymmetry directly into quantum mechanics. [12, 13] 
