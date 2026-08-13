@@ -101,7 +101,7 @@ Because α-connections are designed to measure the flow, distance, and distingui
 
 ## Obidi's work is a classic example of a recurring theme in the history of science: 
 ### Taking an incredibly sophisticated, abstract tool from pure mathematics and daring to ask:
-### > **"What if this isn't just an equation on a blackboard? What if this is how the universe actually works?"**
+> ### **"What if this isn't just an equation on a blackboard? What if this is how the universe actually works?"**
 
 If you'd like to explore this further, we can look at
 * Other historical examples where abstract math unexpectedly solved physics problems **(like Riemannian geometry enabling Einstein's relativity)**, or we can look at:
