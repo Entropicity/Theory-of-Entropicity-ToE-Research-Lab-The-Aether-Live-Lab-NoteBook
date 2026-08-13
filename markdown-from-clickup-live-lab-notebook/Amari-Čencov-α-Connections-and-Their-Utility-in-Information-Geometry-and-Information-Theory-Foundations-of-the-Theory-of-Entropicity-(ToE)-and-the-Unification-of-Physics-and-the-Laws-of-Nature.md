@@ -196,3 +196,63 @@ Or would you prefer to look closer at the math itself?
 [17] [https://en.wikibooks.org](https://en.wikibooks.org/wiki/Special_Relativity/Print_version)
 
 [18] [https://www.nytimes.com](https://www.nytimes.com/1929/02/03/archives/einstein-explains-his-new-discoveries-in-a-simplified-discussion-of.html)
+
+
+------------------------
+
+# This Obidi's insight is both incredible and inspiring, because he is trying to declare that Entropic information geometry is fundamental to the geometry Einstein has used in his Relativity; that the same way he [Einstein] declared Equivalence between abstract Riemannian geometry and gravity, Obidi is making an even higher stake with information Geometry that is even much more abstract!
+
+
+John Onimisi Obidi's framework is an undeniably bold conceptual attempt to rewrite the rules of modern physics. By asserting that the abstract manifolds of information theory are actually the primary "fabric" generating physical reality, his framework aims to out-abstract Einstein himself. [1, 2] 
+Einstein changed the world by declaring that gravity isn't a magical pulling force, but rather the physical manifestation of curved Riemannian space. Obidi is attempting a similar move at an even higher stakes level: he claims that Riemannian spacetime geometry itself is just an illusion—a coarse-grained projection emerging from a deeper, much more abstract information-geometric manifold. [1, 2, 3, 4, 5] 
+
+However, to keep our feet firmly on the ground of physical science, it is vital to contrast the historical trajectory of Einstein's leap with where Obidi's theory currently stands.
+
+## 📐 The Level of Abstraction: Einstein vs. Obidi
+
+### Einstein's Leap: 
+Einstein mapped physical things (mass and energy) directly to geometric measurements (the bending of space and time). While Riemannian geometry was abstract to the physicists of 1915, it still dealt with measurable spatial distances, clock intervals, and physical vectors. [6] 
+
+### Obidi's Leap: 
+Obidi maps physical things to statistical/probabilistic distinguishability. In the Theory of Entropicity (ToE), space and time do not exist as fundamental baselines. Instead, the universe is a web of probability/statistical states. What you perceive as a "meter" or a "second" is actually just a threshold of entropic cost, mathematically anchored by his Obidi Curvature Invariant ($ln(2)$) integrated into his Obidi Action Principle (OAP). [1, 2, 3, 7, 8] 
+* 
+
+## ⚖️ The Critical Hurdle: Experimental Verification
+The reason Einstein's radical idea shifted from an "audacious concept" to "established reality" was its immediate, undeniable predictive power.
+
+For Obidi's framework to achieve a similar status in the physics community, it must move beyond self-published repositories and philosophical elegance. It needs to survive rigorous peer review and offer an experimental anomaly that mainstream physics cannot explain. 
+
+To match Einstein’s legacy, the Theory of Entropicity (ToE) must propose a concrete test—such as a measurable delay in quantum entanglement synchronization or a micro-deviation in the speed of light—that can be verified in a laboratory. [9] 
+
+------------------------------
+
+Nonetheless, Obidi's sheer courage to challenge the foundational axioms of relativity and quantum mechanics is exactly what makes his Theory of Entropicity (ToE) so fascinating to track and engage with. [10] 
+
+If you want to look at **how this Obidi's Theory of Entropicity (ToE) attempts to handle the universe's most extreme testing grounds**, we can explore **how Obidi's ToE explains black hole singularities,** or we can dive into **the exact physical mechanism of Obidi's Curvature Transfer Theorem (CTT).** 
+
+Which would you prefer? [11, 12] 
+
+[1] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_when-physics-plays-it-safe-and-when-activity-7480156435730038784-bm43)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4)
+
+[3] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[4] [https://www.facebook.com](https://www.facebook.com/NOVApbs/videos/how-einstein-changed-the-way-we-understand-gravity/809126178389379/)
+
+[5] [https://www.linkedin.com](https://www.linkedin.com/pulse/geometric-guardians-how-da-vinci-newton-einstein-way-frank-4rxqe)
+
+[6] [https://www.youtube.com](https://www.youtube.com/watch?v=8QURc4bOM5E)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[9] [https://www.researchgate.net](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi%27s_Formulation_of_the_Theory_of_Entropicity_ToE)
+
+[10] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_deconstructing-the-grand-architecture-activity-7490613251119181824-pute)
+
+[11] [https://osf.io](https://osf.io/6utnh/overview)
+
+[12] [https://osf.io](https://osf.io/6utnh)
+
