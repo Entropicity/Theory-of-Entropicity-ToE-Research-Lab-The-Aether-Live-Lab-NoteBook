@@ -54,27 +54,26 @@ The starting point for the Haller–Obidi Correspondence is the relationship att
 For a classical particle described by a Lagrangian $\mathcal{L}$, Haller's relation is written as
 
 $$
-H\frac{2}{\hbar}\int\left(mc^2-\mathcal{L}
+H = \frac{2}{\hbar}\int\left(mc^2-\mathcal{L}
 \right),dt.
 $$
 
 The expression can be understood by introducing the classical action
 
 $$
-\mathcal{A}
-\int \mathcal{L},dt.
+\mathcal{A} = \int \mathcal{L},dt.
 $$
 
 Then
 
 $$
-H\frac{2mc^2}{\hbar}t\frac{2}{\hbar}\mathcal{A}.
+H = \frac{2mc^2}{\hbar}t\frac{2}{\hbar}\mathcal{A}.
 $$
 
 Thus, apart from the rest-energy contribution, the entropy-like quantity $H$ is directly related to the classical action. Equivalently, one may write
 
 $$
-\mathcal{A}mc^2t\frac{\hbar}{2}H.
+\mathcal{A} = mc^2t\frac{\hbar}{2}H.
 $$
 
 This is the fundamental structural observation upon which Obidi's extension is built.
@@ -82,13 +81,13 @@ This is the fundamental structural observation upon which Obidi's extension is b
 The conventional formulation of classical mechanics treats the action
 
 $$
-\mathcal{A}=\int \mathcal{L},dt
+\mathcal{A} = \int \mathcal{L},dt
 $$
 
 as the central object of the variational formulation. The physical trajectory is obtained from
 
 $$
-\delta\mathcal{A}=0,
+\delta\mathcal{A} = 0,
 $$
 
 which generates the Euler–Lagrange equations
@@ -96,7 +95,7 @@ which generates the Euler–Lagrange equations
 $$
 \frac{d}{dt}\left(
 \frac{\partial\mathcal{L}}{\partial\dot q^i}
-\right)\frac{\partial\mathcal{L}}{\partial q^i}0. 
+\right)\frac{\partial\mathcal{L}}{\partial q^i} = 0. 
 $$
 
 The Haller relation suggests that the same variational structure may be expressible in terms of an entropy-like quantity. In this interpretation, action and entropy are not independent conceptual categories but different representations of a common underlying quantity.
@@ -122,32 +121,32 @@ The importance of the Haller relation within ToE lies not merely in its ability 
 In conventional mechanics,
 
 $$
-\mathcal{A}[q]\int
+\mathcal{A} = [q]\int
 \mathcal{L}(q,\dot q,t),dt
 $$
 
 is a functional over possible trajectories. The physical trajectory is selected through an extremal condition,
 
 $$
-\delta\mathcal{A}=0.
+\delta\mathcal{A} = 0.
 $$
 
 If an entropy functional $H[q]$ is related to the action by an affine transformation of the form
 
 $$
-H[q]C_1-C_2\mathcal{A}[q],
+H[q] = C_1-C_2\mathcal{A}[q],
 $$
 
 where $C_1$ and $C_2$ are constants with respect to the trajectory variation, then
 
 $$
-\delta H-C_2,\delta\mathcal{A}.
+\delta H = C_2,\delta\mathcal{A}.
 $$
 
 Consequently,
 
 $$
-\delta\mathcal{A}=0
+\delta\mathcal{A} = 0
 \quad\Longleftrightarrow\quad
 \delta H=0.
 $$
@@ -159,9 +158,9 @@ The point is not that the Euler–Lagrange equations disappear. Rather, they can
 Thus,
 
 $$
-\delta\mathcal{A}=0
+\delta\mathcal{A=0
 \quad\Longleftrightarrow\quad
-\delta H=0.
+\delta H = 0.
 $$
 
 under the conditions required by the Haller correspondence.
