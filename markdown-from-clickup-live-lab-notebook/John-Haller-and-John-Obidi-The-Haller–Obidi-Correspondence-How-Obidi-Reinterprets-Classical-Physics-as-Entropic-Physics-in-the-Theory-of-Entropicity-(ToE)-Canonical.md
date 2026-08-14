@@ -371,7 +371,7 @@ and, consequently,
 $$
 \delta\mathcal{A}=0
 \quad\longleftrightarrow\quad
-\delta H=0.
+\delta H = 0.
 $$
 
 The conventional principle of stationary action therefore acquires an informational interpretation.
@@ -381,14 +381,13 @@ The usual mechanical statement is
 $$
 \delta
 \int
-\mathcal{L},dt
-0. 
+\mathcal{L},dt = 0. 
 $$
 
 The ToE statement is that the same physical trajectory may be characterized as an extremum of the corresponding entropic functional,
 
 $$
-\delta H=0.
+\delta H = 0.
 $$
 
 Accordingly, the classical trajectory is not regarded merely as the path that makes an action stationary. Within the ToE interpretation, it is the path selected by the extremization of an underlying informational or entropic quantity.
@@ -422,13 +421,13 @@ The distinction is subtle but fundamental.
 The standard formulation is
 
 $$
-\delta\mathcal{A}=0.
+\delta\mathcal{A} = 0.
 $$
 
 The proposed entropic formulation is
 
 $$
-\delta\mathcal{S}_{\mathrm{ent}}=0.
+\delta\mathcal{S}_{\mathrm{ent}} = 0.
 $$
 
 The mathematical challenge for ToE is then to construct
@@ -630,7 +629,7 @@ If the entropic field $S(x)$ is fundamental, then physical evolution can be inte
 The local rate of entropic change is represented by
 
 $$
-\frac{dS}{d\tau}u^\mu\partial_\mu S.
+\frac{dS}{d\tau} = u^\mu\partial_\mu S.
 $$
 
 The associated entropic action is then constructed from the integrated entropic evolution along the worldline.
@@ -680,8 +679,7 @@ would then acquire an interpretation as a derivative of an entropically defined 
 Similarly, the Hamiltonian formulation
 
 $$
-H_{\mathrm{cl}}
-p_i\dot q^i-\mathcal{L}
+H_{\mathrm{cl}} = p_i\dot q^i-\mathcal{L}
 $$
 
 could potentially be reconstructed from the entropic formalism rather than introduced independently.
@@ -869,7 +867,7 @@ This is a particularly important conceptual point for ToE. If mass, energy, geom
 The central variational proposition of the Haller–Obidi framework can therefore be expressed as
 
 $$
-\delta\mathcal{S}_{\mathrm{ent}}=0,
+\delta\mathcal{S}_{\mathrm{ent}} = 0,
 $$
 
 where $\mathcal{S}_{\mathrm{ent}}$ denotes the appropriate entropic action or entropy functional.
@@ -878,7 +876,7 @@ The corresponding physical equations would follow from
 
 $$
 \frac{\delta\mathcal{S}_{\mathrm{ent}}}
-{\delta\Phi^A}0,
+{\delta\Phi^A} = 0,
 $$
 
 where $\Phi^A$ represents the complete set of dynamical fields of the theory.
@@ -894,14 +892,14 @@ If the metric is also dynamical,
 
 $$
 \frac{\delta\mathcal{S}{\mathrm{ent}}}
-{\delta g{\mu\nu}}0. 
+{\delta g{\mu\nu}} = 0. 
 $$
 
 If matter fields $\psi$ are present,
 
 $$
 \frac{\delta\mathcal{S}_{\mathrm{ent}}}
-{\delta\psi}0. 
+{\delta\psi} = 0. 
 $$
 
 A mature ToE would therefore not merely state that entropy governs physics. It would provide a single action or generalized variational functional whose simultaneous variation generates the relevant field equations.
@@ -911,8 +909,7 @@ That is the mathematical threshold separating a philosophical interpretation fro
 More generally, one can represent the proposed ToE action as
 
 $$
-\mathcal{S}_{\mathrm{ToE}}
-\int_{\mathcal{M}}
+\mathcal{S}_{\mathrm{ToE}} = \int_{\mathcal{M}}
 \mathcal{L}_{\mathrm{ToE}}
 \sqrt{|g|},d^n x,
 $$
@@ -922,14 +919,14 @@ where $\mathcal{M}$ denotes the relevant manifold and $\mathcal{L}_{\mathrm{ToE}
 The fundamental variational statement would then be
 
 $$
-\delta\mathcal{S}_{\mathrm{ToE}}=0.
+\delta\mathcal{S}_{\mathrm{ToE}} = 0.
 $$
 
 The complete field equations would follow from
 
 $$
 \frac{\delta\mathcal{S}_{\mathrm{ToE}}}
-{\delta\Phi^A}0. 
+{\delta\Phi^A} = 0. 
 $$
 
 This provides a natural formal target for the continued development of the Theory of Entropicity.
@@ -1030,7 +1027,7 @@ Academic consensus may be consulted, compared, challenged, or ultimately support
 
 18. The Broader ToE Architecture
 
-Within the broader Theory of Entropicity, the Haller–Obidi Correspondence can therefore be viewed as one component of a much larger architecture.
+Within the broader Theory of Entropicity (ToE), the Haller–Obidi Correspondence can therefore be viewed as one component of a much larger architecture.
 
 The proposed conceptual progression is
 
@@ -1060,8 +1057,7 @@ $$
 \boxed{
 \text{Entropy}
 \longleftrightarrow
-\text{Action}.
-}
+\text{Action}.}
 $$
 
 Obidi's contribution is to ask what happens when that correspondence is promoted into a field-theoretic and geometric principle.
@@ -1105,7 +1101,7 @@ Because the broader ToE architecture places information geometry between entropy
 If $S$ represents an entropic state variable, then variations in $S$ may define a structure on an appropriate state space. A generalized information metric might be represented schematically by
 
 $$
-g_{ab}^{(S)} g_{ab}\left(
+g_{ab}^{(S)} = g_{ab}\left(
 S,\partial_a S,\partial_b S,\ldots
 \right).
 $$
@@ -1113,7 +1109,7 @@ $$
 Alternatively, if the theory is formulated directly on a statistical manifold with coordinates $\theta^a$, one could consider an information metric of the form
 
 $$
-g_{ab}
+g_{ab} = 
 \mathbb{E}
 \left[
 \partial_a \log p(x|\theta)
@@ -1185,7 +1181,7 @@ The correspondence can therefore be interpreted at three distinct levels.
 At the first level, there is the algebraic correspondence between the classical action and the entropy-like quantity:
 
 $$
-H \frac{2}{\hbar}\int\left(
+H = \frac{2}{\hbar}\int\left(
 mc^2-\mathcal{L} \right),dt.
 $$
 
@@ -1202,7 +1198,7 @@ under the conditions necessary for the action–entropy transformation.
 At the third level, there is the field-theoretic correspondence, in which the entropic field $S(x)$ is incorporated into the local dynamical description:
 
 $$
-\mathcal{L}_{\mathrm{ent}} mc^2
+\mathcal{L}_{\mathrm{ent}} = mc^2
 \frac{\hbar}{2} u^\mu\partial_\mu S.
 $$
 
@@ -1233,9 +1229,9 @@ $$
 The second proposition is that the stationary-action principle can therefore be reformulated as an extremal-entropy principle:
 
 $$
-\delta\mathcal{A}=0
+\delta\mathcal{A} = 0
 \quad\Longleftrightarrow\quad
-\delta H=0.
+\delta H = 0.
 $$
 
 The third proposition is that entropy can be represented by a field:
@@ -1269,7 +1265,7 @@ $$
 \rightarrow
 \mathcal{A}{\mathrm{ToE}}
 \rightarrow
-\frac{\delta\mathcal{A}_{\mathrm{ToE}}}{\delta\Phi^A}=0.
+\frac{\delta\mathcal{A}_{\mathrm{ToE}}}{\delta\Phi^A} = 0.
 $$
 
 The seventh and most ambitious proposition is that the resulting dynamics reproduce or generalize the established physical theories in their appropriate limits:
@@ -1309,7 +1305,7 @@ must be explicitly defined.
 The third is the complete entropic action. The worldline expression
 
 $$
-\mathcal{A}_{\mathrm{OH}}\int\left[
+\mathcal{A}_{\mathrm{OH}} = \int\left[
 mc^2
 \frac{\hbar}{2}
 u^\mu\partial_\mu S
