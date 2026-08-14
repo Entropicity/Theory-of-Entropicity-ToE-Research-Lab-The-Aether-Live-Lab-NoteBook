@@ -1,4 +1,4 @@
-# John Haller and John Obidi: The Haller–Obidi Correspondence — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)
+# John Haller and John Obidi: The Haller–Obidi Correspondence — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)—Canonicsl
 
 
 John Haller and John Obidi: The Haller–Obidi Correspondence — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)
