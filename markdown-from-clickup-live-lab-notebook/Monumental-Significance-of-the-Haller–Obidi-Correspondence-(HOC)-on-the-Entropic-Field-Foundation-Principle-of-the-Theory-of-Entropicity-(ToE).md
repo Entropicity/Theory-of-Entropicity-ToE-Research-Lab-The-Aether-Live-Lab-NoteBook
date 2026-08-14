@@ -16,7 +16,7 @@ To understand the depth of this transition, we begin with the Haller identity it
 
 John Haller showed that the entropy of a classical particle can be written as:
 
-$$ H = \frac{2}{\hbar} \int \left( mc^2 - \mathcal{L} \right) dt \tag{10.4}$$
+$$ H = \frac{2}{\hbar} \int \left( mc^2 - \mathcal{L} \right) dt $$
 
 
 
@@ -58,7 +58,7 @@ This is the conceptual pivot on which ToE turns.
 
 To formalize this insight, Obidi introduces the entropic Lagrangian:
 
-$$ \mathcal{L}{\mathrm{ent}} = mc^2 - \frac{\hbar}{2} \left( u^\mu \, \partial\mu S \right) \tag{10.5}$$
+$$ \mathcal{L}{\mathrm{ent}} = mc^2 - \frac{\hbar}{2} \left( u^\mu \, \partial\mu S \right) $$
 
 
 
