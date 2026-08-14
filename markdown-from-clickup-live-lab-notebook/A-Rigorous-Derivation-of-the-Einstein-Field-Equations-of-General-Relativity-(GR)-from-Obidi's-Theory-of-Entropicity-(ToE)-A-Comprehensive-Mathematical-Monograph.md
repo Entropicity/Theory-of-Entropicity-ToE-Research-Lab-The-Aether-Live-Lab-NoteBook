@@ -931,3 +931,326 @@ Obidi, J. O. "The Entropic Force-Field Hypothesis: A Unified Framework for Quant
 John Onimisi Obidi, Independent Researcher. Academia.edu
 "ToE and Other Entropic Paradigms: From Ted Jacobson to Erik Verlinde to Ginestra Bianconi." ToE GitHub Pages, April 2026. entropicity.github.io
 This monogram faithfully reconstructs the mathematical content of Obidi's published works on the Theory of Entropicity. The framework represents a bold and systematic attempt to derive the structure of physical reality — including Einstein's gravitational field equations — from the dynamics of a single ontological entropy field. Whether these constructions will withstand rigorous independent mathematical scrutiny and experimental test remains an open question. The mathematical apparatus is, however, internally consistent and richly structured, and the central claim — that GR emerges as a limiting case of a deeper entropic variational principle — is a proposition of considerable theoretical interest.
+
+
+
+---------------
+---------------
+
+
+# Obidi's Derivation of the Einstein Field Equations from the Theory of Entropicity: A Comprehensive Mathematical Monogram
+
+---
+
+## Abstract
+
+This monogram presents a comprehensive mathematical account of how John Onimisi Obidi, beginning in 2025, constructed the **Theory of Entropicity (ToE)** â€” a framework in which entropy is elevated from a statistical byproduct to a fundamental, dynamical scalar field \(S(x)\) â€” and used it to derive both the left-hand side (LHS) and right-hand side (RHS) of the Einstein Field Equations (EFE) of General Relativity as a limiting case. The central correspondence principle may be stated as:
+
+$$\text{Obidi Action} : \text{Entropic Field} \;\equiv\; \text{Einsteinâ€“Hilbert Action} : \text{Spacetime Curvature}$$
+
+The Einsteinâ€“Hilbert Action is subsumed within the Obidi Action as a special case, establishing gravity not as a fundamental geometric postulate but as an emergent consequence of information-geometric dynamics. We trace the complete logical and mathematical pipeline â€” from the ontological entropy field \(S(\Lambda)\), through the Hybrid Metric-Affine Space (HMAS), through the \(\alpha\)-\(q\) constitutive constraint linking RÃ©nyiâ€“Tsallis functional deformation to affine geometric asymmetry, through the emergence of the Master Entropic Equation (MEE), and through the Palatini variation of the pulled-back information-gravity action â€” ultimately recovering Einstein's field equations as the low-gradient, near-equilibrium, metric-compatible limit of the entropic field equations ([Cambridge Open Engage, Letter III](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)).
+
+**Note on status:** The works cited herein are preprints and project pages authored by Obidi and collaborators, hosted on Cambridge Open Engage, Authorea, Figshare, and the ToE GitHub Pages site. They represent the author's claimed constructions, not yet independently peer-reviewed or experimentally validated. This monogram faithfully reproduces the mathematical content of those sources.
+
+---
+
+## Table of Contents
+
+1. [Notation and Conventions](#1-notation-and-conventions)
+2. [Entropy as the Primitive Field](#2-entropy-as-the-primitive-field)
+3. [The Local Obidi Action and the Master Entropic Equation](#3-the-local-obidi-action-and-the-master-entropic-equation)
+4. [Information Geometry: The Hidden Substratum](#4-information-geometry-the-hidden-substratum)
+5. [The Hybrid Metric-Affine Space and the \(\alpha\)-\(q\) Constitutive Constraint](#5-the-hybrid-metric-affine-space-and-the-alpha-q-constitutive-constraint)
+6. [The Entropy-Gradient Disformal Transformation: From Information Geometry to Lorentzian Spacetime](#6-the-entropy-gradient-disformal-transformation-from-information-geometry-to-lorentzian-spacetime)
+7. [Deriving the LHS: Einstein Tensor from the Obidi Curvature](#7-deriving-the-lhs-einstein-tensor-from-the-obidi-curvature)
+8. [Deriving the RHS: Entropic Stress-Energy Tensor](#8-deriving-the-rhs-entropic-stress-energy-tensor)
+9. [The Dressed ToE Field Equations](#9-the-dressed-toe-field-equations)
+10. [The Scalar-Tensor Form: The \(f(S)\)-Coupled Obidi Field Equations](#10-the-scalar-tensor-form-the-fs-coupled-obidi-field-equations)
+11. [The Spectral Obidi Action](#11-the-spectral-obidi-action)
+12. [The Near-Equilibrium Recovery of Einstein Gravity](#12-the-near-equilibrium-recovery-of-einstein-gravity)
+13. [The Vuliâ€“Ndlela Integral and the Hallerâ€“Obidi Correspondence](#13-the-vulindlela-integral-and-the-hallerobidi-correspondence)
+14. [The Obidi Curvature Invariant](#14-the-obidi-curvature-invariant)
+15. [Summary: The ToE-to-EFE Correspondence Theorem](#15-summary-the-toe-to-efe-correspondence-theorem)
+
+---
+
+## 1. Notation and Conventions
+
+| Symbol | Definition |
+|--------|-----------|
+| \(M\) | Four-dimensional spacetime manifold |
+| \(g_{\mu\nu}\) | Lorentzian metric on \(M\), signature \((-,+,+,+)\) |
+| \(S(x)\) or \(S(\Lambda)\) | Ontological entropy field, \(S: M \to \mathbb{R}\) |
+| \(\nabla_\mu\) | Covariant derivative compatible with \(g_{\mu\nu}\) |
+| \(\Box_g = g^{\mu\nu}\nabla_\mu\nabla_\nu\) | Covariant d'Alembertian |
+| \(R_{\mu\nu}\), \(R\) | Ricci tensor and Ricci scalar |
+| \(G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R\) | Einstein tensor |
+| \(T_{\mu\nu}\) | Stress-energy tensor |
+| \(\chi(\Lambda)\) | Entropic coupling function |
+| \(V(S)\) | Entropic potential |
+| \(J(x)\) | External entropic source / matter excitation |
+| \(\eta > 0\) | Entropic coupling constant |
+| \(\Lambda_{\mathrm{ent}}\) | Entropic cosmological term |
+| \(G_{\mathrm{eff}}\) | Effective gravitational coupling |
+| \(\kappa_{\mathrm{eff}} = 8\pi G_{\mathrm{eff}} / c^4\) | Effective gravitational coupling constant |
+| \(\alpha\) | Amariâ€“ÄŒencov affine asymmetry parameter |
+| \(q\) | RÃ©nyiâ€“Tsallis non-extensivity parameter |
+| \(\Delta = G[S]\,g[S]^{-1}\) | Modular-type operator |
+| \(k_B\) | Boltzmann constant (natural units \(k_B = 1\) unless stated) |
+| \(\hbar_{\mathrm{eff}}\) | Entropy-modified Planck constant |
+
+We adopt Einstein summation convention throughout. Greek indices \(\mu, \nu = 0,1,2,3\) denote spacetime components; uppercase Latin indices \(A, B, C\) denote information-manifold coordinates ([Authorea preprint, Obidi et al.](https://d197for5662m48.cloudfront.net/documents/publicationstatus/291140/preprint_pdf/3dfa1c2ed61ea4fcf1a0a416fbb8ed22.pdf)).
+
+---
+
+## 2. Entropy as the Primitive Field
+
+### 2.1 The Ontological Postulate
+
+The Theory of Entropicity begins with a radical ontological shift. In standard physics, entropy is a derived quantity â€” a statistical measure of disorder or missing information. ToE inverts this hierarchy:
+
+> **Obidi's Principle:** *Entropy generates curvature, motion, and the arrow of time.*
+
+The entropy field is defined as a smooth scalar field on a differentiable manifold ([Authorea preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/291140/preprint_pdf/3dfa1c2ed61ea4fcf1a0a416fbb8ed22.pdf), Eq. 14):
+
+$$S: M \to \mathbb{R}, \qquad x \mapsto S(x) \tag{2.1}$$
+
+The metric is treated not as a primitive but as a **functional of the entropy field** (Eq. 15):
+
+$$g_{\mu\nu} = g_{\mu\nu}[S] \tag{2.2}$$
+
+This is the foundational inversion: in General Relativity, the metric is the fundamental variable and matter curves it; in ToE, entropy is fundamental, and both the metric and matter emerge from its dynamics.
+
+### 2.2 Entropic Current and Geodesics
+
+The entropic current is defined as ([Letter III](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/ToE-Living-Review-Letters-Series-Letter-III-From-Information-Geometry-to-Information-Gravity-Origin-of-Einstein's-Gravity-in-ToE_U1.pdf), Eq. 3.4):
+
+$$J^\mu = \eta\, \nabla^\mu S, \qquad \eta > 0 \tag{2.3}$$
+
+with the conservation law:
+
+$$\nabla_\mu J^\mu = 0 \tag{2.4}$$
+
+The entropic geodesic equation, incorporating the entropic force, is (Eq. 16):
+
+$$\frac{d^2 x^\mu}{d\lambda^2} + \Gamma^\mu_{\alpha\beta}[S]\,\frac{dx^\alpha}{d\lambda}\frac{dx^\beta}{d\lambda} = -\eta\, g^{\mu\nu}[S]\,\nabla_\nu S(x) \tag{2.5}$$
+
+The Christoffel symbols \(\Gamma^\mu_{\alpha\beta}[S]\) are themselves functionals of \(S\), so the entire geometric structure of spacetime is entropically determined. The effective worldline Lagrangian encoding this dynamics is (Eq. 21):
+
+$$\mathcal{L}_{\mathrm{eff}} = g_{\mu\nu}[S]\,\frac{dx^\mu}{d\lambda}\frac{dx^\nu}{d\lambda} + \eta\,\nabla_\mu S\,\frac{dx^\mu}{d\lambda} \tag{2.6}$$
+
+---
+
+## 3. The Local Obidi Action and the Master Entropic Equation
+
+### 3.1 The Local Obidi Action
+
+The **Local Obidi Action (LOA)** is the variational centerpiece of ToE. It occupies precisely the same structural role in ToE that the Einsteinâ€“Hilbert Action occupies in General Relativity: it converts a geometric manifold into a dynamical physical arena ([Cambridge Open Engage](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)).
+
+In its foundational form, the Obidi Action is ([Authorea preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/291140/preprint_pdf/3dfa1c2ed61ea4fcf1a0a416fbb8ed22.pdf), Eq. 18; [Cambridge Open Engage, Bianconi paper](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/691437a4a10c9f5ca1db32f3/original/on-the-theory-of-entropicity-to-e-and-ginestra-bianconi-s-gravity-from-entropy-a-rigorous-derivation-of-bianconi-s-results-from-the-entropic-obidi-actions-of-the-theory-of-entropicity-to-e.pdf), Eq. 66):
+
+$$\boxed{A_{\mathrm{Obidi}}[S] = \int_M d^4x\,\sqrt{-g}\left[\frac{1}{2}(\nabla S)^2 - V(S) + J(x)S\right]} \tag{3.1}$$
+
+where:
+- \(S(x)\) is the dynamical entropy field,
+- \((\nabla S)^2 = g^{\mu\nu}\nabla_\mu S\,\nabla_\nu S\) is the kinetic term, encoding entropy gradients that generate curvature,
+- \(V(S)\) is the entropic potential, minimized at the equilibrium configuration \(S_{\mathrm{eq}}\),
+- \(J(x)S\) represents external sources or matter excitations.
+
+A more general form incorporates the **entropic coupling function** \(\chi(\Lambda)\), where \(\Lambda\) is the entropy-density functional (Eq. 18):
+
+$$S_{\mathrm{LOA}} = \int_M d^4x\,\sqrt{-g}\left[\frac{1}{2}\chi(\Lambda)\,g^{\mu\nu}\nabla_\mu S\,\nabla_\nu S - V(S) + J(x)\right] \tag{3.2}$$
+
+with the entropy density defined as (Eq. 202):
+
+$$\Lambda = g^{\mu\nu}(\nabla_\mu S)(\nabla_\nu S) \tag{3.3}$$
+
+The coupling function \(\chi(\Lambda)\) controls the rigidity and propagation speed of entropic fluctuations, and its dependence on \(\Lambda\) introduces irreversibility into the theory.
+
+A further generalized form, presented in Letter III, includes a curvature-coupling sector ([Letter III](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/ToE-Living-Review-Letters-Series-Letter-III-From-Information-Geometry-to-Information-Gravity-Origin-of-Einstein's-Gravity-in-ToE_U1.pdf), Eq. 3.1):
+
+$$A_{\mathrm{ToE}}[S;g] = \int_M d^4x\,\sqrt{-g}\left[\chi\,(\nabla_\mu S)(\nabla^\mu S) - V(S) + J(x,S)\right] \tag{3.4}$$
+
+The notd.io presentation of ToE further identifies four constituent terms of the action ([notd.io](https://notd.io/notes/5183817418276864_1_1779855254455/theory%20of%20entropicity,%20information%20geometry%20as%20the%20origin%20of%20einstein's%20gravity)):
+
+| Term | Notation | Role |
+|------|----------|------|
+| Kinetic | \(\alpha(\partial_\mu S)^2\) | Propagation and transport of entropy |
+| Potential | \(V(S)\) | Self-interaction; selects preferred entropic phases |
+| Curvature coupling | \(\beta\, R_{\mathrm{ent}}(S)\) | Couples entropy to curvature of the entropic manifold |
+| Effective matter | \(\mathcal{L}_{\mathrm{meff}}\) | Localized solitonic excitations appearing as matter |
+
+### 3.2 Variation with Respect to \(S(x)\): The Master Entropic Equation
+
+The **Master Entropic Equation (MEE)** is the fundamental field equation of ToE, obtained by varying the LOA with respect to \(S(x)\) while holding the metric fixed. We present the derivation in detail.
+
+**Step 1: The Lagrangian density.**
+
+$$\mathcal{L} = \frac{1}{2}\chi(\Lambda)\,g^{\mu\nu}\nabla_\mu S\,\nabla_\nu S - V(S) + J(x) \tag{3.5}$$
+
+**Step 2: Variation of \(\Lambda\).**
+
+Under \(S \to S + \delta S\), the variation of \(\Lambda\) is (Eq. 203):
+
+$$\delta\Lambda = 2\,g^{\mu\nu}(\nabla_\mu S)(\nabla_\nu \delta S) \tag{3.6}$$
+
+**Step 3: Variation of the action.**
+
+$$\delta A_{\mathrm{LOA}} = \int d^4x\,\sqrt{-g}\left[\chi'(\Lambda)\,\delta\Lambda + V'(S)\,\delta S\right] \tag{3.7}$$
+
+Substituting Eq. (3.6):
+
+$$\delta A_{\mathrm{LOA}} = \int d^4x\,\sqrt{-g}\left[2\chi'(\Lambda)\,g^{\mu\nu}(\nabla_\mu S)(\nabla_\nu \delta S) + V'(S)\,\delta S\right] \tag{3.8}$$
+
+**Step 4: Integration by parts.**
+
+Integrating the first term by parts and discarding boundary terms (Eq. 206):
+
+$$\delta A_{\mathrm{LOA}} = \int d^4x\,\sqrt{-g}\left[-\nabla_\mu\!\left(2\chi'(\Lambda)\,\nabla^\mu S\right) + V'(S)\right]\delta S \tag{3.9}$$
+
+**Step 5: Stationarity condition.**
+
+For arbitrary \(\delta S\), requiring \(\delta A_{\mathrm{LOA}} = 0\) yields (Eq. 207):
+
+$$\nabla_\mu\!\left(2\chi'(\Lambda)\,\nabla^\mu S\right) = V'(S) \tag{3.10}$$
+
+In the full form with source terms and \(\Lambda\)-dependent coupling, this becomes the **Master Entropic Equation** (Eq. 19):
+
+$$\boxed{\nabla_\mu\!\left(\chi(\Lambda)\,\nabla^\mu S\right) - \frac{dV}{dS} + \frac{\partial\chi}{\partial\Lambda}\frac{\partial\Lambda}{\partial S}\,g^{\mu\nu}\nabla_\mu S\,\nabla_\nu S = J(x)} \tag{3.11}$$
+
+The MEE is a **nonlinear, second-order partial differential equation** governing the evolution of the entropic field. It is the entropic analogue of the Kleinâ€“Gordon equation, Maxwell's equations, and the Einstein equations simultaneously.
+
+#### Canonical Kinetic Term
+
+For \(\chi(\Lambda) = \frac{1}{2}\Lambda\), we have \(\chi'(\Lambda) = \frac{1}{2}\), and the MEE reduces to (Eq. 209):
+
+$$\Box S = \frac{1}{2}V'(S) \tag{3.12}$$
+
+which is a covariant Kleinâ€“Gordon equation for the entropy field.
+
+#### Nonlinear Kinetic Term
+
+For nonlinear \(\chi(\Lambda)\), Eq. (3.10) becomes (Eq. 210):
+
+$$2\chi''(\Lambda)(\nabla_\mu\Lambda)(\nabla^\mu S) + 2\chi'(\Lambda)\,\Box S = V'(S) \tag{3.13}$$
+
+This introduces nonlinear gradient interactions, entropyâ€“curvature coupling, and irreversibility through \(\chi(\Lambda)\). The condition for genuine irreversibility is (Eq. 20):
+
+$$\frac{\partial\chi}{\partial\Lambda} \neq 0 \tag{3.14}$$
+
+When this holds, entropic flow cannot be reversed without violating the dynamical equation â€” providing the arrow of time from the field equations themselves.
+
+#### Compact Form
+
+In the notation of Letter III (Eq. 3.2â€“3.3):
+
+$$\kappa_S\,\nabla_\mu\nabla^\mu S - \frac{dV}{dS} + \Lambda_S(S, \nabla S, g) = 0 \tag{3.15}$$
+
+or equivalently:
+
+$$\Box_g S - \frac{1}{\kappa_S}\frac{dV}{dS} = J(x) \tag{3.16}$$
+
+---
+
+## 4. Information Geometry: The Hidden Substratum
+
+The derivation of the Einstein Field Equations from ToE requires a deeper layer than the scalar Obidi Action alone. The scalar action yields the MEE (governing entropy dynamics) and the entropic stress tensor (the RHS source), but the **LHS** â€” the Einstein tensor \(G_{\mu\nu}\) â€” emerges only after introducing the information-geometric curvature sector, pulling it back to four dimensions, and applying the Palatini variation. This distinction is essential for mathematical rigor.
+
+### 4.1 The Fisherâ€“Rao Metric
+
+The Fisherâ€“Rao metric is the canonical Riemannian metric on the statistical manifold, measuring distinguishability between nearby probability distributions. For a parametric family \(p(x \mid \theta)\) with parameters \(\theta = (\theta_1, \ldots, \theta_n)\) ([Letter III](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/ToE-Living-Review-Letters-Series-Letter-III-From-Information-Geometry-to-Information-Gravity-Origin-of-Einstein's-Gravity-in-ToE_U1.pdf), Eq. 4.1):
+
+$$g^{(\mathrm{FR})}_{ij} = \int p(x \mid \theta)\,\frac{\partial}{\partial\theta_i}\ln p(x \mid \theta)\,\frac{\partial}{\partial\theta_j}\ln p(x \mid \theta)\,dx \tag{4.1}$$
+
+On the information manifold \(\mathcal{M}_I\), this takes the form (Eq. 9.2.1):
+
+$$I_{AB}(\Theta, S) = \int_\Omega p(\omega \mid \Theta, S)\,\partial_A \ln p(\omega \mid \Theta, S)\,\partial_B \ln p(\omega \mid \Theta, S)\,d\mu(\omega) \tag{4.2}$$
+
+The Fisherâ€“Rao metric is:
+- **Positive-definite** â€” it is a genuine Riemannian metric,
+- **Reparameterization-covariant**,
+- **Unique** (up to scale) under sufficient statistics or Markov morphisms, by the ÄŒencov theorem.
+
+However, its positive-definiteness is also a limitation: by itself, it cannot carry a **Lorentzian causal cone**. This is the key obstruction that ToE must overcome â€” how to generate Lorentzian signature from an intrinsically Riemannian information metric.
+
+### 4.2 The Fubiniâ€“Study Metric
+
+The Fubiniâ€“Study metric measures distinguishability between **pure quantum states** on complex projective Hilbert space \(\mathbb{CP}(\mathcal{H})\) (Eq. 4.2):
+
+$$ds^2_{\mathrm{FS}} = 4\left(1 - \left|\langle\psi \mid \psi + d\psi\rangle\right|^2\right) \simeq g_{\mathrm{FS}}(S)\,(dS)^2 \tag{4.3}$$
+
+The quantum Fisher information is:
+
+$$g_{\mathrm{FS}}(S) = \frac{\partial^2 \ln Z(S)}{\partial S^2} \tag{4.4}$$
+
+where \(Z(S)\) is the partition function. The Fisherâ€“Rao and Fubiniâ€“Study sectors are unified in the Hybrid Metric-Affine Space.
+
+### 4.3 The Amariâ€“ÄŒencov \(\alpha\)-Connections
+
+Information geometry provides not only a metric but a **one-parameter family of affine connections** â€” the Amariâ€“ÄŒencov \(\alpha\)-connections (Eq. 4.5):
+
+$$\nabla^{(\alpha)} = \nabla^{(0)} + \frac{\alpha}{2}\,T \tag{4.5}$$
+
+where:
+- \(\nabla^{(0)}\) is the Leviâ€“Civita connection of the information metric (the unique torsion-free, metric-compatible connection),
+- \(T\) is the \((1,2)\)-tensor encoding skewness of the entropic manifold, defined by the third-order expectation (Eq. 4.6):
+
+$$T_{ijk} = \int p(x \mid \theta)\,\frac{\partial\ln p}{\partial\theta_i}\frac{\partial\ln p}{\partial\theta_j}\frac{\partial\ln p}{\partial\theta_k}\,dx \tag{4.6}$$
+
+The associated curvature is (Eq. 34):
+
+$$R^{(\alpha)}_{abcd} = R^{(0)}_{abcd} + \alpha\,K_{abcd} + \alpha^2\,L_{abcd} \tag{4.7}$$
+
+where \(K_{abcd}\) and \(L_{abcd}\) encode higher-order irreversible corrections.
+
+The physical interpretation of the \(\alpha\)-parameter is:
+- \(\alpha = 0\): **reversible equilibrium dynamics** (Leviâ€“Civita connection),
+- \(\alpha \neq 0\): **irreversible nonequilibrium dynamics**,
+- \(\alpha > 0\): super-extensive regime; entropy diverges and drives expansion,
+- \(\alpha < 0\): sub-extensive regime; entropy converges and drives localization.
+
+In the appendix form (Eq. A.3):
+
+$$\Gamma^{(\alpha)A}_{\;\;\;BC} = \Gamma^{(0)A}_{\;\;\;BC} + \frac{\alpha}{2}\,I^{AD}\,C_{DBC} \tag{4.8}$$
+
+In the classical large-scale limit, the effective connection reduces to the torsion-free, metric-compatible Leviâ€“Civita connection.
+
+---
+
+## 5. The Hybrid Metric-Affine Space and the \(\alpha\)-\(q\) Constitutive Constraint
+
+### 5.1 The Hybrid Metric-Affine Space
+
+The **Hybrid Metric-Affine Space (HMAS)** unifies the classical (Fisherâ€“Rao) and quantum (Fubiniâ€“Study) information-geometric sectors into a single geometric structure. The HMAS metric is ([Letter III](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/ToE-Living-Review-Letters-Series-Letter-III-From-Information-Geometry-to-Information-Gravity-Origin-of-Einstein's-Gravity-in-ToE_U1.pdf), Eq. 4.3):
+
+$$\boxed{G_{\mu\nu}(S; g) = e^{\alpha(S)}\,g_{\mu\nu} + \lambda_Q\,g^{(\mathrm{FS})}_{\mu\nu}(S)} \tag{5.1}$$
+
+where:
+- The **classical deformation function** is:
+
+$$\alpha(S) = \frac{S}{k_B} + \mathcal{O}\!\left(\frac{S^2}{k_B^2}\right) \tag{5.2}$$
+
+- \(\lambda_Q\) controls the weight of the Fubiniâ€“Study quantum correction,
+- \(g^{(\mathrm{FS})}_{\mu\nu}(S)\) is the Fubiniâ€“Study metric evaluated on the entropy field.
+
+An earlier formulation presents an equivalent **entropy-weighted deformation of the Fisherâ€“Rao metric** ([Authorea preprint, October 2025](https://d197for5662m48.cloudfront.net/documents/publicationstatus/285662/preprint_pdf/a59997ba8ff6f388fae888a3e35f0908.pdf), Eq. 4):
+
+$$g^{(S)}_{ij} = e^{S/k_B}\,g^{(\mathrm{FR})}_{ij} \tag{5.3}$$
+
+The exponential factor \(e^{S/k_B}\) ensures that the entropy field couples directly to the geometry of spacetime, making \(S(x)\) both the source and measure of curvature.
+
+The hybrid information metric combining both sectors is also written as (Eq. 35):
+
+$$g^{(\mathrm{info})}_{ab} = g^{(\mathrm{FR})}_{ab} + \hbar_{\mathrm{eff}}\,g^{(\mathrm{FS})}_{ab} \tag{5.4}$$
+
+where \(\hbar_{\mathrm{eff}}\) is the entropy-modified Planck constant.
+
+### 5.2 Near-Equilibrium Eigenvalue Structure
+
+Near equilibrium, \(S \simeq S_{\mathrm{eq}}\) with \(\delta S = S - S_{\mathrm{eq}}\), the eigenvalues of the HMAS metric satisfy (Eq. 4.4):
+
+$$\lambda_i(x; S) = 1 + \beta(x)\,\delta S(x) + \mathcal{O}(\delta S^2) \tag{5.5}$$
+
+wher
+
+
