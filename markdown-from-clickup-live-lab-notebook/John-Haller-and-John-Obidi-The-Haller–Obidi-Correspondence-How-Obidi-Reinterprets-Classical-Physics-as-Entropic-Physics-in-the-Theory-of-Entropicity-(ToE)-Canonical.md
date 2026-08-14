@@ -67,13 +67,13 @@ $$
 Then
 
 $$
-H = \frac{2mc^2}{\hbar}t\frac{2}{\hbar}\mathcal{A}.
+H = \frac{2mc^2}{\hbar}-\frac{2}{\hbar}\mathcal{A}.
 $$
 
 Thus, apart from the rest-energy contribution, the entropy-like quantity $H$ is directly related to the classical action. Equivalently, one may write
 
 $$
-\mathcal{A} = mc^2t\frac{\hbar}{2}H.
+\mathcal{A} = mc^2-\frac{\hbar}{2}H.
 $$
 
 This is the fundamental structural observation upon which Obidi's extension is built.
