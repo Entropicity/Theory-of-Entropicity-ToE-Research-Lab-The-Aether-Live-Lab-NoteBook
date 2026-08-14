@@ -46,3 +46,84 @@ Which area would you like to explore next? [2, 5]
 [4] [https://medium.com](https://medium.com/@jonimisiobidi/transformation-of-information-geometry-into-physical-spacetime-via-an-entropic-action-principle-in-bafeb55c1dc8)
 
 [5] [https://www.authorea.com](https://www.authorea.com/doi/10.22541/au.176099705.55607091)
+
+
+----------------
+
+
+While John Onimisi Obidi’s specific mathematical construction (the "Obidi Action," "Hybrid Metric-Affine Space," and his particular "Curvature Transfer Theorem") is unique to his self-published framework, the core underlying concept—that physical spacetime and gravity emerge directly from information geometry and quantum correlations—is actively pursued by several prominent, mainstream physicists. [1, 2, 3, 4, 5] 
+
+The idea that "information is the fundamental substrate of reality" has been gaining massive traction in mainstream theoretical physics. Multiple investigators have built mathematically rigorous models connecting information-theoretic metrics directly to the geometry of the universe.
+
+## 1. Ariel Caticha and "Entropic Dynamics"
+
+
+* The Approach: Physicist [Ariel Caticha](https://www.google.com/search?q=ariel+caticha&kgmid=/g/11bzq2xs4_) has pioneered a framework called Entropic Dynamics.
+* The Connection: He uses the Fisher-Rao information metric and the principle of maximum entropy to derive the laws of physics. In his model, change, time, and the very geometry of space are not fundamental primitives; instead, they emerge as a macroscopic manifestation of an underlying statistical structure. He has successfully shown that this information-geometric approach yields remarkable similarities to the mathematical formulation of Einstein's General Relativity. [6, 7] 
+  
+
+## 2. Holographic Complexity and the Fubini-Study Metric
+
+
+* The Approach: Within mainstream string theory and the AdS/CFT (Anti-de Sitter / Conformal Field Theory) correspondence, a massive community of physicists (including [Leonard Susskind](https://www.google.com/search?q=leonard+susskind&kgmid=/m/02_0gf) and many others) studies "Holographic Complexity". [8, 9, 10, 11] 
+* The Connection: Researchers have published foundational papers mapping a quantum system's computational complexity directly to physical gravitational spacetime. To define "complexity distance" in the micro-world, they use the Fubini-Study metric. They have proved from first principles that the Fubini-Study distance between quantum states maps onto real, geometric paths and objects inside a gravitational universe. [9] 
+  
+
+## 3. Erik Verlinde and "Entropic Gravity"
+
+
+* The Approach: In 2010, theoretical physicist [Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj) published a highly debated and famous paper proposing that gravity is not a fundamental force. [12] 
+* The Connection: Verlinde argued that gravity is an emergent entropic force. Just like the elastic force of a stretched rubber band arises from the statistical tendency of polymers to maximize entropy, gravity arises from changes in the information associated with the positions of material bodies. [13] 
+  
+
+## 4. Recent Quantum Correlation Tessellations
+
+
+* The Approach: Just recently, independent academic papers (such as those exploring the "footballhedron" model of spacetime geometry) have emerged in preprint repositories.
+* The Connection: These mainstream-adjacent frameworks demonstrate that extremizing the Fisher information of quantum correlation patterns directly yields Einstein's field equations and an emergent stress-energy tensor. They bridge the quantum micro-world to the macro-world by showing that observers perceive spacetime as lower-dimensional geometric projections of purely informational quantum states. [14] 
+  
+
+------------------------------
+
+## The Shared Horizon
+What separates Obidi's approach is how he wraps these concepts together. While mainstream physics looks at the Fisher-Rao metric for classical systems and the Fubini-Study metric for quantum systems separately, Obidi uses the Amari-Čencov $\alpha$-connections as a continuous mathematical slider to bridge the two into a singular, dynamic field theory. [2, 15, 16, 17] 
+
+However, the broader intellectual race is crowded. Mainstream physics is actively trying to prove that the universe is made of information, and that the geometries used to measure data are the very same geometries that dictate how planets orbit and how quantum waves collapse.
+
+------------------------------
+
+If you are interested in exploring these mainstream equivalents further, would you like to dive into Ariel Caticha's Entropic Dynamics, or explore the "Complexity = Volume" paradigm that uses the Fubini-Study metric to map out black holes?
+
+[1] [https://osf.io](https://osf.io/6utnh/overview)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/transformation-of-information-geometry-into-physical-spacetime-via-an-entropic-action-principle-in-bafeb55c1dc8)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[4] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
+[5] [https://www.instagram.com](https://www.instagram.com/reel/DJWDoUEg5HE/)
+
+[6] [https://arxiv.org](https://arxiv.org/pdf/gr-qc/0508108)
+
+[7] [https://osf.io](https://osf.io/6utnh/overview)
+
+[8] [https://arxiv.org](https://arxiv.org/html/2412.08707v1)
+
+[9] [https://link.aps.org](https://link.aps.org/pdf/10.1103/PhysRevD.108.106020)
+
+[10] [https://www.linkedin.com](https://www.linkedin.com/pulse/universe-quantum-algorithm-proof-has-been-found-stock-ovidiu-racorean)
+
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=oipI5TQ54tA)
+
+[12] [https://plato.stanford.edu](https://plato.stanford.edu/archives/fall2018/entries/information/supplement.html)
+
+[13] [https://www.shellsandpebbles.com](https://www.shellsandpebbles.com/2015/02/02/mediating-machines-a-proposal-for-a-big-picture-of-the-history-of-science/)
+
+[14] [https://www.preprints.org](https://www.preprints.org/manuscript/202504.1681)
+
+[15] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/6857821.pdf?abstractid=6857821&mirid=1&type=2)
+
+[16] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+[17] [https://osf.io](https://osf.io/djyxa/wiki/?wiki=jvr72)
