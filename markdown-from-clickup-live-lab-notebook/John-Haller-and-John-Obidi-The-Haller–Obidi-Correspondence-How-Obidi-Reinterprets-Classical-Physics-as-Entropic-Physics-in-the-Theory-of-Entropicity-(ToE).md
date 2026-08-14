@@ -14,7 +14,6 @@ John Haller discovered a remarkable relationship between the classical action of
 
 $$
 H = \frac{2}{\hbar} \int \left( mc^2 - \mathcal{L} \right) dt
-\tag{10.4}
 $$
 
 This equation states that the action integral—a foundational quantity in classical mechanics—is directly proportional to the entropy of the particle.
@@ -36,7 +35,6 @@ To do this, Obidi defines the entropic Lagrangian:
 
 $$
 \mathcal{L}{\mathrm{ent}} = mc^2 - \frac{\hbar}{2} \left( u^\mu \, \partial\mu S \right)
-\tag{10.5}
 $$
 
 Here:
