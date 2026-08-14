@@ -1,11 +1,11 @@
-# John Haller and John Obidi: The Haller–Obidi Correspondence — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)—Canonicsl
+# John Haller and John Obidi: The Haller–Obidi Correspondence (HOC) — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)—Canonical
 
 
 John Haller and John Obidi: The Haller–Obidi Correspondence — How Obidi Reinterprets Classical Physics as Entropic Physics in the Theory of Entropicity (ToE)
 
 ## Introduction
 
-The Haller–Obidi Correspondence occupies a central conceptual and mathematical position within the developing Theory of Entropicity (ToE). Its significance arises from the proposed correspondence between the classical action functional and an information-theoretic or entropic quantity, and from Obidi's subsequent effort to promote that correspondence from a particle-level relation into a general field-theoretic principle.
+The Haller–Obidi Correspondence (HOC) occupies a central conceptual and mathematical position within the developing Theory of Entropicity (ToE). Its significance arises from the proposed correspondence between the classical action functional and an information-theoretic or entropic quantity, and from Obidi's subsequent effort to promote that correspondence from a particle-level relation into a general field-theoretic principle.
 
 The essential idea is that the quantity ordinarily called the classical action need not be regarded as a fundamentally separate dynamical object from entropy or self-information. If the Haller relation
 
@@ -70,7 +70,7 @@ $$
 H = \frac{2mc^2}{\hbar}-\frac{2}{\hbar}\mathcal{A}.
 $$
 
-Thus, apart from the rest-energy contribution, the entropy-like quantity $H$ is directly related to the classical action. Equivalently, one may write
+Thus, apart from the rest-energy contribution, the entropy-like quantity $H$ is directly related to the classical action. Equivalently, Obidi then writes as follows:
 
 $$
 \mathcal{A} = mc^2-\frac{\hbar}{2}H.
@@ -100,7 +100,7 @@ $$
 
 The Haller relation suggests that the same variational structure may be expressible in terms of an entropy-like quantity. In this interpretation, action and entropy are not independent conceptual categories but different representations of a common underlying quantity.
 
-This is the first decisive conceptual transition in ToE:
+This is the first decisive conceptual transition in Obidi's Theory of Entropicity (ToE):
 
 $$
 \text{classical action}
@@ -108,9 +108,9 @@ $$
 \text{entropic/informational quantity}.
 $$
 
-The significance of this correspondence is that the action principle already possesses a variational structure. If the action is representable in terms of entropy, then the extremal principle of mechanics can potentially be reformulated as an extremal principle involving entropy.
+The monumental significance of this correspondence [which cannot be overemphasized] is that the action principle already possesses a variational structure. Obidi therefore reasoned that if the action is representable in terms of entropy, then the extremal principle of mechanics can potentially be reformulated as an extremal principle involving entropy.
 
-The resulting interpretation is profound: the variational character of physical law may not be fundamentally mechanical at all. It may be informational.
+The resulting Obidi interpretation is profound: the variational character of physical law may not be fundamentally mechanical at all. It may be entropic informational. Obidi used this unmistakeable conclusion as the undeniable evidence for entropy as a fundamental dynamic field in the formulation of his Theory of Entropicity (ToE).
 
 ---
 
@@ -203,14 +203,14 @@ $$
 
 therefore measures the rate at which the particle encounters or traverses the entropic field along its trajectory.
 
-Obidi introduces the entropic Lagrangian in the form
+Obidi then introduces the entropic Lagrangian in the novel form
 
 $$
 \mathcal{L}_{\mathrm{ent}}mc^2\frac{\hbar}{2}
 \left(u^\mu\partial_\mu S\right).
 $$
 
-The construction is significant because the entropic quantity is no longer merely an integrated consequence of a mechanical trajectory. The entropy field enters the local dynamical description itself.
+The Obidi construction above is interestingly significant because the entropic quantity is no longer merely an integrated consequence of a mechanical trajectory. Because, here, Obidi makes the entropy field enter the local dynamical description itself.
 
 The quantity
 
@@ -239,7 +239,7 @@ $$
 
 subject to the precise choice of parameterization and normalization conventions adopted by the theory.
 
-This step transforms the conceptual role of entropy. Entropy is no longer merely a quantity calculated after the dynamics have occurred. It becomes part of the mathematical structure from which the dynamics themselves are formulated.
+This highly momentous step transforms the conceptual role of entropy. Entropy is no longer merely a quantity calculated after the dynamics have occurred. It becomes [part of] the mathematical structure from which the dynamics themselves are formulated.
 
 This is the transition
 
@@ -249,13 +249,13 @@ $$
 \text{entropy as dynamical field}.
 $$
 
-It represents one of the principal conceptual advances claimed by the framework.
+It represents one of the original and principal conceptual advances invented by Obidi by in the development of his Theory of Entropicity (ToE).
 
 ---
 
-4. The Obidi–Haller Action
+4. The Obidi–Haller Action (OHA)
 
-Integrating the entropic Lagrangian produces the corresponding entropic action, which may be designated the Obidi–Haller Action (OHA):
+Integrating the entropic Lagrangian produces the corresponding entropic action, which has been designated as the Obidi–Haller Action (OHA):
 
 $$
 \mathcal{A}_{\mathrm{OH}}\int\mathcal{L}_{\mathrm{ent}},d\tau.
