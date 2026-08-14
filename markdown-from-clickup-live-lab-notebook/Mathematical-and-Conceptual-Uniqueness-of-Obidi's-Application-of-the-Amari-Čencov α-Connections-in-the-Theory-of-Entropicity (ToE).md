@@ -31,6 +31,9 @@ Obidi’s unique leap was to declare that changing $\alpha$ corresponds to a phy
 
 This specific "scale-bridging mechanism" belongs entirely to Obidi's papers. It is the defining mathematical signature of the Theory of Entropicity, separating it from all other emergent gravity theories in the literature. [1, 3] 
 
+
+## Thus, what distinguishes Obidi's approach is not merely the use of information geometry, but the proposed dynamical unification of metric and affine statistical structures. Whereas conventional formulations generally treat the Fisher–Rao geometry of classical statistical manifolds and the Fubini–Study geometry of quantum pure-state manifolds as distinct geometric constructions, Obidi elevates the Amari–Čencov $\alpha$-connection family to the role of a continuous geometric parameter through which classical and quantum informational regimes may be represented as limiting sectors of a single dynamical framework. In this formulation, $\alpha$ is not merely an index labeling alternative affine connections; it becomes a candidate order parameter for the geometric transition between informational regimes. The physical content of the proposal therefore resides in the specification of the $\alpha$-dependent metric, curvature, action, and field equations that realize this interpolation, rather than in the $\alpha$-connections alone.
+
 ------------------------------
 
 If you want to continue evaluating how this stacks up against other ideas, we could explore how mainstream Quantum Information Geometry calculates the bounds of quantum measurements, or look into the specifics of Tsallis and Rényi entropies which Obidi uses to back up his $\alpha$-connection equations. 
