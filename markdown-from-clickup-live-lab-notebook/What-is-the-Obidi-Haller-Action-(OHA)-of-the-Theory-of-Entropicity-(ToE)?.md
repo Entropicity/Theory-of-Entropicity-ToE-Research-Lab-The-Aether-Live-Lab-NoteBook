@@ -140,7 +140,7 @@ Instead of treating space as an empty, pre-existing container, ToE leverages [In
 
 ------------------------------
 
-By replacing independent physical primitives with a single, monistic entropic field, the framework eliminates the artificial divide between thermodynamics and mechanics. [3, 8] 
+By replacing independent physical primitives with a single, monistic entropic field, Obidi's Theory of Entropicity (ToE) eliminates the artificial divide between thermodynamics and mechanics. [3, 8] 
 
 If you are tracking how this ontology reshapes modern physics, where would you like to go next? We can look at:
 
