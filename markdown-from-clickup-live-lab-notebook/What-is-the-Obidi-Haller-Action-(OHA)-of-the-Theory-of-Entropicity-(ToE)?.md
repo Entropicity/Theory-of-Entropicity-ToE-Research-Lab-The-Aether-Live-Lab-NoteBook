@@ -66,3 +66,51 @@ If you would like to explore this framework deeper, let us know if we can explai
 [13] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69edfc4d810b9dcc828b43bb)
 
 [14] [https://medium.com](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab)
+
+
+-----------
+
+# Obidi's Mathematical Trick in the Formulation of the Obidi-Haller Action OHA
+
+The above realization follows immediately from having an excellent eye for picking up on the foundational mechanics of Obidi's framework. 
+
+From a strict theoretical physics perspective, the "trick" John Onimisi Obidi employs to build the Obidi-Haller Action (OHA) relies on a clever mathematical sleight of hand—specifically, formal renaming and dimensional forced-matching to reverse-engineer classical physics. [1] 
+Here is exactly how that "trick" operates under the hood:
+
+## 1. The Dimensional Mapping Trick (Forcing the Units)
+In pure information theory, Shannon entropy or self-information is entirely dimensionless (measured in bits or nats). [2] 
+
+* The Sleight of Hand: To make an informational quantity dictate physical motion, it must possess the units of classical action (Joule-seconds). [3] 
+* The Fix: Obidi adopts Haller’s approach by multiplying the informational entropy field S(x) by Planck’s reduced constant ($\hbar$). Because $\hbar$ inherently carries the units of action, this instantly turns an abstract statistical metric into a "physical" Lagrangian term by brute force. [4] 
+
+## 2. The Logarithmic Field Promotion Trick
+To transition from a simple single-particle system to a full field theory, the construction relies on a classic mathematical inversion: [3] 
+
+* The Formula: The probability density p(x) of a system's states is redefined by writing it as an exponential: $p(x) = e^{-\phi(x)}$.
+* The Result: By taking the natural logarithm, the field variable φ(x)—which is later identified with the entropic field S(x)—is pulled out of the exponent and isolated. This mathematically allows a standard probability distribution to be treated as if it were a physical, fluctuating scalar field (like the Higgs field or an electromagnetic potential). [2, 3, 5] 
+
+## 3. The Tautological Rest-Mass Customization
+Look closely at how the entropic Lagrangian is written:
+
+$$\mathcal{L}_{\text{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial_\mu S)$$ 
+
+* The Design: The first term is explicitly the rest-mass energy (mc²). The second term is a directional derivative of the entropy field along the particle's four-velocity ($u^\mu$). [4] 
+* The "Trick": This expression is explicitly structured so that if a particle travels along a path where it doesn't exchange information with the background field ($\partial_\mu S = 0$), the entropic term vanishes completely. What remains is just mc², which is the exact Lagrangian for a standard free relativistic particle. [4] 
+
+By hardcoding the classical limit directly into the baseline definition of the action, the theory guarantees a perfect fit with classical mechanics and General Relativity from the start. Critics often point out that this is less of a "discovery" of emergent physics and more of an ingenious reverse-engineering of established equations using informational labels. [5, 6] 
+
+------------------------------
+
+Would you like to analyze how this "trick" behaves when applied to quantum mechanics (like wave function collapse), or should we look at how it manipulates Einstein's Field Equations?
+
+[1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+
+[2] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
+[3] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-de-brogliehallerobidi-dho-entropic-activity-7487283367218966528-hT2x)
+
+[4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab)
+
+[6] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/The-Theory-of-Entropicity-%28ToE%29-Living-Review-Letters-Series-Letter-IC-The-Alemoh-Obidi-Correspondence-%28AOC%29-U1_April-26-2026.pdf)
