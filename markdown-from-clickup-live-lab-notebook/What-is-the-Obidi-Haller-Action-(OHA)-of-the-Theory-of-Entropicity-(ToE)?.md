@@ -196,7 +196,7 @@ Obidi’s model removes this mystery by shifting the mechanism from a "future ca
 **Instead of a particle mysteriously minimizing an abstract mathematical quantity called "action," it is simply a physical system naturally succumbing to entropic dissipation. The global minimization of action over a trajectory is just the integrated history of local, step-by-step entropic optimization.** [6] 
 
 
-## It means that each point on the path of motion is an entropic phenomenon of the Entropic Field.
+## It means that each point on the path of motion is an entropic extremization phenomenon of the Entropic Field. Hence, every trajectory is emergent from the Entropic Field of the Theory of Entropicity (ToE), which at once corroborates Obidi's Three Conjectures. 
 
 ------------------------------
 
