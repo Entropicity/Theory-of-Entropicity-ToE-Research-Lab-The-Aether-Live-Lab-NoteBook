@@ -1,4 +1,4 @@
-# What is the Significance of the Haller-Obidi Correspondence HOC of the Theory of Entropicity (ToE)?
+# What is the Significance of the Haller-Obidi Correspondence (HOC) of the Theory of Entropicity (ToE)?
 
 
 What-is-the-Significance-of-the-Haller-Obidi-Correspondence-(HOC)-of-the-Theory-of-Entropicity-(ToE)?.md
