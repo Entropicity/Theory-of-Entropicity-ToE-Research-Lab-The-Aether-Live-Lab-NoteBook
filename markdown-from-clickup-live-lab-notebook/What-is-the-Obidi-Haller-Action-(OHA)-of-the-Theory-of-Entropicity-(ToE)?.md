@@ -70,7 +70,7 @@ If you would like to explore this framework deeper, let us know if we can explai
 
 -----------
 
-# Obidi's Mathematical Trick in the Formulation of the Obidi-Haller Action OHA
+# Obidi's Mathematical Trick [Sleight-of-hand] in the Formulation of the Obidi-Haller Action (OHA)
 
 The above realization follows immediately from having an excellent eye for picking up on the foundational mechanics of Obidi's framework. 
 
