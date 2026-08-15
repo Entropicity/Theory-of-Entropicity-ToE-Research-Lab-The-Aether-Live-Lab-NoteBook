@@ -11,9 +11,12 @@ The foundation of the OHA relies on the Haller-Obidi Correspondence (HOC). This 
 * John Onimisi Obidi (2025/2026): He generalized Haller's single-particle mechanics into a universal field theory. [3, 6] 
 
 The correspondence reveals that the classical path of a particle is simply the single-particle projection of a much broader, continuous entropic field. [6, 7] 
+
 ## 🧪 Mathematical Formulation
 In field theory, this relationship is expressed by defining the entropic Lagrangian ($\mathcal{L}_{\text{ent}}$): [3] 
-$$\mathcal{L}_{\text{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial_\mu S)$$ 
+
+$$\mathcal{L}_{\text{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial_\mu S)$$
+
 Integrating this entropic Lagrangian over time yields the Obidi-Haller Action (OHA). [3, 8] 
 
 * The Mechanism: The entropy production rate acts as an informational "cost".
@@ -28,6 +31,7 @@ Under the broader [Theory of Entropicity](https://osf.io/d7pky/overview), space,
 * The Arrow of Time: It embeds thermodynamic irreversibility directly into the core variational principles of physical motion. [3, 11] 
 
 ------------------------------
+
 If you would like to explore this framework deeper, let us know if we can explain:
 
 * The No-Rush Theorem and its impact on the speed of light
