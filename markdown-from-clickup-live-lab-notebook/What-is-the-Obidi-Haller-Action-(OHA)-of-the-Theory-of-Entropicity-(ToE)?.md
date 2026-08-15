@@ -193,7 +193,10 @@ Obidi’s model removes this mystery by shifting the mechanism from a "future ca
 * The Underlying Law: It is the single-particle expression of the Second Law of Thermodynamics.
 * The Core Mechanism: A particle doesn't "know" the future. It simply flows along the path of maximum entropic efficiency in the field surrounding it right now. [4, 5] 
 
-Instead of a particle mysteriously minimizing an abstract mathematical quantity called "action," it is simply a physical system naturally succumbing to entropic dissipation. The global minimization of action over a trajectory is just the integrated history of local, step-by-step entropic optimization. [6] 
+**Instead of a particle mysteriously minimizing an abstract mathematical quantity called "action," it is simply a physical system naturally succumbing to entropic dissipation. The global minimization of action over a trajectory is just the integrated history of local, step-by-step entropic optimization.** [6] 
+
+
+## It means that each point on the path of motion is an entropic phenomenon of the Entropic Field.
 
 ------------------------------
 
