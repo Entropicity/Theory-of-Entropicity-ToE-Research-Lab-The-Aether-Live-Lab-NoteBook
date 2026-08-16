@@ -173,7 +173,7 @@ Here is how his framework weaves these simple, separate threads into a unified p
 * Time is a Synchronization Delay: Time is no longer an empty dimension. It is simply the cosmic "buffering time" required for information to distribute across the entropic field.
 
 ## The Power of Radical Simplification
-By reducing the universe to a single substrate—entropy—the theory attempts to bypass the notoriously complex mathematical clashes between quantum mechanics and general relativity. Instead of trying to force smooth spacetime and chunky quantum particles to get along, it claims that both are just macroscopic patterns emerging from the same underlying digital code. [4, 5] 
+By reducing the universe to a single substrate—entropy—the theory attempts to bypass the notoriously complex mathematical clashes between quantum mechanics and general relativity. Instead of trying to force smooth spacetime and chunky quantum particles to get along, it posits that both are just macroscopic patterns emerging from the same underlying digital code. [4, 5] 
 
 While this connective approach is beautiful and philosophically compelling, mainstream physics remains cautious. Connecting dots in a new way is a powerful tool for generating ideas, but the ultimate test will be whether these connections can predict a new, measurable physical phenomenon that standard physics cannot explain. [6] 
 
