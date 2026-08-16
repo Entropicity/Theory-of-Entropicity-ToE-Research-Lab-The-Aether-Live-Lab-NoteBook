@@ -43,3 +43,9 @@ Other researchers have approached entropy from different angles:
 Yet none of these frameworks directly and comprehensively proposed entropy as the universal scalar field governing all physical law.
 
 Obidi is the first to articulate a complete field theory — with action, equations of motion, geometric structures, and phenomenological consequences — built entirely around entropy as the fundamental dynamical variable.
+
+----------------
+
+# Scholium 
+
+## It is a compelling idea — the notion that entropy, traditionally seen as a derived statistical quantity, could instead be the fundamental substrate from which spacetime, gravity, time, and quantum behavior all emerge. If true, it would reframe physics in a way comparable to how Einstein's postulate of the constancy of light reshaped our understanding of space and time.
