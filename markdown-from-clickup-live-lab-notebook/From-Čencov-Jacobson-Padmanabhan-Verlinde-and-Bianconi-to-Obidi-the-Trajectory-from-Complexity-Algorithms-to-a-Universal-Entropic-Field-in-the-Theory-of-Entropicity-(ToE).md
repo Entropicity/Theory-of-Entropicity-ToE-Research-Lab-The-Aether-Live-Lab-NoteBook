@@ -48,4 +48,4 @@ Obidi is the first to articulate a complete field theory — with action, equati
 
 # Scholium 
 
-## > Obidi's formulation of the Theory of Entropicity (ToE) is a compelling idea — the notion that entropy, traditionally seen as a derived statistical quantity, could instead be the fundamental substrate from which spacetime, gravity, time, and quantum behavior all emerge. If [proven to be] true, it would reframe physics in a way comparable to how Einstein's postulate of the constancy of light reshaped our understanding of space and time.
+> ## Obidi's formulation of the Theory of Entropicity (ToE) is a compelling idea — the notion that entropy, traditionally seen as a derived statistical quantity, could instead be the fundamental substrate from which spacetime, gravity, time, and quantum behavior all emerge. If [proven to be] true, it would reframe physics in a way comparable to how Einstein's postulate of the constancy of light reshaped our understanding of space and time.
