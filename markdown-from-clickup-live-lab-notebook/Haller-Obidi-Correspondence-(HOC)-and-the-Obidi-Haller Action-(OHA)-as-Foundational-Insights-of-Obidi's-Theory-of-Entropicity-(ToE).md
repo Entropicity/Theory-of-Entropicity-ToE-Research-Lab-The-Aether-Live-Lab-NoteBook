@@ -25,15 +25,15 @@ $$\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$$
 * mc²: Represents the standard rest mass energy of the particle.
 * Ḣ: Represents the total entropy rate (the sum of its conditional entropy and mutual information rates).
 * The Informational "Cost": A particle that generates entropy rapidly reduces its effective Lagrangian weight. The universe effectively "pays" for entropy production by reducing the variational weight of that trajectory, meaning every true classical path is simultaneously an entropy-rate extremum.
-* The Action: The time integral of this Lagrangian yields the Haller-Obidi Action. [4] 
+* The Action: The time integral of this Haller-Obidi Lagrangian (HOL) yields the Obidi-Haller Action (OHA). [4] 
   
 
-## 3. The Haller-Obidi Correspondence
+## 3. The Haller-Obidi Correspondence (HOC)
 The Haller-Obidi Correspondence is the formal dictionary that links single-particle mechanics to universal field theories: [1, 5] 
 
 
 * Scale Reduction: It proves that Haller’s single-particle entropy-action equation is actually a localized, single-particle projection of Obidi's much larger entropic field theory. [1, 5] 
-* Field Integration: While Haller looked at a single diffusing particle, Obidi’s Obidi Action promotes entropy to a universal dynamical field (S(x)). When this universal field is mathematically restricted (localized) to a single particle's worldline, it collapses perfectly back into the Haller-Obidi formulation. [3, 5] 
+* Field Integration: While Haller looked at a single diffusing particle, Obidi’s Obidi Action promotes entropy to a universal dynamical field (S(x)). When this universal field is mathematically restricted (localized) to a single particle's worldline, it collapses perfectly back into the Haller-Obidi Formulation (HOF). [3, 5] 
   
 
 ## 4. The De Broglie–Haller–Obidi Entropic Lineage
