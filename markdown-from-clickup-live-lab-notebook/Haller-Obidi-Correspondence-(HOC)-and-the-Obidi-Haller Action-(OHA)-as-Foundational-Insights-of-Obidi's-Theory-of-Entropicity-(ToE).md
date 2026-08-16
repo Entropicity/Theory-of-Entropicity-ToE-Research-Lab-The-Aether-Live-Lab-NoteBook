@@ -18,6 +18,7 @@ The groundwork for this framework was laid in 2015 when physicist John Haller ma
 
 ## 2. The Haller-Obidi Lagrangian and Action
 To make this variational relationship explicit, the theory utilizes the Haller-Obidi Lagrangian ($\mathcal{L}_{HO}$), which governs particle paths through a dual mechanical and informational lens: [4] 
+
 $$\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$$ 
 
 
