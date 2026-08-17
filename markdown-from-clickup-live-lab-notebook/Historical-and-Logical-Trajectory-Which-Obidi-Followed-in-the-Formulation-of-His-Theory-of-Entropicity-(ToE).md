@@ -32,7 +32,7 @@ Here is the chain of reasoning Obidi uses — and every step is grounded in esta
    Distinguishability is information.
 
 2. Information has an entropic representation.  
-   Shannon: $\( I = -\log p \)$, $\( H = -\sum pi \log pi \)$.
+   Shannon: $\( I = -\log p \)$, $\( H = -\sum_i p_i \log p_i \)$.
 
 3. Entropy is universal and precedes information.  
    Second law: entropy is fundamental and irreducible.
@@ -64,7 +64,7 @@ Obidi is doing what great theorists often do:
 - Dirac took symmetry seriously → Dirac equation  
 - Jacobson took horizon thermodynamics seriously → Einstein equations from entropy  
 - Verlinde took entropic force seriously → emergent gravity  
-- Bianconi took network entropy seriously → multilayer geometry
+- Bianconi took network and relative entropy seriously → multilayer geometry and dressed Einstein Gravity 
 
 Obidi takes entropy’s universality seriously → entropy as the fundamental field.
 
