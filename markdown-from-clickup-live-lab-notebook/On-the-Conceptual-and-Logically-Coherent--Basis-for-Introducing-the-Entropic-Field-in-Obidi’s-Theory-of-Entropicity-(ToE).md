@@ -50,10 +50,10 @@ The informational content of a point is a consequence of its entropic state.
 
 ## 📊 3. Information Admits an Entropic Representation
 
-Shannon’s information theory shows that information and entropy are mathematically intertwined. For a probability distribution \(\{p_i\}\):
+Shannon’s information theory shows that information and entropy are mathematically intertwined. For a probability distribution $\(\{p_i\}\)$:
 
 $$\[
-H = -\sumi pi \log p_i
+H = -\sum i pi \log p_i
 \]$$
 
 and for an event of probability \(p\):
