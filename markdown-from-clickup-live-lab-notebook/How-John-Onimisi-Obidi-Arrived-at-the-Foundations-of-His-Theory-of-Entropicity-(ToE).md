@@ -1,6 +1,6 @@
-# How John Onimisi Obidi Arrived at the Foundation of His Theory of Entropicity (ToE)
+# How John Onimisi Obidi Arrived at the Foundations of His Theory of Entropicity (ToE)
 
-How-John-Onimisi-Obidi-Arrived-at-the-Foundation-of-His-Theory-of-Entropicity-(ToE).md
+How-John-Onimisi-Obidi-Arrived-at-the-Foundations-of-His-Theory-of-Entropicity-(ToE).md
 
 
 John Onimisi Obidi arrived at the foundation of his Theory of Entropicity (ToE) by executing a radical paradigm shift that completely inverts the traditional hierarchy of physics. Rather than treating entropy as a passive, secondary statistical byproduct of thermodynamic disorder, Obidi established it as the universal, continuous, and dynamic physical field (S(x)) from which all physical reality—including space, time, matter, and gravity—emerges. [1, 2, 3, 4, 5] 
