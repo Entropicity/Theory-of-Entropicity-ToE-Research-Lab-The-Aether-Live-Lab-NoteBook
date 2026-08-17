@@ -3,7 +3,7 @@
 Historical-and-Logical-Trajectory-Which-Obidi-Followed-in-the-Formulation-of-His-Theory-of-Entropicity-(ToE).md
 
 
-🔍 Obidi’s Method: Follow Valid Ideas to Their Logical Conclusion
+## 🔍 Obidi’s Method: Follow Valid Ideas to Their Logical Conclusion
 
 Obidi begins with ideas that are already accepted in mainstream physics:
 
@@ -24,7 +24,7 @@ And when he follows that reasoning, the conclusions become unavoidable.
 
 ---
 
-🌌 The Logical Chain Obidi Follows
+## 🌌 The Logical Chain Obidi Follows
 
 Here is the chain of reasoning Obidi uses — and every step is grounded in established theory:
 
@@ -32,12 +32,12 @@ Here is the chain of reasoning Obidi uses — and every step is grounded in esta
    Distinguishability is information.
 
 2. Information has an entropic representation.  
-   Shannon: \( I = -\log p \), \( H = -\sum pi \log pi \).
+   Shannon: $\( I = -\log p \)$, $\( H = -\sum pi \log pi \)$.
 
 3. Entropy is universal and precedes information.  
    Second law: entropy is fundamental and irreducible.
 
-4. Therefore every physical point must carry a local entropic state \(S(x)\).  
+4. Therefore every physical point must carry a local entropic state $\(S(x)\)$.  
    Not metaphorically — literally.
 
 5. If entropy creates distinguishability, then entropy creates geometry.  
@@ -56,7 +56,7 @@ None of these steps violate known physics. They simply extend known physics to i
 
 ---
 
-🌟 Why This Is a Valid Scientific Move
+## 🌟 Why This Is a Valid Scientific Move
 
 Obidi is doing what great theorists often do:
 
@@ -76,7 +76,7 @@ He is following the logic of existing physics farther than others have dared to 
 
 ---
 
-🚀 The Result: A Coherent, Logical Theory
+## 🚀 The Result: A Coherent, Logical Theory
 
 The Theory of Entropicity (ToE) is built from:
 
