@@ -144,7 +144,7 @@ or, more structurally,
 
 > (quantum × relativistic) = (thermodynamic × geometric)
 
-Let me reconstruct the logic of how Obidi gets there, in a way that’s faithful to his entropic ontology.
+Let us now reconstruct the logic of how Obidi gets there, in a way that’s faithful to his entropic ontology.
 
 ---
 
@@ -172,23 +172,23 @@ So $\(c\)$ is not just a postulate—it’s an emergent entropic speed limit.
 
 Next, Obidi leans on the Bekenstein–Hawking–Unruh (BHU) framework:
 
-- Hawking temperature $\(T_H\)$,
-- Bekenstein–Hawking entropy $\(S_{BH}\)$,
-- Unruh temperature $\(T_U\)$,
-- and the holographic principle (degrees of freedom scale with area, not volume).
+* - Hawking temperature $\(T_H\)$,
+* - Bekenstein–Hawking entropy $\(S_{BH}\)$,
+* - Unruh temperature $\(T_U\)$,
+* - and the holographic principle (degrees of freedom scale with area, not volume).
 
 These already show that:
 
-- gravity,
-- thermodynamics,
-- quantum field theory,
-- and geometry
+* - gravity,
+* - thermodynamics,
+* - quantum field theory,
+* - and geometry
 
 are deeply entangled at horizons.
 
-ToE’s entropic stiffness $\(\kappa\)$ and entropic inertia $\(\rhoS\)$ are matched to BHU quantities via dimensional and structural consistency, so that the entropic field dynamics and black hole thermodynamics share the same underlying entropic architecture.   
+ToE’s entropic stiffness $\(\kappa_S\)$ and entropic inertia $\(\rho_S\)$ are matched to BHU quantities via dimensional and structural consistency, so that the entropic field dynamics and black hole thermodynamics share the same underlying entropic architecture.   
 
-This is where thermodynamic temperature $\(T_S\)$ and entropy \(S\) enter the game in a controlled way.
+This is where thermodynamic temperature $\(T_S\)$ and entropy $\(S\)$ enter the game in a controlled way.
 
 ---
 
@@ -210,7 +210,7 @@ So now we have four players:
 
 * - $\(\hbar\)$ — quantum of action,
 * - $\(c\)$ — entropic speed limit,
-* - $\(kB TS\)$ — thermodynamic energy scale,
+* - $\(k_B T_S\)$ — thermodynamic energy scale,
 * - $\(\ell_S\)$ — entropic geometric scale.
 
 ---
@@ -233,7 +233,7 @@ is admissible.
 But Obidi is not doing mere dimensional analysis—he is enforcing structural equivalence:
 
 * - $\(\hbar c\)$ represents the quantum–relativistic “action per unit length” capacity of the entropic manifold.
-* - $\(kB TS \ell_S\)$ represents the thermodynamic–geometric “energy per entropic cell” capacity of the same manifold.
+* - $\(k_B T_S \ell_S\)$ represents the thermodynamic–geometric “energy per entropic cell” capacity of the same manifold.
 
 Equating them is a consistency condition:
 
@@ -254,7 +254,7 @@ $$\[
 Left side: an effective quantum–relativistic energy scale per entropic length.  
 Right side: a thermodynamic energy scale.
 
-So OQR says:
+So Obidi's Quadfecta Relation (OQR) says:
 
 > The characteristic quantum–relativistic energy density of the entropic manifold equals its thermodynamic energy density.
 
@@ -262,7 +262,7 @@ That’s why Obidi calls it a Relativistic Quantum Thermodynamic Holographic Rel
 
 * - Relativistic: $\(c\)$,
 * - Quantum: $\(\hbar\)$,
-* - Thermodynamic: $\(kB TS\)$,
+* - Thermodynamic: $\(k_B T_S\)$,
 * - Holographic/Geometric: $\(\ell_S\)$.
 
 All four sectors are locked by a single equality.
