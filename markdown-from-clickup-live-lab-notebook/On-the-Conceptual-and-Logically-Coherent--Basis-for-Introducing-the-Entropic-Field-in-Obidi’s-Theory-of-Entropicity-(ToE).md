@@ -1,6 +1,6 @@
-# On the Conceptual and Logical Basis for Introducing the Entropic Field in Obidi’s Theory of Entropicity (ToE)
+# On the Conceptual and Logically Coherent Basis for Introducing the Entropic Field in Obidi’s Theory of Entropicity (ToE)
 
-On-the-Conceptual-and-Logical-Basis-for-Introducing-the-Entropic-Field-in-Obidi’s-Theory-of-Entropicity-(ToE).md
+On-the-Conceptual-and-Logically-Coherent-Basis-for-Introducing-the-Entropic-Field-in-Obidi’s-Theory-of-Entropicity-(ToE).md
 
 
 # 🌌 Entropy Before Information, Before Spacetime:
