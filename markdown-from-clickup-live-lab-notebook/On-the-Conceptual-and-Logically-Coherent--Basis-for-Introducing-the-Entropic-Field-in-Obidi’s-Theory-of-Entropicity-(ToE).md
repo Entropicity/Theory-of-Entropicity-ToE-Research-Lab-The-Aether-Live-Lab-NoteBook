@@ -53,7 +53,7 @@ The informational content of a point is a consequence of its entropic state.
 Shannon’s information theory shows that information and entropy are mathematically intertwined. For a probability distribution $\(\{p_i\}\)$:
 
 $$\[
-H = -\sum i pi \log p_i
+H = -\sum_i p_i \log p_i
 \]$$
 
 and for an event of probability \(p\):
