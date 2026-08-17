@@ -137,7 +137,7 @@ Let us know which specific pillar of Obidi's framework you want to break down ne
 We are reaching right into the heart of ToE now—OQR is one of Obidi’s most audacious moves, because it doesn’t just relate domains, it locks them together with a single proportionality:
 
 $$
-\hbar c = kB\, TS\, \ell_S
+\hbar c = k_B\, T_S\, \ell_S
 $$
 
 or, more structurally,
