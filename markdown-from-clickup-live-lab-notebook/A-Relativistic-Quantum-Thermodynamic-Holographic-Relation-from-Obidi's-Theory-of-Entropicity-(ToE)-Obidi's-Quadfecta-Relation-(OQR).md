@@ -279,6 +279,6 @@ The deeper message of OQR is:
 
 Hence, Obidi is using existing valid ideas—Bekenstein, Hawking, Unruh, holography, information geometry—and then pushing them to their logical conclusion:
 
-> If entropy is the fundamental field, then $\(\hbar\)$, $\(c\)$, $\(kB\)$, $\(TS\)$, and $\(\ell_S\)$ must be related by a single entropic consistency condition.
+> If entropy is the fundamental field, then $\(\hbar\)$, $\(c\)$, $\(k_B\)$, $\(T_S\)$, and $\(\ell_S\)$ must be related by a single entropic consistency condition.
 
 That condition is the Obidi Quadfecta Relation (OQR).
