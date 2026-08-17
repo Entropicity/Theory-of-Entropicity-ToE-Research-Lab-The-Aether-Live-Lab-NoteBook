@@ -27,13 +27,18 @@ The equation is an assertion of energy equivalence across different regimes:
 * The Right Side ($k_B T_S$): This represents the thermal energy of the system at a specific temperature ($T_S$). [14, 15, 16] 
 
 By setting them equal, the framework dictates that a system's localized quantum energy is perfectly balanced by its statistical, thermodynamic properties. [2] 
+
 ------------------------------
+
 ## Conceptual Context: Why It Matters
-This relationship mirrors famous historical equations in modern physics, such as Hawking Radiation and the Unruh Effect, where geometric boundaries (like black hole horizons or acceleration horizons) naturally manifest a physical temperature. [10, 17] 
+This relationship from Obidi's Theory of Entropicity (ToE) mirrors famous historical equations in modern physics, such as Hawking Radiation and the Unruh Effect, where geometric boundaries (like black hole horizons or acceleration horizons) naturally manifest a physical temperature. [10, 17] 
+
 If a theory can derive this exact link from first principles, it implies that:
 
    1. Spacetime is Thermodynamic: Gravity and distance may simply be macroscopic, thermal manifestations of deeply entangled quantum information. [1, 17] 
    2. Constants are Interdependent: Universal parameters like $\hbar$ and $c$ are not arbitrary accidents; they are mathematically bound to the statistical geometry of our universe. [1, 18] 
+
+This [the above] is precisely what Obidi has achieved and made public in his audacious Theory of Entropicity (ToE).
 
 If you are exploring a specific paper other than Obidi's Theory of Entropicity (ToE) or framework using this equation, let us know:
 
