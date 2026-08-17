@@ -1,5 +1,8 @@
 # A Relativistic Quantum Thermodynamic Holographic Relation from Obidi's Theory of Entropicity (ToE): Obidi's Quadfecta Relation (OQR) 
 
+## Obidi's Quadfecta Relation (OQR): 
+> ## $\hbar c = k_B T_S \ell_S$ 
+> ## (quantum × relativistic) = (thermodynamic × geometric)Let me reconstruct
 
 A-Relativistic-Quantum-Thermodynamic-Holographic-Relation-from-Obidi's-Theory-of-Entropicity-(ToE)-Obidi's-Quadfecta-Relation-(OQR).md 
 
