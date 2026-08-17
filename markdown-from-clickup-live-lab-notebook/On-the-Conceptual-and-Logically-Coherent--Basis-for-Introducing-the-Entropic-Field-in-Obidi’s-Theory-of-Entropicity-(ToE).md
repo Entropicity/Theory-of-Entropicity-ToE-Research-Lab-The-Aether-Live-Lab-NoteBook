@@ -4,7 +4,8 @@ On-the-Conceptual-and-Logically-Coherent-Basis-for-Introducing-the-Entropic-Fiel
 
 
 # 🌌 Entropy Before Information, Before Spacetime:
-Obidi’s Foundational Insight in the Theory of Entropicity (ToE)  
+
+## Obidi’s Foundational Insight in the Theory of Entropicity (ToE)  
 
 ## A scholarly yet accessible exploration of why Obidi argues that entropy is the true substrate of physical reality
 
