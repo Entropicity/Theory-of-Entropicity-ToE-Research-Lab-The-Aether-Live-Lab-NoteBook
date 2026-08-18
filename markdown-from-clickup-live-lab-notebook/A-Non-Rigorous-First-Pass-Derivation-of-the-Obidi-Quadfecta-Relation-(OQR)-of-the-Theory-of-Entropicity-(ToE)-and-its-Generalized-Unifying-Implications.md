@@ -62,20 +62,24 @@ This is the Obidi Quadfecta Relation (OQR) of the Theory of Entropicity (ToE).
 ## The Mathematical Rigor Approach 
 
 [Statistical Manifold: Fisher-Rao Metric]
+                 
                   │
                   ▼  
                   (Multiplied by e^{S/k_B} via Obidi Transformation)
 
 [Physical Geometry: Characteristic Length (ℓ_S)]
+               
                   │
                   ▼  
                   (Constrained by No-Rush Theorem: Δt = ℓ_S / c)
 
 [Quantum Threshold: Localized Action Energy (E_Q = ℏc / ℓ_S)]
+                 
                   │
                   ▼  
                   (Thermodynamic Equivalence: E_Q = k_B T_S)
        【 ℏc = k_B T_S ℓ_S 】
+
 
 By completing this pipeline, Obidi demonstrates that the scaling factors of quantum mechanics ($\hbar$), special relativity (c), and thermodynamics ($k_B$) are not disjoint parameters. They are mathematical scaling constraints forced upon us by the geometry of the underlying entropic manifold. [10, 11] 
 
