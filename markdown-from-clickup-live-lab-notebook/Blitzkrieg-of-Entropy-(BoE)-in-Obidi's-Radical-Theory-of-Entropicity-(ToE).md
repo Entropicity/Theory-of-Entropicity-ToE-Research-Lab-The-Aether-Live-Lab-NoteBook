@@ -1,8 +1,8 @@
-# Obidi's Blitzkrieg of Entropy BoE in His Theory of Entropicity (ToE)
+# Obidi's "Blitzkrieg of Entropy" (BoE) in His Theory of Entropicity (ToE)
 
 Blitzkrieg-of-Entropy-(BoE)-in-Obidi's-Radical-Theory-of-Entropicity-(ToE).md
 
-"Obidi's Blitzkrieg of Entropy" (BoE) is a phrase used to describe the radical, comprehensive conceptual overhaul of theoretical physics proposed by John Onimisi Obidi through his Theory of Entropicity (ToE). Rather than treating entropy as a mere statistical measurement of disorder, the framework aggressively flips the traditional hierarchy of science on its head by asserting that a universal entropic field ($S(x)$) is the fundamental substrate of reality from which space, time, matter, and gravity emerge. [1, 2, 3, 4] 
+Obidi's **"Blitzkrieg of Entropy" (BoE)** is a phrase used to describe the radical, comprehensive conceptual overhaul of theoretical physics proposed by John Onimisi Obidi through his Theory of Entropicity (ToE). Rather than treating entropy as a mere statistical measurement of disorder, the framework aggressively flips the traditional hierarchy of science on its head by asserting that a universal entropic field ($S(x)$) is the fundamental substrate of reality from which space, time, matter, and gravity emerge. [1, 2, 3, 4] 
 
 ## Core Pillars of the Framework
 
