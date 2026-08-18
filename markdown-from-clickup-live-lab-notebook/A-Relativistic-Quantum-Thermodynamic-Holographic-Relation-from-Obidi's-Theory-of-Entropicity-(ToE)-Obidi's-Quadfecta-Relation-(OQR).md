@@ -150,17 +150,17 @@ Let us now reconstruct the logic of how Obidi gets there, in a way that’s fait
 
 ## 1. Start from the entropic field and the Obidi Action
 
-In ToE, the entropic field \(S(x)\) is fundamental. Dynamics are governed by the Obidi Action, built from:
+In ToE, the entropic field $\(S(x)\)$ is fundamental. Dynamics are governed by the Obidi Action, built from:
 
 * - the entropic field $\(S(x)\)$,
 * - its gradient $\( \partial_\mu S \)$,
 * - and a Lagrangian of the form
 
-  $$
-  \mathcal{L}{\mathrm{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial\mu S)
-  $$
+$$
+\mathcal{L}{\mathrm{ent}} = mc^2 - \frac{\hbar}{2}(u^\mu \partial\mu S)
+$$
 
-This already ties quantum ($\(\hbar\)$), relativistic ($\(c\)$), and entropic ($\(S\)$) structure into a single variational principle.
+This already ties quantum $\(\hbar\)$, relativistic $\(c\)$, and entropic ($\(S\)$) structure into a single variational principle.
 
 From this, Obidi derives entropic wave equations and identifies $\(c\)$ as the maximum rate of entropic rearrangement on the entropic manifold (the “No‑Rush Theorem”).   
 
@@ -248,7 +248,7 @@ This is the conceptual core of OQR.
 As you noted, dividing by $\(\ell_S\)$ gives:
 
 $$\[
-\frac{\hbar c}{\ellS} = kB T_S
+\frac{\hbar c}{\ell_S} = k_B T_S
 \]$$
 
 Left side: an effective quantum–relativistic energy scale per entropic length.  
