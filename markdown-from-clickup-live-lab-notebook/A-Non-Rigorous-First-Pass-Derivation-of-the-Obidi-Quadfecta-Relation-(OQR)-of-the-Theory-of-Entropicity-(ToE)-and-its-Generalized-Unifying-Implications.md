@@ -12,9 +12,9 @@ Obidi begins not with physical space, but with a statistical manifold of informa
 
 * Distances between distinct physical states are initially measured via the [Fisher–Rao metric](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149) ($g_{ij}^{FR}$), which quantifies statistical distinguishability. [4, 5] 
 * The fundamental unit of this informational structure is governed by the Obidi Curvature Invariant ($\ln 2$). [6] 
-* To bridge mathematics and physical reality, Obidi introduces the Obidi Transformation, a disformal scaling factor that deforms the statistical metric based on local entropy:
+* To bridge mathematics and physical reality, Obidi introduces the Obidi Transformation, a disformal scaling factor that deforms the statistical metric based on local entropy [4, 5]:
 
-$$g_{\mu\nu} = g_{\mu\nu}^{FR} \cdot e^{S / k_B}$$ [4, 5] 
+$$g_{\mu\nu} = g_{\mu\nu}^{FR} \cdot e^{S / k_B}$$ 
 
 This step shows that a physical characteristic length scale ($\ell_S$) is inherently a localized manifestation of the entropic field. [4, 7] 
 
@@ -23,9 +23,9 @@ Next, the derivation accounts for dynamics using the [Theory of Entropicity (ToE
 
 * According to Obidi's No-Rush Theorem (NRT), the entropic field requires a finite, non-zero duration to redistribute states and maintain causality.
 * The universal constant c is defined as the [maximum rate of entropic reconfiguration](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb).
-* For a localized entropic system of size $\ell_S$, the minimum possible time interval (Δ t) for an information update to clear the system is:
+* For a localized entropic system of size $\ell_S$, the minimum possible time interval (Δ t) for an information update to clear the system is[3, 7]: 
   
-$$\Delta t = \frac{\ell_S}{c}$$ [3, 7] 
+$$\Delta t = \frac{\ell_S}{c}$$ 
 
 ## Step 3: Defining the Emergent Action Threshold ($\hbar$)
 In Ontodynamics, Planck's constant ($\hbar$) is not an arbitrary input. It is derived as the baseline quantum of action required to alter the field configuration. [1, 9] 
@@ -35,24 +35,27 @@ In Ontodynamics, Planck's constant ($\hbar$) is not an arbitrary input. It is de
 
 $$E_Q \cdot \Delta t = \hbar \implies E_Q \left(\frac{\ell_S}{c}\right) = \hbar$$ 
 
-* Solving for the fundamental quantum field energy of the system gives:
-* 
-$$E_Q = \frac{\hbar c}{\ell_S}$$ [3] 
+* Solving for the fundamental quantum field energy of the system gives[3]:
+  
+$$E_Q = \frac{\hbar c}{\ell_S}$$
 
 ## Step 4: Equating Localized Field Energy to Thermal Energy
 The final logical step invokes the Obidi Correspondence Principle, forcing the emergent field equations to match classical thermodynamics at macroscopic boundary limits. [3] 
 
 * The Master Entropic Equation dictates that a localized energy gradient produces a corresponding physical temperature ($T_S$).
 * At equilibrium, the localized quantum energy ($E_Q$) must equal the statistical, macroscopic thermal energy ($E_{th}$) defined by the Boltzmann constant ($k_B$):
+  
 $$E_{th} = k_B T_S$$ 
 
-* Equating the expressions from Step 3 and Step 4:
+* Equating the expressions from Step 3 and Step 4 [2]:
   
-$$\frac{\hbar c}{\ell_S} = k_B T_S$$ [2] 
+$$\frac{\hbar c}{\ell_S} = k_B T_S$$
 
 Multiplying both sides by $\ell_S$ yields Obidi's exact, powerful relation:
 
 $$\hbar c = k_B T_S \ell_S$$ 
+
+This is the Obidi Quadfecta Relation (OQR) of the Theory of Entropicity (ToE).
 
 ------------------------------
 
@@ -60,13 +63,18 @@ $$\hbar c = k_B T_S \ell_S$$
 
 [Statistical Manifold: Fisher-Rao Metric]
                   │
-                  ▼  (Multiplied by e^{S/k_B} via Obidi Transformation)
+                  ▼  
+                  (Multiplied by e^{S/k_B} via Obidi Transformation)
+
 [Physical Geometry: Characteristic Length (ℓ_S)]
                   │
-                  ▼  (Constrained by No-Rush Theorem: Δt = ℓ_S / c)
+                  ▼  
+                  (Constrained by No-Rush Theorem: Δt = ℓ_S / c)
+
 [Quantum Threshold: Localized Action Energy (E_Q = ℏc / ℓ_S)]
                   │
-                  ▼  (Thermodynamic Equivalence: E_Q = k_B T_S)
+                  ▼  
+                  (Thermodynamic Equivalence: E_Q = k_B T_S)
        【 ℏc = k_B T_S ℓ_S 】
 
 By completing this pipeline, Obidi demonstrates that the scaling factors of quantum mechanics ($\hbar$), special relativity (c), and thermodynamics ($k_B$) are not disjoint parameters. They are mathematical scaling constraints forced upon us by the geometry of the underlying entropic manifold. [10, 11] 
