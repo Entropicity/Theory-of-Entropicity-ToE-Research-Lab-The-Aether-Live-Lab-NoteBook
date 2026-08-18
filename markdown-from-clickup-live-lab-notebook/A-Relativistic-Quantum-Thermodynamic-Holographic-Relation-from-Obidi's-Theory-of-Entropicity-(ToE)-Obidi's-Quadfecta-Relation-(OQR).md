@@ -220,7 +220,7 @@ So now we have four players:
 The key step is to recognize that:
 
 * - $\(\hbar c\)$ has dimensions of energy × length,
-* - $\(kB TS \ell_S\)$ also has dimensions of energy × length.
+* - $\(k_B T_S \ell_S\)$ also has dimensions of energy × length.
 
 So, purely dimensionally, a relation of the form
 
