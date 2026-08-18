@@ -1,7 +1,13 @@
+# A Rigorous Derivation of the Obidi Quadfecta Relation (OQR) of the Theory of Entropicity (ToE) and its Generalized, Unifying Implications
+
+A-Rigorous-Derivation-of-the-Obidi-Quadfecta-Relation-(OQR)-of-the-Theory-of-Entropicity-(ToE)-and-its-Generalized-Unifying-Implications.md
+
+
 A Rigorous Derivation 
 
 To derive the fundamental informational-geometric relation $\hbar c = k_B T_S \ell_S$ within John Onimisi Obidi's Theory of Entropicity (ToE), we must mathematically trace how an abstract statistical manifold transforms into physical spacetime coordinates via the Obidi Action.
 The derivation progresses through four formal mathematical steps:
+
 ## Step 1: Metric Formulation via the Obidi Transformation
 The foundation of ToE begins with an information manifold $(\mathcal{M}_I, g^{FR})$, where geometric distance is initially defined by the statistical distinguishability of probability distributions via the classical Fisher–Rao metric:
 $$g_{ij}^{FR}(\theta) = \int p(x;\theta) \frac{\partial \ln p(x;\theta)}{\partial \theta^i} \frac{\partial \ln p(x;\theta)}{\partial \theta^j} dx$$ 
