@@ -35,7 +35,7 @@ In Ontodynamics, Planck's constant ($\hbar$) is not an arbitrary input. It is de
 
 $$E_Q \cdot \Delta t = \hbar \implies E_Q \left(\frac{\ell_S}{c}\right) = \hbar$$ 
 
-* Solving for the fundamental quantum field energy of the system gives[3]:
+* Solving for the fundamental quantum field energy of the system gives: [3]
   
 $$E_Q = \frac{\hbar c}{\ell_S}$$
 
@@ -47,7 +47,7 @@ The final logical step invokes the Obidi Correspondence Principle, forcing the e
   
 $$E_{th} = k_B T_S$$ 
 
-* Equating the expressions from Step 3 and Step 4 [2]:
+* Equating the expressions from Step 3 and Step 4 : [2]
   
 $$\frac{\hbar c}{\ell_S} = k_B T_S$$
 
