@@ -8,6 +8,7 @@ To evaluate how these two paradigms approach the universe, it is highly useful t
 
 
 Feature [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13] 
+
 Ariel Caticha's Entropic Dynamics (ED)
 Obidi's Theory of Entropicity (ToE)
 Nature of Entropy
