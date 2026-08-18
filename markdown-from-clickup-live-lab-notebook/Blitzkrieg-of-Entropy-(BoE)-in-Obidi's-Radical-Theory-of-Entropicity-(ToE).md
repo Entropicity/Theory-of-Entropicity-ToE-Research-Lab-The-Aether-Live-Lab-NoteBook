@@ -12,7 +12,7 @@ Obidi's **"Blitzkrieg of Entropy" (BoE)** is a phrase used to describe the radic
 * No-Rush Theorem (NRT): Proposes that time is not fundamental but is instead a macroscopic "processing lag" required for the entropic field to reconfigure, establishing a natural rate limit on the universe. [9] 
 
 ## Why It Is Termed a "Blitzkrieg"
-The framework is called a "blitzkrieg" because it represents a rapid, all-encompassing attack on over 400 years of established institutional physics axioms. Rather than tweaking existing equations or suggesting new subatomic particles, it uses information geometry to completely rebuild the configuration space of the universe from a single primitive concept: the geometry of state distinguishability. [1, 3, 4, 10] 
+The framework is called a "blitzkrieg" because it represents a rapid, all-encompassing attack on over 400 years of established institutional physics axioms. Rather than tweaking existing equations or suggesting new subatomic particles, it uses information geometry to completely rebuild the configuration space of the universe from a single primitive concept: the geometry of entropic state distinguishability. [1, 3, 4, 10] 
 
 Would you like to explore the mathematical formalisms (such as the Fisher-Rao or Fubini-Study metric integration) or examine how this theory explains Einstein's relativity as an entropic accounting ledger? [11, 12, 13] 
 
