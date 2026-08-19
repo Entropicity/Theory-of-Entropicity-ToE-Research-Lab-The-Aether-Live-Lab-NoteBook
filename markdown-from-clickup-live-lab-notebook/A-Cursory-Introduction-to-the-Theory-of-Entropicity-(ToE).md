@@ -1,6 +1,6 @@
-# A Concise Introduction to the Theory of Entropicity (ToE)
+# A Cursory Introduction to the Theory of Entropicity (ToE)
 
-A-Concise-Introduction-to-the-Theory-of-Entropicity-(ToE).md
+A-Cursory-Introduction-to-the-Theory-of-Entropicity-(ToE).md
 
 John Onimisi Obidi is an independent scientific researcher, philosopher, and physicist who is the creator of the Theory of Entropicity (ToE), a non-mainstream theoretical framework that redefines entropy as the fundamental field of physical reality. He is explicitly distinguished from the popular African social media consultant and public speaker of a similar name (John Obidi). [1, 2] 
 
