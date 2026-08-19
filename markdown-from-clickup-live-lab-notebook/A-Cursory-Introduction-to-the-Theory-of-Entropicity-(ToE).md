@@ -2,7 +2,7 @@
 
 A-Cursory-Introduction-to-the-Theory-of-Entropicity-(ToE).md
 
-John Onimisi Obidi is an independent scientific researcher, philosopher, and physicist who is the creator of the Theory of Entropicity (ToE), a non-mainstream theoretical framework that redefines entropy as the fundamental field of physical reality. He is explicitly distinguished from the popular African social media consultant and public speaker of a similar name (John Obidi). [1, 2] 
+John Onimisi Obidi is an independent scientific researcher, philosopher, and physicist who is the creator of the Theory of Entropicity (ToE), a radical and provocative theoretical physics framework that entirely redefines entropy as the fundamental field of physical reality. He is explicitly distinguished from the popular African social media consultant and public speaker of a similar name (John Obidi). [1, 2] 
 
 ## The Theory of Entropicity (ToE)
 Obidi's work focuses on moving entropy away from being a mere statistical measure of disorder to positioning it as an ontological, dynamic scalar field (S(x)). Within this framework, spacetime, gravity, matter, and motion are not fundamental constants or structures, but rather emergent properties arising from the underlying entropic substrate. [3, 4, 5] 
@@ -16,7 +16,9 @@ Obidi's work focuses on moving entropy away from being a mere statistical measur
 * Ontodynamics: A philosophical branch extended from his theory, exploring existence itself as a direct consequence of entropic motion. [9] 
 
 ## Academic and Community Standing
-Obidi publishes his concepts independently via platforms like [Google Scholar](https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/John-Obidi-4), Figshare, and Medium. The Theory of Entropicity remains an audacious, non-mainstream proposal. It is in its early mathematical formulation and has not been formally adopted or validated by the mainstream theoretical physics community. [1, 2, 3, 8, 9, 10, 11] 
+Obidi publishes his concepts independently via platforms like [Google Scholar](https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/John-Obidi-4), Figshare, and Medium. 
+
+The Theory of Entropicity (ToE) remains an audacious and radical proposal. It is in its early rigorous mathematical formulations and is yet to be formally adopted or validated by the larger mainstream theoretical physics community. [1, 2, 3, 8, 9, 10, 11] 
 
 Would you like to explore the mathematical derivations of the Master Entropic Equation MEE)/Obidi Field Equations (OFE), or are you interested in how ToE contrasts with traditional quantum gravity theories like Erik Verlinde's entropic gravity?
 
