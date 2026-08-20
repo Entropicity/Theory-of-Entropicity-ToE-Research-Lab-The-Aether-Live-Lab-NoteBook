@@ -19,7 +19,7 @@ Obidi defines a new discipline called Ontodynamics, which reinterprets physical 
 
 ## How Physical Phenomena Emerge
 
-| Emergent Phenomenon | Ontological Interpretation in ToE |
+| Emergent Phenomenon | Ontological Interpretation in the Theory of Entropicity (ToE) |
 |---|---|
 | Spacetime | A coarse-grained, lower-dimensional projection or "pullback" of the higher-dimensional entropic manifold. |
 | Gravity | Not a fundamental force or curvature of empty space, but the result of spatial gradients and entropic pressure within the underlying field. |
@@ -32,7 +32,7 @@ The dynamics of this ontology are mathematically structured through two primary 
    ### 1. The Obidi Action: 
 A central variational principle that bridges discrete algorithmic metrics (like Shannon entropy and Kolmogorov complexity) with continuous physical field dynamics. [5, 9] 
   
-   ### 2. The Master Entropic Equation (MEE): 
+   ### 2. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE): 
 The entropic analogue to Einstein's field equations, balancing entropic production, causality, and spectral coherence to dictate how the field curves existence itself. [1, 4, 12] 
 
 As a theoretical framework, Obidi's ToE represents a most radical and audacious effort to bypass ontological dualism by offering a monistic, [entropic] information-first reconstruction of both quantum mechanics and general relativity from a single underlying substrate. [6, 12, 13] 
