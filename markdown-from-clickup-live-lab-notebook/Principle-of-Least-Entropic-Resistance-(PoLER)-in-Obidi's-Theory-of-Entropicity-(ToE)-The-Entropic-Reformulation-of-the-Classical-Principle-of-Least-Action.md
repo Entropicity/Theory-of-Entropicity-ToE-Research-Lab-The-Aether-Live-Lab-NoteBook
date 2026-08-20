@@ -49,11 +49,19 @@ If you would like to explore this topic further, let us know if you want to look
 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1)
+
 [2] [https://theory-of-entropicity-toe.pages.dev](https://theory-of-entropicity-toe.pages.dev/ch5-poler-and-second-law)
+
 [3] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
 [4] [https://www.cambridge.org](https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/684918483ba0887c337ff9a6/original/on-the-discovery-of-new-laws-of-conservation-and-uncertainty-probability-and-cpt-theorem-symmetry-breaking-in-the-standard-model-of-particle-physics-more-revolutionary-insights-from-the-theory-of-entropicity-to-e.pdf)
+
 [5] [https://theory-of-entropicity-toe.pages.dev](https://theory-of-entropicity-toe.pages.dev/preface.html)
+
 [6] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/ch3-obidi-action.html)
+
 [7] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-de-brogliehallerobidi-dho-entropic-activity-7487283367218966528-hT2x)
+
 [8] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_when-physics-plays-it-safe-and-when-activity-7480156435730038784-bm43)
+
 [9] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176236357.75572690)
