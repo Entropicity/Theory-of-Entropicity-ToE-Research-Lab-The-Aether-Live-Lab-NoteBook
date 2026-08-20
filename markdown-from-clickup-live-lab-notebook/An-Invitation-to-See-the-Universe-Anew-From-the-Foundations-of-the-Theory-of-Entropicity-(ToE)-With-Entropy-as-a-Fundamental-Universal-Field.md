@@ -1,4 +1,4 @@
-# The Theory of Entropicity (ToE) invites us to see the universe anew. It tells us that entropy is not the shadow of order but the light itself.
+# The Theory of Entropicity (ToE) invites Us to see the universe anew. It tells us that entropy is not the shadow of order but the light itself.
 
 # An Invitation to See the Universe Anew From the Foundations of the Theory of Entropicity (ToE) With Entropy as a Fundamental, Universal Field 
 
