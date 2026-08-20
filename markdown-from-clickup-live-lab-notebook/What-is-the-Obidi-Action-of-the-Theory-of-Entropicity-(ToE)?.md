@@ -6,6 +6,8 @@ The Obidi Action is a central mathematical and variational principle within a th
 
 In this theory, the **Obidi Action** plays a role highly analogous to the Principle of Least Action in classical mechanics or the Einstein–Hilbert action in general relativity, but it replaces traditional mass, energy, or spacetime metrics with a fundamental entropy field (S(x)). [1, 2] 
 
+> ### The Obidi Action is the "Mathematical Source Code (MSC)" of the Universe in the Theory of Entropicity (ToE).
+
 ## Core Concepts of the Obidi Action
 The Obidi Action underpins several radical, paradigm-shifting claims in this specific informational and thermodynamic model of the universe: [2, 3] 
 
@@ -52,3 +54,18 @@ If you are exploring this topic for a specific project, let us know if you would
 
 # Scholium 
 
+The Obidi Action is a foundational variational principle in the **Theory of Entropicity (ToE)** developed by **John Onimisi Obidi.** It defines how a universal entropy field evolves, acting in a way similar to the **Principle of Least Action** in **classical mechanics** or the **Einstein-Hilbert action in general relativity.**
+
+## Core Concepts of the Obidi Action
+
+### Entropic Field: 
+Treats entropy as the primary building block of reality rather than a byproduct of disorder.
+
+### Least Resistance: 
+Dictates that physical systems change along paths of least entropic resistance.
+
+### Master Equation: 
+Serves as the mathematical source used to derive the Master Entropic Equation, which governs physical forces.
+
+### Emergent Reality: 
+Posits that space, time, gravity, and mass emerge from underlying entropic dynamics.
