@@ -1,8 +1,8 @@
-# Core Tenets of Obidi's Ontology and the Foundations of the Theory of Entropicity (ToE) in Modern Theoretical Physics 
+# Core Tenets of Obidi's Philosophical Ontology and the Foundations of the Theory of Entropicity (ToE) in Modern Theoretical Physics 
 
-Core-Tenets-of-Obidi's-Ontology-and-the-Foundations-of-the-Theory-of-Entropicity-(ToE)-in-Modern-Theoretical-Physics.md 
+Core-Tenets-of-Obidi's-Philosophical-Ontology-and-the-Foundations-of-the-Theory-of-Entropicity-(ToE)-in-Modern-Theoretical-Physics.md 
 
-Obidi’s ontology is a radical metaphysical and physical framework within John Onimisi Obidi’s Theory of Entropicity (ToE), which asserts that entropy is the fundamental, primary substance of reality rather than a derived statistical property. Instead of viewing entropy as a passive measurement of disorder or ignorance, Obidi’s ontology treats it as an active, local, and continuous scalar field (S(x)) from which spacetime, matter, gravity, and time emerge. [1, 2, 3, 4] 
+Obidi’s philosophical ontology is a radical metaphysical and physical framework within John Onimisi Obidi’s Theory of Entropicity (ToE), which asserts that entropy is the fundamental, primary substance of reality rather than a derived statistical property. Instead of viewing entropy as a passive measurement of disorder or ignorance, Obidi’s ontology treats it as an active, local, and continuous scalar field (S(x)) from which spacetime, matter, gravity, and time emerge. [1, 2, 3, 4] 
 
 ------------------------------
 
