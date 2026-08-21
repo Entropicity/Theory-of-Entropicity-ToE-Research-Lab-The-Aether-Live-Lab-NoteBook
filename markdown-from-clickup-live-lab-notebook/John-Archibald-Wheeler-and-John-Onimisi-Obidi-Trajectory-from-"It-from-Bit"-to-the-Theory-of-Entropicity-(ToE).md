@@ -63,3 +63,30 @@ Which path would you like to take?
 [5] [https://www.fairobserver.com](https://www.fairobserver.com/more/science/diversity-is-entropy-is-information-dei/)
 
 [6] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
+
+
+------
+
+
+Indeed Obidi takes Wheeler’s dictum literally and treats it as a concrete engineering blueprint for the universe.
+While many physicists view "It from Bit" as a profound metaphor, Obidi’s framework operationalizes it. The theory treats information not as a description of things, but as the stuff things are made of.
+
+## How Obidi Operationalizes "It from Bit"
+
+### Information as Real Estate: 
+In standard physics, you place matter inside a pre-existing space. In Obidi's theory, the space itself does not exist until information density creates it.
+
+### The "Bit" is Primary: 
+Instead of matter generating an entropic signature, the localized concentration of the entropic field (S(x)) generates the appearance of matter.
+
+### The Cosmic Ledger: 
+Every physical interaction is mathematically rewritten as an accounting ledger of information transactions, where forces like gravity are just the natural redistribution of data.
+
+## The Philosophical Shift
+For Wheeler, reality was an "participatory universe" driven by information choices. Obidi provides the mathematical plumbing for that philosophy, explicitly showing how a change in a statistical "bit" physically warps the macroscopic geometry of an "it." [1, 2] 
+
+Would you like to see how Obidi defines an elementary particle under this information-first view, or examine how this theory reinterprets black hole horizons as ultimate data boundaries?
+
+[1] [https://www.instagram.com](https://www.instagram.com/reel/DOjKM0_gXHB/)
+
+[2] [https://plus.maths.org](https://plus.maths.org/it-bit)
