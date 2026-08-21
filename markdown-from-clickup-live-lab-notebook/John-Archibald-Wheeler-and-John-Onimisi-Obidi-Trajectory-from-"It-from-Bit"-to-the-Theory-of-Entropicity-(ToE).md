@@ -45,7 +45,7 @@ A major hurdle in Wheeler's "It from Bit" was explaining how a coordinate-free w
 ### Multi-Sector Indices: 
 The theory assigns secondary indices to tensors to track distinct informational sectors (Lorentzian, Fisher–Rao, Fubini–Study).
 
-##@ The Smooth Emergence: 
+### The Smooth Emergence: 
 By locking the Amari α-connection at α = 0, the theory ensures that these disparate informational sectors smoothly collapse into the torsion-free geometry of standard General Relativity at macroscopic scales.
 
 If you are interested in exploring this further, we can outline the specific mathematical proofs Obidi uses to derive the $\ln(2)$ invariant, or we can look at how the Master Entropic Equation (MEE)/Obidi Field Equations (OFE) tracks information flow. 
