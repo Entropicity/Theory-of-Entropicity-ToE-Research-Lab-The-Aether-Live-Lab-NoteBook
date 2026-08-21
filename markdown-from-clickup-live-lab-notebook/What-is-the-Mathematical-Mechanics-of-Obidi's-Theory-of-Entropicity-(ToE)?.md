@@ -49,8 +49,8 @@ At the operational core of ToE lies a universal variational principle analogous 
 ### The Obidi Action: 
 A foundational action principle that governs how the continuous entropic field reorganizes itself. It acts as the mathematical "engine" driving the flow of the field. [4, 5, 6] 
 
-### Master Entropic Equation (MEE): 
-Derived directly by stationarizing the Obidi Action. The MEE acts as the entropic equivalent to Einstein's Field Equations in General Relativity. [4, 7, 8, 9] 
+### Master Entropic Equation (MEE)/Obidi Field Equations (OFE): 
+Derived directly by stationarizing the Obidi Action. The MEE/OFE acts as the entropic equivalent to Einstein's Field Equations in General Relativity. [4, 7, 8, 9] 
 
 ### Iterative Solutions: 
 Unlike traditional closed-form equations, the MEE is highly nonlinear and nonlocal. It relies on non-explicit iterative refinements that mirror Bayesian inference information updates. [10, 11] 
@@ -98,7 +98,7 @@ Dictates that free indices expand mathematically as double sums.
 Dictates that dotted indices expand as double products. [16] 
   
 
-Combined, these mathematical components form the Einstein–Obidi Calculus (EOC), providing the computational toolset needed to model the **Hybrid Metric‑Affine Space (HMAS)** that underpins the theory. [16] 
+Combined, these mathematical components form the **Einstein–Obidi Calculus (EOC)**, providing the computational toolset needed to model the **Hybrid Metric‑Affine Space (HMAS)** that underpins the theory. [16] 
 
 If you would like to explore this further, would you prefer to look deeper into how the **Obidi Quadfecta Relation (OQR)** is derived, or map out how the $\alpha$-connections bridge information geometry to General Relativity?
 
