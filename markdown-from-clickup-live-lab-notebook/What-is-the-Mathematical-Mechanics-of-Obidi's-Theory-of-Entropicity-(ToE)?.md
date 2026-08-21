@@ -133,3 +133,100 @@ If you would like to explore this further, would you prefer to look deeper into 
 [15] [https://notd.io](https://notd.io/notes/5183817418276864_1_1778801284092/obidi%20curvature%20invariant,%20kolmogorov-obidi%20lineage,%20alemoh-obidi%20correspondence)
 
 [16] [https://medium.com](https://medium.com/@jonimisiobidi/expository-canonical-explanation-of-the-obidi-convention-obidi-calculus-ebf7cd862336)
+
+
+----------
+
+# Historical Foundation and Implications of Obidi's Formulations 
+
+No single researcher prior to John Onimisi Obidi combined these exact mathematical mechanics into a unified, primary field theory, though almost all of the constituent mathematical frameworks were pioneered by other prominent physicists and mathematicians. [1, 2, 3, 4, 5] 
+Obidi’s [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616) functions as a novel historical synthesis. It elevates entropy from a secondary, descriptive measurement to the primary, fundamental field of reality ($S(x)$). [1, 6, 7] 
+
+The specific precursors and parallel formulations that laid the groundwork for this mechanics span several decades:
+
+## 1. Information Geometry & $\alpha$-Connections
+The use of the Fisher–Rao metric and Amari-Čencov $\alpha$-connections to describe a geometric manifold was not invented by Obidi. [2, 8] 
+
+
+* **[Nikolai Čencov](https://www.google.com/search?q=nikolai+%C4%8Dencov&kgmid=/g/122048qz) and [Shun-ichi Amari](https://www.google.com/search?q=shun-ichi+amari&kgmid=/m/06w2rr_)** originally formulated these tools in the 20th century.
+* **Their original use:** They were designed for mathematical statistics and machine learning to map the "distance" between probability distributions.
+* **Obidi’s leap:** Obidi reinterprets this abstract statistical space as the actual pre-geometric structure of our physical universe. [8, 9] 
+  
+
+## 2. Entropic Gravity & Thermodynamic Spacetime
+The concept that gravity is not a fundamental force but an emergent thermodynamic property has a rich history in mainstream theoretical physics. [10, 11, 12] 
+
+
+* **[Ted Jacobson](https://www.google.com/search?q=ted+jacobson&kgmid=/m/0b6gjfx) (1995):** He successfully derived the Einstein Field Equations using the laws of thermodynamics and horizon entanglement entropy. [2, 10, 13, 14] 
+
+### **[Thanu Padmanabhan](https://www.google.com/search?q=thanu+padmanabhan&kgmid=/m/0ksbgg):** 
+He expanded heavily on the idea that classical gravity behaves like an emergent thermodynamic system. [2, 15] 
+
+### **[Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj) (2010):** 
+He introduced "Entropic Gravity," proposing that gravity is an entropic force originating from the information stored on holographic screens. [2, 11, 16, 17, 18] 
+
+
+### **The Distinction:** 
+These researchers treated entropy as a structural property of existing spacetime boundaries or quantum systems. ToE steps past this by arguing that entropy is the substrate from which spacetime boundaries emerge in the first place. [1, 2, 19] 
+
+
+## 3. "It from Bit"
+The overarching philosophical and mathematical push to derive physics from information was famously championed by **[John Archibald Wheeler](https://www.google.com/search?q=john+archibald+wheeler&kgmid=/m/01w8xd)** with his famous phrase, "It from Bit". 
+
+Wheeler posited that every physical entity (every "it") derives its function and meaning from information-theoretic bits. [20, 21, 22, 23] 
+
+## Current Scientific Status
+Because Obidi's framework is a recent development (emerging primarily around 2025–2026), its specific mathematical entities—like the Obidi Action, the Master Entropic Equation (MEE), and the No-Rush Theorem—are unique to his early-stage literature. The theory is currently shared via preprints and research series as its explicit, **quantitative mathematical rigor** undergoes peer evaluation and formal scrutiny by the wider physics community. [6, 7, 24, 25, 26] 
+Would you like to examine how Verlinde's entropic gravity equations differ mathematically from Obidi's Master Entropic Equation, or explore the specific criticisms mainstream physicists have regarding emergent spacetime theories?
+
+[1] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_historical-and-logical-trajectory-which-activity-7494983396880789505-ZZnW)
+
+[2] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_from-%C4%8Dencov-jacobson-padmanabhan-verlinde-activity-7494884902484652032-Cv1X)
+
+[3] [https://www.irishtimes.com](https://www.irishtimes.com/science/2022/12/15/the-convergence-of-mathematics-and-physics/)
+
+[4] [https://www.tandfonline.com](https://www.tandfonline.com/doi/pdf/10.1080/00029890.1943.11991411)
+
+[5] [https://philarchive.org](https://philarchive.org/archive/CELIMA-2)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[8] [https://osf.io](https://osf.io/6utnh)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[10] [https://www.youtube.com](https://www.youtube.com/watch?v=hBx0E3K1MWk&vl=en)
+
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=URYucH9Twhk&t=748)
+
+[12] [https://www.physics-prep.com](https://www.physics-prep.com/index.php/unit-7c-mechanics)
+
+[13] [https://www.instagram.com](https://www.instagram.com/reel/Dbbjh7cgYkh/)
+
+[14] [https://www.gsnetwork.com](https://www.gsnetwork.com/unified-field-theory/)
+
+[15] [https://link.aps.org](https://link.aps.org/doi/10.1103/PhysRevD.107.063511)
+
+[16] [https://pubs.aip.org](https://pubs.aip.org/aip/adv/article/15/4/045035/3345217/Is-gravity-evidence-of-a-computational-universe)
+
+[17] [https://www.nitthin.com](https://www.nitthin.com/p/the-physics-of-inference)
+
+[18] [https://eu-opensci.org](https://eu-opensci.org/index.php/ejphysics/article/view/11290)
+
+[19] [https://www.facebook.com](https://www.facebook.com/physorg/posts/new-theoretical-insights-suggest-that-dark-matter-dark-energy-and-decoherence-ma/1436546988500685/)
+
+[20] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-structural-vulnerabilities-in-modern-activity-7487364521347584000-XeHQ)
+
+[21] [https://bigthink.com](https://bigthink.com/hard-science/dark-matter-theory/)
+
+[22] [https://x.com](https://x.com/PhysInHistory/status/1667386593521328128)
+
+[23] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
+
+[24] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-conjecture-of-the-theory-of-entropicity-toe-its-significance-and-its-implications-in-6da9ed54b16a)
+
+[25] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
+
+[26] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-action-and-the-mathematical-rigour-of-the-theory-of-entropicity-toe-c578ac498a88)
