@@ -385,32 +385,34 @@ In this scenario, there is a rich, highly active substrate of Sector 2 (Entropic
 Let's plug these boundary conditions into the mixed hierarchical tensor $T^{i_a \cdot \dot{j}_b}$ and observe the mathematical results.
 
 ------------------------------
+
 ## Step 1: Calculate the Internal Sums (Free Indices)
 The free index $i_a$ dictates that we sum the components across both sectors. Since the physical spacetime sector ($a=1$) is a vacuum, all components where $a=1$ drop to $0$:
 
 * For configuration $\dot{1}_1$:
 
-$\underbrace{T^{1_1 \cdot \dot{1}_1}}_{0} + T^{1_2 \cdot \dot{1}_1} + \underbrace{T^{2_1 \cdot \dot{1}_1}}_{0} + T^{2_2 \cdot \dot{1}_1} = \mathbf{T^{1_2 \cdot \dot{1}_1} + T^{2_2 \cdot \dot{1}_1}}$
+$$\underbrace{T^{1_1 \cdot \dot{1}_1}}_{0} + T^{1_2 \cdot \dot{1}_1} + \underbrace{T^{2_1 \cdot \dot{1}_1}}_{0} + T^{2_2 \cdot \dot{1}_1} = \mathbf{T^{1_2 \cdot \dot{1}_1} + T^{2_2 \cdot \dot{1}_1}}$$
 
 
 * For configuration $\dot{1}_2$:
 
-$\underbrace{T^{1_1 \cdot \dot{1}_2}}_{0} + T^{1_2 \cdot \dot{1}_2} + \underbrace{T^{2_1 \cdot \dot{1}_2}}_{0} + T^{2_2 \cdot \dot{1}_2} = \mathbf{T^{1_2 \cdot \dot{1}_2} + T^{2_2 \cdot \dot{1}_2}}$
+$$\underbrace{T^{1_1 \cdot \dot{1}_2}}_{0} + T^{1_2 \cdot \dot{1}_2} + \underbrace{T^{2_1 \cdot \dot{1}_2}}_{0} + T^{2_2 \cdot \dot{1}_2} = \mathbf{T^{1_2 \cdot \dot{1}_2} + T^{2_2 \cdot \dot{1}_2}}$$
 
 
 * For configuration $\dot{2}_1$:
 
-$\underbrace{T^{1_1 \cdot \dot{2}_1}}_{0} + T^{1_2 \cdot \dot{2}_1} + \underbrace{T^{2_1 \cdot \dot{2}_1}}_{0} + T^{2_2 \cdot \dot{2}_1} = \mathbf{T^{1_2 \cdot \dot{2}_1} + T^{2_2 \cdot \dot{2}_1}}$
+$$\underbrace{T^{1_1 \cdot \dot{2}_1}}_{0} + T^{1_2 \cdot \dot{2}_1} + \underbrace{T^{2_1 \cdot \dot{2}_1}}_{0} + T^{2_2 \cdot \dot{2}_1} = \mathbf{T^{1_2 \cdot \dot{2}_1} + T^{2_2 \cdot \dot{2}_1}}$$
 
 
 * For configuration $\dot{2}_2$:
 
-$\underbrace{T^{1_1 \cdot \dot{2}_2}}_{0} + T^{1_2 \cdot \dot{2}_2} + \underbrace{T^{2_1 \cdot \dot{2}_2}}_{0} + T^{2_2 \cdot \dot{2}_2} = \mathbf{T^{1_2 \cdot \dot{2}_2} + T^{2_2 \cdot \dot{2}_2}}$
+$$\underbrace{T^{1_1 \cdot \dot{2}_2}}_{0} + T^{1_2 \cdot \dot{2}_2} + \underbrace{T^{2_1 \cdot \dot{2}_2}}_{0} + T^{2_2 \cdot \dot{2}_2} = \mathbf{T^{1_2 \cdot \dot{2}_2} + T^{2_2 \cdot \dot{2}_2}}$$
 
 ## The Logical Difference (The Free Index Safe Zone)
 Notice a critical structural difference here compared to the previous scenario. Because the free indices use the Addition Rule, the absence of spacetime ($0$) does not wipe out these individual terms. The entropic information components ($a=2$) survive the addition process intact.
 
 ------------------------------
+
 ## Step 2: Apply the Dotted Index (The Multiplication Rule)
 Next, we take these four surviving informational sums and multiply them together according to the product rule of the dotted index $\dot{j}_b$.
 However, remember our boundary condition: Spacetime is completely empty everywhere. This means any configuration where the dotted index points to the spacetime sector ($b=1$) must also evaluate to $0$. Let's see what happens to our four configuration blocks:
@@ -421,8 +423,11 @@ However, remember our boundary condition: Spacetime is completely empty everywhe
 * Block $\dot{2}_2$ (Spacetime Dimension 2, Information Sector 2): Information is active, so this block is a Surviving Sum.
 
 Now, we multiply the four blocks together to get the final total tensor value:
+
 $$\text{Total Value} = (\mathbf{0}) \times (\text{Surviving Sum}_{1_2}) \times (\mathbf{0}) \times (\text{Surviving Sum}_{2_2}) = \mathbf{0}$$ 
+
 ------------------------------
+
 ## The Theoretical Interpretation of a Spacetime Vacuum
 This mathematical outcome provides a profound asymmetric insight into how the calculus models the universe. Even though the information states survived the addition phase, the total interactive tensor still collapses to absolute zero.
 In the language of Obidi's Theory of Entropicity, this behavior dictates a clear set of theoretical principles:
@@ -465,10 +470,13 @@ The introduction of the Amari-Čencov connection ensures that the total tensor v
 Instead of a total mathematical shutdown, the universe enters a state of pure statistical dynamics. There are no physical distances, meters, or seconds (no spacetime), but there is a non-linear, twisting network of informational relationships. The calculus shows that the universe can "churn" statistically before physical geometry ever crystallizes.
 
 ------------------------------
+
 ## 2. The Spacetime Vacuum in the Vuli-Ndlela Path Integral
 To see how this pre-geometric substrate transforms into actual reality, we look at the Vuli-Ndlela Integral, which replaces the classical quantum path integral in this theory.
 The standard Feynman path integral calculates a probability amplitude using classical action ($S$):
+
 $$\Psi \sim \int e^{\frac{i}{\hbar}S[x]} \mathcal{D}x$$ 
+
 The Vuli-Ndlela Integral alters this by weighting paths according to an Entropic Action ($S_E$), using the unified index structures of the Obidi Calculus:
 $$\mathcal{Z} = \int \exp \left( - \int T^{i_a \cdot \dot{j}_b} \, d\Omega \right) \mathcal{D}\mu$$ 
 ## Behavior Under a Spacetime Vacuum
@@ -498,6 +506,7 @@ The reason the total result is not zero under a spacetime vacuum—whereas it is
 Let’s prove this logically by writing out the exact components.
 
 ------------------------------
+
 ## 1. The Core Definition of the Amari-Čencov $\alpha$-Connection
 In information geometry, the connection components $\Gamma_{abc}^{(\alpha)}$ describe how a statistical manifold twists. When mapped into the Einstein-Obidi Calculus, this object is represented with hierarchical indices:
 
@@ -538,9 +547,10 @@ If we plug these into the product rule, we get:
 $$\text{Total Connection Value} = (0) \times (X) = 0$$ 
 
 Wait—it still equals zero! How does it rescue the system?
+
 It rescues the system because the Amari-Čencov connection introduces a parameter called $\alpha$. In information geometry, the $\alpha$-connection has a famous mathematical duality property:
 
-$$\Gamma^{(\alpha)} = \frac{1+\alpha}{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}$$ 
+$$\Gamma^{(\alpha)} = \frac{1+\alpha{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}$$ 
 
 Because of this inherent duality, the connection is never expanded as a single, isolated product block. It splits the interaction into a sum of dual connection pathways (the $+1$ exponential connection and the $-1$ mixture connection):
 
@@ -549,7 +559,9 @@ $$\text{Total System Action} \propto \left[ \prod (\Gamma^{(1)}) \right] + \left
 Because the algebra splits into two separate operational pathways before multiplying, the pure information sector ($c=2$) can close its own loop independently of the spacetime sector ($c=1$). This yields a final, non-zero system value driven purely by the $\alpha$-skewness of the information manifold:
 
 $$\mathbf{\text{Total System Value} \neq 0}$$ 
+
 ------------------------------
+
 ## 3. Case B: The Information Vacuum (Information = 0)
 Now let's flip it. What happens if spacetime is active (Sector 1 $\neq$ 0) but the entropic information field is completely dead (Sector 2 = 0)?
 Let's look at the foundational math of the connection again:
