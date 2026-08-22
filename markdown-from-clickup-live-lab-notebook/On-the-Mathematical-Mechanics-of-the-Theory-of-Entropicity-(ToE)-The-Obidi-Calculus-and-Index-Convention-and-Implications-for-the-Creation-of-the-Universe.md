@@ -550,11 +550,16 @@ Wait—it still equals zero! How does it rescue the system?
 
 It rescues the system because the Amari-Čencov connection introduces a parameter called $\alpha$. In information geometry, the $\alpha$-connection has a famous mathematical duality property:
 
-$$\Gamma^{(\alpha)} =\frac{1+\alpha{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}$$ 
-
 $$
 \Gamma^{(\alpha)} 
 = \frac{1-\alpha}{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}
+$$
+
+or the general form:
+
+$$
+\Gamma^{(\alpha)} 
+= \frac{1-\alpha}{2}\Gamma^{(\lamda)} + \frac{1-\alpha}{2}\Gamma^{(-\lambda)}
 $$
 
 Because of this inherent duality, the connection is never expanded as a single, isolated product block. It splits the interaction into a sum of dual connection pathways (the $+1$ exponential connection and the $-1$ mixture connection):
