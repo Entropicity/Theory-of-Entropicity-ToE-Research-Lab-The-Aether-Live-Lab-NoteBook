@@ -73,7 +73,7 @@ The Theory of Entropicity removes the mystery from quantum mechanics by embeddin
 In standard physics, quantum particles exist as mathematical clouds of probability. ToE asserts that these particles are real entropic configurations that simply have low distinguishability. They do not possess a fixed identity until an interaction forces the entropic field to rearrange.
 
 ### The Invariant Threshold $ln(2)$: 
-Obidi introduces the Obidi Curvature Invariant, which is mathematically fixed at $ln(2)$. This value represents the fundamental unit of "entropic cost". Physical reality only "registers" or acknowledges a quantum state change once the entropic curvature crosses this specific mathematical threshold.
+Obidi introduces the **Obidi Curvature Invariant (OCI),** which is mathematically fixed at $ln(2)$. This value represents the fundamental unit of "entropic cost". Physical reality only "registers" or acknowledges a quantum state change once the entropic curvature crosses this specific mathematical threshold.
 
 ### Entanglement as Field Connection: 
 Quantum entanglement occurs when two particles remain instantly connected across vast distances. ToE explains this by removing the background of space entirely. Because space is emergent, entangled particles are not separated. They are simply shared points on the same underlying entropic manifold.
