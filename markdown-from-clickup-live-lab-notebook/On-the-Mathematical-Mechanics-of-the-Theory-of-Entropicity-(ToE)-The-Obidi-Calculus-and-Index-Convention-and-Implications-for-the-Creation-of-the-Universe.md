@@ -554,7 +554,7 @@ $$\Gamma^{(\alpha)} =\frac{1+\alpha{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(
 
 $$
 \Gamma^{(\alpha)} 
-= 1 + \frac{\alpha}{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}
+= \frac{1-\alpha}{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}
 $$
 
 Because of this inherent duality, the connection is never expanded as a single, isolated product block. It splits the interaction into a sum of dual connection pathways (the $+1$ exponential connection and the $-1$ mixture connection):
