@@ -7,10 +7,17 @@ The Obidi Convention is a [hierarchical index system](https://medium.com/@jonimi
 ## Core Architecture
 
 
-* Primary Index: Identifies coordinate position and variance in the multi-sector manifold. [1] 
-* Secondary Index: Encodes the underlying information-geometric or physical sector (statistical, quantum, or spacetime). [1] 
-* Obidi Calculus Rules: Free hierarchical indices expand via an addition rule (double sums), while dotted indices expand via a multiplication rule (double products). [1] 
-* Einstein–Obidi Calculus: Fuses these multi-sector hierarchical rules with the standard [Einstein summation convention](https://phys.libretexts.org/Bookshelves/Relativity/Special_Relativity_%28Crowell%29/06%3A_Waves/6.07%3A_Abstract_Index_Notation) to compute values across a Hybrid Metric-Affine Space. [1] 
+### Primary Index: 
+Identifies coordinate position and variance in the multi-sector manifold. [1] 
+
+### Secondary Index: 
+Encodes the underlying information-geometric or physical sector (statistical, quantum, or spacetime). [1] 
+
+### Obidi Calculus Rules: 
+Free hierarchical indices expand via an addition rule (double sums), while dotted indices expand via a multiplication rule (double products). [1] 
+
+### Einstein–Obidi Calculus: 
+Fuses these multi-sector hierarchical rules with the standard [Einstein summation convention](https://phys.libretexts.org/Bookshelves/Relativity/Special_Relativity_%28Crowell%29/06%3A_Waves/6.07%3A_Abstract_Index_Notation) to compute values across a Hybrid Metric-Affine Space. [1] 
   
 
 Would you like to explore how the Obidi Action Principle or the Obidi Curvature Invariant utilizes this notation?
