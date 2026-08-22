@@ -6,6 +6,86 @@ Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Found
 
 -----------
 
+*Saturday, 22nd August, 2026:**
+
+
+# Discussions on Einstein's Annus Mirabilis of 1905 in a video clip involving the legendary**Neil deGrasse Tyson NDT (Non Destructive Testing/Tester!)**
+
+
+## From Owolawi to Obidi:
+
+https://www.facebook.com/share/v/1LnXxDMeGu/
+
+
+## From Obidi to Owolawi: 
+
+* Honestly, Einstein was simply mad and crazy!!!!
+
+
+* Einstein should have been awarded the Nobel Prize in each of his 5  Annus Mirabilis papers!
+
+------
+
+In the photoelectric effect, Einstein resurrected Newton, and de Broglie nailed the coffin finally with his wave particle duality. It took about 2 decades for that momentous discovery after Einstein:
+
+Einstein showed that something traditionally viewed as a wave (light) can act like a particle. 
+
+De Broglie flipped this logic on its head. He argued that if light waves could act like particles, then moving particles (matter) should also be able to act like waves.
+
+These are all acts of pure genius!
+
+--------
+
+* Einstein and de Broglie finally reconciled Isaac Newton and Christian Huygens on the problematic wave and particle natures of light.
+
+---------
+
+# From Owolawi to Obidi:
+
+It seems like at certain intervals in life, God sends angels in form of humans to help open the eyes and minds of humans to broader knowledge that advances humanity.
+
+# Obidi's Response 
+
+Prof., You have nailed it finally again!
+
+--------
+
+# From Obidi to Owolawi: 
+
+On special Relativity, Einstein invoked the spirit of Newton once again: Newton saw one apple and its fall, and declared that the whole universe must behave the same way and promulgated his Universal Theory of Gravitation UTG. He didn't have to travel outside his village Cambridge to know about the farthest reaches of the cosmos and demand that it must be so!
+
+
+Einstein did the same for the speed of light. Einstein did not have to enter any laboratory or observatory to declare that the speed of light must remain Invariant on earth or on Jupiter. He saw it all from his ramshackle room in Berlin. 
+
+Einstein and Newton demonstrated high ranking positivistic philosophy in their pursuits. Paul Samuelson paid homage to Newton in this respect in his great work on Positive Economics.
+
+
+-------
+
+Einstein went on further to make another Newtonian pronouncement in his Principle of Equivalence PoE. 
+
+That singular statement is of another Nobel Prize Winning caliber!
+
+-------
+
+In the spirit of Newton, Einstein declared: Whether you are  accelerating in a vehicle or you are falling freely in an elevator lift, or falling freely off a roof top or cliff top, there is no way you can say it is or it is not the influence of Gravitation!
+
+---------
+
+From that singular statement, Einstein formulated his incomparable Theory of General Relativity!
+
+---------
+
+Newton and Einstein saw common phenomena and declared that they must be so everywhere and gave us the mathematical foundations for their declarations.
+
+------------
+
+His paper on the Brownian motion is another classical achievement in the history of science. Einstein demonstrated that the great Greek philosophers were indeed correct in their understanding of Matter as composed of atoms!
+
+
+-----------
+-----------
+
 ## Addendum made on Wednesday, 12th August, 2026
 
 Prof, it has also just come to my attention that the earlier discussions we had in which you formulated what I came to call the Owolawi Existential Constraint (OEC)....that in the Chinese philosophical tradition, it is the Ying and Yang; and that we also find such correspondence in the Yoruba foundation of existential duality in "Ire-Atibi", of good and evil conjoined in an eternal matrix.
