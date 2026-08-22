@@ -552,6 +552,11 @@ It rescues the system because the Amari-Čencov connection introduces a paramete
 
 $$\Gamma^{(\alpha)} =\frac{1+\alpha{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}$$ 
 
+$$
+\Gamma^{(\alpha)} 
+= 1 + \frac{\alpha}{2}\Gamma^{(1)} + \frac{1-\alpha}{2}\Gamma^{(-1)}
+$$
+
 Because of this inherent duality, the connection is never expanded as a single, isolated product block. It splits the interaction into a sum of dual connection pathways (the $+1$ exponential connection and the $-1$ mixture connection):
 
 $$\text{Total System Action} \propto \left[ \prod (\Gamma^{(1)}) \right] + \left[ \prod (\Gamma^{(-1)}) \right]$$ 
