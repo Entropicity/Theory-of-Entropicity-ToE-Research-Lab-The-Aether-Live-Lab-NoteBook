@@ -340,7 +340,7 @@ In ToE, this means that the family of $\(\alpha\)$-geometries is not arbitrary; 
 ------------
 
 
-# How did Obidi make use of this transform in ToE
+# How did Obidi make use of this Legendre-Fenchel Transform in his Theory of Entropicity (ToE)
 
 In his Theory of Entropicity (ToE), researcher John Onimisi Obidi utilizes a specialized logarithmic extension of Legendre-Fenchel duality to map a timeless, foundational informational manifold directly into the physical, curved geometry of spacetime. This mathematical mechanism—often referred to as part of the [Obidi Transformation](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)—serves as the mathematical bridge that allows gravity, time, and matter to emerge from a deeper entropic substrate. [1, 2, 3, 4] 
 
