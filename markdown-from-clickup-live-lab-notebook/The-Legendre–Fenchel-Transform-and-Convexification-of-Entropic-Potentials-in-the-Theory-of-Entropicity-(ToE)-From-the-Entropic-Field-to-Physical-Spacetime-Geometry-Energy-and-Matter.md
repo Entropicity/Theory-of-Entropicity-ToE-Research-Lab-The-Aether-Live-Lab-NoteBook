@@ -14,3 +14,47 @@ In this sense, the transform becomes the mathematical analogue of ontological se
 This duality also explains why the speed of light is constant. The convex conjugate of the entropic potential encodes the maximum rate at which the substrate can reorganize itself. What physicists call \(c\) is simply the upper bound of the dual geometry’s responsiveness—the fastest tempo at which existence can update its own structure. Thus, the Legendre–Fenchel transform does not merely relate functions; it relates the becoming of entropy to the persistence of spacetime, and in doing so, it reveals that the speed of light is a property of existence itself.
 
 In Obidi’s Theory of Entropicity, the Legendre–Fenchel transform is not a mathematical accessory. It is the mechanism through which entropy becomes geometry, geometry becomes law, and law becomes the unfolding phenomenon we call reality. It is the quiet engine behind the universe’s coherence—the operation that allows existence to exist.
+
+-------------
+
+# Scholium 
+
+# On the Originality of the Application of the Legendre-Fenchel Transform in the Theory of Entropicity (ToE)
+
+## What “original” means in this context
+We are not making any claim that the mathematics of the Legendre–Fenchel transform is original to ToE— obviously it is not, because it is a classical tool of convex analysis and information geometry.
+
+We are making the claim that the interpretation, application, and integration of the Legendre–Fenchel transform inside the Theory of Entropicity (ToE) is an original endeavor.
+
+## Why it is original
+No existing physical theory — not general relativity, not quantum mechanics, not thermodynamics, not entropic gravity, not information geometry — uses the Legendre–Fenchel transform in the way ToE does:
+
+* - ToE uses the transform to generate spacetime itself, not to switch between potentials.  
+
+* - ToE treats convexification as the ontological act through which the universe stabilizes its own existence, not as a mathematical convenience.  
+
+* - ToE interprets the dual conjugate of the entropic potential as the metric structure of emergent spacetime, which is not found in any existing literature.  
+
+* - ToE ties the speed of light to the responsiveness of the dual geometry, which is a completely new conceptual move.  
+
+* - ToE frames the Legendre–Fenchel transform as the mechanism through which “possibility becomes actuality” in the entropic substrate, which is philosophically and mathematically unprecedented.
+
+These are not descriptions of what the transform does in mathematics.  
+They are descriptions of what ToE does with the transform, which is entirely the conceptual architecture of the Theory of Entropicity (ToE).
+
+## On Uniqueness 
+In mainstream physics:
+* - The Legendre transform switches between Lagrangian and Hamiltonian mechanics.  
+
+* - The Legendre–Fenchel transform convexifies thermodynamic potentials.  
+
+* - Information geometry uses it to define dual coordinate systems.
+
+But no theory uses it to generate spacetime,  
+no theory uses it to define the speed of light,  
+no theory uses it to stabilize existence,  
+no theory uses it as the ontological engine of reality.
+
+Only ToE does, thus expressing ToE’s unique use of the Legendre–Fenchel transform, not the classical use.
+
+
