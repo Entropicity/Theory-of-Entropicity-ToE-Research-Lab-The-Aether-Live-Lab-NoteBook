@@ -12,7 +12,7 @@ In standard physics (like the AdS/CFT correspondence proposed by Juan Maldacena)
 
 
 ### A Continuous Local Field: 
-Instead of locating information on a faraway 2D screen, the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/the-ryu-takayanagi-formula-of-holographic-spacetime-and-its-reformulation-in-obidis-theory-of-208afe943933) proposes that a continuous entropic field $S(x,t)$ exists locally and natively everywhere in space. [3, 5] 
+Instead of locating information on a faraway 2D screen, the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/the-ryu-takayanagi-formula-of-holographic-spacetime-and-its-reformulation-in-obidis-theory-of-208afe943933) proposes that a continuous entropic field $S(x,t)$ exists locally and natively everywhere in spacetime. [3, 5] 
 
 ### Inverting the Ryu-Takayanagi Formula: 
 In traditional holography, the Ryu-Takayanagi formula states that geometric bulk areas determine quantum boundary entanglement. Obidi's framework reverses this causality: the local flow and internal constraints of the entropic field are what generate the illusion of macroscopic space, time, and gravity right where we are. [3, 5] 
@@ -23,7 +23,7 @@ Rather than counting discrete information bits on a 2D perimeter, ToE relies on 
 This value is treated as a local, structural limit—the minimum geometric difference required for two states to be physically distinct anywhere in the universe. [1, 6] 
 
 
-By embedding information geometry directly into a local field, Obidi's model attempts to turn holography from a strange, non-local "cosmic projection" into an intrinsic, fluid thermodynamic process happening all around us. [3, 5] 
+By embedding information geometry directly into a local field, Obidi's Theory of Entropicity (ToE) attempts to turn holography from a strange, non-local "cosmic projection" into an intrinsic, fluid thermodynamic process happening all around us. [3, 5] 
 
 If you'd like to explore this further, would you prefer to look at how time specifically emerges from this local entropic flow, or look at how it tries to absorb the behavior of quantum mechanics without using traditional qubits? [3, 5] 
 
