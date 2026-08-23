@@ -1,4 +1,4 @@
-# International Journal Evolving Sustainable and Renewable Energy Solutions
+# International Journal of Evolving Sustainable and Renewable Energy Solutions
 
 
 
@@ -17,9 +17,9 @@ To: <jonimisiobidi@gmail.com>
 
 I hope this message finds you well.
 
-Your posted article: “The Theory of Entropicity (ToE) Derives and Explains Mass Increase, Time Dilation and Length Contraction in Einstein’s Theory of Relativity (ToR)” contains elements that align with our journal scope.
+Your posted article: **“The Theory of Entropicity (ToE) Derives and Explains Mass Increase, Time Dilation and Length Contraction in Einstein’s Theory of Relativity (ToR)”** contains elements that align with our journal scope.
 
-We cordially invite you to submit your article to our prestigious journal, International Journal Evolving Sustainable and Renewable Energy Solutions (ISSN: 3068-9325).
+We cordially invite you to submit your article to our prestigious journal, International **Journal of Evolving Sustainable and Renewable Energy Solutions (ISSN: 3068-9325).**
 
 Your exceptional research and expertise would greatly enhance our collection.
 
