@@ -107,7 +107,7 @@ A-ase!
 
 *WHO CREATED THE CREATOR?* 
 
-A guy named *Norm* said _there has to be a creator_ .
+A guy named *Norm* said _there has to be a creator.
 
 Then *Pamela Smyth* asks _who created the creator?_ 
 
