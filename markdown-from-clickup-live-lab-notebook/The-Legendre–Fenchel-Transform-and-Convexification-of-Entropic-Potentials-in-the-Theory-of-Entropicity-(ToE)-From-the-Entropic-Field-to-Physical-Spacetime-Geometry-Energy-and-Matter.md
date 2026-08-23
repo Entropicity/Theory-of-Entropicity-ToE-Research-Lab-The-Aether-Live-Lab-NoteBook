@@ -249,16 +249,9 @@ Here, $\(\theta\)$ are “primal” entropic coordinates (e.g., source‑side pa
 
 ---
 
-2. Legendre–Fenchel transform: convex conjugate of the entropic potential
+## 2. Legendre–Fenchel transform: convex conjugate of the entropic potential
 
 The Legendre–Fenchel transform of $\(\Psi\)$ is its convex conjugate $\(\Phi(\eta)\)$, defined by:
-
-$$\[\Phi(\eta) = \sup_{\theta \in \Theta}\left\{ \langle \eta, \theta \rangle - \Psi(\theta) \right\}\]$$
-
-$$
-\Phi(\eta) = \sup_{\theta \in \Theta} \left\{ \langle \eta, \theta \rangle - \Psi(\theta) \right\}
-$$
-
 
 $$
 \Phi(\eta) = \sup_{\theta \in \Theta} \{ \langle \eta, \theta \rangle - \Psi(\theta) \}
@@ -271,7 +264,7 @@ In ToE, $\(\Psi\)$ lives on the primal side of the entropic field, while $\(\Phi
 
 ---
 
-3. Dual coordinates as gradients of the entropic potential
+## 3. Dual coordinates as gradients of the entropic potential
 
 When $\(\Psi\)$ is differentiable and strictly convex, the supremum is attained at the point where
 
@@ -323,13 +316,15 @@ for some ToE‑specific functional $\(\mathcal{F}_{\mu\nu}\)$ that maps the dual
 
 If the raw entropic potential $\(\Psi\)$ is not convex (due to phase transitions, entropic wells, or horizon‑like structures), the Legendre–Fenchel transform automatically yields its convex envelope:
 
-$$\[\Phi(\eta) = \sup_{\theta} \left\{\langle \eta, \theta \rangle - \Psi(\theta) \right\}\]$$
+$$
+\Phi(\eta) = \sup_{\theta} \{ \langle \eta, \theta \rangle - \Psi(\theta) \}
+$$
 
 This convexification ensures that the dual geometry derived from $\(\Phi\)$ is stable and physically admissible. In ToE, this is interpreted as the universe selecting only those entropic configurations that can support coherent spacetime and causal structure.
 
 ---
 
-6. Interaction with Amari–Čencov $\(\alpha\)$-connections
+## 6. Interaction with Amari–Čencov $\(\alpha\)$-connections
 
 On the entropic manifold, ToE employs Amari–Čencov $\(\alpha\)$-connections. The $\(\alpha = 1\)$ and $\(\alpha = -1\)$ connections correspond to two dual affine structures associated with $\(\Psi\)$ and $\(\Phi\)$. The Legendre–Fenchel transform is the operation that guarantees these dual structures are consistently related:
 
