@@ -7,7 +7,7 @@ Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Found
 -----------
 -----------
 
-*Saturday, 22nd August, 2026:**
+**Saturday, 22nd August, 2026:**
 
 
 # Discussions on Einstein's Annus Mirabilis of 1905 in a video clip involving the legendary**Neil deGrasse Tyson NDT (Non Destructive Testing/Tester!)**
