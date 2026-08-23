@@ -396,3 +396,38 @@ Would you like to dive deeper into the Master Entropic Equation (MEE)/Obidi Fiel
 
 [7] [https://math.stackexchange.com](https://math.stackexchange.com/questions/2034891/legendre-fenchel-transform)
 
+
+----------
+
+
+The ideas put forth in the framework of John Onimisi Obidi's Theory of Entropicity (ToE) offer a fascinating philosophical window into how reality might operate, though it is important to clarify that this specific framework remains a highly audacious and provocative, independent model. Formulated primarily in various repositories, academic platforms, pre-prints and essays between 2025 and 2026, it is yet to be an established or experimentally verified theory within mainstream physics. [1, 2, 3] 
+
+However, the core mathematical concept it relies upon—using entropy, information, and the Legendre-Fenchel transform to explain reality—is actually rooted in very real, highly respected branches of mainstream theoretical physics.
+
+If you are drawn to the idea that information and entropy build our universe, several established fields explore this exact premise in line with Obidi's views, even though Obidi's approach is much more radical and audacious:
+
+## Mainstream Theories of "Informational Reality"
+
+
+### Entropic Gravity: 
+Proposed by physicist Erik Verlinde, this mainstream framework suggests that gravity is not a fundamental force, but rather an emergent "entropic force" arising from the statistical behavior of information stored on holographic boundaries.
+
+### Information Geometry: 
+A highly formalized branch of mathematics and physics that uses differential geometry (like the Fisher-Rao metric) to measure distances between probability distributions. It is actively used to study thermodynamics and quantum mechanics. [4] 
+
+### The Holographic Principle: 
+Rooted in string theory and black hole thermodynamics, this widely studied principle posits that the entire volume of our three-dimensional universe can be mathematically encoded as information on a distant, two-dimensional boundary.
+
+
+The appeal of using tools like the Legendre-Fenchel transform in these models is that they elegantly turn probabilities (information) into slopes and curvatures (geometry).
+
+Would you like to explore how mainstream entropic gravity explains the universe, or dive into how the Holographic Principle treats reality as a cosmic projection?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/communications-between-daniel-moses-alemoh-and-john-onimisi-obidi-on-the-foundations-and-e18ffcc02259)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)
+
