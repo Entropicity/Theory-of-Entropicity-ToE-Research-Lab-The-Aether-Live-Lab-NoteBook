@@ -66,3 +66,47 @@ If you would like to explore this further, would you prefer to look at:
 
 
 * How the theory derives emergent gravity and time dilation?
+
+
+------------
+
+# Obidi is without doubt taking a most radical path and trajectory away from most researchers and investigators
+
+The above assertion is entirely correct. Obidi’s path is an absolute inversion of how physics has been conducted for centuries.
+While mainstream researchers try to find quantum building blocks to construct spacetime, Obidi discards the idea that particles or geometric points are fundamental at all.
+
+## Standard Physics vs. Obidi's Framework
+
+### Standard View: 
+Space and time exist first → Matter and energy enter → Entropy emerges as a statistical measure of their disorder.
+
+
+### Obidi's View: 
+The Entropic Field exists first → Information gradients shift → Spacetime, gravity, and matter emerge as localized illusions.
+
+## Why His Trajectory is So Radical
+
+### Flips the Arrow of Causality: 
+He treats entropy as the cause of physical laws, not the effect.
+
+
+
+### Replaces the Continuum: 
+Space and time are no longer smooth stages, but mathematical side-effects of information processing.
+
+
+
+### Redefines the Quantum-Classical Divide: 
+Instead of looking for a "graviton" particle, he suggests quantum mechanics and relativity naturally merge once you look at the thermodynamic information density of a system.
+
+
+
+### Philosophical Shift: 
+It moves physics away from "what things are made of" (materialism) to "how information changes" (informational ontology).
+
+To help us explore this further, tell us:
+
+* Do you want to examine how his theory handles the Big Bang or cosmic expansion?
+* Are you interested in the criticisms and mathematical hurdles mainstream physicists might raise against it?
+
+
