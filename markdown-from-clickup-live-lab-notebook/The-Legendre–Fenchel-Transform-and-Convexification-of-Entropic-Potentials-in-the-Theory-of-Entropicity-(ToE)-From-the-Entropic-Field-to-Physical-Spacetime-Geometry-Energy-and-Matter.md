@@ -336,5 +336,63 @@ where $\(\Gamma^{(1)}\)$ and $\(\Gamma^{(-1)}\)$ are the connection coefficients
 
 In ToE, this means that the family of $\(\alpha\)$-geometries is not arbitrary; it is anchored in the Legendre–Fenchel duality of the entropic potentials, ensuring that all entropic deformations of geometry remain tied to a single underlying substrate.
 
----
+
+------------
+
+
+# How did Obidi make use of this transform in ToE
+
+In his Theory of Entropicity (ToE), researcher John Onimisi Obidi utilizes a specialized logarithmic extension of Legendre-Fenchel duality to map a timeless, foundational informational manifold directly into the physical, curved geometry of spacetime. This mathematical mechanism—often referred to as part of the [Obidi Transformation](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)—serves as the mathematical bridge that allows gravity, time, and matter to emerge from a deeper entropic substrate. [1, 2, 3, 4] 
+
+## 1. Action Duality (The Obidi vs. Einstein-Hilbert Action)
+
+
+### Structural Correspondence: 
+Obidi uses extended Legendre-Fenchel duality to demonstrate a direct equivalence between the [Obidi Action](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921) (governing information thermodynamics) and the classical Einstein-Hilbert Action of General Relativity. [2] 
+
+### Variable Conjugation: 
+Just as the classical transform links positions to momenta, Obidi’s version conjugates abstract informational boundaries with physical spatial distinguishability. [5] 
+
+
+## 2. The Lorentzian Lift
+
+
+### Generating Time: 
+Traditional information geometry is static and lacks a causal structure.
+
+### Gradient Mapping: 
+Obidi applies the Legendre-Fenchel transform to the continuous entropic field gradient.
+
+### Spacetime Emergence: 
+This mathematical step converts timeless statistical configurations into a time-oriented, physical geometry. [1, 6] 
+
+
+## 3. Deforming the Fisher–Rao Metric
+
+
+### Information to Geometry: 
+Standard information geometry calculates distances between probability states using the Fisher-Rao metric.
+
+### Entropy Scaling: 
+Obidi introduces an exponential deformation (scaled by entropy, $e^{S/k_B}$) to this metric.
+
+### Convexity Preservation: 
+By leveraging the convex-preserving nature of the Legendre-Fenchel transform, the framework guarantees that the underlying informational optimization problem translates into stable, physical curvature without losing structural information. [3, 7] 
+
+
+Would you like to dive deeper into the Master Entropic Equation (MEE)/Obidi Field Equations (OFE), or look at how quantum constraints emerge from Obidi's thermodynamic framework? [4] 
+
+[1] [https://osf.io](https://osf.io/x5j6f/overview)
+
+[2] [https://www.researchgate.net](https://www.researchgate.net/topic/Information-Geometry/publications)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/the-obidi-transformation-and-the-obidi-metric-in-modern-theoretical-physics-from-innovations-of-the-b9219bd51149)
+
+[4] [https://notd.io](https://notd.io/@jonimisiobidi)
+
+[5] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_when-physics-plays-it-safe-and-when-activity-7480156435730038784-bm43)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921)
+
+[7] [https://math.stackexchange.com](https://math.stackexchange.com/questions/2034891/legendre-fenchel-transform)
 
