@@ -49,16 +49,24 @@ In the Theory of Entropicity (ToE) formulated by researcher John Onimisi Obidi, 
 Obidi formulated his idea that mass is created from entropic action through a precise conceptual and mathematical pipeline:
 
 ## 1. Reversing the Ontological Bedrock
-In standard general relativity, mass-energy is a primitive input that curves spacetime. Obidi inverted this relationship. He proposed that entropy is an ontological, continuous field rather than just a statistical measure of disorder. Under this framework, mass is "frozen" or stabilized internal entropic content emerging from a deeper informational geometry. [1, 2, 3] 
+In standard general relativity, mass-energy is a primitive input that curves spacetime. 
+
+Obidi inverted this relationship. He proposed that entropy is an ontological, continuous field rather than just a statistical measure of disorder. Under this framework, mass is "frozen" or stabilized internal entropic content emerging from a deeper informational geometry. [1, 2, 3] 
 
 ## 2. The Local Obidi Action (LOA)
 To establish dynamics, Obidi introduced a variational principle known as the Obidi Action. The Local Obidi Action (LOA) couples the entropic field to geometry. It treats the field via an exponential weight factor, proportional to:
+
 $$\exp\left(\frac{S}{k_B}\right)$$ 
 
-When this action is varied with respect to an emergent spacetime metric, it generates an entropic stress-energy tensor ($T_{\mu\nu}^{(S)}$). This shifts physics from minimizing a classical mechanical quantity to extremizing an informational one. [1, 2, 4, 5] 
+When this action is varied with respect to an emergent spacetime metric, it generates an entropic stress-energy tensor:
+
+($T_{\mu\nu}^{(S)}$). 
+
+This shifts physics from minimizing a classical mechanical quantity to extremizing an informational one. [1, 2, 4, 5] 
 
 ## 3. Creation via Fiber Integration
 The exact mathematical formulation for the "creation" of mass relies on fiber integrals. Obidi defines the macroscopic entropic stress-energy tensor as the second fiber moment of a microscopic entropic distribution:
+
 $$T_{\mu\nu}^{(S)}(x) = \int p_\mu p_\nu \cdot f_{\text{ent}}(x, \Omega) \cdot d\Omega$$ 
 
 Through this integration process, microscopic fluctuations within the entropic field are coarse-grained. This mathematical condensation produces the macroscopic quantities we recognize as: [1] 
