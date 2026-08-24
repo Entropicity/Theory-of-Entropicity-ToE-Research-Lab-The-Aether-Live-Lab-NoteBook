@@ -107,7 +107,7 @@ If you would like to explore specific parts of this framework further, please le
 
 It really is a fascinating shift in perspective. By changing the starting question from ***"What is the geometry of space and time?"*** to ***"How fast can information rearrange itself?",*** Obidi manages to reconstruct some of the most famous equations in physics from the ground up.
 
-## Obidi turns relativity into a story about cosmic bandwidth rather than just curved fabric.
+## Obidi turns relativity into a story about cosmic bandwidth rather than just curved [geometric] fabric [of spacetime].
 
 Where would you like to dive in next to see how this works? We can explore:
 
