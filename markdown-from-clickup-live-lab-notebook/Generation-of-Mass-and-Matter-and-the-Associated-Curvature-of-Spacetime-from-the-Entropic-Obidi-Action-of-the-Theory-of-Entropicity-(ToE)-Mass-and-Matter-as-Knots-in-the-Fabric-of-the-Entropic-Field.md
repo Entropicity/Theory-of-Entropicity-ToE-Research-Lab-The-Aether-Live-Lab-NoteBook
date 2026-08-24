@@ -19,7 +19,7 @@ John Onimisi Obidi formulated the idea of mass creation from entropic action by 
 
 * The Local Obidi Action couples the entropy field to geometry using an exponential weight factor:
 
-$(\(\exp(S/k_B)\))$.
+$$(\(\exp(S/k_B)\))$$.
 
 * Varying this action with respect to an emergent metric yields an entropic stress-energy tensor.
 
