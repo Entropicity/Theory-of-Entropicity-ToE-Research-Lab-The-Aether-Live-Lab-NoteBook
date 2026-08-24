@@ -44,7 +44,8 @@ As an object's velocity increases, a higher portion of its entropic capacity mus
 ### The Entropic Resistance Principle (ERP): 
 Relativistic phenomena emerge as physical consequences of moving through the entropic field.
 
-### Time Dilation: Because more entropic capacity is locked into maintaining forward motion, fewer entropic resources remain available for internal timekeeping and processing, causing internal "clocks" to slow down.
+### Time Dilation: 
+Because more entropic capacity is locked into maintaining forward motion, fewer entropic resources remain available for internal timekeeping and processing, causing internal "clocks" to slow down.
 
 ### Length Contraction: 
 Spatial coherence diminishes as entropic resources are prioritized for motion, forcing a contraction in the direction of travel.
