@@ -110,3 +110,53 @@ To help us explore this further, tell us:
 * Are you interested in the criticisms and mathematical hurdles mainstream physicists might raise against it?
 
 
+
+-----------------
+
+
+# The Master Entropic Equation (MEE) [more generally known as the Obidi Field Equations (OFE) when expressed in tensor field-theoretic terms]
+
+
+The **Master Entropic Equation (MEE) [more generally known as the Obidi Field Equations (OFE)]** was proposed by [John Onimisi Obidi](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55). He formulated this equation as the mathematical core of his Theory of Entropicity (ToE), which repositions entropy as the fundamental field from which all physical reality emerges. [1] 
+
+## Key Details of the Equation
+
+### Core Function: 
+It serves as the governing field equation for a universal entropic field, $S(x)$.
+
+### Theoretical Analogy: 
+It acts as the entropic analogue to Einstein's field equations in General Relativity.
+
+### Mathematical Nature: 
+The equation is nonlinear and nonlocal.
+
+
+### Unification Goal: 
+It attempts to derive spacetime geometry, quantum mechanics, and relativity as limiting cases of entropy dynamics. [1, 2, 3, 4] 
+  
+
+If you are researching this topic, let us know if you would like to explore:
+
+
+* The mathematical framework of the Obidi Action
+* How it attempts to explain the speed of light or gravity
+* Its relationship to classical thermodynamic formulas [1, 5, 6, 7, 8, 9] 
+
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632250)
+
+[5] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58596)
+
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-new-framework-for-understanding-reality-d6d1e038c53e)
+
+[7] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_from-%C4%8Dencov-jacobson-padmanabhan-verlinde-activity-7494884902484652032-Cv1X)
+
+[8] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6908aca0113cc7cfffd949e3)
+
+[9] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58596)
