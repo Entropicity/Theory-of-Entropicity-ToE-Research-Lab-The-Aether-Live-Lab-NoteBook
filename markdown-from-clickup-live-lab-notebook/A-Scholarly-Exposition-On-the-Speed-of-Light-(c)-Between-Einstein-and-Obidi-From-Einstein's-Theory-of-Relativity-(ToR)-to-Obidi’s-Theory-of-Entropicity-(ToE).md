@@ -986,3 +986,25 @@ Its central progression is from information to entropy, from entropy to geometry
 The speed conventionally called the speed of light is therefore, in Obidi's conception, much more than the velocity of electromagnetic radiation.
 
 It is the physical signature of the maximum rate at which reality itself can causally become different from what it was.
+
+
+------------
+
+
+# THE SPEED OF LIGHT BETWEEN EINSTEIN AND OBIDI: FROM RELATIVISTIC POSTULATE TO ENTROPIC NECESSITY
+
+Einstein’s Special Relativity begins from two foundational postulates, the second of which states that the speed of light in vacuum has the same value for all inertial observers, regardless of the motion of the source or observer. From this remarkable invariance follow the Lorentz transformations, relativity of simultaneity, time dilation, length contraction, relativistic velocity addition, and the causal architecture of Minkowski spacetime. Einstein showed with extraordinary precision how space and time must transform if this invariant speed is to be preserved.
+
+Obidi’s Theory of Entropicity (ToE) asks a deeper question: why should nature possess such an invariant speed in the first place? Obidi’s answer begins from the informational structure of reality. Every physically distinguishable point or event carries information. Information is inseparably related to entropy. Obidi therefore proposes that entropy is not merely a thermodynamic quantity existing inside an already-given spacetime, but part of the deeper informational structure from which spacetime itself emerges.
+
+From this viewpoint, the speed conventionally called “the speed of light” is not fundamentally a special property of photons. It is the Entropic Speed Limit: the maximum rate at which the underlying entropic-information structure of reality can causally redistribute, reorganize, or propagate physically meaningful information. Light travels at this speed because it realizes the limiting causal mode of the emergent spacetime geometry. In Obidi’s formulation, light does not create the universal speed limit; light reveals it.
+
+This immediately reframes Einstein’s second postulate. In Special Relativity, the invariance of the speed of light is encoded in Lorentzian spacetime geometry. In ToE, Obidi seeks the physical origin of that geometry itself. The Entropic Speed Limit generates an Entropic Cone, whose spacetime manifestation becomes the relativistic light cone. Massive objects move within this causal cone and therefore possess observer-dependent velocities. Light occupies its limiting boundary, and the boundary itself remains invariant.
+
+This also explains why observers cannot “outrun” or alter the limiting speed by changing their own motion. The observer, the clock, the ruler, the synchronization procedure, and the measuring apparatus are themselves physical and therefore entropic configurations governed by the same underlying causal architecture. There is no external frame from which the observer can escape the entropic limit. The invariance belongs to the structure of reality, not merely to the beam being measured.
+
+Obidi’s broader ToE program connects this insight with the Entropic Cone, the No-Rush Principle, Entropic Resistance, the Entropic Accounting Principle, the Cumulative Delay Principle, the Obidi Loop, entropic geodesics, and the Obidi transformation from information geometry toward Lorentzian spacetime geometry. Together they point toward a deeper interpretation of relativistic kinematics: time dilation, length contraction, causal ordering, and the universal speed limit may all be manifestations of one finite entropic reconfiguration capacity.
+
+Einstein gave us the geometry of the invariant. Obidi seeks the entropic origin of the invariant.
+
+In the language of ToE, the deepest statement is therefore this: the speed of light is the observable spacetime signature of the maximum causal rate at which reality itself can reorganize information.
