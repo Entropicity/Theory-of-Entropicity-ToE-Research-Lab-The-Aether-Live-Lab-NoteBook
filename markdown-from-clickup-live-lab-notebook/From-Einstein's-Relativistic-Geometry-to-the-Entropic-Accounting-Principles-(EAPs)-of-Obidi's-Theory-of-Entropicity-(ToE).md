@@ -10,7 +10,8 @@ In John Onimisi Obidi's Theory of Entropicity (ToE), Einstein's relativistic kin
 ### Entropic Accounting Principle (EAP): 
 Motion forces a redistribution of a system’s internal entropic capacity to maintain velocity, leaving fewer resources for internal timekeeping or spatial coherence.
 
-### Entropic Resistance Principle (ERP): Relativistic effects are physical pushbacks from the entropic field rather than mere observer-dependent perspective shifts.
+### Entropic Resistance Principle (ERP): 
+Relativistic effects are physical pushbacks from the entropic field rather than mere observer-dependent perspective shifts.
 
 ### The No-Rush Theorem (NRT): 
 Establishes the speed of light $(\(c\))$ as the maximum rate at which the entropic field can rearrange or transmit causal information.
@@ -36,9 +37,11 @@ Obidi's approach bypasses traditional spacetime axioms by utilizing information 
 ### The Entropic Speed Limit (ESL): 
 The universal constant $c$ is derived from the linearized dynamics of the [Master Entropic Equation (MEE)](https://osf.io/d7pky/overview). Disturbances within the entropic field naturally propagate along a null cone at this characteristic speed, meaning nothing can combine or rearrange faster than the field itself. [3, 7, 8] 
 
-### The Entropic Accounting Principle (EAP): As an object's velocity increases, a higher portion of its entropic capacity must be allocated to maintaining that physical motion. This acts like a balance sheet where energy spent on spatial translation leaves less capacity for other internal changes. [4, 9] 
+### The Entropic Accounting Principle (EAP): 
+As an object's velocity increases, a higher portion of its entropic capacity must be allocated to maintaining that physical motion. This acts like a balance sheet where energy spent on spatial translation leaves less capacity for other internal changes. [4, 9] 
 
-### The Entropic Resistance Principle (ERP): Relativistic phenomena emerge as physical consequences of moving through the entropic field.
+### The Entropic Resistance Principle (ERP): 
+Relativistic phenomena emerge as physical consequences of moving through the entropic field.
 
 ### Time Dilation: Because more entropic capacity is locked into maintaining forward motion, fewer entropic resources remain available for internal timekeeping and processing, causing internal "clocks" to slow down.
 
