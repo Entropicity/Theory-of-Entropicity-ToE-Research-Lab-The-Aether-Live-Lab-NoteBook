@@ -1,7 +1,7 @@
-# A Scholarly Exposition On the Speed of Light Between Einstein and Obidi: From Einstein's Theory of Relativity (ToR) to Obidi’s Theory of Entropicity (ToE)
+# A Scholarly Exposition On the Speed of Light (c) Between Einstein and Obidi: From Einstein's Theory of Relativity (ToR) to Obidi’s Theory of Entropicity (ToE)
 
 
-A-Scholarly-Exposition-On-the-Speed-of-Light-Between-Einstein-and-Obidi-From-Einstein's-Theory-of-Relativity-(ToR)-to-Obidi’s-Theory-of-Entropicity-(ToE).md
+A-Scholarly-Exposition-On-the-Speed-of-Light-(c)-Between-Einstein-and-Obidi-From-Einstein's-Theory-of-Relativity-(ToR)-to-Obidi’s-Theory-of-Entropicity-(ToE).md
 
 
 A Scholarly Exposition of Light’s Invariance in Obidi’s Theory of Entropicity (ToE): The Speed of Light Between Einstein and Obidi 
