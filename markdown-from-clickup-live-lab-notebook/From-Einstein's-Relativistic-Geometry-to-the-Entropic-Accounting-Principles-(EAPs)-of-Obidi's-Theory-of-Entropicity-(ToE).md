@@ -16,7 +16,7 @@ Relativistic effects are physical pushbacks from the entropic field rather than 
 ### The No-Rush Theorem (NRT): 
 Establishes the speed of light $(\(c\))$ as the maximum rate at which the entropic field can rearrange or transmit causal information.
 
-### Entropic Lorentz Factor: 
+### Entropic Lorentz Factor (ELF): 
 Derived directly via conservation laws and entropic invariants, reproducing standard relativistic kinematics without primary spacetime geometry.
 
 If you'd like to explore further, let us know if you want to examine:
@@ -53,7 +53,7 @@ Spatial coherence diminishes as entropic resources are prioritized for motion, f
 ### Mass Increase: 
 The growing entropic resistance of the field to high-speed movement requires increasingly massive amounts of energy to yield further acceleration. [4, 5, 10, 11] 
 
-### The No-Rush Theorem: 
+### The No-Rush Theorem (NRT): 
 This law enforces a strict lower bound on causal intervals. The entropic field must establish matching structural conditions before any interaction can take place, structurally forbidding superluminal (faster-than-light) actions. [3, 12] 
 
 ## Shifting from Geometry to Information
