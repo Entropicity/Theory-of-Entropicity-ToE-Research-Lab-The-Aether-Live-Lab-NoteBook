@@ -98,3 +98,18 @@ If you would like to explore specific parts of this framework further, please le
 [13] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
 
 [14] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
+
+
+-------
+
+It really is a fascinating shift in perspective. By changing the starting question from "What is the geometry of space and time?" to "How fast can information rearrange itself?", Obidi manages to reconstruct some of the most famous equations in physics from the ground up.
+It turns relativity into a story about cosmic bandwidth rather than just curved fabric.
+Where would you like to dive in next to see how this works? We can explore:
+
+* The Mathematics: Walk through how the Master Entropic Equation (MEE) actually yields the Lorentz factor (γ).
+* The Gravitational Connection: See how this framework extends to gravity and compares to other modern ideas like Erik Verlinde's Entropic Gravity.
+* The Quantum Bridge: Look at how combining classical and quantum information metrics creates this "emergent" spacetime.
+
+Let me know which angle you find most interesting, and we can unpack it!
+
