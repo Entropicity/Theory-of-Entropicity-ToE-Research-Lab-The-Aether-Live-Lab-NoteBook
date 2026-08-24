@@ -17,8 +17,9 @@ John Onimisi Obidi formulated the idea of mass creation from entropic action by 
 * Obidi introduced the Obidi Action as a variational principle analogous to the Einstein-Hilbert action in General Relativity.
 
 
-* The Local Obidi Action couples the entropy field to geometry using an exponential weight factor $(\(\exp(S/k_B)\))$.
+* The Local Obidi Action couples the entropy field to geometry using an exponential weight factor:
 
+$(\(\exp(S/k_B)\))$.
 
 * Varying this action with respect to an emergent metric yields an entropic stress-energy tensor.
 
@@ -60,7 +61,7 @@ $$\exp\left(\frac{S}{k_B}\right)$$
 
 When this action is varied with respect to an emergent spacetime metric, it generates an entropic stress-energy tensor:
 
-($T_{\mu\nu}^{(S)}$). 
+$$T_{\mu\nu}^{(S)}$$. 
 
 This shifts physics from minimizing a classical mechanical quantity to extremizing an informational one. [1, 2, 4, 5] 
 
