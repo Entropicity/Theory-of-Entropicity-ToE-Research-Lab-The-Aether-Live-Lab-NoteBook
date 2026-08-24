@@ -28,8 +28,9 @@ If you'd like to explore further, let us know if you want to examine:
 
 ----------------
 
+# Obidi's Entropic Accounting Principles (EAPs) Applied to Einstein's Relativity: From Geometry to Entropy in the Theory of Entropicity (ToE)
 
-[John Onimisi Obidi’s](https://www.google.com/search?q=john+onimisi+obidi%E2%80%99s&kgmid=/g/11g2_n9fsg) [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188) derives Einstein's relativistic kinematics by reinterpreting the speed of light ($c$) not as an axiomatic geometric postulate, but as the maximum rate of entropic rearrangement across a continuous, fundamental entropic field ($S(x)$). Rather than treating relativistic effects like time dilation and length contraction as artifacts of observer-dependent Minkowski geometry, Obidi's framework frames them as thermodynamic necessities and entropic resistances to motion. [1, 2, 3, 4] 
+[John Onimisi Obidi’s](https://www.google.com/search?q=john+onimisi+obidi%E2%80%99s&kgmid=/g/11g2_n9fsg) [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188) derives Einstein's relativistic kinematics by reinterpreting the speed of light ($c$) not as an axiomatic geometric postulate, but as the maximum rate of entropic rearrangement across a continuous, fundamental entropic field $S(x)$. Rather than treating relativistic effects like time dilation and length contraction as artifacts of observer-dependent Minkowski geometry, Obidi's framework frames them as thermodynamic necessities and entropic resistances to motion. [1, 2, 3, 4] 
 
 ## The Core Mechanisms of Obidi's Derivation
 Obidi's approach bypasses traditional spacetime axioms by utilizing information geometry and a set of newly defined entropic laws: [5, 6] 
