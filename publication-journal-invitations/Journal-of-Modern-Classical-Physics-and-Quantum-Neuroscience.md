@@ -1,6 +1,55 @@
+---------- Forwarded message ---------
+
+From: Physics Journal <physics.journals@wmjournals.com>
+
+Date: Tue, Aug 25, 2026, 6:36 AM
+
+## Subject: Reg: Follow-Up: Invitation to Manuscript Submission
+
+To: <jonimisiobidi@gmail.com>
 
 
-## Subject: Reg: Submit Your Most Valuable Article
+**Dear Dr. John Onimisi Obidi,**
+
+ 
+
+Greetings from the **“Journal of Modern Classical Physics & Quantum Neuroscience”.**
+
+ 
+
+We hope this message finds you well.
+
+ 
+
+As a valued author, we previously contacted you regarding a potential contribution in this issue. As we have not yet received a response, we are writing to kindly follow up and to reiterate our continued interest in your work.
+
+ 
+
+We welcome Research Articles, Review Articles, Short Communications, and other scholarly contributions related to classical physics, quantum neuroscience, and interdisciplinary scientific research.
+
+ 
+
+You may submit your manuscript to this email as an attachment or through our online submission system.
+
+ 
+
+Have a wonderful day!
+
+Warm regards,
+
+**John Ethan**
+
+Managing Editor
+ISSN: 3068-4196
+
+ 
+
+----------
+
+
+
+
+# Subject: Reg: Submit Your Most Valuable Article
 
 
 ---------- Forwarded message ---------
