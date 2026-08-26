@@ -1,5 +1,8 @@
 # What Obidi Teaches Us About the Meaning of a Point in Spacetime According to the Theory of Entropicity (ToE)
 
+
+# Obidi's Radical Departure from Classical Physics in the Theory of Entropicity (ToE): What is a Spacetime Point? How Obidi's insight on the way he sees a Spacetime point different from how other researchers and investigators see, describe and explain a Spacetime point in Modern Theoretical Physics
+
 What-Obidi-Teaches-Us-About-the-Meaning-of-a-Point-in-Spacetime-According-to-the-Theory-of-Entropicity-(ToE).md
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), a point in spacetime is taught to be an entropic event, serving as a localized intersection of information rather than a static coordinate in empty space. [1] 
