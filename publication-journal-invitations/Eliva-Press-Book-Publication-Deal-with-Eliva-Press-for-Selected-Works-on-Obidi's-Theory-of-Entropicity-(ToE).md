@@ -38,6 +38,7 @@ Sincere regards,
 Editor
 
 victor.marjinean@elivapress.com
+
 www.elivapress.com
 
 Eliva Press SRL
