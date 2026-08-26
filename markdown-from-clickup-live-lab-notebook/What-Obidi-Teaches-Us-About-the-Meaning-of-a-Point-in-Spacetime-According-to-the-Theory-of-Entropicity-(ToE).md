@@ -66,6 +66,7 @@ If you want to explore Obidi's Theory of Entropicity further, let us know if you
 
 
 John Onimisi Obidi’s Theory of Entropicity (ToE) differs from existing literature by treating entropy as a fundamental, primary field ($S(x)$) rather than an emergent property. [1, 2] 
+
 While mainstream researchers have long connected thermodynamics, information, and geometry, they generally treat entropy as a secondary statistical description of pre-existing particles or space. Obidi flips this ontology entirely. [1, 3, 4] 
 ## 1. Fundamental vs. Emergent Entropy
 
