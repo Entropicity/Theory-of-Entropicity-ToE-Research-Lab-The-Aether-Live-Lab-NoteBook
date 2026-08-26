@@ -189,7 +189,7 @@ Obidi flips this: Entropy comes first; information and points come second. In To
 | Einstein (GR) | A smooth geometric coordinate on a continuous fabric. | An axiomatic fourth dimension ($t$) built into the manifold. | Yes, as a structural backdrop. |
 | String / Loop Gravity | A physical node, loop intersection, or vibrating string. | Governed by background quantum clocks or state changes. | No, it is built from physical quantum units. |
 | Verlinde / Jacobson | An emergent position derived from counting quantum bits. | Thermodynamic adjustments across a holographic boundary. | No, it emerges from underlying quantum states. |
-| Obidi's Theory of Entropicity (ToE) | An entropic event born from [entropic informational] statistical distinguishability. | The internal processing delay of the entropic field (No-Rush Theorem). | No. It is a coarse-grained shadow of pure information geometry. |
+| Obidi's Theory of Entropicity (ToE) | An entropic event born from [entropic informational] statistical distinguishability. | The internal processing delay of the entropic field (No-Rush Theorem). | No. It is a coarse-grained shadow [projection] of pure entropic information geometry. |
 
 ## The Ultimate Contrast
 To mainstream physics, a point is a place where physics happens.
