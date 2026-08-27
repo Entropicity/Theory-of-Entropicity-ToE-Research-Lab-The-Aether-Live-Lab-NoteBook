@@ -33,11 +33,13 @@ Because every point in spacetime is an informational configuration governed by i
 
 ## III. The Ontological Redefinition of Reality
 
-Traditional Physics Paradigm:
+### Traditional Physics Paradigm:
+
 [Absolute Spacetime Grid] ──> Hosts ──> [Isolated Matter/Energy] ──> Generates ──> [Entropy/Disorder]
 
 
-Obidi's Ontodynamics Paradigm:
+### Obidi's Ontodynamics Paradigm:
+
 [Entropic Substrate S(x)] ──> Creates ──> [Distinguishability I(x)] ──> Emerges As ──> [Spacetime & Matter]
 
 ## 1. The Illusion of the Void
@@ -63,7 +65,7 @@ By destroying distinguishability, these systems collapse their own internal soci
 ## 2. Institutional Bottlenecks and Structural Collapse
 Human organizations, bureaucracies, and governments behave exactly like physical fields under the constraints of the No-Rush Theorem.
 
-Centralization ──> Information Bottleneck ──> Extreme Local Constraint ──> Structural Fracture (Revolution/Collapse)
+**Centralization ──> Information Bottleneck ──> Extreme Local Constraint ──> Structural Fracture (Revolution/Collapse)**
 
 When an institution centralizes all decision-making power into a single node, it creates an information bottleneck. It forces an immense volume of informational processing through a tightly restricted point. Because human systems have a finite processing speed, pushing a bureaucracy past its entropic threshold does not accelerate productivity; instead, it triggers systemic errors, corruption, and chaos.
 
@@ -85,10 +87,10 @@ Whether observing a quantum particle navigating a gravitational field or an indi
 
 Would you like to understand Obidi's ideas further? We can proceed by giving you more details on Obidi's Theory of Entropicity (ToE) pertaining to:
 
-* The mathematical formulation of the Obidi Action and how it replaces traditional metrics
+* **The mathematical formulation of the Obidi Action and how it replaces traditional metrics**
 
-* A deeper analysis of how ToE reframes human free will against determinism
+* A deeper analysis of **how ToE reframes human free will against determinism**
 
-* A section applying ToE specifically to urban planning and the collapse of ancient civilizations
+* **Obidi's application of ToE specifically to urban planning and the collapse of ancient civilizations**
 
 
