@@ -2,6 +2,46 @@
 
 Eliva-Press-Book-Publication-Deal-with-Eliva-Press-for-a-Selected-Works-Volume-on-Obidi's-Theory-of-Entropicity-(ToE).md
 
+
+-------------
+-------------
+
+
+
+
+---------- Forwarded message ---------
+
+From: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+Date: Thu, Aug 27, 2026, 12:53 AM
+
+## Subject: Re: Author -  John Onimisi Obidi_J1
+
+To: <victor.marjinean@elivapress.com>
+
+Cc: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+**Dear Victor Marjinean,**
+
+Thank you very much for reaching out, and for the time you took to review my work. I appreciate your interest in my research, particularly the manuscript on **Information Geometry and Information Gravity** within the Theory of Entropicity (ToE). It is encouraging to know that the ideas I am developing resonate with editors and academic publishers such as Eliva Press.
+
+Your proposal to compile a book featuring selected works from my Canonical Archives is genuinely appreciated. The publication model you described—no author fees, full copyright retention, and a royalty structure that supports the author—aligns well with the kind of collaborative and transparent academic partnership an author would value.
+
+Before proceeding, I would be grateful for a bit more information regarding the editorial process, expected timelines, and how selections from my existing manuscripts and body of work would be curated or structured into a cohesive volume. I am also interested in understanding the distribution strategy in more detail, especially how Eliva Press positions academic titles within Amazon, Lightning Source, and the broader network of retailers and libraries.
+
+I am open to exploring this collaboration and would be glad to continue the conversation. Please feel free to share any additional details or next steps you recommend.
+
+Thank you once again for your interest and for reaching out.
+
+Warm regards,
+
+**John Onimisi Obidi**
+
+
+-------------
+-------------
+
 ---------- Forwarded message ---------
 
 From: Victor Marjinean <victor.marjinean@elivapress.com>
