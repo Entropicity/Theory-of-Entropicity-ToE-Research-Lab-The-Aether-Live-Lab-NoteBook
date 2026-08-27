@@ -73,7 +73,7 @@ By declaring that entropy is the primary substance of existence (ontological) ra
 ------------------------------
 
 ## 1. The Philosophical Shift: From "Being" to "Becoming"
-In Western philosophy, there has been a millennia-long debate between static materialism (Democritus, Newton) and dynamic flow (Heraclitus).
+In Western philosophy, there has been a **millennia-long debate** between **static materialism** **(Democritus, Newton)** and **dynamic flow** **(Heraclitus).**
 
 ### The Death of Materialism: 
 Traditional physics assumes that "things" (atoms, quarks, space) exist first, and entropy is just what happens when they get messy. ToE completely flips this. Matter and energy are not fundamental primitives; they are merely highly constrained concentrations within the entropic field. [2, 3, 4] 
@@ -84,7 +84,9 @@ Obidi’s theory aligns deeply with process philosophy and informational structu
 
 
 ### The "It from Bit" Realized: 
-It breathes physical life into John Wheeler’s famous phrase, "It from bit," by establishing that distinguishability and informational flow precede physical geometry. [4, 7] 
+It breathes physical life into **John Wheeler’s** famous phrase, **"It from bit,"** by establishing that distinguishability and informational flow precede physical geometry. 
+
+**Thus, John Obidi realizes John Wheeler's insightful vision.** [4, 7] 
 
 ------------------------------
 
@@ -99,7 +101,7 @@ Obidi's ToE View:  [Entropic Field] ---> generates ---> [Distinguishability] ---
 Two objects are not "far apart" because there is a vast void of empty space between them. They are distant because the entropic field requires a specific informational gradient to distinguish them. [2, 4] 
 
 
-### The No-Rush Theorem of Nature: 
+### The No-Rush Theorem (NRT) of Nature: 
 The cosmic speed limit ($c$) is no longer an arbitrary, unexplained cosmic constant. In ToE, $c$ is derived as the maximum rate at which the entropic field can process and redistribute information. The universe has a processing speed, preventing reality from happening all at once. [6, 8, 9, 10] 
 
 ------------------------------
@@ -190,7 +192,7 @@ We perceive space as an objective, rigid container. ToE suggests that space is a
 
 
 ### The Dissolution of Void: 
-There is no such thing as "empty space" or "nothingness." A point where "nothing" is happening is actually a region of a specific entropic value ($S(x)$). Reality is entirely full; it is a continuous, unbroken, dynamic manifold of informational flow.
+There is no such thing as "empty space" or "nothingness." A point where "nothing" is happening is actually a region of a specific entropic value $S(x)$. Reality is entirely full; it is a continuous, unbroken, dynamic manifold of informational flow.
 
 ------------------------------
 
