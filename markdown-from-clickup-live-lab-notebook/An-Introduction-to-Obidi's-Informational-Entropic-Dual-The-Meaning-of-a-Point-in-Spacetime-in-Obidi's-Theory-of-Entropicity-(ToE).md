@@ -27,7 +27,7 @@ Obidi inverts the traditional foundational chain of physics: [1, 2]
    
    ### 3. Spacetime / Geometry (Emergent relational coordinates of these entropic states)
    
-    ### 4. Matter / Energy (Constraints and concentrations within that entropic field) [1, 7, 8, 9] 
+   ### 4. Matter / Energy (Constraints and concentrations within that entropic field) [1, 7, 8, 9] 
 
 Would you like to explore how a point's local entropic value links to emergent gravity or the No-Rush Theorem (NRT) in Obidi's framework?
 
