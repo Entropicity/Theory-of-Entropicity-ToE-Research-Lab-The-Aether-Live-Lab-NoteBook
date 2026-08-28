@@ -4,6 +4,46 @@
 
 From: <mary.smit@glintopenaccess.org>
 
+Date: Thu, Aug 27, 2026, 9:29 PM
+
+## Subject: Invitation to Submit Your Article: Journal of Quantum Energy Physics & Dynamics
+
+To: <jonimisiobidi@gmail.com>
+
+
+**“Collected Works on the Evolution of the Foundations of the Theory of Entropicity(ToE): Establishing Entropy as the Fundamental Field that Underlies and Governs All Observations, Measurements, and Interactions - Volume I: The Conceptual and Philosophical E”.**    
+
+**Dear Dr. John Onimisi Obidi,**
+
+Good day to you.
+
+We would like to invite you to send your manuscript to Journal of Quantum Energy Physics & Dynamics.
+
+If interested, you may send your full-length article via email as an attachment before 10h September 2026, or use our online portal.
+
+We are waiting for your submission.
+
+Kind regards,
+
+**Mary Smit**
+
+**Glint Open Access**
+
+Unsubscribe
+
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+
+ 
+
+ 
+
+-------
+-------
+
+---------- Forwarded message ---------
+
+From: <mary.smit@glintopenaccess.org>
+
 Date: Thu, May 14, 2026, 12:20 PM
 
 Subject: Call for Papers: Journal of Quantum Energy Physics & Dynamics
