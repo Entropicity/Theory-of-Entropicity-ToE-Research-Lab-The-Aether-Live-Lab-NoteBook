@@ -11,7 +11,7 @@ Date: Thu, Aug 27, 2026, 9:29 PM
 To: <jonimisiobidi@gmail.com>
 
 
-**“Collected Works on the Evolution of the Foundations of the Theory of Entropicity(ToE): Establishing Entropy as the Fundamental Field that Underlies and Governs All Observations, Measurements, and Interactions - Volume I: The Conceptual and Philosophical E”.**    
+**“Collected Works on the Evolution of the Foundations of the Theory of Entropicity(ToE): Establishing Entropy as the Fundamental Field that Underlies and Governs All Observations, Measurements, and Interactions - Volume I: The Conceptual and Philosophical E...”.**    
 
 **Dear Dr. John Onimisi Obidi,**
 
