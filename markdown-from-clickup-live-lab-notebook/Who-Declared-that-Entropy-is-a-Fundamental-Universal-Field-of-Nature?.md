@@ -53,7 +53,7 @@ Spacetime is not an empty geometric container. Instead, spacetime and matter eme
 Because the second law of thermodynamics guarantees its primacy, entropy precedes and acts as a precondition for information and distinguishability. [2] 
 
 ## Intellectual Context
-While mainstream physicists like **Erik Verlinde (entropic gravity)** and **Ted Jacobson (horizon thermodynamics)** have famously framed gravity and spacetime as emergent thermodynamic phenomena, **[Obidi's Theory of Entropicity](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_from-%C4%8Dencov-jacobson-padmanabhan-verlinde-activity-7494884902484652032-Cv1X) is unique in fully structuring entropy as the foundational, universal scalar field complete with its own equations of motion and action.** [3] 
+While mainstream physicists like **Erik Verlinde (entropic gravity)** and **Ted Jacobson (horizon thermodynamics)** have famously framed gravity and spacetime as emergent thermodynamic phenomena, **[Obidi's Theory of Entropicity (ToE)](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_from-%C4%8Dencov-jacobson-padmanabhan-verlinde-activity-7494884902484652032-Cv1X) is unique in fully structuring entropy as the foundational, universal scalar field complete with its own equations of motion and action.** [3] 
 
 Would you like to explore:
 
