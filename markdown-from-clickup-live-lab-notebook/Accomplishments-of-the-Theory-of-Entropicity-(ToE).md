@@ -19,9 +19,16 @@ ToE establishes this theorem to prove that all physical interactions require a f
 ## 2. Replication of General Relativity Predictions
 Without relying on standard curved spacetime geometry, ToE claims to replicate the hallmark proofs of Einstein's General Relativity entirely through entropic gradients and constraints: [4, 6] 
 
-* Mercury’s Perihelion Precession: It successfully reproduces the anomalous 43 arcseconds per century shift.
-* Gravitational Light Deflection: It calculates the correct 1.75 arcseconds of starlight deflection near massive bodies.
-* Reinterpretation of Relativistic Effects: Under the Entropic Accounting Principle (EAP), time dilation, length contraction, and mass increase are shown to be physical consequences of "entropic drag" and limited entropic capacity within a moving frame, rather than purely kinematic artifacts of an observer's perspective. [4, 6, 12, 13] 
+### Mercury’s Perihelion Precession: 
+It successfully reproduces the anomalous 43 arcseconds per century shift.
+
+### Gravitational Light Deflection: 
+It calculates the correct 1.75 arcseconds of starlight deflection near massive bodies.
+
+### Reinterpretation and Rederivation of Relativistic Effects: 
+Under the **Entropic Accounting Principle (EAP)** of Obidi's ToE, Einstein's relativistic time dilation, length contraction, and mass increase are logically shown to be physical consequences of **"entropic drag"** and **limited entropic capacity (LEC)** within a moving frame, rather than purely kinematic geometric artifacts of an observer's perspective. 
+
+Obidi thus showed that even an observer's measurements, interactions, and observations are intrinsically tied to [and constrained by] the entropic field capacity. [4, 6, 12, 13] 
 
 ## 3. Mathematical Unification of Entropic Frameworks
 
