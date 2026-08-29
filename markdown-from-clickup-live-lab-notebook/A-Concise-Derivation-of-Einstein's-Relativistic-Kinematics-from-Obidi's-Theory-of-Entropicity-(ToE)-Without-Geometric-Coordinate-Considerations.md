@@ -36,7 +36,7 @@ These emerge from Lorentz transformations, which are kinematic and coordinate-ba
 
 ---
 
-### **EAP Hypothesis:**
+### **Obidi's EAP Hypothesis:**
 
 Introduces **entropic drag**: an effective resistance a system experiences due to motion relative to an entropic “medium” or the informational content of space.
 
@@ -44,7 +44,7 @@ Introduces **limited entropic capacity (LEC)**: the notion that moving systems h
 
 ---
 
-### **Proposed correspondence:**
+### **Obidi's Proposed correspondence:**
 
 - **Time dilation** → slower internal entropic processes due to high entropic load in moving frame.
    
@@ -54,7 +54,7 @@ Introduces **limited entropic capacity (LEC)**: the notion that moving systems h
 
 ---
 
-## **2. Cross-Domain Integration**
+## **2. Obidi's Cross-Domain Integration**
 
 To match these claims with physical laws, one could formalize the framework as:
 
@@ -168,3 +168,38 @@ The model from Obidi's Theory of Entropicity (ToE) remains audacious but potenti
 
 ---
 
+# Scholium 1 of 2
+
+## Obidi's full and detailed derivations, as well as his ingenious methodology, can be found in his published works and in the ToE Canonical Archives
+
+# Scholium 2 pf 2
+
+In Obidi's Theory of Entropicity (ToE), Einstein’s time dilation, length contraction, and mass increase emerge as physical consequences of entropic drag and limited entropic capacity, rather than as purely geometric effects.
+
+## Core Concept of the Entropic Accounting Principle (EAP)
+The Entropic Accounting Principle (EAP) posits that every physical system has a finite entropic budget that must be allocated among motion, internal processes, and structural maintenance. When a system accelerates, entropy is reallocated rather than created or destroyed: some is devoted to sustaining motion, while less remains for local timekeeping and structural degrees of freedom. This redistribution enforces entropic resistance, which manifests as the familiar relativistic effects traditionally described by Einstein’s theory.
+
+## Time Dilation as Entropic Consequence
+In ToE, time dilation arises because a moving system diverts a significant portion of its entropic budget to motion. With fewer entropic resources available for internal "update cycles" or clock processes, the system experiences a slower passage of time relative to a stationary observer. This effect is not merely a coordinate artifact but a physical consequence of limited entropic capacity.
+
+## Mass Increase from Entropic Resistance
+Relativistic mass increase is interpreted as entropic resistance to motion. As velocity approaches the speed of light, the entropic cost of maintaining motion grows, requiring more entropy to sustain the system’s coherence in the entropic field. This resistance manifests as an apparent increase in inertia or mass, reflecting the physical effort of redistributing entropy rather than a geometric transformation.
+
+## Length Contraction via Entropic Compression
+Length contraction occurs along the direction of motion because the entropic budget allocated to structural maintenance is reduced. The system’s spatial dimensions effectively compress as entropy is diverted to sustain motion, producing the same quantitative predictions as Lorentz contraction but grounded in entropic accounting rather than observer-dependent geometry.
+
+## Entropic Lorentz Factor and Universal Constraints
+ToE introduces an entropic Lorentz factor, which quantifies the cost of motion in entropic terms. This factor grows with velocity, encoding the extra entropic expenditure required to maintain high-speed motion. The No-Rush Theorem ensures that the speed of light represents the maximum rate of entropic rearrangement, enforcing causal limits and reproducing Einsteinian transformations as ledger identities in the entropic field.
+
+## Summary
+Under the EAP, relativistic phenomena are entropic inevitabilities:
+
+* Time dilation results from reduced entropic allocation to local clocks.
+* Mass increase reflects entropic resistance to motion.
+* Length contraction emerges from entropic compression along the motion axis.
+
+This framework reframes Einstein’s relativistic effects as physical consequences of finite entropy propagation and redistribution, providing a unified entropic explanation for relativistic kinematics and dynamics.
+
+
+
+---
