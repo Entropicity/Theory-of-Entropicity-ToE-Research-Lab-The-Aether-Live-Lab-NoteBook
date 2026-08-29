@@ -42,7 +42,7 @@ Shannon entropy is computed from physical or data states. In contrast, the Obidi
 While Shannon entropy tells you how many bits are needed to encode a message, Obidi's framework uses entropic gradients and curvature constraints (such as the \(\ln 2\) distinguishability threshold) to dynamically generate macroscopic phenomena like gravity and time.
 
 
-> ### * From Shannon Spacetime: A Rigorous Derivation of the Obidi Action from Shannon Entropy via Information Geometry in the Theory of Entropicity (ToE)
+> * ### From Shannon Spacetime: A Rigorous Derivation of the Obidi Action from Shannon Entropy via Information Geometry in the Theory of Entropicity (ToE)
 
 
 ## Further Exploration
@@ -55,7 +55,7 @@ While Shannon entropy tells you how many bits are needed to encode a message, Ob
 
 If you'd like, we can elaborate further on:
 
-* How the Obidi Curvature Invariant (\(\ln 2\)) sets a threshold for physical distinguishability
+* How the Obidi Curvature Invariant $\(\ln 2\)$ sets a threshold for physical distinguishability
 
 * The derivation of the Master Entropic Equation
 
@@ -75,7 +75,7 @@ Below is a detailed breakdown of the differences between Shannon Entropy and **O
 | Feature | Shannon Entropy | Obidi's Entropy [Theory of Entropicity (ToE)]|
 |---|---|---|
 | Nature | Epistemic: A mathematical tally of data uncertainty or communication limits. | Ontological: The primary, tangible substrate/substance of the physical universe. |
-| Formula / Structure | A discrete or continuous statistical average: $H = -\sum p_i \log p_i$. | A continuous scalar field $S(x)$ present at every coordinate in space. |
+| Formula / Structure | A discrete or continuous statistical average: $H = -\sum p_i \log p_i$ | A continuous scalar field $S(x)$ present at every coordinate in space. |
 | Spacetime Role | Exists inside a pre-existing spacetime box as a property of a system. | Spacetime and gravity emerge from its gradients and geometric transformations. |
 | Dynamics | Static description of a probability distribution at a given snapshot. | Variational field dynamics governed by the Obidi Action and the Master Entropic Equation. |
 | Limiting Case | Standard baseline metric used across information theory and machine learning. | Contains Shannon entropy as a localized, discrete limiting case. |
@@ -110,9 +110,9 @@ In ToE, a physical point is not an empty geometric vacuum; it is an active "entr
 ### The Mathematical Bridge: 
 ToE uses [information geometry](https://osf.io/6utnh/overview) to promote continuous Shannon entropy into a dynamical field, where probability density relates to a field $\phi$ by: 
 
-$$[\
+$$
 p(x) = e^{-\phi(x)}
-\]$$
+$$
 
 The gradient of this field interacts with the [Fisher information metric](https://en.wikipedia.org/wiki/Fisher_information) to form the Obidi Action—a concept mimicking the Einstein-Hilbert action in General Relativity. [10, 11, 12, 13] 
 
