@@ -21,7 +21,11 @@ Academia-edu-invitation-to-provide-feedback-on-2-sessions.md
 
 You've been invited to provide feedback on 2 sessions. 
 
-Here are the authors and links to their sessions: https://www.academia.edu/t/9aVE-Tx5A4Yp-bmYTbV/s/1a01d8b649?source=ai_email ; https://www.academia.edu/t/9aVE-Tx5A4Yp-bmYTbV/s/d68d191692?source=ai_email
+Here are the authors and links to their sessions: 
+
+https://www.academia.edu/t/9aVE-Tx5A4Yp-bmYTbV/s/1a01d8b649?source=ai_email  
+
+https://www.academia.edu/t/9aVE-Tx5A4Yp-bmYTbV/s/d68d191692?source=ai_email
 
 ## Luka Gluvić: Optical Reconstruction in Constrained Null Geometry From Null Boundary Relations to Geometric and Modal Optics
 
