@@ -46,7 +46,7 @@ arrow_forward
 
 13th International Conference on Information Technology, Control, Chaos, Modeling and Applications (ITCCMA 2026) will provide an excellent international forum for sharing knowledge and results in the fields of Information Technology, Control Systems, Chaos, Computer Modeling, Computer Science and applications. The Conference looks for significant contributions to all major fields of the Information Technology, Control Systems, Chaos and Modeling in theoretical and practical aspects. The aim of the conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field.
 
-Paper details
+## Paper details
 
 ITCCMAoct_syd_CFP.pdf
 
@@ -63,14 +63,14 @@ sell
 
 PDF
 
-13th International Conference on Information Technology, Control, Chaos, Modeling 
+## 13th International Conference on Information Technology, Control, Chaos, Modeling 
 and Applications (ITCCMA 2026) 
 
-October 17 ~ 18, 2026, Sydney, Australia 
+## October 17 ~ 18, 2026, Sydney, Australia 
 
 https://csity2026.org/itccma/index 
 
-Scope & Topics 
+## Scope & Topics 
 
 13th International Conference on Information Technology, Control, Chaos, Modeling and 
 Applications (ITCCMA 2026) will provide an excellent international forum for sharing 
@@ -85,7 +85,7 @@ Authors are solicited to contribute to the conference by submitting articles tha
 research results, projects, surveying works and industrial experiences that describe significant 
 advances in the following areas, but are not limited to. 
 
-Topics of interest include, but are not limited to, the following: 
+## Topics of interest include, but are not limited to, the following: 
 
  Machine Learning, Deep Learning and Reinforcement Learning 
 
@@ -164,7 +164,7 @@ Topics of interest include, but are not limited to, the following:
 
  Intelligent Applications, Smart Systems and Ubiquitous Computing 
 
-Paper Submission 
+## Paper Submission 
 
 Authors are invited to submit papers through the conference Submission System by August 
 29, 2026 .Submissions must be original and should not have been published previously or be 
@@ -173,7 +173,7 @@ proceedings of the conference will be published by Computer Science Conference
 Proceedings in Computer Science & Information Technology (CS & IT) series 
 (Confirmed). 
 
-Selected papers from ITCCMA 2026, after further revisions, will be published in the special 
+## Selected papers from ITCCMA 2026, after further revisions, will be published in the special 
 issues of the following journals 
 
  International Journal of Computer Science & Information Technology (IJCSIT) - 
@@ -199,7 +199,7 @@ INSPEC Indexed
 
  Information Technology in Industry (ITII) 
 
-Important Dates 
+## Important Dates 
 
  Submission Deadline : August 29, 2026 
 
@@ -207,13 +207,15 @@ Important Dates
 
  Registration & Camera-Ready Paper Due : October 03, 2026 
 
-Contact Us 
+## Contact Us 
 
 Here's where you can reach us : itccma@csity2026.org or confitccma@gmail.com 
 
-Paper Submission Link https://csity2026.org/submission/index.php 
+## Paper Submission Link: 
 
-For other details, please visit: 
+https://csity2026.org/submission/index.php 
+
+## For other details, please visit: 
 
 https://csity2026.org/itccma/index 
 
