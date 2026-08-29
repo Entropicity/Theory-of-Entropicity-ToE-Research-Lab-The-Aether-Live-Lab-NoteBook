@@ -52,14 +52,14 @@ ITCCMAoct_syd_CFP.pdf
 
 sell
 
-*Information Technology,
-*Information Communication Technology,
-*Social Study of Information & Communication Technology,
-*Information and Communication technology,
-*Health Information Technology,
-*Computer and Information Technology,
-*Computer Science and Information Technology,
-*Information Technology and System Integration
+* Information Technology,
+* Information Communication Technology,
+* Social Study of Information & Communication Technology,
+* Information and Communication technology,
+* Health Information Technology,
+* Computer and Information Technology,
+* Computer Science and Information Technology,
+* Information Technology and System Integration
 
 PDF
 
@@ -88,42 +88,80 @@ advances in the following areas, but are not limited to.
 Topics of interest include, but are not limited to, the following: 
 
  Machine Learning, Deep Learning and Reinforcement Learning 
+
  Foundation Models, LLMs, SLMs and Multimodal AI 
+
  AI Agents, Autonomous Systems and Tool Use 
- Neuro Symbolic AI, Hybrid Intelligent Systems and Soft Computing 
- Evolutionary Algorithms, Genetic Computing and Bio Inspired Optimization 
+
+ Neuro Symbolic AI, Hybrid Intelligent Systems and Soft Computing
+
+ Evolutionary Algorithms, Genetic Computing and Bio Inspired Optimization
+
+
  Chaos Theory, Nonlinear Dynamics, Hyperchaos and Chaotic Neural Networks 
+
  Complex Adaptive Systems, Emergent Behavior and Self Organizing Systems 
+
  Modern Control, Intelligent Control and Learning Based Control 
+
  System Identification, Fault Detection and Diagnostics 
+
  Robotics, Autonomous Navigation, Multi Robot Coordination and HRI 
+
+
  Cyber Physical Systems, Real Time Control and Distributed Control 
+
  Modeling, Simulation, Digital Twins and Scientific Computing 
+
  Optimization, Stochastic Modeling and Game Theory 
+
  Remote Sensing, Geospatial AI and Earth Observation 
+
  Computer Architecture, Accelerators and Real Time Systems 
+
+
  Distributed, Parallel, Scalable and High Performance Computing 
+
  Grid, Cloud, Edge and Fog Computing 
+
  AI Native Operating Systems, Compilers and Runtime Systems 
+
  Inference Serving Systems, GPU Scheduling and Cluster Orchestration 
+
  Signal Processing, Time Frequency Analysis and Audio Analytics 
+
  Image Processing, Pattern Recognition and Computer Vision 
+
  Speech Processing, Speech Synthesis and Audio Language Models 
+
  Multimedia Systems, Compression, Streaming and Immersive Media 
+
  Networking, Communications and Distributed Protocols 
+
  Wireless Systems, 5G/6G, Terahertz and AI Native Networking 
- Network Digital Twins, Programmable Data Planes (P4) and LLM Driven Network 
-Management 
+
+ Network Digital Twins, Programmable Data Planes (P4) and LLM Driven Network Management 
+
  Cybersecurity, Intrusion Detection and Secure Systems 
+
  AI Security, Adversarial ML, LLM Safety and Model Supply Chain Security 
+
  Post Quantum Cryptography, Secure Protocols and Privacy Preserving ML 
+
  Blockchain, Web3, Decentralized Systems and Secure Ledgers 
+
  Databases, Vector Search, Embedding Indexing and Semantic Retrieval 
+
  Data Lakehouse, Streaming AI Pipelines and Big Data Systems 
+
  Software Engineering, DevOps, CI/CD and Intelligent Automation 
+
  Programming Languages, Compiler Optimization and Runtime Performance 
+
  Quantum Computing, Quantum ML and Quantum Accelerated AI 
+
  Spatial Computing, AR/VR/XR, VisionOS and Synthetic Reality 
+
  Intelligent Applications, Smart Systems and Ubiquitous Computing 
 
 Paper Submission 
@@ -140,21 +178,33 @@ issues of the following journals
 
  International Journal of Computer Science & Information Technology (IJCSIT) - 
 INSPEC Indexed 
+
  International Journal of Information Technology, Control and Automation (IJITCA) 
+
  International Journal of Information Technology, Modeling and Computing (IJITMC) 
+
  International Journal of Control Theory and Computer Modelling (IJCTCM) 
+
  International Journal of Instrumentation and Control Systems (IJICS) 
+
  International Journal of Chaos, Control, Modelling and Simulation (IJCCMS) 
+
  International Journal of Information Sciences and Techniques (IJIST) 
+
  International Journal in Foundations of Computer Science and Technology (IJFCST) 
+
  International Journal of Computer Science, Engineering and Applications (IJCSEA) 
+
  International Journal of Fuzzy Logic Systems (IJFLS) 
+
  Information Technology in Industry (ITII) 
 
 Important Dates 
 
  Submission Deadline : August 29, 2026 
+
  Authors Notification : September 26, 2026 
+
  Registration & Camera-Ready Paper Due : October 03, 2026 
 
 Contact Us 
@@ -163,6 +213,8 @@ Here's where you can reach us : itccma@csity2026.org or confitccma@gmail.com
 
 Paper Submission Link https://csity2026.org/submission/index.php 
 
-For other details, please visit https://csity2026.org/itccma/index 
+For other details, please visit: 
+
+https://csity2026.org/itccma/index 
 
 Please reply with subject “unsubscribe” if you wish to remove your email from our mailing list.
