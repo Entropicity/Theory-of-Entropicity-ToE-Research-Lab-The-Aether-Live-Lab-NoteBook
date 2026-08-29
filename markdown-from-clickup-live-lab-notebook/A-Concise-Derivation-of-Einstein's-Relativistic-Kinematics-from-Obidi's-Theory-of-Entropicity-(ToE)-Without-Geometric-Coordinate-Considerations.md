@@ -176,8 +176,8 @@ The model from Obidi's Theory of Entropicity (ToE) remains audacious but potenti
 
 In Obidi's Theory of Entropicity (ToE), Einstein’s time dilation, length contraction, and mass increase emerge as physical consequences of entropic drag and limited entropic capacity, rather than as purely geometric effects.
 
-# Core Concept of the Entropic Accounting Principle (EAP) in Obidi's Theory of Entropicity (ToE)
-The Entropic Accounting Principle (EAP) posits that every physical system has a finite entropic budget that must be allocated among motion, internal processes, and structural maintenance. When a system accelerates, entropy is reallocated rather than created or destroyed: some is devoted to sustaining motion, while less remains for local timekeeping and structural degrees of freedom. This redistribution enforces entropic resistance, which manifests as the familiar relativistic effects traditionally described by Einstein’s theory.
+# Core Concept of the Entropic Accounting Principle (EAP) in Obidi's Theory of Entropicity (ToE): UM | IP | SM
+**The Entropic Accounting Principle (EAP) from Obidi's audacious and radical Theory of Entropicity (ToE) posits that every physical system has a finite entropic budget that must be allocated among [undertaken] motion (UM), internal processes (IP), and structural maintenance (SM).** When a system accelerates, entropy is reallocated rather than created or destroyed: some is devoted to sustaining motion, while less remains for local timekeeping and structural degrees of freedom. This redistribution enforces entropic resistance, which manifests as the familiar relativistic effects traditionally described by Einstein’s theory.
 
 ## Time Dilation as Entropic Consequence
 In ToE, time dilation arises because a moving system diverts a significant portion of its entropic budget to motion. With fewer entropic resources available for internal "update cycles" or clock processes, the system experiences a slower passage of time relative to a stationary observer. This effect is not merely a coordinate artifact but a physical consequence of limited entropic capacity.
