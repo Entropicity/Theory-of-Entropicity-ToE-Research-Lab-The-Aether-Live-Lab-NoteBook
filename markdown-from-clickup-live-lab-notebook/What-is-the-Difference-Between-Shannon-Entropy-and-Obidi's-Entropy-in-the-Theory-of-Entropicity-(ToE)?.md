@@ -39,7 +39,7 @@ Shannon entropy is computed from physical or data states. In contrast, the Obidi
 
 
 ### Emergence of Spacetime: 
-While Shannon entropy tells you how many bits are needed to encode a message, Obidi's framework uses entropic gradients and curvature constraints (such as the \(\ln 2\) distinguishability threshold) to dynamically generate macroscopic phenomena like gravity and time.
+While Shannon entropy tells you how many bits are needed to encode a message, Obidi's framework uses entropic gradients and curvature constraints (such as the $\(\ln 2\)$ distinguishability threshold) to dynamically generate macroscopic phenomena like gravity and time.
 
 
 > * ### From Shannon Spacetime: A Rigorous Derivation of the Obidi Action from Shannon Entropy via Information Geometry in the Theory of Entropicity (ToE)
