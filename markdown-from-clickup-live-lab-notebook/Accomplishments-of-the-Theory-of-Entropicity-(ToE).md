@@ -34,7 +34,7 @@ It unifies diverse entropy and statistical metrics within a single "entropic man
 ## 4. Resolution of Quantum Mechanical Paradoxes
 
 ### Elimination of the Privileged Observer: 
-In standard Copenhagen quantum mechanics, wavefunction collapse requires a measurement by an external observer. ToE bypasses this by framing wavefunction collapse as a finite, purely physical process dictated by the local limits of the entropic field. [6, 13] 
+In standard Copenhagen quantum mechanics, wavefunction collapse requires a measurement by an external observer; **but Obidi's Theory of Entropicity (ToE) bypasses this by framing wavefunction collapse as a finite, purely physical process dictated by the local limits of the entropic field.** [6, 13] 
 
 ### Finite Entanglement Delay: 
 It posits that quantum entanglement is not instantaneous but is governed by a strict Entropic Time Limit (ETL). [6, 15] 
