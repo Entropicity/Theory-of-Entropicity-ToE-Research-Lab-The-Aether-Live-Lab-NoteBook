@@ -110,7 +110,7 @@ In ToE, a physical point is not an empty geometric vacuum; it is an active "entr
 ### The Mathematical Bridge: 
 ToE uses [information geometry](https://osf.io/6utnh/overview) to promote continuous Shannon entropy into a dynamical field, where probability density relates to a field: 
 
-$$\phi$ by $p(x) = e^{-\phi(x)}$$. 
+$\phi$ by $p(x) = e^{-\phi(x)}$. 
 
 The gradient of this field interacts with the [Fisher information metric](https://en.wikipedia.org/wiki/Fisher_information) to form the Obidi Action—a concept mimicking the Einstein-Hilbert action in General Relativity. [10, 11, 12, 13] 
 
