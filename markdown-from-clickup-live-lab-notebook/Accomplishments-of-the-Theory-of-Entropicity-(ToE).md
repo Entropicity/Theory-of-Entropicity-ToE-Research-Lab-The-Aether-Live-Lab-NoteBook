@@ -17,7 +17,7 @@ Instead of accepting the speed of light as an arbitrary, foundational postulate 
 ToE establishes this theorem to prove that all physical interactions require a finite, non-zero time for the entropic field to redistribute states. This provides an information-theoretic foundation for causality and the universal speed limit. [8, 10, 11] 
 
 ## 2. Replication of General Relativity Predictions
-Without relying on standard curved spacetime geometry, ToE claims to replicate the hallmark proofs of Einstein's General Relativity entirely through entropic gradients and constraints: [4, 6] 
+Without relying on standard curved spacetime geometry, ToE replicates the hallmark proofs of Einstein's General Relativity entirely through entropic gradients and constraints [entropic conserved current/capacity]: [4, 6] 
 
 ### Mercury’s Perihelion Precession: 
 It successfully reproduces the anomalous 43 arcseconds per century shift.
