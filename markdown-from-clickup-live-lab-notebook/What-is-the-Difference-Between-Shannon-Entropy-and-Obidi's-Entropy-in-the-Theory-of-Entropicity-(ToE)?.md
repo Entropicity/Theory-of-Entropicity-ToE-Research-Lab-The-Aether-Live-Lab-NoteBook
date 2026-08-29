@@ -66,7 +66,7 @@ The core difference between **Shannon entropy** and **Obidi's entropy** lies in 
 
 While mathematically intertwined, they belong to two completely separate paradigms. 
 
-Below is a detailed breakdown of the differences between Shannon Entropy and **Obidi's Modern Theory Entropy (OMTE).** [4] 
+Below is a detailed breakdown of the differences between Shannon Entropy and **Obidi's Modern Entropy Theory (OMET).** [4] 
 
 ------------------------------
 
@@ -100,6 +100,7 @@ Obidi claims the true sequence is:
 
 Entropy → Information → Spacetime → Matter. 
 
+**This is Obidi's Sequence of Creation (OSoC).**
 [2, 9] 
 
 
