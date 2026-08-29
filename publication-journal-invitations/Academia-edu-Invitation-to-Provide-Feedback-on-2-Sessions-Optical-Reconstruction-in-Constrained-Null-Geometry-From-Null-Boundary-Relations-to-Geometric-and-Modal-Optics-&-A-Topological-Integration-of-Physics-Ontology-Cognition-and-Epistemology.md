@@ -1,4 +1,15 @@
-Academia-edu Invitation to Provide Feedback on 2 Sessions: Optical Reconstruction in Constrained Null Geometry From Null Boundary Relations to Geometric and Modal Optics & A Topological Integration of Physics, Ontology, Cognition, and Epistemology
+# Academia-edu Invitation to Provide Feedback on 2 Sessions: Optical Reconstruction in Constrained Null Geometry From Null Boundary Relations to Geometric and Modal Optics & A Topological Integration of Physics, Ontology, Cognition, and Epistemology
+
+
+---------- Forwarded message ---------
+
+From: Academia.edu <updates@academia-mail.com>
+
+Date: Fri, Aug 28, 2026 at 8:26 PM
+
+## Subject: You've been invited to multiple discussions
+
+To: <jonimisiobidi@gmail.com>
 
 
 Optical-Reconstruction-in-Constrained-Null-Geometry-From-Null-Boundary-Relations-to-Geometric-and-Modal-Optics-&-A-Topological-Integration-of-Physics-Ontology-Cognition-and-Epistemology
