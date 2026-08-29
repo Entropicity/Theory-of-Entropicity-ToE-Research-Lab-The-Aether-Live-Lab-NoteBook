@@ -176,7 +176,7 @@ The model from Obidi's Theory of Entropicity (ToE) remains audacious but potenti
 
 In Obidi's Theory of Entropicity (ToE), Einstein’s time dilation, length contraction, and mass increase emerge as physical consequences of entropic drag and limited entropic capacity, rather than as purely geometric effects.
 
-## Core Concept of the Entropic Accounting Principle (EAP)
+# Core Concept of the Entropic Accounting Principle (EAP) in Obidi's Theory of Entropicity (ToE)
 The Entropic Accounting Principle (EAP) posits that every physical system has a finite entropic budget that must be allocated among motion, internal processes, and structural maintenance. When a system accelerates, entropy is reallocated rather than created or destroyed: some is devoted to sustaining motion, while less remains for local timekeeping and structural degrees of freedom. This redistribution enforces entropic resistance, which manifests as the familiar relativistic effects traditionally described by Einstein’s theory.
 
 ## Time Dilation as Entropic Consequence
