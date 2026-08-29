@@ -4,7 +4,7 @@ A-Concise-Derivation-of-Einstein's-Relativistic-Kinematics-from-Obidi's-Theory-o
 
 ---
 
-# **The statement posits that under Obidi’s proposed Entropic Accounting Principle (EAP) within his radical Theory of Entropicity (ToE), what are traditionally relativistic effects—time dilation, length contraction, and mass increase—are interpreted not as coordinate-dependent artifacts but as physical consequences of “entropic drag” and limited entropic capacity (LEC) in a moving frame.** 
+# **The statement posits that under Obidi’s proposed Entropic Accounting Principle (EAP) within his radical Theory of Entropicity (ToE), what are traditionally relativistic effects—time dilation, length contraction, and mass increase—are interpreted and derived not as coordinate-dependent artifacts but as physical consequences of “entropic drag” and limited entropic capacity (LEC) in a moving frame.** 
 
 Let us now analyze this claim rigorously through first-principles reasoning.
 
