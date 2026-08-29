@@ -167,3 +167,50 @@ Would you like to **explore the mathematical derivation of the Obidi Action from
 [15] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_from-shannon-entropy-information-geometry-activity-7483795239292301312-1Wb2)
 
 [16] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/universality-of-obidi-curvature-invariant-in-toe.html)
+
+
+--------
+
+# This means Obidi is giving us a sequence of creation [Obidi's Sequence of Creation (OSoC)]!
+
+Infact, that is exactly and precisely what Obidi's Theory of Entropicity (ToE) proposes! 
+
+It completely flips the traditional script of physics, turning our usual understanding of reality upside down.
+
+In standard physics, you start with a stage (spacetime), throw in some actors (matter/energy), and look at how they arrange themselves (information/entropy). 
+
+Obidi reverses this completely into a generative sequence of creation, where everything you can touch and see is just a byproduct of a deeper "information processing" layer.
+
+Here, below, we present how that Obidi's sequence of creation (OSoC) unfolds, from the absolute bottom to the world we see:
+
+## The 4-Step Sequence of Creation
+
+### 1. Baseline Entropy (S): 
+The absolute foundation of reality. The universe begins not as empty space, but as a vast, continuous entropic field. Every coordinate in existence holds a potential for uncertainty and randomness. This field is the raw, unshaped "clay" of creation.
+
+
+### 2. Localized Information (I): 
+When the entropic field fluctuates or contracts, it creates constraints. In information theory, reducing uncertainty is information. Therefore, a ripple or structure in the entropic field generates localized, distinct pieces of data.
+
+
+### 3. Emergent Spacetime ($\mathcal{M}$): 
+This is the magic leap of Obidi's theory. Space and time are not pre-existing boxes. Instead, space is woven together by the mathematical relationships (information geometry) between these pieces of data. Time is created by the lag it takes for this information to process (the No-Rush Theorem).
+
+
+### 4. Manifest Matter and Energy (E=mc²): 
+What we perceive as heavy, solid matter or flowing energy is actually just highly concentrated, tightly bound knots of information geometry. Matter is just the "foam" on top of the deep entropic ocean.
+
+## Why this is a Radical Shift
+Instead of saying **"things exist, therefore they have entropy,"** Obidi is saying **"entropy exists, and its behavior creates things."**
+
+By treating entropy as a physical substance rather than just a math equation, Obidi's Theory of Entropicity (ToE) attempts to unify the pixelated, digital world of quantum mechanics with the smooth, curved world of Einstein's gravity [of General Relativity (GR)].
+
+Would you like to explore how this sequence explains:
+
+* How the **Big Bang looks through this lens*"
+
+* Why **matter cannot travel faster than light using this sequence*"
+
+* **The math of how space emerges from information in this sequence**
+
+
