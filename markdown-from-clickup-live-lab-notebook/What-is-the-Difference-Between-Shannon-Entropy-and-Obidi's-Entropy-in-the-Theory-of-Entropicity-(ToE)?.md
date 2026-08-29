@@ -25,7 +25,7 @@ $$\(H = -\sum p_i \log p_i\).$$
 
 * Promotes the continuous Shannon entropy functional into a dynamic scalar field $\(S(x)\)$ via a probability-to-field mapping:
 
-$$\(p(x) = e^{-S(x)}$$
+$$p(x) = e^{-S(x)}$$
 
 
 * Treats entropy as the foundational physical substance (ontological) preceding matter, geometry, and time rather than a derived statistical tally.
