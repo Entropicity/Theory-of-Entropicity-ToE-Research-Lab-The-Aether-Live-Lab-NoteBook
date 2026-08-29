@@ -1,5 +1,7 @@
 # What is the Difference Between Shannon Entropy and Obidi's Entropy in the Theory of Entropicity (ToE)?
 
+# An Introduction to Obidi's Sequence of Creation (OSoC)
+
 What-is-the-Difference-Between-Shannon-Entropy-and-Obidi's-Entropy-in-the-Theory-of-Entropicity-(ToE)?.md
 
 Shannon entropy is an epistemic measure of uncertainty in a set of probabilities, whereas Obidi's entropic framework treats entropy as an ontological, dynamic physical field that generates spacetime itself.
