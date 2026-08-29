@@ -4,7 +4,7 @@ Accomplishments-of-the-Theory-of-Entropicity-(ToE).md
 
 
 
-The Theory of Entropicity (ToE), a theoretical framework developed by John Onimisi Obidi, aims to unify physics by treating entropy not as a statistical byproduct of disorder, but as the fundamental physical field from which space, time, gravity, and quantum mechanics emerge. [1, 2, 3] 
+The **Theory of Entropicity (ToE),** a theoretical framework developed by John Onimisi Obidi, aims to unify physics by treating entropy not as a statistical byproduct of disorder, but as the fundamental physical field from which space, time, gravity, and quantum mechanics emerge. [1, 2, 3] 
 
 Though it is an emerging and radical framework undergoing active development and peer evaluation, its primary accomplishments, derivations, and milestones include: [1, 4, 5, 6, 7] 
 
@@ -41,7 +41,9 @@ Without relying on standard curved spacetime geometry, ToE claims to replicate t
 ## Current Status Note: 
 While ToE has offered mathematically rigorous alternatives to long-standing problems on platforms like [OSF Preprints](https://osf.io/d7pky) and [Cambridge Engage](https://www.cambridge.org/engage/coe/article-details/695017eb900d745c43da8a56), the wider physics community views it as a developing paradigm. It is currently undergoing deeper peer-review and awaits definitive experimental testing to see if it can officially compete with established Quantum Field Theory (QFT) and Einstein's General Relativity (GR). [4, 11, 14] 
 
-If you would like to explore this further, I would you like more details on how it mathematically structures the Master Entropic Equation (MEE)/Obidi Field Equations (OFE), or we can look closely at how it differs from Erik Verlinde's Entropic Gravity. Which area shall we explore next? [4, 19, 20] 
+If you would like to explore this further, we would like to provide you with more details on how Obidi's ToE mathematically structures the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE),** or we can look closely at how it differs from **Erik Verlinde's Entropic Gravity.** 
+
+Which area shall we explore next? [4, 19, 20] 
 
 [1] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
 
