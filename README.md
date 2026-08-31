@@ -2,7 +2,7 @@
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
 █░░   THE THEORY OF ENTROPICITY (ToE) — OFFICIAL REPOSITORY       ░░█
 █░░   Entropy as the Substrate of Reality                          ░░█
-█░░   Conceptual Foundations • Field Equations • Ontodynamics      ░░█
+█░░   Conceptual Foundations • Field Equations • Ontodynamics • Philosophy • Mathematical Mechanics  ░░█
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████████████████████████████
 
