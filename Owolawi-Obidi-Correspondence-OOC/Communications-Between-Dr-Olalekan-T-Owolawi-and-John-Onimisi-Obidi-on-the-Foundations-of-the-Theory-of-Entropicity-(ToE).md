@@ -41,7 +41,7 @@ For us to be really able to think of nothing is for us to have been nothing in t
 **Saturday, 22nd August, 2026:**
 
 
-# Discussions on Einstein's Annus Mirabilis of 1905 in a video clip involving the legendary**Neil deGrasse Tyson NDT (Non Destructive Testing/Tester!)**
+# Discussions on Einstein's Annus Mirabilis of 1905 in a video clip involving the legendary **Neil deGrasse Tyson NDT (Non Destructive Testing/Tester!)**
 
 
 ## From Owolawi to Obidi:
