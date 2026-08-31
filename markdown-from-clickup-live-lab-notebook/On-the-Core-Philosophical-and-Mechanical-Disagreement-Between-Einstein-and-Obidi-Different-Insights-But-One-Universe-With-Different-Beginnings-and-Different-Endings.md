@@ -117,18 +117,33 @@ Would you like to examine:
 
 
 [1] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/691437a4a10c9f5ca1db32f3)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/the-limit-of-the-speed-of-light-c-is-a-consequence-of-thermodynamic-entropy-rather-than-the-6ee6c04aae60)
+
 [3] [https://medium.com](https://medium.com/@jonimisiobidi/principles-of-the-theory-of-entropicity-toe-da93a9d56f98)
+
 [4] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
 [5] [https://www.academia.edu](https://www.academia.edu/128788744/Einstein_and_Bohr_Finally_Reconciled_on_Quantum_Theory_The_Theory_of_Entropicity_ToE_as_the_Unifying_Resolution_to_the_Problem_of_Quantum_Measurement_and_Wave_Function_Collapse_A_Befitting_Contribution_to_this_Year_s_Centennial_Reflection_and_Celebration_of_the_Birth_of_Quantum_Mechanics)
+
 [6] [https://arxiv.org](https://arxiv.org/html/1002.1275v4)
+
 [7] [https://arxiv.org](https://arxiv.org/html/hep-th/0409024v3)
+
 [8] [https://inspirehep.net](https://inspirehep.net/files/d38146630dac83fa7ed2a91658999d0f)
+
 [9] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176340906.62496480)
+
 [10] [https://medium.com](https://medium.com/@jonimisiobidi/from-ginestra-bianconis-gravity-to-obidi-s-theory-of-entropicity-toe-toward-a-new-foundation-of-0a75f770c8ef)
+
 [11] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
 [12] [https://www.youtube.com](https://www.youtube.com/watch?v=MrwW4w2nAMc&t=394)
+
 [13] [https://www.researchgate.net](https://www.researchgate.net/publication/397528844_On_the_Theory_of_Entropicity_ToE_and_Ginestra_Bianconi%27s_Gravity_from_Entropy_A_Rigorous_Derivation_of_Bianconi%27s_Results_from_the_Entropic_Obidi_Actions_of_the_Theory_of_Entropicity_ToE)
+
 [14] [https://arxiv.org](https://arxiv.org/html/1911.10543v3)
+
 [15] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/6857821.pdf?abstractid=6857821&mirid=1&type=2)
+
 [16] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-structural-vulnerabilities-in-modern-activity-7487364521347584000-XeHQ)
