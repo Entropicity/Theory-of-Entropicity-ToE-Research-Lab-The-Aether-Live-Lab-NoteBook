@@ -2,6 +2,8 @@
 
 On-the-Core-Philosophical-and-Mechanical-Disagreement-Between-Einstein-and-Obidi-Different-Insights-But-One-Universe-With-Different-Beginnings-and-Different-Endings.md 
 
+# On the Core Philosophical and Mechanical Disagreement Between Einstein and Obidi: Different Insights, But One Universe With Different Beginnings and Different Endings—The Universe Does Not Obey Einstein; Einstein is Obeying the Second Law of Thermodynamics (SLoT).
+
 
 ## So, fundamentally, Obidi disagrees with Einstein by Obidi saying gravity is not intrinsically Matter and Energy bending Spacetime but that it is entropy in action enforcing the Second Law of Thermodynamics (SLoT) via Entropic pressure of Entropic Gradients
 
