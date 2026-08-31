@@ -83,3 +83,15 @@ Would you like to dive deeper into:
 [8] [https://www.academia.edu](https://www.academia.edu/144796856/The_Theory_of_Entropicity_ToE_Derives_Einsteins_Relativistic_Speed_of_Light_c_as_a_Function_of_the_Entropic_Field_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Derive_Einsteins_Second_Postulate_Version_2_0)
 
 [9] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+
+
+----------------
+
+# Scholium 
+
+
+The primary difference is that **Einstein abandoned the idea of an underlying medium to make spacetime fundamental,** whereas **Obidi introduces an informational "entropic field" that makes spacetime secondary.**
+
+
+While **Einstein** famously discarded the 19th-century mechanical **"luminiferous ether"** to build his **Theory of Relativity (ToR),** **Obidi’s Theory of Entropicity (ToE)** posits that reality is built on a continuous, informational substrate rather than empty, geometric space.
