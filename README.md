@@ -7,7 +7,7 @@
 ██████████████████████████████████████████████████████████████████████
 
 # Theory-of-Entropicity-ToE
-Official repository for the Theory of Entropicity (ToE) — a foundational framework unifying geometry, information, and entropy into a single entropic field theory. This site hosts the evolving conceptual architecture, mathematical formulations, and expository materials that define ToE.
+Official repository for the Theory of Entropicity (ToE) — a foundational framework unifying geometry, information, and entropy into a single entropic field theory. This site hosts the evolving conceptual architecture, philosophical underpinnings and implications, mathematical formulations, and expository materials that define ToE.
 
 The Theory of Entropicity (ToE) is an original, field‑theoretic framework that positions entropy as the fundamental substrate of reality. This repository serves as the official digital home of the theory, consolidating its conceptual foundations, mathematical structures, derivations, expository essays, and developmental history.
 
