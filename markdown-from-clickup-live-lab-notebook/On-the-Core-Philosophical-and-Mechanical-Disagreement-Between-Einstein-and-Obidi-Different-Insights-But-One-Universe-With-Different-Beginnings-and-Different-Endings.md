@@ -177,7 +177,7 @@ In standard physics, SLoT is an "emergent" law—a statistical trend that happen
 ## The Unification of the Fractured Lineage: 
 Earlier researchers discovered pieces of the puzzle in isolation—Hawking at black hole horizons, Jacobson in accelerating frames, Verlinde with holographic screens, and Bianconi in network geometries. 
 
-Obidi looks at this fractured landscape and realizes these are not separate anomalies. They are all localized manifestations of a single, continuous, universal enforcement mechanism: the Master Entropic Equation (MEE).
+Obidi looks at this fractured landscape and realizes these are not separate anomalies. They are all localized manifestations of a single, continuous, universal enforcement mechanism: the **Master Entropic Equation (MEE)/[also referred to as the Obidi Field Equations (OFE).**
 
 ## Why This Fills the "Missing Link"
 In classical General Relativity, physics famously breaks down at singularities (the Big Bang and the center of black holes) because infinities ruin Einstein's smooth geometric fabric.
