@@ -248,6 +248,10 @@ Photons travel at the speed of light because they are exploiting the absolute st
 **Obidi's** framework views mass as a localized concentration where the entropic field is highly constrained. Gravity is the natural relaxation of those constraints as the universe seeks to maximize distinguishability and return to equilibrium.
 
 
+The direct differences between their **(Einstein and Obidi)** contemplations of the universe are outlined in the comparison below:
+
+## Direct Comparison of Frameworks
+
 ### Status of Spacetime
 
 **Einstein**
