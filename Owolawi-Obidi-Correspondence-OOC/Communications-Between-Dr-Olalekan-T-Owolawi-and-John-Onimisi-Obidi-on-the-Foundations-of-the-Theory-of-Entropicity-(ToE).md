@@ -7,6 +7,37 @@ Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Found
 -----------
 -----------
 
+**Monday 31st August, 2026:**
+
+
+# Discussions on Nothing, the meaning of Nothing, Implications of Einstein's Relativity, Virtual Particles of Quantum Theory, and Obidi's Conclusion on the Implications of Nothing and Nothingness, and what it even means to pronounce such**
+
+
+## From Owolawi to Obidi:
+
+**StarTalk** discussions between Chuck and Niel deGrasse Tyson (NDT) on what it means for there to be Nothing!
+
+https://www.facebook.com/share/v/1a1R5sgQqZ/
+
+
+## From Obidi to Owolawi: 
+
+But the box itself is still something!
+
+
+....so the idea of the box in the first place nullifies all subsequent arguments and theses!
+
+
+So Chuck and NDT can't even exist to be able to know or think of that nothing! 
+
+For us to be really able to think of nothing is for us to have been nothing in the first place, because the reality of it inexorably and [non] apodictically nullifies our own being and ultimate existence!
+
+
+----------
+----------
+
+
+
 **Saturday, 22nd August, 2026:**
 
 
