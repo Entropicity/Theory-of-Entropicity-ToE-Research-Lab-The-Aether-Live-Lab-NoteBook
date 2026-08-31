@@ -172,6 +172,118 @@ Below is the full list of references for further research
 
 
 ------------
+------------
+
+
+[John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5) and [Albert Einstein](https://www.google.com/search?q=albert+einstein&kgmid=/m/0jcx) differ fundamentally on how they contemplate spacetime and the universe. Their disagreement is a shift in ontology—meaning they disagree on what constitutes the "fabric" of reality. [1, 2] 
+
+While Einstein treats spacetime as a foundational smooth canvas that is warped by matter, Obidi's Theory of Entropicity (ToE) argues that spacetime is not fundamental at all. Instead, it is an emergent phenomenon born out of a deeper field of statistical information and entropy. [2, 3, 4, 5] 
+
+The differences in how they contemplate the universe break down across several core concepts:
+
+## 1. The Nature of Spacetime (Primitive vs. Emergent)
+
+
+### Einstein:
+Spacetime is the fundamental arena of the universe. In his General Theory of Relativity, a smooth 4D fabric of space and time exists a priori. Matter and energy sit inside this fabric and warp it to create gravity. [3, 6, 7] 
+
+
+### Obidi: 
+Spacetime is a secondary, macroscopic illusion. In ToE, the true foundational substrate of the universe is an "entropic field". Space, time, and geometry are derived properties that only crystalize when informational updates and statistical distances interact. If you have no entropic gradients, spacetime geometry ceases to exist. [4, 8, 9] 
+
+
+## 2. The Mechanics of Gravity
+
+
+### Einstein: 
+Gravity is the geometric curvature of spacetime caused by the presence of mass and energy. He models this using Riemannian geometry and the Einstein–Hilbert Action. [10, 11, 12] 
+
+
+### Obidi: 
+Gravity is an entropic redistribution process. Obidi uses Information Geometry (such as the Fisher–Rao metric and Amari–Čencov statistical connections) to show that mass is merely a highly constrained concentration of information. Gravity is simply the entropic field relaxing those constraints to restore statistical balance. 
+
+Obidi's Master Entropic Equation (MEE) encompasses Einstein's field equations as a low-gradient, near-equilibrium limit. [10, 13, 14, 15, 16] 
+
+
+## 3. The True Meaning of the Speed of Light ($c$)
+
+
+### Einstein: 
+The speed of light ($c$) is a fundamental constant of nature and the universal speed limit. Einstein postulated its invariance across all inertial frames as a baseline rule of special relativity.
+
+### Obidi: 
+The speed of light is an informational processing limit. Through his No-Rush Theorem, Obidi dictates that no entropic configuration can update its status in zero time. 
+
+Therefore, $c$ is not a magical property of photons; it is the absolute maximum rate at which the universe's underlying entropic field can causally reorganize or redistribute local information. Light travels at $c$ simply because it experiences no resistance to this informational limit. [1, 5, 17, 18, 19, 20] 
+
+
+## Summary of Differences
+
+| Conceptual Layer | Albert Einstein (Relativity) | John Onimisi Obidi [Theory of Entropicity ToE)] |
+|---|---|---|
+| Primary Substrate | Smooth 4D Spacetime Continuum | Dynamic Entropic/Informational Field |
+| Origin of Geometry | Posited a priori as a physical reality | Emerges from statistical distinguishability |
+| What is Mass? | Material energy that deforms space | High concentration of bounded information |
+| Speed Limit ($c$) | An absolute cosmic axiom | A derived thermodynamic limit on field processing |
+| Arrow of Time | A persistent block-universe illusion | Real, driven by fundamental microscopic irreversibility |
+
+Ultimately, Obidi does not mathematically invalidate Einstein; rather, he subsumes relativity. Where Einstein looked at the geometry of the universe and saw the final answer, Obidi looks at that exact same geometry and seeks to explain the thermodynamic and informational mechanisms that generated it in the first place. [1, 10, 12] 
+
+Would you like to explore:
+
+
+* The mathematics behind **Obidi's Master Entropic Equation (MEE)/Obidi Field Equations (OFE) vs. the Einstein-Hilbert Action**
+
+* How **Obidi's No-Rush Theorem (NRT)** derives the laws of Special Relativity
+
+* How ToE attempts to **bridge the gap between General Relativity and Quantum Mechanics**
+  
+
+
+[1] [https://www.linkedin.com](https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-speed-of-light-c-between-einstein-activity-7497553848589524992-Um-5)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-conceptual-and-mathematical-beauty-of-obidis-theory-of-entropicity-toe-083308c6903c)
+
+[3] [https://www.facebook.com](https://www.facebook.com/NOVApbs/videos/how-einstein-changed-the-way-we-understand-gravity/1601144437744396/)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
+[5] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_toe-google-toe-google-resources-on-the-theory-activity-7430153437729947648-2HFL)
+
+[6] [https://www.space.com](https://www.space.com/17661-theory-general-relativity.html)
+
+[7] [https://www.quora.com](https://www.quora.com/What-did-Einstein-actually-say-about-space-time-and-how-does-it-differ-from-popular-understanding)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/a-demonstration-of-the-theory-of-entropicity-toe-s-core-claim-that-spacetime-and-its-curvature-e7703edd512f)
+
+[9] [https://www.facebook.com](https://www.facebook.com/ScienceNaturePage/posts/physicists-claims-our-universe-comes-from-a-deeper-reality-one-where-space-and-t/1620906329490230/)
+
+[10] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
+[11] [https://www.facebook.com](https://www.facebook.com/albert.einstein.fans/posts/what-is-spacetime-einsteins-theory-of-time-and-gravity-explained-/1610425990446698/)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
+
+[13] [https://osf.io](https://osf.io/6utnh/overview)
+
+[14] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_why-obidis-theory-of-entropicity-toe-activity-7493199554117292033-F6vm)
+
+[15] [https://www.researchgate.net](https://www.researchgate.net/publication/407246213_From_Information_Geometry_to_Information_Gravity_Information_Geometry_as_the_Origin_of_Einstein%27s_GravityCorrespondence_of_the_Obidi_Action_and_the_Einstein-Hilbert_Action_in_the_Theory_of_Entropicity)
+
+[16] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821)
+
+[17] [https://www.youtube.com](https://www.youtube.com/watch?v=9sQuffLFVyw)
+
+[18] [https://www.instagram.com](https://www.instagram.com/p/DcrpGKNj7WL/)
+
+[19] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_why-obidis-theory-of-entropicity-toe-activity-7493208968165511168-gz80)
+
+[20] [https://www.linkedin.com](https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-speed-of-light-c-between-einstein-activity-7497553848589524992-Um-5)
+
+
+
+------------
+------------
 
 
 # Scholium 
