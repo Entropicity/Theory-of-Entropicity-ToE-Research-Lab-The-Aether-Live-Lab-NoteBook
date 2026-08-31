@@ -44,7 +44,7 @@ ToE does not violate or discard Einstein's Special or General Relativity; it rec
 The ether was purely a medium for electromagnetism. It struggled to convincingly explain gravity or the internal structure of matter without becoming overly convoluted.
 
 ### Obidi's Entropic Field: 
-The entropic field unifies everything under ontodynamics (the study of existence as entropic motion). By applying a rank-one disformal deformation (the Obidi Transformation), information geometry acquires a causal structure. 
+The entropic field unifies everything under ontodynamics (the study of existence as entropic motion and negotiation). By applying a rank-one disformal deformation (the Obidi Transformation), information geometry acquires a causal structure. 
 
 This mathematical bridge transforms statistical probabilities into physical gravity, effectively showing that Einstein's Field Equations are a macroscopic thermodynamic limit. [1, 4, 7] 
 
