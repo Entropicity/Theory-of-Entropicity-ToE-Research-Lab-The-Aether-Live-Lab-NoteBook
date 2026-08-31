@@ -4,7 +4,7 @@ In this markdown Volume, I preserve the Correspondence between **Dr. Olalekan T.
 **This is the basis and foundation of the now famous Owolawi-Obidi-Correspondence (OOC)
 of the Theory of Entropicity (ToE), first hinted at in the published Letter IC (Monograph, Volume I) of the Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS).**
 
-A separate and comprehensive paper on the Owolawi-Obidi-Correspondence (OOC) is still in preparation.
+A separate and comprehensive monograph on the **Owolawi-Obidi-Correspondence (OOC)** is still in preparation.
 
 **The reader who is desirous of knowing about the foundational contributions of Dr. Olalekan T. Owolawi to Obidi's development of the Theory of Entropicity (ToE) is hereby referred to the ToE Living Review Letters Series, Letter IC and Letter IV, especially, among other expositions on ToE.**
 
