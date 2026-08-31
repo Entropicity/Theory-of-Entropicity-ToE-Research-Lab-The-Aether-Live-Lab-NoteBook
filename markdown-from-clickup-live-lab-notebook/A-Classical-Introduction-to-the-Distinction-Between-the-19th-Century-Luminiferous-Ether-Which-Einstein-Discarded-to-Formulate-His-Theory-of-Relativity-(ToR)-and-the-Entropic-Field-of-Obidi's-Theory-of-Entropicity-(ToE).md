@@ -24,7 +24,8 @@ The entropic field is an informational and statistical manifold. It is defined m
 The ether existed inside an absolute Newtonian background of space and time. It acted as a privileged, absolute frame of reference, which means an observer's velocity relative to the stationary ether should alter the measured speed of light.
 
 ### Obidi's Entropic Field: 
-In ToE, spacetime is not an empty container filled by a field; spacetime is an emergent, coarse-grained limit of the entropic field itself. Through the [Obidi Action](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab) and the Master Entropic Equation (MEE), the structural redistribution of entropy creates the geometry of the universe. There is no "background" space to move through independently of the field. [1, 2, 6, 7] 
+In ToE, spacetime is not an empty container filled by a field; spacetime is an emergent, coarse-grained limit of the entropic field itself. Through the [Obidi Action](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab) and the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE),** the structural redistribution of entropy creates the geometry of the universe. 
+There is no "background" space to move through independently of the field. [1, 2, 6, 7] 
 
 
 ## 3. Explaining Relativity: Kinematics vs. Ontodynamics
