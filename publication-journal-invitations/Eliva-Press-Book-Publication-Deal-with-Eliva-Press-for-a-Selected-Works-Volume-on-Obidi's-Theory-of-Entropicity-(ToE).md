@@ -12,7 +12,7 @@ From: JOHN OBIDI <jonimisiobidi@gmail.com>
 
 Date: Tue, Sep 1, 2026, 4:16 AM
 
-#@ Subject: Re: Author - John Onimisi Obidi_J2_The ToE Living Review Letters Series (ToE LRLS), Letter IC
+## Subject: Re: Author - John Onimisi Obidi_J2_The ToE Living Review Letters Series (ToE LRLS), Letter IC
 
 To: Victor Marjinean <victor.marjinean@elivapress.com>
 
