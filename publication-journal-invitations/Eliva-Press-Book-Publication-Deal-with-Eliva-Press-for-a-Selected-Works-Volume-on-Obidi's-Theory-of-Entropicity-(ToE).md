@@ -6,6 +6,77 @@ Eliva-Press-Book-Publication-Deal-with-Eliva-Press-for-a-Selected-Works-Volume-o
 -------------
 -------------
 
+--------- Forwarded message ---------
+
+From: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+Date: Tue, Sep 1, 2026, 9:17 AM
+
+## Subject: Re: Reminder -  your paper - John Onimisi Obidi_"From Information Geometry to Information Gravity Information Geometry as the Origin of Einstein’s Gravity:Correspondence of the Obidi A..."
+
+To: <victor.marjinean@elivapress.com>
+
+Cc: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+**Dear Victor Marjinean,**
+
+Thank you for your email. 
+
+Going by the strength of your email, I hereby agree for you to go ahead to publish the book on my academic research, including this work: ***"From Information Geometry to Information Gravity Information Geometry as the Origin of Einstein’s Gravity:Correspondence of the Obidi A...".***
+
+I appreciate your interest in my work and your kindness to consider making it readily available and accessible to the wider public. 
+
+Thank you for your services to Modern Theoretical Physics.
+
+Kindest regards,
+
+**John Obidi** 
+
+
+-----------
+-----------
+
+
+---------- Forwarded message ---------
+
+From: <victor.marjinean@elivapress.com>
+
+Date: Mon, Aug 31, 2026, 9:07 PM
+
+## Subject: Reminder -  your paper - John Onimisi Obidi
+
+To: <jonimisiobidi@gmail.com>
+
+
+**Dear John Onimisi Obidi,**
+
+I hope you’re having a great day.
+
+Last week, I contacted you about publishing a book based on your academic research, including this work: ***"From Information Geometry to Information Gravity Information Geometry as the Origin of Einstein’s Gravity:Correspondence of the Obidi A...".***
+
+I was wondering if you have had a chance to look at my previous email?
+
+Looking forward to hearing from you soon.
+
+--
+
+Sincere regards,
+
+**Victor Marjinean**
+
+Editor
+
+victor.marjinean@elivapress.com
+www.elivapress.com
+
+**Eliva Press SRL**
+
+Registration No. 1020600000328
+
+----------
+----------
+
 ---------- Forwarded message ---------
 
 From: JOHN OBIDI <jonimisiobidi@gmail.com>
