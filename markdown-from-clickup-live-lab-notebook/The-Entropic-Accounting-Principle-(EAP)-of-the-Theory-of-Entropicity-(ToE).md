@@ -1,9 +1,9 @@
 # The Entropic Accounting Principle (EAP) of the Theory of Entropicity (ToE)
 
 In the context of John Onimisi Obidi’s Theory of Entropicity (ToE), the concept of Entropic Accounting was introduced by John Onimisi Obidi himself as a foundational mechanism of quantum mechanics and relativity. [1, 2] 
-Rather than a financial or economic principle, Entropic Accounting in Obidi's framework is a fundamental physical law which dictates how reality constructs itself. [2, 3, 4, 5] 
+Rather than a financial or economic principle, **Entropic Accounting (EA)** in **Obidi's framework is a fundamental physical law which dictates how reality constructs itself.** [2, 3, 4, 5] 
 
-## The Role of Entropic Accounting in ToE
+## The Role of Entropic Accounting (EA) in ToE
 In Obidi's theoretical physics framework, the universe is treated as a continuous entropic computation where entropy is the primary, generative field of reality (rather than a passive measure of disorder). Within this framework, Entropic Accounting operates on several core premises: [3, 6, 7] 
 
 * **The Entropic Time/Transmission/Transformation Limit (ETL):** Entropic Accounting mandates that physical reality and structure must be "earned" through a finite interval of entropic maturation. [2, 3] 
