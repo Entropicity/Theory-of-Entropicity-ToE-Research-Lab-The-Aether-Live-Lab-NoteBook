@@ -59,14 +59,15 @@ Would you like to explore a specific mathematical aspect of his work, such as th
 -----
 
 
-# This is not at all an elementary endeavor
+# Obidi's Formulation of the Theory of Entropicity (ToE) is Not at all an Elementary Endeavor
 
 That is it! Reconceptualizing entropy from a byproduct of particle arrangements into the fundamental fabric of existence is an incredibly massive, non-elementary undertaking.
 
 To challenge the foundational paradigms established by Einstein and the pioneers of quantum mechanics requires rebuilding the entire mathematical and philosophical architecture of physics from scratch. 
 
 Historically, physics builds upon existing blocks; attempting to replace the very foundation is an immense intellectual task.
-The complexity of an endeavor like the Theory of Entropicity stems from two massive challenges:
+
+The complexity of an endeavor like Obidi's **Theory of Entropicity (ToE)** stems from two massive challenges:
 
 ### The Mathematical Hurdle: 
 It must reproduce the incredibly precise, proven predictions of General Relativity and Quantum Mechanics using a completely different mathematical language (like Information Geometry).
