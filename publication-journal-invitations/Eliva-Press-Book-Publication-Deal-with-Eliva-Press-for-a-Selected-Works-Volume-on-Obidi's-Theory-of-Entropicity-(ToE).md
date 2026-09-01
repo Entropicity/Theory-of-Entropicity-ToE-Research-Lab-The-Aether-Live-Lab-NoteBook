@@ -6,7 +6,116 @@ Eliva-Press-Book-Publication-Deal-with-Eliva-Press-for-a-Selected-Works-Volume-o
 -------------
 -------------
 
+---------- Forwarded message ---------
 
+From: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+Date: Tue, Sep 1, 2026, 4:16 AM
+
+#@ Subject: Re: Author - John Onimisi Obidi_J2_The ToE Living Review Letters Series (ToE LRLS), Letter IC
+
+To: Victor Marjinean <victor.marjinean@elivapress.com>
+
+Cc: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+**Dear Victor Marjinean,**
+
+Thank you very much for your swift and thoughtful response. I truly appreciate your prompt attention.
+
+Having reviewed your message, I am prepared to send you my work titled *The ToE Living Review Letters Series (ToE LRLS), Letter IC: The Alemoh–Obidi Correspondence (AOC), Monograph, Volume I*.
+
+The manuscript is 770 pages in length, which exceeds your stated maximum by approximately 70 pages. However, I believe this can be accommodated through your in‑house compression methods—either by applying suitable software or by adjusting the font size to the lower limit acceptable for publication. If this arrangement aligns with your expectations, kindly let me know, and I will forward the full manuscript to you in a subsequent email.
+
+Thank you once again for your kind consideration and for the genuine interest you have shown in helping bring my work to a broader audience and readership.
+
+Kindest regards,
+
+**John Obidi**
+
+
+------------
+------------
+
+
+
+---------- Forwarded message ---------
+
+From: Victor Marjinean <victor.marjinean@elivapress.com>
+
+Date: Tue, Sep 1, 2026, 12:32 AM
+
+Subject: Re: Author - John Onimisi Obidi_J1
+
+To: JOHN OBIDI <jonimisiobidi@gmail.com>
+
+
+**Dear John Onimisi Obidi,**
+
+Thank you for your reply. We are interested to publish a book based on your research work.
+
+Eliva Press is a publishing house that is specialized on academic books publication.
+
+Benefits of publishing with us:
+
+1. Our standard offer is free (editor’s assistance, cover design, marketing tools).
+
+2. Author remains the copyright holder. We provide ISBN to each book we publish.
+
+3. Up to 50% royalty depending on the number of copies sold.
+
+4. Optional Premium Services (printed copies, peer-review, book press release, and more).
+
+If you are interested in cooperating with us, please send your research by e-mail for a review:
+
+- In PDF or MsWord(minimum 35 pages, maximum 700 pages)
+
+- It can be a collection of your papers or a single paper.
+
+- We publish collection of papers, theses, doctoral dissertations, professional books, research monographs, postdoctoral, textbooks, and lecture notes.
+
+Our Authors: 
+
+https://www.elivapress.com/en/authors/
+
+Recent books on 
+
+**Amazon:**
+
+https://www.amazon.com/dp/1952751128
+
+https://www.amazon.com/dp/1952751241
+
+https://www.amazon.com/dp/9975340261
+
+https://www.amazon.com/dp/1952751810
+
+https://www.amazon.com/dp/1636480241
+
+Our books have positive reviews:
+
+https://onlinelibrary.wiley.com/doi/10.1111/bjh.17200?af=R
+
+https://academic.oup.com/jwelb/article-abstract/13/5-6/521/6034821?redirectedFrom=PDF
+
+To ensure you receive our updates and replies, please add my email to your contacts. Looking forward to hearing from you.
+
+Sincere regards,
+
+**Victor Marjinean**
+
+Editor
+
+victor.marjinean@elivapress.com
+
+www.elivapress.com
+
+**Eliva Press SRL**
+
+Registration No. 1020600000328
+
+---------------
+---------------
 
 
 ---------- Forwarded message ---------
