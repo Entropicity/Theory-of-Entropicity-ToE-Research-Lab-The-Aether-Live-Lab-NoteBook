@@ -19,5 +19,5 @@ Key mathematical constructs in his framework include the **Obidi Action** (a fun
 
 It's worth noting that ToE is an **independent and audacious** program — Obidi works as an independent consultant-researcher and not through a university or institutional affiliation, and the theory is undergoing rigorous review prior to validation by the broader physics community, while still awaiting its final empirical and experimental confirmation.
 
-Whatever the outcome, it is now already clear to the global community of science and philosophy that Obidi's Theory of Entropicity (ToE) exposes us to a new, profound, and radical interpretation and understanding of our universe.
+Whatever the outcome, it is now already clear to the global community of science and philosophy that Obidi's Theory of Entropicity (ToE) exposes and invites us to a new, profound, and radical interpretation and understanding of our universe.
 
