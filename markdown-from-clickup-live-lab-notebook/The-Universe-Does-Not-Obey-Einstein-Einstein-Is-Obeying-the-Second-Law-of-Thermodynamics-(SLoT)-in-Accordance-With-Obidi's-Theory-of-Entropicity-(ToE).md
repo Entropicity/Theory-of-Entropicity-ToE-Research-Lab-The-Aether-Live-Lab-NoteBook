@@ -179,7 +179,7 @@ The mechanics of how the universe is structured differ fundamentally between the
 
 -----
 
-# **Two Cosmological Paths**
+# **Two Cosmological Paths Between Einstein and Obidi**
 
 | **Einsteinian Paradigm** | **Obidian Paradigm** |
 |--------------------------|----------------------|
@@ -191,7 +191,7 @@ The mechanics of how the universe is structured differ fundamentally between the
 | Speed of light is a geometric invariant. | Speed of light is the entropic speed limit of information redistribution. |
 | Universe evolves according to geometric constraints. | Universe evolves according to entropy production and information dynamics. |
 
------+
+--------
 
 ## Einstein's Geometric Absolute: 
 In General Relativity, space and time form a seamless, continuous, four-dimensional fabric. Gravity is not a traditional force but the geometric warping of this fabric by mass and energy. For Einstein, if you remove matter and energy, you change the math, but the underlying rules of geometric invariance remain absolute. [2] 
