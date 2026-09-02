@@ -136,6 +136,11 @@ Explore:
 
 🌟 Obidi’s Radical Insight: The Universe Falls Because Information Falls
 
-Obidi’s Theory of Entropicity ultimately reveals a universe far more radical than Einstein presented us with: a universe where falling is not a geometric fate but an informational necessity. In Obidi’s view, gravitation is the visible shadow of a deeper negotiation occurring inside the entropic field — a relentless drive toward maximal informational consistency. When you fall off a ladder, your body is not obeying a curved spacetime; it is obeying the statistical command of the entropic manifold, collapsing toward the configuration that resolves the largest informational gradient. This is Obidi’s revolutionary insight: gravity is not the bending of a fabric but the self‑organization of existence, the universe continuously rewriting itself to satisfy the demands of entropy. In this picture, Einstein described the motion; Obidi explains the cause.
+Obidi’s Theory of Entropicity ultimately reveals a universe far more radical than Einstein presented us with: a universe where falling is not a geometric fate but an informational necessity. 
+
+In Obidi’s view, gravitation is the visible shadow of a deeper negotiation occurring inside the entropic field — a relentless drive toward maximal informational consistency. When you fall off a ladder, your body is not obeying a curved spacetime; **it is obeying the statistical command of the entropic manifold, collapsing toward the configuration that resolves the largest informational gradient.** 
+
+This is **Obidi’s revolutionary insight:** 
+> **gravity is not the bending of a fabric but the self‑organization of existence, the universe continuously rewriting itself to satisfy the demands of entropy. In this picture, Einstein described the motion; Obidi explains the cause.**
 
 ---
