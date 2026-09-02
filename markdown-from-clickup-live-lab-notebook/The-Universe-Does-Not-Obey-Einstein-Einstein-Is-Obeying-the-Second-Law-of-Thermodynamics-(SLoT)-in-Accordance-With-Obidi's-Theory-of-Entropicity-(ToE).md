@@ -185,7 +185,7 @@ The mechanics of how the universe is structured differ fundamentally between the
 |--------------------------|----------------------|
 | **Spacetime Geometry is Primary** | **Thermodynamic Information is Primary** |
 | Spacetime is a fundamental 4D manifold (pseudo‑Riemannian). | Spacetime is an emergent projection of the Entropic Information Manifold. |
-| Matter/Energy dictate curvature *(Einstein Field Equations: \(G_{\mu\nu} = 8\pi T_{\mu\nu}\))* | Entropy acts as the matter, the driver, and the source of curvature. |
+| Matter/Energy dictate curvature *(Einstein Field Equations: $\(G_{\mu\nu} = 8\pi T_{\mu\nu}\))$* | Entropy acts as the matter, the driver, and the source of curvature. |
 | Time is a bidirectional coordinate embedded in geometry. | Time has a strict thermodynamic arrow driven by irreversible entropy increase. |
 | Gravity is geometric curvature of spacetime. | Gravity is informational curvature arising from entropic gradients. |
 | Speed of light is a geometric invariant. | Speed of light is the entropic speed limit of information redistribution. |
