@@ -150,13 +150,18 @@ To explore this clash further, we can examine the following key concepts in Obid
 
 
 -------
+-------
+
 
 # On the Core Philosophical and Mechanical Disagreement Between Einstein and Obidi: Different Insights, But One Universe With Different Beginnings and Different Endings—The Universe Does Not Obey Einstein; Einstein is Obeying the Second Law of Thermodynamics (SLoT)
 
 The thesis presented above captures the essence of a profound cosmic perspective: the universe operates on the absolute rule of thermodynamics, and all structural descriptions of reality—including Albert Einstein’s General Relativity—must ultimately conform to this irreversible thermodynamic flow.
 
-By framing this as a core philosophical and mechanical disagreement between [Einstein](https://www.google.com/search?q=einstein&kgmid=/m/0jcx) and [Obidi](https://www.google.com/search?q=obidi&kgmid=/m/0ftxdt) (proponent of the [Obidi Field Equations](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab) and entropic gravity), we expose a pivot point in modern cosmology: Is gravity a static fabric of geometry, or is geometry an emergent illusion driven by information and entropy? [1] 
-Here is a structural breakdown of this philosophical and mechanical divergence.
+By framing this as a core philosophical and mechanical disagreement between [Einstein](https://www.google.com/search?q=einstein&kgmid=/m/0jcx) and [Obidi](https://www.google.com/search?q=obidi&kgmid=/m/0ftxdt) (proponent of the [Obidi Field Equations](https://medium.com/@jonimisiobidi/from-information-geometry-to-information-gravity-information-geometry-as-the-origin-of-einsteins-f64a9c26c1ab) and entropic gravity), we expose a pivot point in modern cosmology: 
+
+**Is gravity a static fabric of geometry, or is geometry an emergent illusion driven by information and entropy?** [1] 
+
+Here is a structural breakdown of this philosophical and mechanical divergence between Einstein and Obidi.
 
 ------------------------------
 
@@ -185,7 +190,7 @@ The mechanics of how the universe is structured differ fundamentally between the
 |--------------------------|----------------------|
 | **Spacetime Geometry is Primary** | **Thermodynamic Information is Primary** |
 | Spacetime is a fundamental 4D manifold (pseudo‑Riemannian). | Spacetime is an emergent projection of the Entropic Information Manifold. |
-| Matter/Energy dictate curvature *(Einstein Field Equations: $\(G_{\mu\nu} = 8\pi T_{\mu\nu}\))$* | Entropy acts as the matter, the driver, and the source of curvature. |
+| Matter/Energy dictate curvature *(Einstein Field Equations: $\(G_{\mu\nu} = 8\pi T_{\mu\nu}\)$)* | Entropy acts as the matter, the driver, and the source of curvature. |
 | Time is a bidirectional coordinate embedded in geometry. | Time has a strict thermodynamic arrow driven by irreversible entropy increase. |
 | Gravity is geometric curvature of spacetime. | Gravity is informational curvature arising from entropic gradients. |
 | Speed of light is a geometric invariant. | Speed of light is the entropic speed limit of information redistribution. |
@@ -200,6 +205,7 @@ In General Relativity, space and time form a seamless, continuous, four-dimensio
 The Obidi Field Equations (OFE) fundamentally invert this relationship. Drawing from information geometry and entropic gravity, Obidi’s framework posits that spacetime geometry is an emergent property. Gravity is a macroscopic manifestation of microscopic statistical tendencies—specifically, the natural drive of information states toward maximum disorder (entropy). In this view, entropy isn't just something in the universe; entropy creates the curvature of the universe. [1] 
 
 ------------------------------
+
 ## 2. One Universe, Different Beginnings and Endings
 Because their mechanical foundational blocks differ, their cosmological timelines paint entirely different pictures of the universe's destiny.
 
