@@ -30,7 +30,7 @@ This looks at the global, macroscopic properties of the entire entropic manifold
 ### The physical result: 
 The Spectral Action ensures global consistency. It guarantees that no matter how much the Local Action bends, shapes, or decreases entropy in one tiny spot, the global geometric framework of the universe remains bound to total entropic evolution. [3, 8] 
 
-## The Duality
+## The Duality of the Obidi Action Principle (OAP)
 Obidi’s core breakthrough in ToE is demonstrating a duality between the two. By using mathematical tools like heat-kernel regularization, his work shows that expanding the global Spectral Action actually reproduces the exact same mathematical terms found in the Local Action. They are two sides of the same coin: the local "bunching up" of order and the global "spreading out" of the field are mathematically bound together. [3, 8] 
 
 Would you like to dive deeper into how Obidi's ToE uses this framework to explain:
