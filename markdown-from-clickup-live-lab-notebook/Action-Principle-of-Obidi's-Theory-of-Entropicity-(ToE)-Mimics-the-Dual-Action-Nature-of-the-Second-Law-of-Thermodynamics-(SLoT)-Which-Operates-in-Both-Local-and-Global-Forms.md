@@ -4,7 +4,7 @@ Action Principle of Obidi's Theory of Entropicity (ToE) Mimics the Dual Action N
 
 Action-Principle-of-Obidi's-Theory-of-Entropicity-(ToE)-Mimics-the-Dual-Action-Nature-of-the-Second-Law-of-Thermodynamics-(SLoT)-Which-Operates-in-Both-Local-and-Global-Forms.md
 
-# So, we know that there are local and global statements of Entropy. This is what Obidi has tried to accomplish in his Theory of Entropicity (ToE) by creating his local and Spectral actions.
+# So, we know that there are local and global statements of Entropy from the Second Law Thermodynamics (SLoT). This is what Obidi has tried to accomplish in his Theory of Entropicity (ToE) by creating his local and Spectral actions.
 
 In conventional thermodynamics, the distinction between local and global entropy is strictly an accounting mechanism—we look at the local change in entropy inside an open system versus the total global change of the universe. [1, 2, 3] 
 
