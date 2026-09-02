@@ -10,14 +10,14 @@ While Albert Einstein built the universe on geometry, treating space and time as
 
 Instead of throwing out Einstein's physics, Obidi's Theory of Entropicity (ToE) aims to swallow it whole. It positions Einstein’s General Relativity as a high-level approximation that only works when the true entropic field is stable and near equilibrium.
 
-To frame this contrast more clearly, we add Einstein’s salient perspective:  
+To frame this contrast more clearly, we here present Einstein’s salient perspective:  
+
 Einstein’s universe is fundamentally geometric, governed by curvature, symmetry, and reversible laws. Obidi’s universe is fundamentally entropic, governed by information gradients, irreversibility, and ontodynamic evolution.
 
 ---
 
-📊 Direct Comparison of Their Foundations
+## 📊 Direct Comparison of Their Foundations
 
-`markdown
 | Feature | Albert Einstein (Relativity) | John Onimisi Obidi [Theory of Entropicity (ToE)]|
 |-------------|----------------------------------|--------------------------------------|
 | Foundational Fabric | Spacetime (4D geometric continuum) | Entropic Field (\(S(x)\)) (Information manifold) |
@@ -25,13 +25,12 @@ Einstein’s universe is fundamentally geometric, governed by curvature, symmetr
 | Nature of Constants (\(c\)) | A fundamental, postulated speed limit | The maximum rate at which the entropic field reorganizes |
 | Core Equation | Einstein Field Equations (via Einstein–Hilbert Action) | Master Entropic Equation (via Obidi Action) |
 | Time & Reality | Reversible, block-universe geometry | Irreversible, driven by "Being" and "Becoming" |
-`
 
 ---
 
-🧩 The Three Core Differences in Approach
+## 🧩 The Three Core Differences in Approach
 
-🔹 1. Geometry vs. Entropy
+## 🔹 1. Geometry vs. Entropy
 
 🧲 Einstein's View
 Spacetime is the ultimate, primitive "stage" of reality.  
@@ -49,7 +48,7 @@ how the universe relaxes that constraint is what we perceive as "gravity".
 
 ---
 
-🔹 2. The Postulate of Light (\(c\))
+## 🔹 2. The Postulate of Light (\(c\))
 
 🧲 Einstein's View
 The speed of light is an absolute constant built into the vacuum of space, used as an unexplainable starting axiom to derive time dilation and length contraction.
@@ -62,7 +61,7 @@ Relativistic effects like time dilation happen because moving objects consume th
 
 ---
 
-🔹 3. Reversibility vs. The Arrow of Time
+## 🔹 3. Reversibility vs. The Arrow of Time
 
 🧲 Einstein's View
 Fundamental laws of physics are symmetric; time is a coordinate, and past, present, and future coexist in a static block universe.
@@ -74,7 +73,7 @@ Through what he terms Ontodynamics, the universe is divided into Being (the hold
 
 ---
 
-📚 References and Sources
+## 📚 References and Sources
 
 OSF — How Obidi Transformed Information Geometry into Physical Spacetime in ...  
 
