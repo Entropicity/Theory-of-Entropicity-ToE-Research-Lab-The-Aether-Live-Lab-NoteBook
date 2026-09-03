@@ -114,7 +114,7 @@ The table below highlights how the variational mechanics of ToE scale precisely 
 | Thermodynamic Scale | Classical SLoT Dynamic | ToE Variational Equivalent | Core Mathematical Vehicle |
 |--------------------------|-----------------------------|----------------------------------|--------------------------------|
 | Local / Differential | Short-range relaxation, localized entropy gradients, and local maximization ($dS \ge 0$). | Local Obidi Action (LOA) | Nonlinear spacetime field equations and entropic geodesics. |
-| Global / Topological | Long-range constraints, total boundary flux conservation, and global consistency. | Spectral Obidi Action (SOA) | Modular operators, operator traces ($\text{Tr}\ln(\Delta)$), and spectral constraints. |
+| Global / Topological | Long-range constraints, total boundary flux conservation, and global consistency. | Spectral Obidi Action (SOA) | Modular operators, operator traces $\text{Tr}\ln(\Delta)$, and spectral constraints. |
 `
 
 ---
