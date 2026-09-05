@@ -207,6 +207,15 @@ They both continue...In the ToE Canonical Archives.
 
 ## Two Cups of Coffee On Modern Physics 
 
+
+## Obidi's Two Cups of Coffee Papers on Physics 
+
+
+## Obidi's Two Cups of Coffee on Physics Papers 
+
+## The Two Cups of Coffee Papers 
+
+
 ## Two Cups of Coffee On Modern Physics: The Einstein-Obidi Dialogue on the Phenomenological Foundations of Modern Physics 
 
 ## 🔥 III. Obidi Responds: The Entropic Universe (Continuation—1)
