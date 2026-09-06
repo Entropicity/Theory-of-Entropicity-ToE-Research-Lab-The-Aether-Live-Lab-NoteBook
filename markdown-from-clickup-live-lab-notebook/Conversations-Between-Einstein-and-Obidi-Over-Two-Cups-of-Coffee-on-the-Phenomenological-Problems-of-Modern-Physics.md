@@ -1,6 +1,5 @@
 # ☕ Conversations Between Einstein and Obidi Over Two Cups of Coffee on the Phenomenological Problems of Modern Physics
 
-
 Conversations-Between-Einstein-and-Obidi-Over-Two-Cups-of-Coffee-on-the-Phenomenological-Problems-of-Modern-Physics.md
 
 ## Abstract
