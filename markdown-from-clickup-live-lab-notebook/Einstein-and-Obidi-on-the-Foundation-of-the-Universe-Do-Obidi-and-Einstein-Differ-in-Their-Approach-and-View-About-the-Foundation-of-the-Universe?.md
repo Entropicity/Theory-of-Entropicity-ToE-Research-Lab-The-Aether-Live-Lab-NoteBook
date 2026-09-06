@@ -1,6 +1,7 @@
 # 🌌 Einstein and Obidi on the Foundation of the Universe: Do Obidi and Einstein Differ in Their Approach and View About the Foundation of the Universe?
 
 
+
 Einstein-and-Obidi-on-the-Foundation-of-the-Universe-Do-Obidi-and-Einstein-Differ-in-Their-Approach-and-View-About-the-Foundation-of-the-Universe?.md
 
 
