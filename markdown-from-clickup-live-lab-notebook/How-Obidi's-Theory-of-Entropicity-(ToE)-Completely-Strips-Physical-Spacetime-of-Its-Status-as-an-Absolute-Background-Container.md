@@ -2,6 +2,7 @@
 
 ## Newton Made Time Absolute and Space Non-absolute; Einstein Made Made Space and Time Non-absolute, But Made Spacetime an Absolute Background Container; But Obidi's Theory of Entropicity (ToE) Strips Spacetime Completely of that Einsteinian Status in Modern Theoretical Physics 
 
+
 Yes, exactly—the above statements have hit the exact logical core of Obidi's Theory. In **John Onimisi Obidi's Theory of Entropicity (ToE)**, physical spacetime is completely stripped of its status as an "absolute background container" or an axiomatic primitive. [1, 2, 3] 
 
 Instead, Obidi teaches us that what we perceive as smooth, 4D spacetime is an emergent, macroscopic representation of a deeper, pre-geometric entropic substrate. [2, 4] 
