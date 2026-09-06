@@ -4,6 +4,7 @@
 But-Who-is-John-Onimisi-Obidi?.md
 
 
+
 John Onimisi Obidi is an independent scientific researcher, philosopher, and writer who is best known as the pioneer and creator of the Theory of Entropicity (ToE). He explicitly distinguishes himself from a popular social media consultant of a similar name. [1, 2] 
 
 Obidi's work focuses primarily on theoretical physics, information geometry, and philosophy through a self-published framework that attempts to offer a fresh perspective on the fundamental laws of the universe. [3, 4, 5] 
