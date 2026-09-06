@@ -14,7 +14,7 @@ However, Obidi's Theory of Entropicity (ToE) argues that our perception of a sol
 In standard physics, you measure the distance between two objects in meters. In information theory, you measure the "distance" between two pieces of data by how different or distinguishable they are (using tools like the [Fisher–Rao metric](https://en.wikipedia.org/wiki/Fisher_information_metric)). [2] 
 
 
-### The Obidi claim: 
+### The Obidi Postulate: 
 Space does not exist a priori. What we perceive as physical distance is actually a mathematical translation of statistical distance in an underlying information network. [1, 2] 
 
 * When two states are highly similar, they are "close" to each other. The **Obidi Transformation** uses a mathematical scaling factor to convert these data differences directly into physical spacetime coordinates and curvature. Spacetime is literally just the macro-scale "shadow" cast by shifting information. [1, 2] 
