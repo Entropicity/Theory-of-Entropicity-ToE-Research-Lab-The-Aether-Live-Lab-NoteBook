@@ -2,6 +2,7 @@
 
 Einstein-and-Obidi-on-the-Cause-and-Meaning-of-Gravity-and-Gravitation-What-Does-It-Mean-for-an-Object-to-Fall-Under-Gravity?.md
 
+
 In Obidi’s ToE, saying spacetime and gravity are not fundamental is like saying temperature is not fundamental. A single atom does not have a temperature, but when trillions of atoms bounce around, temperature emerges as a very real, measurable physical reality.  
 
 Obidi views spacetime and gravity in the exact same way.
