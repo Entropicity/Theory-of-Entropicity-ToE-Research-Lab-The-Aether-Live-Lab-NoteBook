@@ -1,7 +1,6 @@
 # 🌌 A Scholarly Introduction to the Conceptual, Historical, Philosophical, and Mathematical Foundations of Obidi's Theory of Entropicity (ToE)
 
 
-
 A-Scholarly-Introduction-to-the-Conceptual-Historical-Philosophical-and-Mathematical-Foundations-of Obidi's-Theory-of-Entropicity-(ToE).md
 
 
