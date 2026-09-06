@@ -1,5 +1,6 @@
 # How the Dual Action Principle of the Local Obidi Action (LOA) and the Spectral Obidi Action (SOA) of Obidi's Theory of Entropicity (ToE) Clearly Mimics the Dual Action Nature of the Second Law of Thermodynamics (SLoT) Which Operates in Both Local and Global Forms 
 
+
 Action Principle of Obidi's Theory of Entropicity (ToE) Mimics the Dual Action Nature of the Second Law of Thermodynamics (SLoT) Which Operates in Both Local and Global Forms
 
 Action-Principle-of-Obidi's-Theory-of-Entropicity-(ToE)-Mimics-the-Dual-Action-Nature-of-the-Second-Law-of-Thermodynamics-(SLoT)-Which-Operates-in-Both-Local-and-Global-Forms.md
