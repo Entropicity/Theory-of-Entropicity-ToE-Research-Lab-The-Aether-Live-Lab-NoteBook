@@ -2,6 +2,7 @@
 
 Difference-Between-the-Ideologies-of-Einstein-and-Obidi-on-the-Foundations-of-Physics-and-Reality.md
 
+
 [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11g2_n9fsg)’s Theory of Entropicity (ToE) fundamentally flips Albert Einstein’s classical view of the universe by arguing that entropy is the primary building block of reality, while spacetime, matter, and gravity are merely emergent side effects. [1, 2] 
 
 Where Einstein viewed spacetime curvature as a fundamental geometric fabric dictated by mass and energy, Obidi claims that spacetime itself arises from the dynamics of an information-geometric field. [2, 3] 
