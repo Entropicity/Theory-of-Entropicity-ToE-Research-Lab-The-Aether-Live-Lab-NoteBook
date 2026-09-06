@@ -1,4 +1,3 @@
-
 # An Introduction to the Metaphysics of John Onimisi Obidi and His Theory of Entropicity (ToE)
 
 # Preamble 
