@@ -5,6 +5,7 @@ How-Entropy-Can-Be-the-Foundation-of-Reality:-A-Primer-for-Our-Understanding-of-
 
 To understand how entropy can serve as the absolute foundation of reality in accordance with Obidi's ToE, you have to abandon an old way of thinking and shift away from treating entropy as merely “a measure of messiness or disorder.”
 
+
 Obidi recasts entropy in an entirely new light.
 
 In what follows, we present how Obidi helps us understand that entropy indeed constructs reality from the ground up.
