@@ -9,6 +9,7 @@ It has:
 - connections (α‑connections)  
 - curvature  
 
+
 But it has no dynamics.  
 No evolution.  
 No field equations.  
