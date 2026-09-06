@@ -2,6 +2,7 @@
 
 Formulation-of-Physical-Spacetime-from-Information-Geometry-Through-Obidi's-Transformation-in-the-Theory-of-Entropicity-(ToE).md
 
+
 John Onimisi Obidi arrives at his formulation in the Theory of Entropicity (ToE) by executing a deliberate philosophical and mathematical pipeline. Rather than viewing entropy as a passive bookkeeping tool for physical disorder, he treats it as the fundamental, primary physical field ($S(x)$) from which matter and geometry emerge. [1, 2, 3] 
 
 He bridges the gap between abstract information geometry and physical spacetime through a series of foundational transitions:
