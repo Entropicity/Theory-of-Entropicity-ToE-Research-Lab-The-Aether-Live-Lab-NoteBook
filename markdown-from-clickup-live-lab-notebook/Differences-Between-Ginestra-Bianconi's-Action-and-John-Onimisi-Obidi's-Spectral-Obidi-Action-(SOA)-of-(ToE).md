@@ -4,6 +4,7 @@ The **Spectral Obidi Action (SOA)** differs from Bianconi's entropic gravity act
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), entropy is treated as the fundamental dynamical field itself, rather than just a comparative measure between two metrics as proposed by Ginestra Bianconi. 
 
+
 Here is how the two actions break down:
 
 # Bianconi's Action: 
