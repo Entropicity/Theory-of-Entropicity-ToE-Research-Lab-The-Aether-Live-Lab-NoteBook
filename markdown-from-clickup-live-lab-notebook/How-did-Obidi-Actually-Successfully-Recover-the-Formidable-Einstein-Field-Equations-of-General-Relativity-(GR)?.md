@@ -2,6 +2,7 @@
 
 How-did-Obidi-Actually-Successfully-Recover-the-Formidable-Einstein-Field-Equations-of-General-Relativity-(GR)?.md
 
+
 In John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188), Einstein's field equations of General Relativity are not taken as fundamental axioms. Instead, they are mathematically recovered as an emergent thermodynamic identity. [1] 
 
 Obidi achieves this by establishing a precise mathematical and structural correspondence between the [Obidi Action (the core variational principle of ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821) and the classical Einstein–Hilbert Action. [2] 
