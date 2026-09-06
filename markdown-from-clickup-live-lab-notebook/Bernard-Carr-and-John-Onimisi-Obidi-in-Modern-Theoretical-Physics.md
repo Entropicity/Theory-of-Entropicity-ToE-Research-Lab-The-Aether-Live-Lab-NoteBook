@@ -1,5 +1,6 @@
 # Bernard Carr and John Onimisi Obidi in Modern Theoretical Physics 
 
+
 Bernard-Carr-and-John-Onimisi-Obidi-in-Modern-Theoretical-Physics.md 
 
 The primary difference between Bernard Carr’s hyperspatial model and John Onimisi Obidi's Theory of Entropicity (ToE) lies in what they choose as the most fundamental building block of reality. Professor [Bernard Carr's theory](https://loc.closertotruth.com/theory/carr-s-quantum-theory-psi-mental-space) uses a higher-dimensional geometric framework to incorporate consciousness and mental experience directly into physics. In contrast, John Onimisi Obidi's [Theory of Entropicity](https://encyclopedia.pub/entry/59188) eliminates spacetime and quantum primitives altogether, asserting that an active, foundational entropic field is the substrate from which all matter, gravity, and time emerge. [1, 2, 3, 4] 
