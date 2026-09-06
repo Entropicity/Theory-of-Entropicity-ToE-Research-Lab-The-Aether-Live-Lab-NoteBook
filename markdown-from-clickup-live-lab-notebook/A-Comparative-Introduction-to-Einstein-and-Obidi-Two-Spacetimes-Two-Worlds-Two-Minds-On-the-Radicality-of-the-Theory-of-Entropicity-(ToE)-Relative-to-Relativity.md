@@ -1,6 +1,5 @@
 # 🔥A Comparative Introduction to Einstein and Obidi: Two Spacetimes, Two Worlds, Two Minds—On the Radicality of the Theory of Entropicity (ToE) Relative to Relativity
 
-
 A-Comparative-Introduction-to-Einstein-and-Obidi-Two-Spacetimes-Two-Worlds-Two-Minds-On-the-Radicality-of-the-Theory-of-Entropicity-(ToE)-Relative-to-Relativity.md
 
 
