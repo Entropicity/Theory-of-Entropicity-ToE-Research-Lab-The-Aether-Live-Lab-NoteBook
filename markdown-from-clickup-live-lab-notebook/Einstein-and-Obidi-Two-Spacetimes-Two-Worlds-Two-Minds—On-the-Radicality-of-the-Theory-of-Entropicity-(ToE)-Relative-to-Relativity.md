@@ -4,7 +4,6 @@
 Einstein-and-Obidi-Two-Spacetimes-Two-Worlds-Two-Minds—On-the-Radicality-of-the-Theory-of-Entropicity-(ToE)-Relative-to-Relativity.md 
 
 
-
 ## Overview
 
 Albert Einstein and John Onimisi Obidi differ fundamentally in how they conceptualize spacetime, gravity, information, and the deep structure of the universe.
