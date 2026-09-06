@@ -3,6 +3,7 @@
 An-Introduction-to-the-Derivation-of-the-Obidi-Action-from-First-Principles-in-the-Theory-of-Entropicity-(ToE)-On-the-Preliminary-Constraints-that-Must-be-Satisfied.md 
 
 
+
 1. Introduction
 
 The central insight of Obidi’s Theory of Entropicity (ToE) is:
