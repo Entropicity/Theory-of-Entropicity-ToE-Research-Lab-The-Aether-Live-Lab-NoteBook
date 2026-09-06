@@ -1,5 +1,7 @@
 # How can Information Become Physical Spacetime and Matter in Obidi's Theory of Entropicity (ToE)? This is absurd!
 
+# With Arguments and Counter Arguments
+
 How-can-Information-Become-Physical-Spacetime-and-Matter-in-Obidi's-Theory-of-Entropicity-(ToE)?-This-is-absurd!.md
 
 It feels completely absurd because our brains evolved to interact with a macroscopic world where rocks are hard, space seems empty, and information is just text on a screen or a thought in your head.
