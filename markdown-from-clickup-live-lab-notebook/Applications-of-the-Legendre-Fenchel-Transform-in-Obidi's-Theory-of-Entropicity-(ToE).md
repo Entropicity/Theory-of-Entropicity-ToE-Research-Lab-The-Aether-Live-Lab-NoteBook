@@ -1,5 +1,6 @@
 # Applications of the Legendre-Fenchel Transform in Obidi's Theory of Entropicity (ToE)
 
+
 Applications-of-the-Legendre-Fenchel-Transform-in-Obidi's-Theory-of-Entropicity-(ToE).md
 
 In John Onimisi Obidi's theoretical physics framework known as the Theory of Entropicity (ToE), convex duality principles and information-geometric transformations mirror the role of the classic Legendre-Fenchel transform (LFT) to map entropic potentials to dual spacetime and thermodynamic states.
