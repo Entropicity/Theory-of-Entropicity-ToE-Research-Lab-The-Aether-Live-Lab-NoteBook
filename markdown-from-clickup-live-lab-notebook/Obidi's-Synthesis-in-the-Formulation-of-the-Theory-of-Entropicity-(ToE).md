@@ -1,5 +1,6 @@
 # Obidi's Synthesis in the Formulation of the Theory of Entropicity (ToE)
 
+
 Obidi's Synthesis generally refers to a foundational concept in the **Theory of Entropicity (ToE)**, developed by independent researcher and author John Onimisi Obidi.The synthesis rests on a radical conceptual reversal in theoretical physics and philosophy, redefining the mechanics of the universe:
 
 ## Entropy as the Fundamental Fabric: 
