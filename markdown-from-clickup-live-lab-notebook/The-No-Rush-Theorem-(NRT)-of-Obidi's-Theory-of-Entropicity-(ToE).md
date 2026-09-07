@@ -1,5 +1,6 @@
 # The No-Rush Theorem (NRT) of Obidi's Theory of Entropicity (ToE)
 
+
 The-No-Rush-Theorem-(NRT)-of-Obidi's-Theory-of-Entropicity-(ToE).md
 
 The No-Rush Theorem (NRT) states that no physical interaction or process can occur instantaneously, requiring a finite, non-zero amount of time to rearrange the universal entropic field.
