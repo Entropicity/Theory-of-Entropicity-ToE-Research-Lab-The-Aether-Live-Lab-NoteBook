@@ -1,5 +1,6 @@
 # 🌌 Zero-Sum Entropic Compensation of the Dual Action Principle (DAP) of the Local Obidi Action (LOA) and the Spectral Obidi Action (SOA) of the Theory of Entropicity (ToE) As a Mathematical Mirror of the Dual Action Nature of the Second Law of Thermodynamics (SLoT) Which Operates in Both Local and Global Forms
 
+
 Zero-Sum-Entropic-Compensation-of-the-Dual-Action-Principle-(DAP)-of-the-Local-Obidi-Action-(LOA)-and-the-Spectral-Obidi-Action-(SOA)-of-the-Theory-of-Entropicity-(ToE).md
 
 
