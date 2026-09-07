@@ -1,5 +1,6 @@
 # Specific Mathematical Concepts Behind the Obidi Metric of the Theory of Entropicity (ToE): From Information Space to Physical Spacetime 
 
+
 Specific-Mathematical-Concepts-Behind-the-Obidi-Metric-of-the-Theory-of-Entropicity-(ToE)-From-Information-Space-to-Physical-Spacetime.md 
 
 In John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188), the Obidi Metric and the Obidi Transformation provide the formal mathematical foundation to explain how physical spacetime and gravity emerge from a deeper substrate of pure information and entropy. [1, 2, 3] 
