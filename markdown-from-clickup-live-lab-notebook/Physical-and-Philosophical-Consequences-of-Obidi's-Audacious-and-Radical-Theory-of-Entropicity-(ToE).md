@@ -1,5 +1,6 @@
 # Physical and Philosophical Consequences of Obidi's Audacious and Radical Theory of Entropicity (ToE)
 
+
 If **Obidi's Theory of Entropicity (ToE)** is finally proven to be correct, **IT will demand a total rewrite of our understanding of reality.** By replacing "matter in space" with "information in flux," it dissolves old paradoxes in physics and aligns Western science with deep philosophical traditions.
 Here are the most far-reaching consequences of Obidi's framework:
 
