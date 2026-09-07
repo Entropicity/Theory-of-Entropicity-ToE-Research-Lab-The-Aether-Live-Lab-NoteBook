@@ -1,6 +1,7 @@
 # Obidi's Ontodynamics, Entrodynamics, and Entropology in the Theory of Entropicity (ToE)
 
 
+
 ## 🧠 1. Ontodynamics: The Physics of "Being" and "Becoming"
 In traditional philosophy, ontology is the study of existence—what it means "to be." In Obidi's Theory of Entropicity (ToE), Obidi’s **Ontodynamics** turns this philosophical concept into a physical process by stating that existence is not static; it is a form of motion driven by entropy. [1, 2, 3, 4] 
 To make this accessible, imagine a beautifully sculpted sandcastle on a beach:
