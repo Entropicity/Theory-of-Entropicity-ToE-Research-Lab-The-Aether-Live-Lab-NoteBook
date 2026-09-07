@@ -8,7 +8,8 @@ Here are the most far-reaching consequences of Obidi's framework:
 
 ## I. Physical Consequences: Rewriting the Laws of Nature
 
-  TRADITIONAL PHYSICS                  OBIDI'S ENTROPIC THEORY
+
+  TRADITIONAL PHYSICS                   OBIDI'S ENTROPIC THEORY
   ┌─────────────────────────┐          ┌─────────────────────────┐
   │ Spacetime (Stage)       │          │  Entropic Field (Data)  │
   │     │                   │          │           │             │
