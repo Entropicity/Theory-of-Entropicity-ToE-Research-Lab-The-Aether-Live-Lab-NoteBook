@@ -141,6 +141,7 @@ Now, look at the Wi-Fi router in your hallway while that explosion is happening.
 Inside the router, there is only an invisible, chaotic stream of data—millions of photons or electrical pulses carrying 1s and 0s. The "desert," the "metal," the "fire," and the "10 seconds of time" only exist because your television screen and your brain decode that stream of pure information into a visual experience.
 
 Obidi’s theory argues that the entire universe is exactly like that Wi-Fi stream. Matter and spacetime are the movie playing on the screen; information entropy is the raw data passing through the router. We are characters inside the movie, trying to touch the screen to prove it's real.
+
 Now that we've looked at these concepts through a simpler lens, where would you like to go next?
 
 * How does this theory explain gravity using the Netflix analogy?
