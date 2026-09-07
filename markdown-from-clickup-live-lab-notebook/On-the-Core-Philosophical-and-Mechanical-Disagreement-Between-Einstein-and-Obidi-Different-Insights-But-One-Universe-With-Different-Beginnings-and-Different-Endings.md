@@ -1,5 +1,6 @@
 # On the Core Philosophical and Mechanical Disagreement Between Einstein and Obidi: Different Insights, But One Universe With Different Beginnings and Different Endings 
 
+
 On-the-Core-Philosophical-and-Mechanical-Disagreement-Between-Einstein-and-Obidi-Different-Insights-But-One-Universe-With-Different-Beginnings-and-Different-Endings.md 
 
 # On the Core Philosophical and Mechanical Disagreement Between Einstein and Obidi: Different Insights, But One Universe With Different Beginnings and Different Endings—The Universe Does Not Obey Einstein; Einstein is Obeying the Second Law of Thermodynamics (SLoT).
