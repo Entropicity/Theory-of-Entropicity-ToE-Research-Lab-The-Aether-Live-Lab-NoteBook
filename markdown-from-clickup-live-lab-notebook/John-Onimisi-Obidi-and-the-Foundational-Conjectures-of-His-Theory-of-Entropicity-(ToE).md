@@ -1,6 +1,7 @@
 # John Onimisi Obidi and the Foundational Conjectures of His Theory of Entropicity (ToE)
 
 
+
 John-Onimisi-Obidi-and-the-Foundational-Conjectures-of-His-Theory-of-Entropicity-(ToE).md
 
 **John Onimisi Obidi** is an independent researcher and consultant who proposed the **Theory of Entropicity (ToE)** in 2025. He is a researcher, physicist, philosopher, and humanist.
