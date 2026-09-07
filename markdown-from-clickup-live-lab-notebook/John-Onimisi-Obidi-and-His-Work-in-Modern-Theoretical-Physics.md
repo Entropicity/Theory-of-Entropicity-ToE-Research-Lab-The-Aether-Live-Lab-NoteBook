@@ -1,5 +1,6 @@
 # John Onimisi Obidi and His Work in Modern Theoretical Physics 
 
+
 John-Onimisi-Obidi-and-His-Work-in-Modern-Theoretical-Physics.md 
 
 John Onimisi Obidi is an independent scientific researcher, consultant, philosopher, and physicist known for creating the Theory of Entropicity (ToE). His work seeks to redefine the foundations of modern theoretical physics by treating entropy not merely as a statistical measure of disorder, but as the fundamental, dynamic field of reality from which spacetime, matter, and energy emerge. [1, 2, 3, 4] 
