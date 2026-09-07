@@ -1,5 +1,6 @@
 # 🧭 On the Historical Context of the Challenge Inherent in Obidi’s Theory of Entropicity (ToE)
 
+
 On-the-Historical-Context-of-the-Challenge-Inherent-in-Obidi’s-Theory-of-Entropicity-(ToE).md
 
 In the history of physics, only a small number of thinkers have attempted to build entirely new foundations for how reality is structured.
