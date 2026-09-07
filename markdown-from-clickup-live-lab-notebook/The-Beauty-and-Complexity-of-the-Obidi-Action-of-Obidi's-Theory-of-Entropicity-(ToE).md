@@ -1,5 +1,6 @@
 # The Beauty and Complexity of the Obidi Action of Obidi's Theory of Entropicity (ToE)
 
+
 The-Beauty-and-Complexity-of-the-Obidi-Action-of-Obidi's-Theory-of-Entropicity-(ToE).md
 
 The **Obidi Action** lies at the very heart of the **Theory of Entropicity (ToE),** a framework in theoretical physics proposed by the **physicist, philosopher, and researcher** **John Onimisi Obidi.** 
