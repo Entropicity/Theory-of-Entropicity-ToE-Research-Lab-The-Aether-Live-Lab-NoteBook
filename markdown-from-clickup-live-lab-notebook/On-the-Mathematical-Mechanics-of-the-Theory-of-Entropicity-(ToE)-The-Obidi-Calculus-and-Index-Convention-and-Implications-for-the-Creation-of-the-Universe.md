@@ -1,5 +1,6 @@
 # On the Mathematical Mechanics of the Theory of Entropicity (ToE): The Obidi Calculus and Index Convention and Implications for the Creation of the Universe 
 
+
 On-the-Mathematical-Mechanics-of-the-Theory-of-Entropicity-(ToE)-The-Obidi-Calculus-and-Index-Convention-and-Implications-for-the-Creation-of-the-Universe.md 
 
 To handle the complex math of a multi-sector geometric space, Obidi's Theory of Entropicity (ToE) introduces specific, mathematical, operational rules. 
