@@ -1,5 +1,6 @@
 # The Universe Does Not Obey Einstein; Einstein Is Obeying the Second Law of Thermodynamics (SLoT) in Accordance With Obidi's Theory of Entropicity (ToE)
 
+
 The-Universe-Does-Not-Obey-Einstein-Einstein-Is-Obeying-the-Second-Law-of-Thermodynamics-(SLoT)-in-Accordance-With-Obidi's-Theory-of-Entropicity-(ToE).md
 
 ## On the Core Philosophical and Mechanical Disagreement Between Einstein and Obidi
