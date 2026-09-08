@@ -29,7 +29,7 @@ Derived directly from the Obidi Action, the MEE/OFE governs the nonlinear, highe
 Instead of treating space and time as an absolute background, Obidi posits that the flow of time and the perception of motion are emergent properties driven by the universe updating its informational states. Under his **No-Rush Theorem (NRT),** the **speed of light (c)** is reinterpreted as the maximum synchronization rate at which the entropic field can reorganize across subsystems. [5, 10] 
 
 ## 4. The Vuli–Ndlela Integral
-To account for the intrinsic arrow of time, Obidi introduced the Vuli–Ndlela Integral (VNI). 
+To account for the intrinsic arrow of time, Obidi introduced the **Vuli–Ndlela Integral (VNI).** 
 
 This acts as an entropy-weighted path-integral formulation that formally injects irreversibility directly into the **core mathematical foundation of quantum mechanics and relativity.** [7, 11] 
 
