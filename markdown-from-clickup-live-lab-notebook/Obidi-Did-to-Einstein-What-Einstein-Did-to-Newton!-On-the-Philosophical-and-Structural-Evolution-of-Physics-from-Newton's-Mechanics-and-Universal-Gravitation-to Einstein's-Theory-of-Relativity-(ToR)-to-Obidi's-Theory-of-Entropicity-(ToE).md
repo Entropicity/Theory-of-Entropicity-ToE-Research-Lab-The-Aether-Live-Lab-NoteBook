@@ -154,7 +154,7 @@ The universe is a giant clockwork machine. It is made of hard, discrete marbles 
 The universe is a dynamic fabric of fields. It is made of continuous geometry (spacetime) and vibrating packets of energy (quantum fields).
 
 ## The Entropic Era (Obidi et al): 
-The universe is a thermodynamic computational system. Spacetime, gravity, and matter are just macroscopic "weather patterns" emerging from the underlying flow of statistical information.
+The universe is a thermodynamic computational system. Spacetime, gravity, and matter are just macroscopic "weather patterns" emerging from the underlying flow of entropic statistical information **[Entropic Field].**
 
 ## Why This Shift Changes Everything
 In standard physics, you start with space, time, and particles, and then you calculate the entropy of those particles.
