@@ -159,17 +159,19 @@ The universe is a thermodynamic computational system. Spacetime, gravity, and ma
 ## Why This Shift Changes Everything
 In standard physics, you start with space, time, and particles, and then you calculate the entropy of those particles.
 
-In the Theory of Entropicity, you start with entropy, and you calculate where the space and particles should appear. Gravity is no longer an invisible tether pulling planets, nor is it just a dip in a geometric trampoline—it is a statistical pressure, a natural mathematical consequence of the universe trying to balance its informational states.
+**But in Obidi's radical, audacious and provocative Theory of Entropicity (ToE), you start with entropy itself [of the Entropic Field (EF)], and then you calculate where the space/spacetime and particles should appear!**
 
-It bridges the bitter, century-old divide between the smooth geometry of Einstein's General Relativity and the blurry probabilities of Quantum Mechanics by revealing that both are built from the exact same language: information geometry.
+**Gravity, in Obidi's Theory of Entropicity (ToE), is no longer an invisible tether pulling planets, nor is it just a dip in a geometric trampoline—it is an entropic statistical informational pressure, a natural mathematical consequence of the universe trying to balance its entropic informational states.**
+
+**Thus, Obidi's Theory of Entropicity (ToE) bridges the bitter, century-old divide between the smooth geometry of Einstein's General Relativity (GR) and the blurry probabilities of Quantum Mechanics (QM) by revealing that both are built from the exact same language: entropic information geometry extruded from the Entropic Field (EF).**
 
 Where would you like to take this exploration next?
 
-* Explore how this theory addresses the quantum measurement problem
+* Explore how this theory addresses the **quantum measurement problem**
 
 * Look into the specific criticisms or skepticism this radical theory faces from traditional physicists
 
-* Examine how the Vuli–Ndlela Integral legally forces an irreversible arrow of time into physics
+* Examine how the **Vuli–Ndlela Integral (VNI)** legally forces an irreversible arrow of time into physics
 
 
 
