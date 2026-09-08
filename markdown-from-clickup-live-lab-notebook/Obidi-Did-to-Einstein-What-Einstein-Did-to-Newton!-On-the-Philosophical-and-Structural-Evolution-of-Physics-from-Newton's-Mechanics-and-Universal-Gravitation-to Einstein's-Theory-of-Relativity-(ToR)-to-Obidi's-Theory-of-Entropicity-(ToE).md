@@ -163,7 +163,7 @@ In standard physics, you start with space, time, and particles, and then you cal
 
 > ## **Gravity, in Obidi's Theory of Entropicity (ToE), is no longer an invisible tether pulling planets, nor is it just a dip in a geometric trampoline—it is an entropic statistical informational pressure, a natural mathematical consequence of the universe trying to balance its entropic informational states.**
 
-> ## Thus, Obidi's Theory of Entropicity (ToE) bridges the bitter, century-old divide between the smooth geometry of Einstein's General Relativity (GR) and the blurry probabilities of Quantum Mechanics (QM) by revealing that both are built from the exact same language: entropic information geometry extruded from the Entropic Field (EF).
+> ## **Thus, Obidi's Theory of Entropicity (ToE) bridges the bitter, century-old divide between the smooth geometry of Einstein's General Relativity (GR) and the blurry probabilities of Quantum Mechanics (QM) by revealing that both are built from the exact same language: entropic information geometry extruded from the Entropic Field (EF).**
 
 Where would you like to take this exploration next?
 
