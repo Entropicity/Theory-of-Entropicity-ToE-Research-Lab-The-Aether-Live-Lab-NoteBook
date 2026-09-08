@@ -29,7 +29,7 @@ Derived directly from the Obidi Action, the MEE/OFE governs the nonlinear, highe
 Instead of treating space and time as an absolute background, Obidi posits that the flow of time and the perception of motion are emergent properties driven by the universe updating its informational states. Under his **No-Rush Theorem (NRT),** the **speed of light (c)** is reinterpreted as the maximum synchronization rate at which the entropic field can reorganize across subsystems. [5, 10] 
 
 ## 4. The Vuli–Ndlela Integral
-To account for the intrinsic arrow of time, Obidi introduced the Vuli–Ndlela Integral. 
+To account for the intrinsic arrow of time, Obidi introduced the Vuli–Ndlela Integral (VNI). 
 
 This acts as an entropy-weighted path-integral formulation that formally injects irreversibility directly into the **core mathematical foundation of quantum mechanics and relativity.** [7, 11] 
 
@@ -43,13 +43,23 @@ Would you like to examine:
 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidis-audacious-contributions-to-the-foundations-of-modern-theoretical-physics-df9c286f2aeb)
+
 [3] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
 [4] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1)
+
 [6] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-the-theory-of-entropicity-toe-the-obidi-action-principle-oap-and-the-geometry-ec60f4f4b15c)
+
 [7] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857821)
+
 [8] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58596)
+
 [9] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/index.html)
+
 [10] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-universe-as-an-entropic-field-obidi-activity-7479821993140203520-qvbf)
+
 [11] [https://ijcsrr.org](https://ijcsrr.org/comparative-analysis-between-john-onimisi-obidis-theory-of-entropicity-toe-and-waldemar-marek-feldts-feldt-higgs-universal-bridge-f-hub-theory/)
