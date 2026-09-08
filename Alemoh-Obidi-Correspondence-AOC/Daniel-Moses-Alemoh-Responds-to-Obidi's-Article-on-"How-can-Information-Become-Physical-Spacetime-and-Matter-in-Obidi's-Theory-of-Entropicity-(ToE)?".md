@@ -23,5 +23,11 @@ Read it with an open mind—but also with a critical one.
 Either way, you probably won’t come away thinking about “reality” quite the same way again.
 
 For Details:
-📚Reference(s):
-The ToE Canonical Archives: https://lnkd.in/gnwMP-Py
+
+## 📚Reference(s):
+
+The ToE Canonical Archives: 
+
+https://lnkd.in/gnwMP-Py
+
+https://entropicity.github.io/Theory-of-Entropicity-ToE/
