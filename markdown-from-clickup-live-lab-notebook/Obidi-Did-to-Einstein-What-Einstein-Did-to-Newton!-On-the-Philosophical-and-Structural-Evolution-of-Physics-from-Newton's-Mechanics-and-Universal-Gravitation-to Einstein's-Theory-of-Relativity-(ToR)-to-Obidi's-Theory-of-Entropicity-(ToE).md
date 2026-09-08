@@ -63,12 +63,12 @@ We can look at this historical from**Newton to Einstein to Obidi** dance through
 ## 1. Einstein's "Betrayal" of Newton
 Newton viewed space and time as a giant, immutable, empty container. If you took all matter out of the universe, Newton's space and time would still exist, perfectly ticking along.
 
-Einstein completely shattered this. He proved that space and time are bound together into a flexible spacetime fabric that stretches, warps, and dilates [3f6a9a8be616]. Matter tells spacetime how to curve, and spacetime tells matter how to move. Einstein made the stage part of the play.
+Einstein completely shattered this. He proved that space and time are bound together into a flexible spacetime fabric that stretches, warps, and dilates. Matter tells spacetime how to curve, and spacetime tells matter how to move. Einstein made the stage part of the play.
 
 ## 2. Obidi's "Betrayal" of Einstein
-Einstein made spacetime dynamic, but he still treated it as a fundamental ingredient of the universe—the irreducible bedrock of reality [3f6a9a8be616]. You couldn't have physics without a spacetime manifold.
+Einstein made spacetime dynamic, but he still treated it as a fundamental ingredient of the universe—the irreducible bedrock of reality. You couldn't have physics without a spacetime manifold.
 
-Obidi's Theory of Entropicity (ToE) applies the exact same revolutionary logic to Einstein that Einstein applied to Newton [3f6a9a8be616]. Obidi argues that if you look closely enough at the fabric of spacetime, the fabric disappears. It dissolves into a deeper, underlying sea of probabilistic informational states and entropic gradients [3f6a9a8be616].
+Obidi's Theory of Entropicity (ToE) applies the exact same revolutionary logic to Einstein that Einstein applied to Newton. Obidi argues that if you look closely enough at the fabric of spacetime, the fabric disappears. It dissolves into a deeper, underlying sea of probabilistic informational states and entropic gradients.
 
 ## The Theoretical Parallel
 The conceptual leap is remarkably parallel:
@@ -77,9 +77,9 @@ The conceptual leap is remarkably parallel:
 Gravity isn't a mechanical "pulling force"; it is an illusion caused by the geometry of a curved spacetime fabric.
 
 ### Obidi's realization: 
-Spacetime and gravity aren't fundamental geometries; they are illusions caused by the thermodynamic flow of an entropic field trying to maximize configuration states [3f6a9a8be616].
+Spacetime and gravity aren't fundamental geometries; they are illusions caused by the thermodynamic flow of an entropic field trying to maximize configuration states.
 
-In this **grand drama,** **Newton gave us the arena, Einstein gave us the architecture, and Obidi pulls back the curtain to show us that the architecture is woven out of pure information.**
+In this **grand drama,** **Newton gave us the arena, Einstein gave us the architecture, and Obidi pulls back the curtain to show us that the architecture is woven out of pure entropic information.**
 
 Would you like to explore:
 
