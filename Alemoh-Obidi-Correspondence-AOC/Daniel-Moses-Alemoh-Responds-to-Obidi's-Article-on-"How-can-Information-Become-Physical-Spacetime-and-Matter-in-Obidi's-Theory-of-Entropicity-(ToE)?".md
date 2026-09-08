@@ -31,3 +31,11 @@ The ToE Canonical Archives:
 https://lnkd.in/gnwMP-Py
 
 https://entropicity.github.io/Theory-of-Entropicity-ToE/
+
+
+https://medium.com/@danielalemoh2/this-is-the-kind-of-article-that-doesnt-merely-give-you-something-to-read-it-gives-you-something-4bb9a4f03032
+
+
+Read “This is the kind of article that doesn’t merely give you something to read—it gives you something…“ by Daniel Alemoh on Medium: 
+
+https://medium.com/@danielalemoh2/this-is-the-kind-of-article-that-doesnt-merely-give-you-something-to-read-it-gives-you-something-4bb9a4f03032
