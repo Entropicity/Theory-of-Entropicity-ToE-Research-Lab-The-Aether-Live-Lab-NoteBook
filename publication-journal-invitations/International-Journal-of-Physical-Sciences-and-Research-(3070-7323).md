@@ -15,7 +15,7 @@ Date: Tue, Sep 8, 2026, 9:29 PM
 To: <jonimisiobidi@gmail.com>
 
 
-**“ToE Living Review Letters IE: Beyond Einstein: The Entropic Origin of Geometry, Matter, and Gravitation in the Theory of Entropicity (ToE) On the Emergence of Physical Spacetime Geometry from Information Geometry”.**
+***“ToE Living Review Letters IE: Beyond Einstein: The Entropic Origin of Geometry, Matter, and Gravitation in the Theory of Entropicity (ToE) On the Emergence of Physical Spacetime Geometry from Information Geometry”.***
 
 **Dear Dr. John Onimisi Obidi,**
 
