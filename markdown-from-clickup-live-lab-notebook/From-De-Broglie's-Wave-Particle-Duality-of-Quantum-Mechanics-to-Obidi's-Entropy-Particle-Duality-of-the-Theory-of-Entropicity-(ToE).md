@@ -107,7 +107,7 @@ Where:
 
 This is the exact operational translation of Obidi's insight: 
 
-> # **The physical trajectory of matter through space ($u^\mu$) is entirely dictated by the directional changes in raw information density ($\partial_\mu S$).** [1]
+> # **The physical trajectory of matter through space ($u^\mu$) is entirely dictated by the directional changes in raw information density ($\partial_\mu S$)** [1]
 
 ------------------------------
 
@@ -118,7 +118,7 @@ $$g_{\mu\nu} = g_{\mu\nu}[S(x)]$$
 
 Through what Obidi names the [Curvature Transfer Theorem (CTT)](https://medium.com/@jonimisiobidi/how-obidi-transformed-information-geometry-into-physical-spacetime-in-the-theory-of-entropicity-20a930f722b4), the statistical curvature of a data manifold (measured via information-geometric tools like the Fisher–Rao metric) mathematically transforms into the physical curvature of the Riemann tensor. [6, 8] 
 
-In the Theory of Entropicity (ToE), de Broglie's wave-particle duality is just a local slice of this larger reality. Matter doesn't "possess" information; matter is the macroscopic, stabilized boundary layer of a dynamic, flowing field of data. [9, 10] 
+In the Theory of Entropicity (ToE), de Broglie's wave-particle duality is just a local slice of this larger reality. Matter doesn't "possess" information; matter is the macroscopic, stabilized boundary layer of a dynamic, flowing field of entropic data. [9, 10] 
 
 Would you like to explore how this **Haller–Obidi Formulation (HOF)** reinterprets **quantum uncertainty** as an informational limit, or look at how the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)** replaces Einstein's field equations?
 
