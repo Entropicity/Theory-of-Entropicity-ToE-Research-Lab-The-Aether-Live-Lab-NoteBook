@@ -1,11 +1,13 @@
-The Canonical Archives of the Theory of Entropicity (ToE)
+# The Canonical Archives of the Theory of Entropicity (ToE)
 
 The-Canonical-Archives-of-the-Theory-of-Entropicity-(ToE).md
 
 Obidi's work has come to be recognized to be preserved in the Canonical Archives
 
 
-The Canonical Archives of the Theory of Entropicity (ToE) serve as the authoritative, version-controlled records hosting the theoretical and mathematical framework established by John Onimisi Obidi. Because the theory proposes that entropy is the fundamental ontological field from which geometry, matter, and time emerge, these archives function as the permanent epistemic benchmark for his work. [1, 2, 3] 
+**The Canonical Archives of the Theory of Entropicity (ToE)** serve as the authoritative, version-controlled records hosting the theoretical and mathematical framework established by John Onimisi Obidi. 
+
+Because the theory proposes that entropy is the fundamental ontological field from which geometry, matter, and time emerge, these archives function as the permanent epistemic benchmark for his work. [1, 2, 3] 
 
 The preservation of Obidi's work within these archives reflects a deliberate structural commitment to version control, mathematical durability, and collaborative testing. [1, 4] 
 
