@@ -78,6 +78,7 @@ Just as Louis de Broglie bridged momentum and wavelength via Planck's constant (
 In 2015, Haller demonstrated that for a quantum particle, its informational self-information/entropy ($H$) is fundamentally bound to classical action. Obidi reframed this into a explicit single-particle variational Lagrangian: [1, 4, 5] 
 
 $$\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$$ 
+
 Where:
 
 * $m$ is the physical mass of the particle.
