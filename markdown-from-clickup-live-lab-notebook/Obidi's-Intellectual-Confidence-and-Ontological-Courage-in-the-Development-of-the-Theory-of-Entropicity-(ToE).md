@@ -51,17 +51,25 @@ Together, these twin traits allow Obidi to propose a **unified ontology** known 
 
 Would you like to explore how **Obidi's ontological courage** specifically compares to **Paul Tillich's existential courage,** or should we dive deeper into the mathematical mechanics of the **Theory of Entropicity (ToE)'s entropic field**?
 
+## References 
+
 ## GitHub Pages documentation
 The Theory of Entropicity (ToE)Jul 17, 2026 — To articulate the Theory of Entropicity (ToE) required an unusual form of ontological courage: the willingness and audacity to abandon the inherited primitives 
 
-## ...CloudflareThe Theory of Entropicity (ToE)
-Aug 28, 2026 — Ontological Courage. To articulate the Theory of Entropicity (ToE) required an unusual form of ontological courage: the willingness and audacity to abandon the ...ResearchGateThe Foundational Philosophy Behind John Onimisi Obidi's Formulation of the ...May 17, 2026 — Obidi's work is distinguished by a combination of theoretical rigor and ontological courage, as it challenges the established metaphysical 
+## ...CloudflareThe Theory of Entropicity (ToE) Aug 28, 2026 
+— Ontological Courage. To articulate the Theory of Entropicity (ToE) required an unusual form of ontological courage: the willingness and audacity to abandon the 
+
+## ...ResearchGate
+The Foundational Philosophy Behind John Onimisi Obidi's Formulation of the ...May 17, 2026 — Obidi's work is distinguished by a combination of theoretical rigor and ontological courage, as it challenges the established metaphysical 
 
 ## ...GitHub Pages documentation
-Obidi's-Philosophical-Analysis-of-Being ...Obidi's “ontological courage,” by contrast, is primarily epistemic and architectonic; but by that very fact inexorably speaks to Tillich's existential courage a...GitHub Pages documentationPreface to the Theory of Entropicity (ToE) 
+Obidi's-Philosophical-Analysis-of-Being ...Obidi's “ontological courage,” by contrast, is primarily **epistemic and architectonic;** but by that very fact inexorably speaks to Tillich's existential courage a...GitHub Pages documentationPreface to the Theory of Entropicity (ToE) 
 
 ## - GitHub PagesJun 27, 2026
-- — The Theory of Entropicity (ToE), as first formulated and further developed by John Onimisi Obidi, is presented here in that spirit—not as a finished edifice, no...Academia.eduJohn Onimisi Obidi - Independent Researcher
+- — The Theory of Entropicity (ToE), as first formulated and further developed by John Onimisi Obidi, is presented here in that spirit—not as a finished edifice, no
+
+## ...Academia.edu
+John Onimisi Obidi - Independent Researcher
 
 ## - - Academia.edu
   - Obidi's work is distinguished by a combination of theoretical rigor and ontological courage, as it challenges the established metaphysical scaffolding of
