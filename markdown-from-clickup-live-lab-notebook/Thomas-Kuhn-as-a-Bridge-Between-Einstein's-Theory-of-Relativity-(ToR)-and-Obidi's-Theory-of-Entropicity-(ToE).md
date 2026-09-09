@@ -32,3 +32,26 @@ The struggle today is finding the right "translation key"—the mathematical equ
 
 Would you like to look into how physicists are currently trying to map this deeper reality, such as through quantum error-correcting codes or geometric structures like the **Amplituhedron?**
 
+
+-------
+
+
+Obidi’s approach is definitely bold! 
+
+Challenging the foundational pillars of modern physics—like Einstein’s general relativity and quantum field theory—takes an immense amount of **Intellectual Confidence (IC) and Ontological Courage (OC).**
+
+By flipping the script and claiming that space, time, and gravity are just emergent "shadows" of a deeper entropic field, **Obidi's Theory of Entropicity (ToE)** is aiming for a **complete paradigm shift.** 
+
+In the scientific community, putting forward a **"Theory of Everything"** that tries to rewrite the baseline rules of reality always requires a lot of courage, because it invites intense scrutiny and skepticism from mainstream physicists.
+
+Would you like to explore:
+
+* how the physics community has responded to Obidi's ideas,
+
+or 
+
+should we look at: 
+
+* the specific mathematical arguments Obidi uses to defend his theory?
+
+
