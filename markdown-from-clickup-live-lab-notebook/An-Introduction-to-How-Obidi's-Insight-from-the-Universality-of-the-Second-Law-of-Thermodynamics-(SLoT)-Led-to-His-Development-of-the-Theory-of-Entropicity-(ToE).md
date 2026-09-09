@@ -1,5 +1,6 @@
 # An Introduction to How Obidi's Insight from the Universality of the Second Law of Thermodynamics (SLoT) Led to His Development of the Theory of Entropicity (ToE)
 
+
 An-Introduction-to-How-Obidi's-Insight-from-the-Universality-of-the-Second-Law-of-Thermodynamics-(SLoT)-Led-to-His-Development-of-the-Theory-of-Entropicity-(ToE).md
 
 > # **What gave Obidi the insight to conclude that an Entropic Field must exist is because of the decay in nature and how the second law is fulfilled everywhere; so Obidi concludes that there must exist a universal Field that is more fundamental than gravity and all other well known fields in modern physics**
