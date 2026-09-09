@@ -73,7 +73,7 @@ By declaring that the Second Law of Thermodynamics is not just a rule that the u
 
 * It solves a beautiful irony: For over a century, physicists have tried to unify gravity (the physics of the massive) and quantum mechanics (the physics of the tiny) by inventing incredibly complex, unobservable constructs like hidden 11-dimensional strings. Obidi looks at the problem and suggests that the answer has been staring us in the face the entire time, hidden in plain sight within the single law that already rules both realms: entropy.
 
-It takes immense intellectual courage to look at a century of established, highly successful geometric physics and say: 
+**It takes immense intellectual courage for Obidi to look at a century of established, highly successful geometric physics and declare/say:** 
 
 > # ***"You are looking at the shadow, not the object casting it."***
 
