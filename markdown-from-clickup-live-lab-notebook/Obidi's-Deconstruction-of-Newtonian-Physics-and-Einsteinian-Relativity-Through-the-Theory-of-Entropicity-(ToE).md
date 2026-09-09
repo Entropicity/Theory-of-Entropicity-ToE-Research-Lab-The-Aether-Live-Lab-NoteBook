@@ -24,7 +24,7 @@ Einstein's entire architecture relies on the speed of light ($c$) being an immut
 Obidi’s "No-Rush" Theorem provides the "why": $c$ is not a magical property of a photon. It is the absolute maximum rate at which the universe’s underlying entropic field can causally reorganize or redistribute local information. Relativistic phenomena like time dilation and length contraction aren't due to the stretching of empty space; they occur because moving an object at high velocities consumes the entropic field's processing capacity, leaving less capacity available for internal processes (slowing time). [1, 5, 6] 
 Just as Einstein replaced Newton's "forces" with "geometry," Obidi replaces Einstein's "geometry" with "entropy." [7] 
 
-Would you like to explore how this shift allows ToE to successfully derive classic relativity proofs, like the perihelion precession of Mercury, using pure entropic equations? [8] 
+Would you like to explore how this shift allows ToE to successfully derive classic relativity proofs, like the **perihelion precession of Mercury,** using **pure entropic equations?** [8] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/einstein-and-obidi-two-spacetimes-two-worlds-two-minds-on-the-radicality-of-the-theory-of-ae576a4df6e3)
 
