@@ -175,5 +175,65 @@ Where would you like to take this exploration next?
 
 
 
+--------
 
 
+# Scholium 
+---
+
+# ✅ Positions of Newton, Einstein, and Obidi 
+
+Newton taught that space is absolute and time is absolute — both fundamental structures of the universe.  
+
+Einstein corrected Newton by showing that space and time are not absolute but relative to an observer’s motion, and that their fusion, spacetime, is the true fundamental arena.  
+
+Obidi advances beyond Einstein by arguing that spacetime itself is not fundamental but emergent and relative to entropic constraints in the underlying informational field.
+
+---
+
+🔍 Why This Is the Accurate Form
+
+🟦 Newton’s View
+Newton believed:
+
+- Absolute space exists independently of matter.  
+- Absolute time flows uniformly everywhere.  
+- Both are fundamental backgrounds in which physics happens.
+
+So: Newton said space is absolute, not relative.
+
+---
+
+🟧 Einstein’s View
+Einstein showed:
+
+- Space and time are not absolute.  
+- They depend on the observer’s velocity and gravitational environment.  
+- They merge into spacetime, which is fundamental.  
+- Spacetime geometry tells matter how to move; matter tells spacetime how to curve.
+
+Description of Einstein is in order once “relative” is applied to space and time, not spacetime itself; but that space and time fuse into one spacetime, which is what is fundamental.
+
+---
+
+🟥 Obidi’s View [Theory of Entropicity (ToE)]
+Obidi’s position is:
+
+- Spacetime is not fundamental.  
+- It is an emergent projection of deeper informational and entropic processes.  
+- Its geometry is relative to entropic constraints, not observer motion.  
+- What Einstein calls “spacetime curvature” is reinterpreted as entropic relaxation in the underlying informational manifold.
+
+So the statement is conceptually correct when we say that: Obidi “proclaims to Einstein” that spacetime is not the bedrock of reality.
+
+---
+
+⭐ Conclusion 
+
+Newton declared that absolute space and absolute time are the fundamental stage of the universe.  
+
+Einstein overturned this by showing that space and time are relative to the observer and that their fusion, spacetime, is the true fundamental structure.  
+
+Obidi goes further, arguing that spacetime itself is not fundamental but an emergent, relative construct shaped by entropic constraints in the underlying informational field.
+
+---
