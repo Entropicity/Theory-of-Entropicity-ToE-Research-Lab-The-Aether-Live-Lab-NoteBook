@@ -141,3 +141,37 @@ Would you like to explore how this **Haller–Obidi Formulation (HOF)** reinterp
 [9] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
 
 [10] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-universe-as-an-entropic-field-obidi-activity-7479821993140203520-qvbf)
+
+
+-------------
+
+
+The difference in how these two formulas look comes down to what they are trying to describe. [Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv) was looking at a single, isolated particle, while [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5) is describing the behavior of the entire universe. [1] 
+The Theory of Entropicity (ToE) requires a Lagrangian rather than a simple algebraic formula for three fundamental reasons:
+## 1. De Broglie is a Snapshot; Obidi is a Dynamic Flow
+De Broglie’s formula ($\lambda = \frac{h}{p}$) is a static snapshot. It tells you that if a particle has a specific momentum right now, it has a corresponding wavelength right now. [2] 
+However, in Obidi's framework, information and entropy are not fixed properties—they belong to a continuous, evolving field ($S(x)$). A particle is a localized "condensation" of data that changes as it moves. Because the underlying information is always updating and flowing, you cannot use a static algebraic equation. You need a Lagrangian because it calculates how a system changes over time and through space. [3, 4, 5, 6] 
+## 2. The Principle of Least Action vs. Maximum Entropy
+In physics, nature always chooses the path that minimizes a quantity called "action" (the Principle of Least Action). [7] 
+
+* De Broglie famously intuited that a particle's natural path must simultaneously be the path of least action and the path of maximum entropy, but he lacked the exact mathematical tool to unify them. [7, 8] 
+* By structuring the [Haller–Obidi duality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718) as a Lagrangian ($\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$), Obidi provides that exact missing link. When you input this Lagrangian into a variational principle (extremizing the action), it proves that minimizing physical action is mathematically identical to optimizing the flow of information. [7] 
+
+## 3. Simple Formulas Cannot Curve Spacetime
+If Obidi used a direct, linear equation like de Broglie, it would only work for a single particle moving through a flat, empty background. But Obidi’s ultimate insight is that information creates spacetime itself. [4, 9] 
+The entropic field is highly complex, non-linear, and non-local. To show how statistical data deforms into physical gravity and curved geometry, the theory must feed an entropic Lagrangian into the [Master Entropic Equation (MEE)](https://encyclopedia.pub/entry/58596). This generates an entire landscape of shifting geometry rather than just assigning a single number to a particle. [3, 4, 10, 11] 
+In short, de Broglie’s formula is a beautiful, direct bridge for a single property, but a Lagrangian is a generative engine. Obidi uses it because it is the only mathematical framework capable of letting an entire universe of matter and spacetime naturally emerge from information. [3, 4, 9] 
+Would you like to see how the Euler-Lagrange equations are applied to the Obidi Action to derive the path of a particle, or explore how this framework reinterprets the speed of light? [10, 12] 
+
+[1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+[2] [https://www.youtube.com](https://www.youtube.com/watch?v=j9ZYtBLSVbs&t=452)
+[3] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+[5] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
+[6] [https://medium.com](https://medium.com/@jonimisiobidi/how-the-self-compensatory-dual-action-principle-of-the-local-obidi-action-loa-and-the-spectral-3f62e9256d1b)
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/de-broglies-dual-structure-action-principle-and-the-theory-of-entropicity-toe-from-hidden-842ae2257905)
+[8] [https://www.researchgate.net](https://www.researchgate.net/publication/404007944_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IA_The_Entropic_Rosetta_Stone_How_John_Haller%27s_Action-as-Entropy_Anticipates_and_Validates_the_Theory_of_Entropicity_ToE_-_A_Deep_C)
+[9] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_obidis-decisive-insight-of-the-haller-obidi-activity-7494184731513663488-1rmq)
+[10] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/equations/index.html)
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/on-the-complexity-and-intricacy-of-the-mathematical-foundations-of-the-theory-of-entropicity-toe-e0beec50ba1a)
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-logical-motivation-and-mathematical-construction-of-obidis-theory-of-3ff24a844944)
