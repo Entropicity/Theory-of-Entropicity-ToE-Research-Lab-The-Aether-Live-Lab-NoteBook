@@ -162,12 +162,14 @@ In physics, nature always chooses the path that minimizes a quantity called "act
 
 * De Broglie famously intuited that a particle's natural path must simultaneously be the path of least action and the path of maximum entropy, but he lacked the exact mathematical tool to unify them. [7, 8] 
 
-* By structuring the [Haller–Obidi duality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718) as a Lagrangian ($\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$), Obidi provides that exact missing link. When you input this Lagrangian into a variational principle (extremizing the action), it proves that minimizing physical action is mathematically identical to optimizing the flow of information. [7] 
+* By structuring the [Haller–Obidi duality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718) as a Lagrangian ($\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\dot{H}$), Obidi provides that exact missing link. When you input this Lagrangian into a variational principle (extremizing the action), it proves that minimizing physical action is mathematically identical to optimizing the flow of information.
+
+**This has culminated in what Obidi has reframed and reformulated as the universal principle of least entropic resistance.** [7] 
 
 ## 3. Simple Formulas Cannot Curve Spacetime
 If Obidi used a direct, linear equation like de Broglie, it would only work for a single particle moving through a flat, empty background. But Obidi’s ultimate insight is that information creates spacetime itself. [4, 9] 
 
-The entropic field is highly complex, non-linear, and non-local. To show how statistical data deforms into physical gravity and curved geometry, the theory must feed an entropic Lagrangian into the [Master Entropic Equation (MEE)](https://encyclopedia.pub/entry/58596). This generates an entire landscape of shifting geometry rather than just assigning a single number to a particle. [3, 4, 10, 11] 
+The entropic field is highly complex, non-linear, and non-local. To show how statistical data deforms into physical gravity and curved geometry, the theory must feed an entropic Lagrangian into the **[Master Entropic Equation (MEE)](https://encyclopedia.pub/entry/58596)/Obidi Field Equations (OFE).** This generates an entire landscape of shifting geometry rather than just assigning a single number to a particle. [3, 4, 10, 11] 
 
 In short, de Broglie’s formula is a beautiful, direct bridge for a single property, but a Lagrangian is a generative engine. Obidi uses it because it is the only mathematical framework capable of letting an entire universe of matter and spacetime naturally emerge from information. [3, 4, 9] 
 
