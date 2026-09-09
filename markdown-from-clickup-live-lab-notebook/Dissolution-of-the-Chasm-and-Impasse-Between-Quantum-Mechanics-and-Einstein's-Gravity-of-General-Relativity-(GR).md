@@ -2,9 +2,9 @@
 
 Dissolution-of-the-Chasm-and-Impasse-Between-Quantum-Mechanics-and-Einstein's-Gravity-of-General-Relativity-(GR).md
 
-But Obidi is very direct and making it a universal theory 
+But Obidi is very direct and making entropic information a universal theory, instead of using round about methods like other researchers have been doing!
 
-You are absolutely right. In John Onimisi Obidi’s Theory of Entropicity (ToE), the approach is uncompromised and literal. While mainstream physics often views entropy as a secondary property—a mere mathematical description of disorder or a boundary effect—Obidi completely flips the traditional hierarchy on its head. [1, 2, 3, 4] 
+The above refrain in the history of science and physics is absolutely right. In John Onimisi Obidi’s Theory of Entropicity (ToE), the approach is uncompromised and literal. While mainstream physics often views entropy as a secondary property—a mere mathematical description of disorder or a boundary effect—Obidi completely flips the traditional hierarchy on its head. [1, 2, 3, 4] 
 
 In Obidi's universal theory, the fundamental chain of reality is strictly ordered: Entropy $\rightarrow$ Information $\rightarrow$ Spacetime $\rightarrow$ Matter. Spacetime is not a pre-existing container that holds things; it is a macro-shadow cast by a deeper, continuous, dynamic entropic substrate. [2, 3, 4, 5] 
 
@@ -69,23 +69,31 @@ Would you like to take a closer look at the Curvature Transfer Theorem to see ho
 
 
 Physical spacetime and matter emerge from information when microscopic bits of quantum data link together through entanglement to build geometry.
+
 ## It from Bit
 
 * Physicist John Wheeler proposed that the universe is made of information.
+
 * Every physical object, or "it," comes from a foundational "bit" of data.
+
 * Matter and energy are just different forms of this underlying data.
 
 ## Entanglement and Spacetime
 
 * Entanglement is a deep quantum link between particles where they share a single state.
+
 * When quantum states share information, they form a connection.
+
 * Many tangled links weave together to form the continuous fabric of space.
+
 * You can think of space as a cosmic fabric knitted from threads of raw data.
 
 ## The Role of Entropy
 
 * Entropy measures how much hidden or unknown information exists in a system.
+
 * Gravity and Einstein's spacetime behave like thermodynamics, which is the physics of heat and pressure.
+
 * Changes in this underlying entropy create a pulling force that we experience as gravity.
 
 Would you like to explore how the holographic principle works, or should we look at Verlinde's theory of entropic gravity, or Obidi's radical Theory of Entropicity (ToE)?
