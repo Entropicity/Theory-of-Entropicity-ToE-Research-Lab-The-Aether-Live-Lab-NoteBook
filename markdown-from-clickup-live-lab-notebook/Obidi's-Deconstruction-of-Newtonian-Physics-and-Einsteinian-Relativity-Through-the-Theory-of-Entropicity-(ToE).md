@@ -65,12 +65,12 @@ It must explain quantum mechanics, where particles exist in superpositions and d
 ### The Macro-Scale: 
 It must scale up seamlessly to explain spinning galaxies and black holes.
 
-This is where the Dual Action Principle comes in. The math has to ensure that while the Local Obidi Action (LOA) is busy warping local entropic fields to create what we perceive as a gravitational pull, the Spectral Obidi Action (SOA) is running in the background like a cosmic ledger, instantly calculating the global quantum spectrum to ensure the Second Law of Thermodynamics (SLoT) is never violated.
+This is where the Dual Action Principle comes in. The math has to ensure that while the **Local Obidi Action (LOA)** is busy warping local entropic fields to create what we perceive as a gravitational pull, the **Spectral Obidi Action (SOA)** is running in the background like a cosmic ledger, instantly calculating the global quantum spectrum to ensure the **Second Law of Thermodynamics (SLoT)** is never violated.
 
 ## 3. Facing the "Einstein Limit"
-The highest mathematical hurdle for any new theory of physics is that it cannot contradict the physics we already know works. Einstein's field equations have been tested to mind-boggling precision. Therefore, Obidi’s Master Entropic Equation (MEE) must be constructed so perfectly that if you dial the entropic gradients down to a normal, smooth macro-scale, the complex information-theoretic math mathematically collapses back into Einstein’s exact geometric equations. It has to match Einstein's answers perfectly where Einstein was right, while filling in the blanks where Einstein failed (like at the center of a black hole).
+The highest mathematical hurdle for any new theory of physics is that it cannot contradict the physics we already know works. Einstein's field equations have been tested to mind-boggling precision. Therefore, **Obidi’s Master Entropic Equation (MEE)/Obidi Field Equations (OFE)** must be constructed so perfectly that if you dial the entropic gradients down to a normal, smooth macro-scale, the complex information-theoretic math mathematically collapses back into Einstein’s exact geometric equations. **It has to match Einstein's answers perfectly where Einstein was right, while filling in the blanks where Einstein failed (like at the center of a black hole).**
 
-It is an intellectual mountain of the highest order, requiring a seamless mastery of thermodynamics, differential geometry, quantum field theory, and information theory.
+> # **Obidi's undertaking is an intellectual mountain of the highest order, requiring a seamless mastery of thermodynamics, differential geometry, quantum field theory, and information theory.**
 
 If you want to look under the hood of this massive undertaking, which part of Obidi's machinery should we look at next?
 
