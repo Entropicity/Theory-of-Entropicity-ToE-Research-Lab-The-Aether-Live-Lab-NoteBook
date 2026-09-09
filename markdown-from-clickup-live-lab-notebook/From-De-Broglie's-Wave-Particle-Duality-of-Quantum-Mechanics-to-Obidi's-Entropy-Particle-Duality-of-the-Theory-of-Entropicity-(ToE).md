@@ -107,7 +107,7 @@ Where:
 
 This is the exact operational translation of Obidi's insight: 
 
-> # **The physical trajectory of matter through space ($u^\mu$) is entirely dictated by the directional changes in raw information density ($\partial_\mu S$)** [1]
+> # **The physical trajectory of matter through space ($u^\mu$) is entirely dictated by the directional changes in raw information density($\partial_\mu S$)**. [1]
 
 ------------------------------
 
