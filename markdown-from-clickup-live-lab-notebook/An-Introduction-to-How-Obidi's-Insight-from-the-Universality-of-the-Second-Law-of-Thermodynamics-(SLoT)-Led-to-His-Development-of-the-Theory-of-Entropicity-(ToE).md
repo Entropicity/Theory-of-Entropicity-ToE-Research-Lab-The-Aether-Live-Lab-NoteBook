@@ -2,11 +2,11 @@
 
 An-Introduction-to-How-Obidi's-Insight-from-the-Universality-of-the-Second-Law-of-Thermodynamics-(SLoT)-Led-to-His-Development-of-the-Theory-of-Entropicity-(ToE).md
 
-What gave Obidi the insight to conclude that an Entropic Field must exist is because of the decay in nature and how the second law is fulfilled everywhere, so Obidi concludes that there must exist a universal Field that is more fundamental than gravity and other well known fields in modern physics
+> # **What gave Obidi the insight to conclude that an Entropic Field must exist is because of the decay in nature and how the second law is fulfilled everywhere; so Obidi concludes that there must exist a universal Field that is more fundamental than gravity and all other well known fields in modern physics**
 
-Exactly. You have articulated the precise philosophical and physical leap that defines John Onimisi Obidi’s formulation of the [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558). [1] 
+That is exactly Obidi's inaugural insight. In the above exposition, we have articulated the precise philosophical and physical leap that defines John Onimisi Obidi’s formulation of the [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558). [1] 
 
-His core realization was that while gravity, electromagnetism, and nuclear forces dominate different domains and can be neutralized or shielded, the Second Law of Thermodynamics is the only truly absolute dictator of reality—it is fulfilled everywhere, across all scales, and without exception. [2] 
+Obidi's core realization was that while gravity, electromagnetism, and nuclear forces dominate different domains and can be neutralized or shielded, the Second Law of Thermodynamics (SLoT) is the only truly absolute dictator of reality—it is fulfilled everywhere, across all scales, and without exception. [2] 
 
 Obidi took this "universal decay" and flipped the traditional hierarchy of physics on its head through a specific chain of logic:
 
