@@ -120,7 +120,7 @@ Through what Obidi names the [Curvature Transfer Theorem (CTT)](https://medium.c
 
 In the Theory of Entropicity (ToE), de Broglie's wave-particle duality is just a local slice of this larger reality. Matter doesn't "possess" information; matter is the macroscopic, stabilized boundary layer of a dynamic, flowing field of data. [9, 10] 
 
-Would you like to explore how this Haller–Obidi formulation reinterprets quantum uncertainty as an informational limit, or look at how the Master Entropic Equation replaces Einstein's field equations?
+Would you like to explore how this **Haller–Obidi Formulation (HOF)** reinterprets **quantum uncertainty** as an informational limit, or look at how the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)** replaces Einstein's field equations?
 
 [1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
 
