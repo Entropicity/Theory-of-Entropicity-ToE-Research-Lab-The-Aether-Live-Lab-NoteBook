@@ -1,5 +1,6 @@
 # Book Publication Deal with Eliva Press for a Selected Works Volume on Obidi's Theory of Entropicity (ToE)
 
+
 Eliva-Press-Book-Publication-Deal-with-Eliva-Press-for-a-Selected-Works-Volume-on-Obidi's-Theory-of-Entropicity-(ToE).md
 
 
