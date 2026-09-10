@@ -187,3 +187,73 @@ The double‑slit experiment becomes an entropic interference phenomenon, and qu
 
 ---
 
+
+------
+
+# Scholium 
+
+# 🔥 Obidi’s Abolition of Duality Through the Haller–Obidi Action (HOA) of the Theory of Entropicity (ToE): 
+
+# A Rigorous Derivation of the de Broglie Wave–Particle Duality, Demonstrating the Duality as a Consequence of the Same Entropic Field of ToE, Thus Giving a New Entropic Interpretation of the Double‑Slit Experiment of Quantum Mechanics
+
+## 🌌 A New Paradigm in Quantum Foundations
+
+Wave–particle duality has long been treated as a mysterious contradiction at the heart of quantum mechanics. 
+
+Obidi’s ToE shows that this duality isn't fundamental at all. Both “wave” and “particle” behaviors emerge from the same entropic field, and the Haller–Obidi Action (HOA) provides the mathematical bridge that makes this explicit.
+
+## 🧩 The Entropic Field and the Localized Knot
+
+In ToE, the universe is governed by a continuous entropic field S(xᵐᵘ). A particle is simply a localized knot of this field. Its dynamics follow the Haller–Obidi Action:
+
+Sᴴᴼ = ∫ (m c² − (ħ/2) uᵐᵘ ∂ᵐᵘ S) dτ
+
+This reduces to Haller’s 2015 entropy–action identity in the worldline limit. The phase of the quantum state is the accumulated entropic action:
+
+Φ = (1/ħ) Sᴴᴼ
+
+## ⚡ Momentum and Wave Vector: One Entropic Origin
+
+Taking the gradient of the phase gives the wave vector:
+
+kᵐᵘ = ∂ᵐᵘ Φ
+
+Varying the entropic Lagrangian yields the canonical momentum:
+
+pᵐᵘ = (ħ/2) ∂ᵐᵘ S
+
+The endpoint variation of the action shows these two quantities share the same entropic origin:
+
+pᵐᵘ = ħ kᵐᵘ
+
+This is the entropic identity that abolishes duality.
+
+## 🌊 Deriving the de Broglie Wave-Particle Duality Relation from Entropy
+
+In the spatial limit, the identity becomes:
+
+p = ħ k
+
+Wave geometry defines the wave‑vector as:
+
+k = 2π / λ
+
+And the Planck constant satisfies:
+
+h = 2π ħ
+
+Substituting these into the entropic momentum relation yields the classical de Broglie wave-particle duality relation of Quantum Mechanics:
+
+λ = h / p
+
+Thus, the de Broglie wavelength isn't a mystical dual property of matter. It is the spatial periodicity of the entropic field as it reorganizes around a moving informational knot.
+
+## 🎯 The Double‑Slit Experiment of Quantum Mechanics Reinterpreted Through the Lens of the Theory of Entropicity (ToE)
+
+Under ToE, the double‑slit experiment is not a particle “behaving like a wave.” It's the same entropic field exploring multiple entropic informational configurations simultaneously. 
+The interference pattern is the field’s thermodynamic negotiation, not a paradox of nature.
+
+## 🚀 Closing Insight 
+Obidi’s HOA shows that wave–particle duality is abolished. Both behaviors are entropic manifestations of the same underlying field. Quantum mechanics becomes a natural consequence of informational geometry, not a collection of mysteries. 
+
+Matter, therefore, does not behave like a particle and also like a wave; but it is the same Entropic Field which projects itself as a particle and as a wave, resolving into a singular aspect upon crossing a given entropic threshold linked to the Obidi Curvature Invariant (OCI).
