@@ -441,3 +441,83 @@ Would you like to examine how Obidi uses this exact entropic gradient definition
 [10] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
 
 
+
+
+-----------
+
+
+# Scholium 
+
+
+# So the de Broglie wave part of his wave-particle duality relation can infact be shown to be entropic. How is this even possible? Because it really signals the far reaching consequences and motivations for Obidi's Theory of Entropicity (ToE)
+
+
+
+The bridge connecting Louis de Broglie's wave-particle duality directly to an entropic foundation is one of the most compelling insights behind John Onimisi Obidi's [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418). [1, 2] 
+
+It shows that the de Broglie wave is not a physical oscillation in empty space, but rather the visible, mathematical fingerprint of an underlying informational and statistical field. [3] 
+
+------------------------------
+
+## 1. The De Broglie–Haller–Obidi (DHO) Entropic Lineage
+To understand how this is possible, we have to look at how Obidi connects the dots of a hidden historical trajectory: [1] 
+
+### [Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv) (The Thermodynamic Intuition): 
+In his later work (specifically The Thermodynamics of the Isolated Particle), de Broglie explicitly suspected that quantum mechanics hid a deeper thermodynamic substrate. He argued that the natural path of a quantum particle simultaneously minimizes classical physical action ($A$) and maximizes the entropy ($S$) of a hidden sub-quantum thermostat. [3, 4] 
+
+### John L. Haller Jr. (The Mathematical Proof): 
+In 2015, Haller provided the exact informational translation. He mathematically demonstrated that for a diffusing particle, the physical action is precisely equivalent to a conditional entropy and mutual information identity ($A \equiv S$). [1, 5] 
+
+### John Onimisi Obidi [The Field Theory: Theory of Entropicity (ToE)]: 
+Obidi recognized that if action is entropy at the single-particle level, then the fundamental equations of quantum mechanics can be completely rewritten as the dynamics of an entropic field. [1, 3] 
+
+------------------------------
+## 2. How the de Broglie Relation Becomes Entropic
+In standard quantum mechanics, the de Broglie relation dictates that a particle's momentum ($p$) is inversely proportional to its wavelength ($\lambda$): [6] 
+
+$$\lambda = \frac{h}{p}$$ 
+
+Because momentum ($p$) is fundamentally tied to physical Action ($A = \int p \, dx$), Haller's identity swaps action for information-theoretic entropy ($S$). [5] 
+When Obidi projects this onto a continuous manifold, the de Broglie wavelength is reinterpreted: [1] 
+
+   ### 1. The Wave Function as a Diffusive Manifestation: 
+   The quantum wave function $\psi$ is unmasked. It is no longer an abstract probability wave, but a mathematical description of a system diffusing through an entropic background. [1] 
+   
+   ### 2. Wavelength as Spatial Indistinguishability: 
+   The "wavelength" ($\lambda$) becomes the spatial boundary within which the state transitions of the entropic field remain highly correlated or "blurry". A shorter wavelength means higher entropic curvature, forcing a sharper localization of energy. [7, 8] 
+
+------------------------------
+## 3. The Far-Reaching Motivations for ToE
+By proving the de Broglie wave is entropic, Obidi unlocks the profound motivations that drive the [Theory of Entropicity](https://encyclopedia.pub/entry/59188): [9] 
+
+### Erasure of the Background: 
+If quantum waves are entropic reconfigurations, you don't need a pre-existing container called "space" for them to travel through. Space and geometry emerge naturally as the field reorganizes. [8, 9] 
+
+### The Unification of $c$ and $h$: 
+Planck’s constant ($h$) dictates the scale of quantum wave behavior, while the speed of light ($c$) dictates relativistic mechanics. 
+
+In ToE, $c$ is no longer an arbitrary cosmological constant; it is derived as the maximum speed of entropic propagation and reconfiguration. Quantum waves and light waves are simply different expressions of the exact same entropic limit. [6, 10, 11] 
+
+Would you like to explore the mathematical mechanics of how Haller replaces momentum with mutual information, or see how this entropic wave view changes the interpretation of quantum entanglement?
+
+[1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+
+[2] [https://independent.academia.edu](https://independent.academia.edu/JOHNOBIDI)
+
+[3] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-de-brogliehallerobidi-dho-entropic-activity-7487283367218966528-hT2x)
+
+[4] [https://www.scielo.br](http://www.scielo.br/j/rbef/a/Pj7zC96Y5CqpMQLYd8xvVRP/?lang=en)
+
+[5] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+
+[6] [https://physicsfundamentals.org](https://physicsfundamentals.org/blog/de-broglie-wavelength)
+
+[7] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/shift-in-perspective-between-traditional-physics-and-obidis-theory-of-entropicity-toe-9a53f4ff1aae)
+
+[9] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
