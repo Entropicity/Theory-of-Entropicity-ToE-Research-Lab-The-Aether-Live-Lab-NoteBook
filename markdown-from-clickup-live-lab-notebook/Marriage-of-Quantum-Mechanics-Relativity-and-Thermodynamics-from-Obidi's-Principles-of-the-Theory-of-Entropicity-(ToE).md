@@ -88,7 +88,7 @@ Because everything is derived from the dynamics of this single field, the founda
 
 By making entropy the "ontic" (real, physical) foundation rather than a mere calculation tool ("epistemic"), the arbitrary borders between the subfields of physics disappear. 
 
-Thus, in Obidi's Theory of Entropicity (ToE) Nature is revealed to have just one set of rules—governing the flow, storage, and transformation of entropic information within a universal Entropic Field (EF).
+Thus, in Obidi's Theory of Entropicity (ToE), Nature is revealed to have just one set of rules—governing the flow, storage, and transformation of entropic information within a universal Entropic Field (EF).
 
 ------------------------------
 
