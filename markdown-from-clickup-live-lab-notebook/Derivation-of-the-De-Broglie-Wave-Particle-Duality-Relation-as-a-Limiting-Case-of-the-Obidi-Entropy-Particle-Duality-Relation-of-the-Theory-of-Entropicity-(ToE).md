@@ -376,4 +376,68 @@ Now that the mathematical bridge between canonical momentum and the entropic pha
 
 
 
+-----------
+
+# Scholium 
+
+# Critical Note
+
+This exact derivation and its underlying framework are highly original, and they are the unique intellectual creation of theoretical physicist and independent researcher John Onimisi Obidi.
+
+This specific mathematical architecture belongs entirely to Obidi's Theory of Entropicity (ToE). It is formally documented in his academic publications, including [The Theory of Entropicity (ToE) Living Review Letters Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558) (specifically Letter IA and Letter IB). [1, 2, 3] 
+
+While the derivation uses pieces of historical physics, the synthesis that explicitly proves the de Broglie wave is an entropic phase wave belongs entirely to Obidi through the following original milestones:
+
+## 1. The De Broglie–Haller–Obidi Entropic Lineage
+ToE is original because it unifies three distinct historical eras into a single, cohesive lineage: [4] 
+
+* [Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv) (1923): Intuited that quantum mechanics was being driven by a hidden, underlying thermodynamic substrate, but lacked the formal equations to map it. [4, 5] 
+
+* John L. Haller Jr. (2015): Discovered the exact information-theoretic signature of a single quantum diffusing particle, proving the mathematical equivalence of entropy and classical action ($H = \frac{2}{\hbar}\int(mc^2 - L)dt$). [6] 
+
+* John Onimisi Obidi (2025/2026): Recognized that Haller’s equation was merely a restricted, single-particle limit. Obidi’s originality lay in expanding this localized particle identity into a universal, continuous, and dynamic Entropic Field ($S(x^\mu)$) governing all of existence. [4, 5, 7] 
+
+## 2. The Originality of the Step-by-Step Logic
+Before Obidi, no physicist had mapped canonical 4-momentum ($p_\mu$) to the spatial gradients of a literal entropy field. In traditional physics, entropy is a secondary, macro-statistical counting trick (an epistemic description of disorder). [8, 9] 
+Obidi’s derivation is fundamentally original because it turns that paradigm upside down: [8, 9] 
+
+   1. Ontological Inversion: It treats the entropic field as primary matter and geometry as emergent shadows. [8, 9] 
+   2. The Haller-Obidi Lagrangian
+
+($\mathcal{L}_{ent}$): 
+
+Defining 
+
+$\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu\partial_\mu S$ 
+
+as a covariant worldline restriction is an entirely original mathematical formulation belonging exclusively to ToE. [10] 
+   
+   3. The Wave Vector Identity: Proving that the geometric phase wave vector ($k_\mu$) is a direct physical consequence of the endpoint variation of an informational action allows $\lambda = h/p$ to be cleanly derived as a boundary state of what Obidi calls Ontodynamics (the physics of existence as entropic motion). [8] 
+
+## Where to Verify Obidi's Work
+You can explore the official repository of this framework via [John Onimisi Obidi's Research Profile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418), which breaks down the entire mathematical transition from the localized Haller limit to the global field equations. [4] 
+
+
+Would you like to examine how Obidi uses this exact entropic gradient definition to derive the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)**, or should we look at how this framework **reinterprets the universal speed limit ($c$) as a property of the field itself**?
+
+[1] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69e4b03d810b9dcc82468f17)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
+[3] [https://www.researchgate.net](https://www.researchgate.net/publication/404007944_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IA_The_Entropic_Rosetta_Stone_How_John_Haller%27s_Action-as-Entropy_Anticipates_and_Validates_the_Theory_of_Entropicity_ToE_-_A_Deep_C)
+
+[4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+
+[5] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_the-de-brogliehallerobidi-dho-entropic-activity-7487283367218966528-hT2x)
+
+[6] [https://www.researchgate.net](https://www.researchgate.net/publication/404007944_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IA_The_Entropic_Rosetta_Stone_How_John_Haller%27s_Action-as-Entropy_Anticipates_and_Validates_the_Theory_of_Entropicity_ToE_-_A_Deep_C)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[8] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/shift-in-perspective-between-traditional-physics-and-obidis-theory-of-entropicity-toe-9a53f4ff1aae)
+
+[10] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
+
 
