@@ -11,7 +11,7 @@ To derive the classical de Broglie wave-particle duality formula:
 
 ($\lambda = h/p$) 
 
-as a limiting case of John Onimisi Obidi’s Theory of Entropicity (ToE), we must mathematically shift from the universal, continuous Entropic Field ($S(x)$) down to the highly localized single-particle limit defined by the Haller-Obidi Action. [1, 2] 
+as a limiting case of John Onimisi Obidi’s Theory of Entropicity (ToE), we must mathematically shift from the universal, continuous Entropic Field (S(x)) down to the highly localized single-particle limit defined by the Haller-Obidi Action. [1, 2] 
 
 In the following sections, we present the step-by-step rigorous derivation of de Broglie’s relation from the foundational principles of ToE.
 
