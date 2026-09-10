@@ -24,7 +24,7 @@ Because the field has a built-in temporal lag—formalized by Obidi’s "No-Rush
 The wavelength ($\lambda$) of the de Broglie wave is literally the physical spacing of these relaxation cycles in the underlying entropic medium. [3, 6] 
 
 ## Why the Simplification Works
-**When you elevate entropy to a fundamental field of nature governed by the Obidi Action (the variational principle of the theory), you no longer need separate rules for Quantum Mechanics, Relativity and Thermodynamics.** [1, 6] 
+> # **When you elevate entropy to a fundamental field of nature governed by the Obidi Action (the variational principle of the theory), you no longer need separate rules for Quantum Mechanics, Relativity and Thermodynamics.** [1, 6] 
 
    1. The Principle of Least Action (which particles obey)
    
