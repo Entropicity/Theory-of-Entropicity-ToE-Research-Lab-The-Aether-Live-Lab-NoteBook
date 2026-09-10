@@ -408,7 +408,7 @@ Obidi’s derivation is fundamentally original because it turns that paradigm up
 
 Defining 
 
-$\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu\partial_\mu S$ 
+$$\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu\partial_\mu S$$
 
 as a covariant worldline restriction is an entirely original mathematical formulation belonging exclusively to ToE. [10] 
    
