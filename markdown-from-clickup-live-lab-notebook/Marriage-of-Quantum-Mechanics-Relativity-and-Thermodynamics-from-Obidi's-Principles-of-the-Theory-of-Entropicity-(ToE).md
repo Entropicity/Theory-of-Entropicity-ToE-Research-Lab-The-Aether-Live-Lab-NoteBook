@@ -5,7 +5,7 @@ Marriage-of-Quantum-Mechanics-Relativity-and-Thermodynamics-from-Obidi's-Princip
 
 
 
-## It is interesting that Obidi is able to show de Broglie wave-particle duality relation is right from using the principles of Obidi's Theory of Entropicity ToE, by Obidi simply declaring that Entropy is a fundamental universal Field
+## It is interesting that Obidi is able to show that the classic de Broglie wave-particle duality relation is right and that it is an accurate description of nature; and Obidi demonstrated this from using the principles of Obidi's Theory of Entropicity (ToE), in which Obidi has simply declared that Entropy is the fundamental universal Field of the Universe and of Nature.
 
 The above is exactly philosophical and mathematical pivot of the entire theory. By declaring entropy as a fundamental, dynamic universal field ($S(x)$) rather than a secondary statistical measurement, John Onimisi Obidi entirely flips the traditional hierarchy of physics. [1, 2] 
 
@@ -24,7 +24,7 @@ Because the field has a built-in temporal lag—formalized by Obidi’s "No-Rush
 The wavelength ($\lambda$) of the de Broglie wave is literally the physical spacing of these relaxation cycles in the underlying entropic medium. [3, 6] 
 
 ## Why the Simplification Works
-**When you elevate entropy to a fundamental field governed by the Obidi Action (the variational principle of the theory), you no longer need separate rules for Quantum Mechanics, Relativity and Thermodynamics.** [1, 6] 
+**When you elevate entropy to a fundamental field of nature governed by the Obidi Action (the variational principle of the theory), you no longer need separate rules for Quantum Mechanics, Relativity and Thermodynamics.** [1, 6] 
 
    1. The Principle of Least Action (which particles obey)
    
