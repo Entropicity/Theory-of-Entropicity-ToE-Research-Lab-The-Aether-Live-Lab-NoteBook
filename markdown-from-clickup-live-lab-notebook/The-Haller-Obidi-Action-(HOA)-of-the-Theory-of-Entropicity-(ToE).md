@@ -158,7 +158,7 @@ This demonstrates mathematically that **Haller’s result is a single-particle m
 * - Haller provided the **informational seed**, while Obidi elevates it into a **full-fledged variational field theory** (ToE).    
   
 
-## 4. Summary Table of Conceptual Differences  
+## 4. Summary Table of Conceptual Differences Between John L. Haller and John Onimisi Obidi 
   
   
 | Feature | Haller (2015) | Obidi (ToE, 2025-2026) | Relationship |  
@@ -173,7 +173,18 @@ u}) d^4x\)$ | Action functions correspond via Haller-Obidi projection |
 abla_\mu J_S^\mu = 0 \)$ | Emergent at field level |
 | Emergent Geometry | Implicit | Explicit via Fisher-Rao metric | Extends Haller’s mutual information framework |  
 | Novelty | Foundational particle identity | Full universal field theory | Haller embedded as limiting special case |  
-  
+
+# The Haller–Obidi Comparative Table
+
+| **Feature** | **Haller (2015)** | **Obidi (ToE, 2025–2026)** | **Relationship** |
+|-------------|--------------------|-----------------------------|-------------------|
+| **Ontology** | Particle-level entropy (focused on single-particle informational dynamics and stochastic processes) | Universal entropic field (a full-field informational ontology governing spacetime, matter, and dynamics) | Haller is a worldline limit of Obidi (Haller’s formulation emerges as the single-particle projection of Obidi’s field-theoretic framework) |
+| **Mathematical Form** | \( H = \frac{2}{\hbar} \int (mc^2 - L)\, dt \) — an entropy–action identity defined along a particle worldline | \( S_{\text{Obidi}} = \int F(S, \nabla S, g_{\mu\nu})\, d^4x \) — a covariant entropic field action defined over spacetime | Action functions correspond via the Haller–Obidi projection (Obidi’s field action reduces to Haller’s particle action under worldline collapse) |
+| **Covariance** | Non-relativistic (not fully covariant; defined in classical configuration space) | Fully covariant (constructed on a 4D manifold with relativistic consistency) | Haller generalized in Obidi framework (Obidi provides the covariant completion of Haller’s non-relativistic identity) |
+| **Conserved Currents** | None (no field-level conservation laws; entropy defined along a trajectory) | \( \nabla_\mu J_S^\mu = 0 \) — conserved entropic current at field level | Emergent at field level (Obidi introduces conservation laws absent in Haller’s particle formulation) |
+| **Emergent Geometry** | Implicit (geometry not explicitly encoded; informational distance is statistical) | Explicit via Fisher–Rao metric (geometry arises directly from information geometry and entropic curvature) | Extends Haller’s mutual information framework (Obidi elevates statistical geometry into full spacetime geometry) |
+| **Novelty** | Foundational particle identity (entropy–action relation for single systems) | Full universal field theory (entropic field governing spacetime, matter, and dynamics) | Haller embedded as limiting special case (Obidi subsumes Haller as the particle-level shadow of the entropic field) |
+
   
 ## Conclusion  
 Obidi’s Theory of Entropicity **generalizes and structurally elevates Haller’s particle-level entropy-action identity**. While the Haller–Obidi Action uses Haller’s result as a formal seed, it goes far beyond simple reuse by implementing a **covariant field-theoretic variational framework, conserved entropic currents, and emergent spacetime structures**. 
