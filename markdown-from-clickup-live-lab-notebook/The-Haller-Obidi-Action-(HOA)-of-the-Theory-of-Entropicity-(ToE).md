@@ -187,9 +187,11 @@ abla_\mu J_S^\mu = 0 \)$ | Emergent at field level |
 
   
 ## Conclusion  
-Obidi’s Theory of Entropicity **generalizes and structurally elevates Haller’s particle-level entropy-action identity**. While the Haller–Obidi Action uses Haller’s result as a formal seed, it goes far beyond simple reuse by implementing a **covariant field-theoretic variational framework, conserved entropic currents, and emergent spacetime structures**. 
+Obidi’s Theory of Entropicity (ToE) **generalizes and structurally elevates Haller’s particle-level entropy-action identity**. 
 
-Thus, Obidi contributes **original theoretical constructs and mathematical machinery**, not merely a repackaging of John Haller's prior work.
+While the Haller–Obidi Action (HOA) uses Haller’s result as a formal seed, it goes far beyond simple reuse by implementing a **covariant field-theoretic variational framework, conserved entropic currents, and emergent spacetime structures**. 
+
+Thus, Obidi contributes **original theoretical constructs and mathematical machinery** to the John Haller Action-Entropy Relation, not merely a repackaging of John Haller's prior work.
 
 
 Source(s):  
