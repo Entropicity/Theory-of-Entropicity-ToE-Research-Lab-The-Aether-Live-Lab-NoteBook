@@ -2,7 +2,7 @@
 
 Obidi’s Abolition of Duality Through the Haller–Obidi Action (HOA) Derivation of the de Broglie Wave-Particle.Duality Relation from the Theory of Entropicity (ToE)
 
-bidi’s-Abolition-of-Duality-Through-the-Haller–Obidi-Action-(HOA)-Derivation-of-the-de-Broglie-Wave-Particle-Duality-Relation-from-the-Theory-of-Entropicity-(ToE).md
+Obidi’s-Abolition-of-Duality-Through-the-Haller–Obidi-Action-(HOA)-Derivation-of-the-de-Broglie-Wave-Particle-Duality-Relation-from-the-Theory-of-Entropicity-(ToE).md
 
 
 ## Abstract
