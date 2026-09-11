@@ -250,9 +250,16 @@ The result is that the Schrödinger equation is a **theorem** of ToE, not an axi
 The No-Rush Theorem (NRT) is not merely a corollary of ToE — it is a **consistency condition on the derivation itself**. It states:
 
 > For any pair of interacting systems $A$ and $B$ connected by an entropic flux $\Phi_S$, the rate of entropic exchange satisfies:
-> $$\int_{t_0}^{t_1} \dot{\mathcal{R}}^{\text{IG}}[S](x,t)\,dt \;\geq\; \mathcal{C}_{\text{OCI}} \;=\; \ln 2$$
 
-where $\mathcal{R}^{\text{IG}}$ is the information-curvature scalar. Operationally: **no distinguishable event can be realised in zero time.** The entropic field must traverse the $\ln 2$ curvature gap through finite dynamical evolution.
+$$
+\int_{t_0}^{t_1} \dot{\mathcal{R}}^{\mathrm{IG}}\ S \ dt \\ge\ \mathcal{C}_{\mathrm{OCI}} \=\ \ln 2
+$$
+
+where 
+
+$\mathcal{R}^{\text{IG}}$ 
+
+is the information-curvature scalar. Operationally: **no distinguishable event can be realised in zero time.** The entropic field must traverse the $\ln 2$ curvature gap through finite dynamical evolution.
 
 This constrains the Schrödinger derivation in three ways:
 
@@ -266,7 +273,7 @@ $$\frac{\chi_0}{C_0} \cdot \frac{1}{\mu_0 \varepsilon_0} = c$$
 
 where $\chi_0$ is the entropic coupling (easy flow → high $v_{\max}$) and $C_0$ is the entropic inertia (high inertia → low $v_{\max}$). Saturating the bound $\chi_0 / C_0 \cdot 1/(\mu_0\varepsilon_0) = c$ recovers the relativistic speed limit.
 
-### The Vuli-Ndlela Integral: Path Integrals in ToE
+### The Vuli-Ndlela Integral (VNI): Path Integrals in ToE
 
 The quantum limit is not derived solely from the linearised MEE. The full quantum structure is encoded in the **Vuli-Ndlela Integral**, which generalises the Feynman path integral to an entropy-constrained domain:
 
@@ -292,7 +299,11 @@ The exponential factor $e^{S/k_B}$ is the same entropy-weighting that appears in
 
 $$\frac{d^2 S^{\mu}}{d\lambda^2} + \Gamma^{\mu}_{\alpha\beta}(S)\, \frac{dS^{\alpha}}{d\lambda}\, \frac{dS^{\beta}}{d\lambda} = 0$$
 
-where $\Gamma^{\mu}_{\alpha\beta}(S)$ is the Christoffel symbol of the entropy-dependent metric $G_{\mu\nu}(S)$. The **No-Rush Theorem follows as a corollary**: the geodesic parameter $\lambda$ is the entropic time, and since the field evolves continuously, the parameter cannot jump — it must traverse finite intervals.
+where 
+
+$\Gamma^{\mu}_{\alpha\beta}(S)$ 
+
+is the Christoffel symbol of the entropy-dependent metric $G_{\mu\nu}(S)$. The **No-Rush Theorem follows as a corollary**: the geodesic parameter $\lambda$ is the entropic time, and since the field evolves continuously, the parameter cannot jump — it must traverse finite intervals.
 
 ### The No-Go Theorem and Wavefunction Collapse
 
