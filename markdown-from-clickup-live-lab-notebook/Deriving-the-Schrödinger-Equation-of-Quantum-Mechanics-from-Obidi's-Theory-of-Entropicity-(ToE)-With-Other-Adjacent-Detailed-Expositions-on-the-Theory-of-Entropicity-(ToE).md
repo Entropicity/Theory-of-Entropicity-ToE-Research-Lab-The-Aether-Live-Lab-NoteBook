@@ -1,4 +1,8 @@
-## Deriving the Schrödinger Equation of Quantum Mechanics from Obidi's Theory of Entropicity (ToE)
+## Deriving the Schrödinger Equation of Quantum Mechanics from Obidi's Theory of Entropicity (ToE): With Other Adjacent Detailed Expositions on the Theory of Entropicity (ToE)
+
+
+Deriving-the-Schrödinger-Equation-of-Quantum-Mechanics-from-Obidi's-Theory-of-Entropicity-(ToE)-With-Other-Adjacent-Detailed-Expositions-on-the-Theory-of-Entropicity-(ToE).md
+
 
 Deriving-the-Schrödinger-Equation-of-Quantum-Mechanics-from-Obidi's-Theory-of-Entropicity-(ToE).md
 
