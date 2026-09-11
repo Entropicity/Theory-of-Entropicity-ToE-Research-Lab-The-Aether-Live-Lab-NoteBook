@@ -148,7 +148,7 @@ where $m_S$ comes from $V''(S_{\text{eq}})$ (the curvature of the entropic poten
 
 ### The Exponential Coupling — The Key Structural Ingredient
 
-The previous answer glossed over *why* the linearised kinetic term has the precise form needed to produce the Schrödinger equation. The answer lies in the **exponential entropy-weighting** built into the Obidi Action itself. The full geometric form is:
+The previous exposition we offered above glossed over *why* the linearised kinetic term has the precise form needed to produce the Schrödinger equation. The analysis we presented lies in the **exponential entropy-weighting** built into the Obidi Action itself. Here, we now wish to provide the reader with the full geometric form inherent in Obidi's Theory of Entropicity (ToE):
 
 $$A_{\text{ToE}} = \int d^4x\, \sqrt{-g_\alpha(S)}\, \left[\frac{\chi}{2}\, e^{S/k_B}\, g^{\mu\nu}\, \nabla^{(\alpha)}_\mu S\, \nabla^{(\alpha)}_\nu S \;-\; V_\alpha(S)\right]$$
 
@@ -397,7 +397,7 @@ The derivation is thus not a single mathematical step but a **constrained multi-
 
 ### The Complete Master Entropic Equation
 
-The previous turns presented a simplified form of the MEE. The **full local MEE**, obtained by varying the complete Local Obidi Action (which includes the Einstein–Hilbert term), is:
+The previous turns in our expositions above presented a simplified form of the MEE. The **full local MEE**, obtained by varying the complete Local Obidi Action (which includes the Einstein–Hilbert term), is:
 
 $$\nabla_\mu\!\left(e^{S/k_B}\,\nabla^\mu S\right) \;-\; \frac{1}{2k_B}\,e^{S/k_B}\,(\nabla S \cdot \nabla S) \;+\; \frac{1}{\chi}\,V'(S) \;=\; 0$$
 
@@ -482,6 +482,7 @@ $$S_{\text{Obidi}} \approx S_{\text{Obidi}}[\Delta_0] + \tfrac{1}{2}\,G_{AB}\,\d
 2. The quadratic form $G_{AB}\,\delta\xi^A\,\delta\xi^B$ is the **entropic kinetic energy** — it plays exactly the role that the metric $g_{\mu\nu}\dot{x}^\mu\dot{x}^\nu$ plays in classical mechanics.
 
 3. Promote $\xi^A$ and $\pi_B = G_{AB}\dot{\xi}^A$ to operators with:
+
 $$[\hat{\xi}^A, \hat{\pi}_B] = i\hbar_{\text{eff}}\,\delta^A_B$$
 
 4. The **spectrum of the modular operator** $\Delta$ determines the allowed energy levels. The eigenvalues of $\Delta$ are the **entropic energy eigenvalues**, and their logarithms define the SOA. Mass, energy, and curvature are different projections of the same spectral data.
@@ -551,7 +552,9 @@ The geodesic equation:
 
 $$\frac{d^2 S^{\mu}}{d\lambda^2} + \Gamma^{\mu}_{\alpha\beta}(S)\,\frac{dS^{\alpha}}{d\lambda}\,\frac{dS^{\beta}}{d\lambda} = 0$$
 
-where $\Gamma^{\mu}_{\alpha\beta}(S)$ is the Christoffel symbol of the entropy-dependent metric. The **No-Rush Theorem follows as a corollary**: since the geodesic parameter $\lambda$ is the entropic time and the field evolves continuously, the parameter cannot jump — it must traverse finite intervals. The minimum interval is set by the OCI: $\Delta\lambda_{\min} \geq \ln 2$.
+where $\Gamma^{\mu}_{\alpha\beta}(S)$ is the Christoffel symbol of the entropy-dependent metric. The **No-Rush Theorem follows as a corollary**: since the geodesic parameter $\lambda$ is the entropic time and the field evolves continuously, the parameter cannot jump — it must traverse finite intervals. The minimum interval is set by the OCI: 
+
+$\Delta\lambda_{\min} \geq \ln 2$.
 
 ### Summary: What This Layer Adds
 
