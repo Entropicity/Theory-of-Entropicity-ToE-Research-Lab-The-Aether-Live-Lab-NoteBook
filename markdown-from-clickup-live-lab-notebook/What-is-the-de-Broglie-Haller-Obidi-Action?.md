@@ -1,4 +1,4 @@
-# What is the de Broglie Haller Obidi Action?
+# What is the de Broglie-Haller-Obidi Action?
 
 
  What-is-the-de-Broglie-Haller-Obidi-Action?.md
