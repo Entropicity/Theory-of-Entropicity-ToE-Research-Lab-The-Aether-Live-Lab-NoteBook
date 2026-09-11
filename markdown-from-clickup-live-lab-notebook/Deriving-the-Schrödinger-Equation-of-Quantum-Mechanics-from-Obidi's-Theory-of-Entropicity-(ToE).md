@@ -575,6 +575,7 @@ $\Delta\lambda_{\min} \geq \ln 2$.
 
 ------
 
+# Scholium 
 
 ## Further Elaboration: The Logical Architecture, Gauge Emergence, and the Full Cosmological Programme
 
