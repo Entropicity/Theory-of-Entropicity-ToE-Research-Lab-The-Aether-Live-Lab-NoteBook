@@ -64,7 +64,7 @@ The transition from Plato’s Academy to Obidi’s Academy marks a philosophical
 
 # Scholium 
 
-Plato](https://www.google.com/search?q=plato&kgmid=/m/05qmj) and [Aristotle](https://www.google.com/search?q=aristotle&kgmid=/g/113v8sdng) spent roughly 20 years together (367 BC – 347 BC) at [Plato's Academy](https://en.wikipedia.org/wiki/Platonic_Academy) in Athens, first as master and student, and later as colleagues. While they did not leave behind transcripts of their daily conversations, historical records, parodies from contemporary playwrights, and Aristotle’s own later writings reveal that their discussions centered on several foundational pillars of philosophy, mathematics, and science. [1, 2, 3, 4] 
+[Plato](https://www.google.com/search?q=plato&kgmid=/m/05qmj) and [Aristotle](https://www.google.com/search?q=aristotle&kgmid=/g/113v8sdng) spent roughly 20 years together (367 BC – 347 BC) at [Plato's Academy](https://en.wikipedia.org/wiki/Platonic_Academy) in Athens, first as master and student, and later as colleagues. While they did not leave behind transcripts of their daily conversations, historical records, parodies from contemporary playwrights, and Aristotle’s own later writings reveal that their discussions centered on several foundational pillars of philosophy, mathematics, and science. [1, 2, 3, 4] 
 Their intellectual relationship at the Academy revolved around the following major topics:
 ## 1. The Theory of Forms and the Nature of Reality
 The most significant debate between the two involved Plato’s Theory of Forms. [5] 
