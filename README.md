@@ -65,4 +65,7 @@ To establish the Theory of Entropicity as a rigorous, coherent, and enduring sci
 [![DOI: Letter IE](https://img.shields.io/badge/DOI-10.5281/zenodo.20114386-blue)](https://doi.org/10.5281/zenodo.20114386)
 [![DOI: ToE Search‑Query‑Engine](https://img.shields.io/badge/DOI-10.5281/zenodo.20116039-blue)](https://doi.org/10.5281/zenodo.20116039)
 [![DOI: APMaP](https://img.shields.io/badge/DOI-10.17605/OSF.IO/H8WR3-blue)](https://doi.org/10.17605/OSF.IO/H8WR3)
+[![DOI](https://zenodo.org/badge/1275750583.svg)](https://doi.org/10.5281/zenodo.22721691)
+
+
 
