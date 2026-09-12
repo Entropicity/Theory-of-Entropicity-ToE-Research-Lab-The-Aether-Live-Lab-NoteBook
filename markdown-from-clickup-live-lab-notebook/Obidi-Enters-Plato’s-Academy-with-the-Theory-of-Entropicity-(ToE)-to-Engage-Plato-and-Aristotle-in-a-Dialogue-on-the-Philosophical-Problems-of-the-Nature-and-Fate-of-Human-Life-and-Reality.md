@@ -1,5 +1,6 @@
 # Obidi Enters Plato’s Academy to Engage Plato and Aristotle in a Dialogue on the Philosophical Problems of the Nature and Fate of Human Life and Reality: From Plato’s Academy to Obidi’s Academy — The Theory of Entropicity (ToE) as a Rosetta Touch Stone for Philosophical Discourse
 
+
 # Obidi Enters Plato’s Academy with the Theory of Entropicity (ToE) to Engage Plato and Aristotle in a Dialogue on the Philosophical Problems of the Nature and Fate of Human Life and Reality
 
 Obidi-Enters-Plato’s-Academy-with-the-Theory-of-Entropicity-(ToE)-to-Engage-Plato-and-Aristotle-in-a-Dialogue-on-the-Philosophical-Problems-of-the-Nature-and-Fate-of-Human-Life-and-Reality.md
