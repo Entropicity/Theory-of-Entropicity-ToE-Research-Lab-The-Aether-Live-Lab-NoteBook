@@ -61,6 +61,17 @@ To establish the Theory of Entropicity as a rigorous, coherent, and enduring sci
 - **Agile Publishing Manifesto and Philosophy (APMaP) of the Theory of Entropicity (ToE):**  
   [Open Science Framework. OSF.](https://doi.org/10.17605/OSF.IO/H8WR3)
 
+
+## 📌 ARCHIVAL NOTE FOR STUDENTS AND RESEARCHERS
+
+Should this GitHub repository ever be deleted, compromised, or become unavailable for any reason, **a Permanent ToE Canonical Archive is hard‑coded onto the Akord/Arweave blockchain.**  
+The full archive can always be accessed at:
+
+🔗 https://www.arweave.com/
+
+[![Akord/Arweave Permanent Archive](https://img.shields.io/badge/Akord%2FArweave-Permanent%20Archive-orange)](https://www.arweave.com/)
+
+
 # Zenodo DOI Badge Strip
 [![DOI: Letter IE](https://img.shields.io/badge/DOI-10.5281/zenodo.20114386-blue)](https://doi.org/10.5281/zenodo.20114386)
 [![DOI: ToE Search‑Query‑Engine](https://img.shields.io/badge/DOI-10.5281/zenodo.20116039-blue)](https://doi.org/10.5281/zenodo.20116039)
