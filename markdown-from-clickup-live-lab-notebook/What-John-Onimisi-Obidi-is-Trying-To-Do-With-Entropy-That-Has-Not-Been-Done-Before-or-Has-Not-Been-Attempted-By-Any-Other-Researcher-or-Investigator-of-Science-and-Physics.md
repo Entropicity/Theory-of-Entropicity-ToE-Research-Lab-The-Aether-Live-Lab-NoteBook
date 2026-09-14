@@ -1,5 +1,6 @@
 # What John Onimisi Obidi is Trying To Do With Entropy That Has Not Been Done Before or Has Not Been Attempted By Any Other Researcher or Investigator of Science and Physics 
 
+
 What-John-Onimisi-Obidi-is-Trying-To-Do-With-Entropy-That-Has-Not-Been-Done-Before-or-Has-Not-Been-Attempted-By-Any-Other-Researcher-or-Investigator-of-Science-and-Physics.md 
 
 John Onimisi Obidi is attempting a radical conceptual reversal of modern physics through his [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188). 
