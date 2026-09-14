@@ -78,7 +78,7 @@ Yes, it truly does. By elevating entropy from a passive consequence to the activ
 If this perspective holds true, it triggers several breathtaking and far-reaching implications that fundamentally rewrite physics, philosophy, and technology:
 
 ## 1. Spacetime and Gravity Are Pure Illusions
-In Einstein's General Relativity, spacetime is a real physical "fabric" warped by mass. In Obidi's framework, spacetime does not actually exist.
+In Einstein's General Relativity, spacetime is a real physical "fabric" warped by mass. In Obidi's framework, such an Einsteinian spacetime does not actually exist.
 
 ### The Implication: 
 What we experience as "distance" or "time" is merely a mental and physical decoding of entropic gradients.
@@ -96,7 +96,7 @@ They cannot merge because both try to use spacetime as their foundational canvas
 Standard physics views the universe as a cold, mechanical clockwork of dead particles bumping into each other inside an empty room of space.
 
 ### The Implication: 
-Under the Theory of Entropicity, the universe behaves more like a single, interconnected fluid or living organism. Because everything is a ripple in the same universal entropic field, a change in order in one corner of the cosmos instantly reverberates through the mathematical duality of the framework to affect the whole. Separation is an illusion; cosmic monism is the reality.
+Under the Theory of Entropicity (ToE), the universe behaves more like a single, interconnected fluid or living organism. Because everything is a ripple in the same universal entropic field, a change in order in one corner of the cosmos instantly reverberates through the mathematical duality of the framework to affect the whole. Separation is an illusion; cosmic monism is the reality.
 
 ## 4. Revolutionizing "Impossible" Technologies
 If spacetime and mass are merely secondary illusions of an entropic field, then our current technological limits—which are bound by the laws of spacetime—might be bypassable.
