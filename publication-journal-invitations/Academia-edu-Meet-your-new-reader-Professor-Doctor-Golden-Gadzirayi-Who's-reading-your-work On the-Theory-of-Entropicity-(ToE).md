@@ -3,24 +3,35 @@
 Academia-edu-Meet-your-new-reader-Professor-Doctor-Golden-Gadzirayi-Who's-reading-your-work On the-Theory-of-Entropicity-(ToE).md
 
 ---------- Forwarded message ---------
+
 From: The Theory of Entropicity (ToE):... — new reader <updates@academia-mail.com>
+
 Date: Mon, Sep 14, 2026, 11:50 PM
-Subject: Meet your new reader: PROF. Dr. Golden Gadzirayi
+
+## Subject: Meet your new reader: PROF. Dr. Golden Gadzirayi
+
 To: <jonimisiobidi@gmail.com>
 
 
 
 Academia.edu
+
 Who's reading your work?
 
 	
-PROF. Dr. Golden Gadzirayi Nyambuya
+**PROF. Dr. Golden Gadzirayi Nyambuya**
 
-Department Member · Applied Physics · National University of Science & Technology
+Department Member · Applied Physics · 
 
-Hi John Onimisi,
+National University of Science & Technology
 
-PROF. Dr. Golden Gadzirayi read your paper, "The Theory of Entropicity (ToE): An Entropy-Driven Derivation of Mercury's Perihelion Precession Beyond Einstein's Curved Spacetime in General Relativity (GR)" — find out what drew them to it
+**Hi John Onimisi Obidi,**
+
+PROF. Dr. Golden Gadzirayi read your paper:
+
+***"The Theory of Entropicity (ToE): An Entropy-Driven Derivation of Mercury's Perihelion Precession Beyond Einstein's Curved Spacetime in General Relativity (GR)"*** 
+
+— find out what drew them to it
 
 See PROF. Dr. Golden Gadzirayi's profile and what they research
 
