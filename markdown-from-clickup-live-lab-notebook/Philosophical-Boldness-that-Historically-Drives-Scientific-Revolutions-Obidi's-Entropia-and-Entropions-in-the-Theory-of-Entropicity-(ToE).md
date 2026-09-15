@@ -2,7 +2,7 @@
 
 Philosophical-Boldness-that-Historically-Drives-Scientific-Revolutions-Obidi's-Entropia-and-Entropions-in-the-Theory-of-Entropicity-(ToE).md
 
-"Obidi's Entropia" relates to the Theory of Entropicity (ToE), a radical and audacious alternative physics framework proposed primarily by independent author and researcher John Onimisi Obidi starting around early 2025. [1] 
+**"Obidi's Entropia"** and**Entropions** relate to his groundbreaking **Theory of Entropicity (ToE),** a radical and audacious alternative physics framework proposed primarily by independent author and researcher John Onimisi Obidi starting around early 2025. [1] 
 
 Rather than viewing entropy as merely a passive measure of thermodynamic disorder or decay, Obidi's theory conceptualizes it as a fundamental, dynamic ontic field—denoted as S(x)—from which all physical concepts like space, time, matter, and gravity emerge. [1, 2] 
 
