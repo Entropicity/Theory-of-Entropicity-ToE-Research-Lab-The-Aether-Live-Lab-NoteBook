@@ -17,9 +17,9 @@ To: <jonimisiobidi@gmail.com>
 
  
 
-On behalf of the Journal of Theoretical, Experimental, and Applied Physics (ISSN: 3070-6505), we would like to invite you to submit your manuscript:
+On behalf of the **Journal of Theoretical, Experimental, and Applied Physics (ISSN: 3070-6505),** we would like to invite you to submit your manuscript:
 
-**“The Theory of Entropicity (ToE) Living Review Letters IE: Beyond Einstein: The Entropic Origin of Geometry, Matter, and Gravitation in the Theory of Entropicity (ToE),”**
+***“The Theory of Entropicity (ToE) Living Review Letters IE: Beyond Einstein: The Entropic Origin of Geometry, Matter, and Gravitation in the Theory of Entropicity (ToE),”***
 
 for publication in our journal.
 
