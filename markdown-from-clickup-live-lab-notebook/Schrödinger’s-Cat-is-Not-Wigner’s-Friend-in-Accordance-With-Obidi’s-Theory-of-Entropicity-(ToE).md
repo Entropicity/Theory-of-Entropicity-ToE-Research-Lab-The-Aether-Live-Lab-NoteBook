@@ -1,4 +1,4 @@
-**Schrödinger’s Cat is Not Wigner’s Friend in Accordance With Obidi’s Theory of Entropicity (ToE)**
+# **Schrödinger’s Cat is Not Wigner’s Friend in Accordance With Obidi’s Theory of Entropicity (ToE)**
 
 Schrödinger’s-Cat-is-Not-Wigner’s-Friend-in-Accordance-With-Obidi’s-Theory-of-Entropicity-(ToE).md
 
