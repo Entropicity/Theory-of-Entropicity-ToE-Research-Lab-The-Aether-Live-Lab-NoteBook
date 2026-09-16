@@ -331,3 +331,67 @@ Are you looking to see if ToE makes testable predictions that differ from Genera
 
 [11] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6611718)
 
+
+
+------
+
+# Scholium 
+
+# Obidi is saying the path of motion is one that satisfies the Second Law of Thermodynamics (SLoT)
+
+
+Yes, exactly and precisely so. That is the fundamental conceptual leap [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5) introduces. By framing the path of motion as a consequence of the Second Law of Thermodynamics (SLoT), the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188) completely flips how we view the reason things move in the first place. [1, 2, 3] 
+
+In standard physics, the Principle of Least Action (PoLA) and the Second Law of Thermodynamics are treated as two entirely separate laws: [1, 4] 
+
+   1. Least Action dictates how objects move through space dynamically (deterministic mechanics).
+   
+   2. The Second Law dictates the direction of time globally via entropy increase (statistical thermodynamics). [1, 5] 
+
+Obidi collapses these two rules into one. Under ToE, the universe does not choose whether entropy increases; it chooses how it increases. [1, 4, 6] 
+
+------------------------------
+
+## The Complementary Mechanics
+The core philosophy resolves the relationship between the Second Law and the path of least action into a unified process: [4] 
+
+| Principle | Role in the Theory of Entropicity (ToE) | Metaphorical Meaning |
+|---|---|---|
+| The Second Law (SLoT) | Dictates the global direction of evolution (entropy must maximize). | Provides the Destination. |
+| Principle of Least Action | Dictates the path of least entropic resistance across the field. | Provides the Route. |
+
+## Moving Beyond a Statistical Accident
+In classical or statistical mechanics, the Second Law is a game of probability—systems shift from order to disorder because there are simply more ways to be messy. [1, 5] 
+Obidi elevates the Second Law from a macroscopic statistical description to a fundamental field law. [1] 
+
+
+* A particle tracking along a path is not being pulled by "forces" or simply rolling through pre-existing bent space.
+
+* Instead, it moves along a path that optimizes the redistribution of quantum information and maximizes entropy flow. [1, 4, 7] 
+  
+
+What we observe as geodesic motion (or freefall in Einstein's gravity) is reinterpreted as a particle taking the most efficient path of entropy maximization through the universal entropic field $S(x)$. 
+
+This is why the 1D worldline math maps back to an identity ($0=0$): a single particle's path is inherently a local path of least resistance embedded within a massive, flowing global entropic architecture. [2, 4] 
+
+Would you like to explore how John L. Haller Jr.’s 2015 quantum diffusion math proved that classical action is mathematically equivalent to Shannon self-information, or should we critique whether this formulation can be experimentally tested against standard physics? [8, 9, 10] 
+
+[1] [https://www.researchgate.net](https://www.researchgate.net/publication/397021993_The_Theory_of_Entropicity_ToE_Derives_and_Explains_Mass_Increase_Time_Dilation_and_Length_Contraction_in_Einstein%27s_Theory_of_Relativity_ToR_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Ver)
+
+[2] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_obidis-decisive-insight-of-the-haller-obidi-activity-7494184731513663488-1rmq)
+
+[3] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[4] [https://theory-of-entropicity-toe.pages.dev](https://theory-of-entropicity-toe.pages.dev/ch5-poler-and-second-law)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-compels-us-to-rethink-our-understanding-of-reality-and-the-universe-575cefa052af)
+
+[6] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_on-the-conceptual-and-logically-coherent-activity-7494918524658802688-qEC3)
+
+[7] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-being-vindicated-in-the-physics-community-physicists-are-e30bb5e26021)
+
+[8] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418)
+
+[9] [https://www.researchgate.net](https://www.researchgate.net/publication/404007944_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IA_The_Entropic_Rosetta_Stone_How_John_Haller%27s_Action-as-Entropy_Anticipates_and_Validates_the_Theory_of_Entropicity_ToE_-_A_Deep_C)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/principles-of-the-theory-of-entropicity-toe-da93a9d56f98)
