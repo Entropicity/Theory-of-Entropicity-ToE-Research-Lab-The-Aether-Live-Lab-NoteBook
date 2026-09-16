@@ -79,5 +79,9 @@ The full archive can always be accessed at:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22794770.svg)](https://doi.org/10.5281/zenodo.22794770)
 
 
+# Quantum Information Review (QIR) Award Certificate
 
+<p align="center">
+  <img src="./images/Professor-John-Onimisi-Obidi-QUANTUM-INFORMATION-REVIEW-JOURNAL_QIR_Recognition-Award-Certificate_112125-Friday-11th-November-2025.png" width="600">
+</p>
 
