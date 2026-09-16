@@ -83,7 +83,9 @@ The resulting identity ($0=0$) is a profound structural feature of the de Brogli
    ### 2. The Information-Action Identity: 
    This mathematically validates the Haller-Obidi Correspondence. It demonstrates that the single-particle Haller-Obidi action is a direct functional mirror of classical mechanics. To get non-trivial physical dynamics (like acceleration or forces), the system requires an explicit interaction potential $V(x)$ or a transition into the full 4D covariant field theory:
    
-   $\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu \partial_\mu S$, 
+   $$[\
+   \mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu \partial_\mu S
+   \]$$, 
    
    where spatial variations of the field $S(x)$ generate emergent geometric curvature. [4, 7, 8] 
 
