@@ -86,6 +86,10 @@ The resulting identity ($0=0$) is a profound structural feature of the de Brogli
    $$[\
    \mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu \partial_\mu S
    \]$$, 
+
+   $$\[
+\mathcal{L}_{\text{ent}} = mc^{2} - \frac{\hbar}{2}\,u^{\mu}\,\partial_{\mu} S
+\]$$
    
    where spatial variations of the field $S(x)$ generate emergent geometric curvature. [4, 7, 8] 
 
