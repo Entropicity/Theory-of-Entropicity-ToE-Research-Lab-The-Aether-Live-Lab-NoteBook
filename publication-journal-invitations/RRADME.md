@@ -6,3 +6,4 @@ Invitations for article publications in various international journals and acade
 <p align="center">
   <img src="./Theory-of-Entropicity-ToE-Research-Lab-The-Aether-Live-Lab-NoteBook/publication-journal-invitations/Professor-John-Onimisi-Obidi-QUANTUM-INFORMATION-REVIEW-JOURNAL_QIR_Recognition-Award-Certificate_112125-Friday-11th-November-2025.png" width="600">
 </p>
+
