@@ -81,7 +81,11 @@ The resulting identity ($0=0$) is a profound structural feature of the de Brogli
    Because the entropic parameter enters the single-particle Lagrangian strictly as a total time derivative ($\dot{H} = \frac{dH}{dt}$), it acts as a topological boundary term. Adding a total time derivative to a classical Lagrangian alters the value of the action but leaves the underlying mechanical equations of motion invariant. [1, 5] 
    
    ### 2. The Information-Action Identity: 
-   This mathematically validates the Haller-Obidi Correspondence. It demonstrates that the single-particle Haller-Obidi action is a direct functional mirror of classical mechanics. To get non-trivial physical dynamics (like acceleration or forces), the system requires an explicit interaction potential $V(x)$ or a transition into the full 4D covariant field theory ($\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu \partial_\mu S$), where spatial variations of the field $S(x)$ generate emergent geometric curvature. [4, 7, 8] 
+   This mathematically validates the Haller-Obidi Correspondence. It demonstrates that the single-particle Haller-Obidi action is a direct functional mirror of classical mechanics. To get non-trivial physical dynamics (like acceleration or forces), the system requires an explicit interaction potential $V(x)$ or a transition into the full 4D covariant field theory:
+   
+   $\mathcal{L}_{ent} = mc^2 - \frac{\hbar}{2}u^\mu \partial_\mu S$, 
+   
+   where spatial variations of the field $S(x)$ generate emergent geometric curvature. [4, 7, 8] 
 
 Would you like to explore how this changes when an interaction potential $V(x)$ (via mutual information) is added, or should we step into the covariant 4D field equations of the Theory of Entropicity? [1, 4] 
 
