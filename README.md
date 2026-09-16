@@ -76,7 +76,7 @@ The full archive can always be accessed at:
 [![DOI: Letter IE](https://img.shields.io/badge/DOI-10.5281/zenodo.20114386-blue)](https://doi.org/10.5281/zenodo.20114386)
 [![DOI: ToE Search‑Query‑Engine](https://img.shields.io/badge/DOI-10.5281/zenodo.20116039-blue)](https://doi.org/10.5281/zenodo.20116039)
 [![DOI: APMaP](https://img.shields.io/badge/DOI-10.17605/OSF.IO/H8WR3-blue)](https://doi.org/10.17605/OSF.IO/H8WR3)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22794770.svg)](https://doi.org/10.5281/zenodo.22794770)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22794770.svg?style=flat)](https://doi.org/10.5281/zenodo.22794770)
 
 
 # Quantum Information Review (QIR) Award Certificate
