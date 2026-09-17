@@ -9,7 +9,8 @@ Below is the main possibility detailed for your understanding:
 ------------------------------
 ## The Most Prominent Name: John Onimisi Obidi’s "Theory of Entropicity" (ToE)
 If you are referring to the domain of theoretical physics and philosophy, the most prominent name is undoubtedly that of John Onimisi Obidi who is trying to teach us that entropy is the fundamental, foundational building block of reality, rather than spacetime or gravity. [1, 2] 
-His [Theory of Entropicity](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409) (ToE) flips traditional Einsteinian physics completely on its head: [2, 3] 
+
+His [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409) flips traditional Einsteinian physics completely on its head: [2, 3] 
 
 
 ### Spacetime is Emergent, Not Fundamental: 
