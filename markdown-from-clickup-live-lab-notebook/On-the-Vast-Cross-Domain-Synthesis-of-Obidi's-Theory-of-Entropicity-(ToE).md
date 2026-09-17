@@ -10,14 +10,19 @@ Rather than working within one silo, Obidi uses entropy as a universal "Rosetta 
 In traditional physics, spacetime is the background stage upon which events happen. Obidi inverts this completely. Through the Obidi Action—a central variational principle—his work derives the geometry of general relativity and quantum mechanics as macro-level illusions. [3, 4, 5, 6] 
 
 
-* Gravity: Reinterpreted not as a fundamental force or a geometric curvature of empty space, but as "entropic pressure" caused by mass trying to reach an informational equilibrium. [7] 
-* The Speed of Light ($c$): Rather than an arbitrary cosmic speed limit, it is redefined as the physical maximum rate at which the fundamental entropic field can reorganize itself. [3, 8] 
+### Gravity: 
+Reinterpreted not as a fundamental force or a geometric curvature of empty space, but as "entropic pressure" caused by mass trying to reach an informational equilibrium. [7] 
+
+### The Speed of Light ($c$): 
+Rather than an arbitrary cosmic speed limit, it is redefined as the physical maximum rate at which the fundamental entropic field can reorganize itself. [3, 8] 
   
 
-## 2. Information Geometry & Mathematics
-Obidi bridges abstract mathematics and physical reality by using information metrics (such as the Fisher-Rao and Fubini-Study metrics) to define his "entropic manifold". In this domain, entropy is defined as the measure of distinguishability between physical states. A state only crosses into physical "reality" when its mathematical curvature satisfies a precise threshold: the Obidi Curvature Invariant ($OCI = \ln 2$). [4, 9, 10, 11] 
+## 2. Information Geometry, Information Theory & Mathematics
+Obidi bridges abstract mathematics and physical reality by using information metrics (such as the Fisher-Rao and Fubini-Study metrics) to define his "entropic manifold". 
 
-## 3. Thermodynamics (The Ontological Shift)
+In this domain, entropy is defined as the measure of distinguishability between physical states. A state only crosses into physical "reality" when its mathematical curvature satisfies a precise threshold: the Obidi Curvature Invariant ($OCI = \ln 2$). [4, 9, 10, 11] 
+
+## 3. Thermodynamics and Entropy (The Ontological Shift)
 Historically, thermodynamics treated entropy as a secondary statistical byproduct—a mere measurement of "disorder" or lost energy in a closed system. Obidi elevates it to the primary, continuous substrate of existence. 
 
 The Second Law of Thermodynamics (SLoT) is no longer just a statistical tendency; it is the absolute, foundational driver of all motion and change in the universe. [2, 7, 9, 12] 
@@ -26,9 +31,11 @@ The Second Law of Thermodynamics (SLoT) is no longer just a statistical tendency
 By merging physics with philosophy, Obidi establishes a new branch of inquiry he terms Ontodynamics—the study of existence itself as entropic motion. [5, 13] 
 
 
-* Being vs. Becoming: As explored in his dramatic Academy dialogue, Plato's unchanging "Forms" (Being) are re-mapped to stabilized, bounded entropic gradients. Aristotle's purposeful changes (Becoming) are mapped to the irreversible, forward-driven flow of the entropic arrow of time. [13] 
+### Being vs. Becoming: 
+As explored in his dramatic Academy dialogue with Plato and Aristotle, Plato's unchanging "Forms" (Being—Eidos) are re-mapped to stabilized, bounded entropic gradients. Aristotle's purposeful changes (Becoming—Telos) are mapped to the irreversible, forward-driven flow of the entropic arrow of time. [13] 
 
-* Epistemology: The philosophy of how we acquire knowledge is reframed as Entropology (the physics of knowing), positioning consciousness as a highly specialized negotiation of the surrounding entropic field. [13] 
+### Epistemology: 
+The philosophy of how we acquire knowledge is reframed as Entropology (the physics of knowing), positioning consciousness as a highly specialized negotiation of the surrounding entropic field. [13] 
   
 
 Ultimately, Obidi’s cross-domain approach suggests that the universe isn't made of independent physical "things" interacting over time. Instead, it is a single, continuous, self-calculating entropic field from which matter, mind, space, and time naturally blossom. [12, 14, 15] 
