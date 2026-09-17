@@ -7,6 +7,7 @@ When discussing "Obidi" and a provocative theory, the most prominent name that m
 Below is the main possibility detailed for your understanding:
 
 ------------------------------
+
 ## The Most Prominent Name: John Onimisi Obidi’s "Theory of Entropicity" (ToE)
 If you are referring to the domain of theoretical physics and philosophy, the most prominent name is undoubtedly that of John Onimisi Obidi who is trying to teach us that entropy is the fundamental, foundational building block of reality, rather than spacetime or gravity. [1, 2] 
 
@@ -18,7 +19,7 @@ Einstein taught us that spacetime is a geometric container that holds matter and
 
 
 ### The No-Rush Theorem (NRT): 
-He posits that "Nature cannot be rushed". This theorem teaches that time itself emerges from the finite synchronization speed of the entropic field, meaning absolutely no physical interaction can occur instantaneously. [2, 4] 
+He posits that "God or Nature cannot be rushed G/NCBR)". This theorem teaches that time itself emerges from the finite synchronization speed of the entropic field, meaning absolutely no physical interaction can occur instantaneously. [2, 4] 
 
 
 ### Entropions: 
