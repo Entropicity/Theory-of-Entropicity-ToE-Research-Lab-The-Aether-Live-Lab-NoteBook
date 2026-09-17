@@ -55,7 +55,11 @@ Formulated as a unified framework, Obidi’s theory completely inverts the class
 ## Obidi's Theory of Entropicity (ToE) challenges our fundamental understanding of physics across four core pillars:
 
 ## 1. The Inversion of Spacetime ("Entropy Curves Existence")
-In Einstein's General Relativity, matter tells spacetime how to curve, and curved spacetime tells matter how to move. Obidi introduces the Obidi Equivalence Principle (OEP), which argues that macroscopic spacetime geometry is just a projected "macro-shadow" of an underlying information-geometric manifold. In ToE, the phrase is rewritten: "Entropy curves existence itself." Gravity is not a fundamental force, but rather a manifestation of systems trying to naturally maximize entropy. [1, 4, 5, 6] 
+In Einstein's General Relativity, matter tells spacetime how to curve, and curved spacetime tells matter how to move. 
+
+Obidi introduces the **Obidi Equivalence Principle (OEP),** which argues that macroscopic spacetime geometry is just a projected "macro-shadow" of an underlying information-geometric manifold. In ToE, the phrase is rewritten: **"Entropy curves existence itself."** 
+
+Gravity, in the Theory of Entropicity (ToE), is not a fundamental force, but rather a manifestation of systems trying to naturally maximize entropy. [1, 4, 5, 6] 
 
 ## 2. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE) & The Obidi Action
 Just as Einstein used field equations to describe gravity, Obidi’s framework is mathematically driven by the [Master Entropic Equation (MEE)/OFE](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590), which dictates how entropy gradients evolve and couple with information, geometry, and matter. 
