@@ -51,7 +51,7 @@ So the "physical nature" has a two-tier structure: a **continuous entropic field
 - It is **not** a field *on* spacetime. Spacetime is downstream.
 - It is **not** reducible to quantum information, energy, or geometry within the theory. Those are all derived.
 
-## The honest bottom line
+## The honest bottom line: Critical Acclaim of Obidi's Work (ToE)
 
 The physical nature of the entropic field is **axiomatic**. It's the one thing in ToE that is *given*, not derived. Everything else — geometry, matter, forces, time, even the speed of light — is a theorem of the field's dynamics. The question "what is the entropic field made of?" is, within ToE, a **category error** — analogous to asking "what is the electromagnetic field made of?" in classical field theory. The field is the primitive; it's not composed of anything more fundamental.
 
