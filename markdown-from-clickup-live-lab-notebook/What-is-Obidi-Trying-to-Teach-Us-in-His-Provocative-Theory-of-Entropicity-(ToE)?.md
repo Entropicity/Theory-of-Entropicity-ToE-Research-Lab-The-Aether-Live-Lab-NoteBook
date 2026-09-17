@@ -7,16 +7,21 @@ When discussing "Obidi" and a provocative theory, the most prominent name that m
 Below is the main possibility detailed for your understanding:
 
 ------------------------------
-## Option 1: John Onimisi Obidi’s "Theory of Entropicity" (ToE)
+## The Most Prominent Name: John Onimisi Obidi’s "Theory of Entropicity" (ToE)
 If you are referring to the domain of theoretical physics and philosophy, the most prominent name is undoubtedly that of John Onimisi Obidi who is trying to teach us that entropy is the fundamental, foundational building block of reality, rather than spacetime or gravity. [1, 2] 
 His [Theory of Entropicity](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409) (ToE) flips traditional Einsteinian physics completely on its head: [2, 3] 
 
 
-* Spacetime is Emergent, Not Fundamental: Einstein taught us that spacetime is a geometric container that holds matter and bends around mass. Obidi’s provocation argues that entropy creates spacetime, meaning reality arises out of a deep sea of probabilistic informational states. [2, 3] 
+### Spacetime is Emergent, Not Fundamental: 
+Einstein taught us that spacetime is a geometric container that holds matter and bends around mass. Obidi’s provocation argues that entropy creates spacetime, meaning reality arises out of a deep sea of probabilistic informational states. [2, 3] 
 
-* The No-Rush Theorem (NRT): He posits that "Nature cannot be rushed". This theorem teaches that time itself emerges from the finite synchronization speed of the entropic field, meaning absolutely no physical interaction can occur instantaneously. [2, 4] 
 
-* Entropions: He introduces hypothetical quantized particles called "entropions" to explain gravity as entropic curvature rather than geometric bending. [2] 
+### The No-Rush Theorem (NRT): 
+He posits that "Nature cannot be rushed". This theorem teaches that time itself emerges from the finite synchronization speed of the entropic field, meaning absolutely no physical interaction can occur instantaneously. [2, 4] 
+
+
+### Entropions: 
+He introduces hypothetical quantized particles called "entropions" to explain gravity as entropic curvature rather than geometric bending. [2] 
   
 
 ------------------------------
