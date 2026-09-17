@@ -10,7 +10,9 @@ This is the sharpest question to ask of ToE, and the honest answer is: **Obidi d
 A **continuous, differentiable, dynamically evolving scalar field** $S(x)$ (or $\mathcal{E}(x)$) defined on an entropic manifold $\mathcal{M}$. It has:
 
 - **Shift symmetry**: the Obidi Action depends only on *derivatives* of $S$, not its absolute value. So what's physically meaningful is the *gradient* — the field's local rate of change — not its absolute reading at any point. This is analogous to how in GR, only the metric *differences* (curvature) are gauge-invariant, not the metric components themselves.
+
 - **A conservation law**: $\nabla_\mu T^{(S)\mu\nu} = 0$ — entropic flow is covariantly conserved.
+
 - **Dynamics from the Obidi Action**: $I_S = \int d^4x \sqrt{-g}\, e^{S/k_B}\, \chi$, where the exponential coupling $e^{S/k_B}$ is the intrinsic link between entropy and curvature.
 
 ## The four complementary physical interpretations
@@ -34,12 +36,14 @@ Here's where it gets philosophically thorny. The field is defined on a manifold 
 
 The field doesn't live *in* spacetime — it **generates** spacetime. But the manifold it lives on is itself a function of the field's configurations. This is a **fixed-point structure**: the field defines the space, and the space is where the field is defined. Obidi treats this as a feature, not a bug — it's what makes the framework ontologically self-contained. There's no external stage.
 
-## The discreteness hint: the Obidi Curvature Invariant
+## The discreteness hint: the Obidi Curvature Invariant (OCI)
 
 Despite the field being mathematically continuous, the **Obidi Curvature Invariant (OCI)** asserts that the smallest physically distinguishable gap in the entropic manifold is **$\ln 2$** — one bit. This means:
 
 - The field is continuous in its *description* but has a **discreteness floor** in its *distinguishability*.
+
 - Two configurations of the field are physically the same if their curvature separation is below $\ln 2$.
+
 - This is analogous to how a quantum field is continuous but has discrete quanta: the field is the smooth envelope, the bit is the quantum.
 
 So the "physical nature" has a two-tier structure: a **continuous entropic field** at the effective level, with a **discrete binary microstructure** (bits) at the fundamental level. The $\ln 2$ gap is the Planck-scale analogue — the minimum unit of entropic distinguishability.
@@ -47,8 +51,11 @@ So the "physical nature" has a two-tier structure: a **continuous entropic field
 ## What it is NOT
 
 - It is **not** thermodynamic entropy (a bookkeeping device for macrostates).
+
 - It is **not** information in the Shannon sense (a measure of uncertainty about an observer's knowledge).
+
 - It is **not** a field *on* spacetime. Spacetime is downstream.
+
 - It is **not** reducible to quantum information, energy, or geometry within the theory. Those are all derived.
 
 ## The honest bottom line: Critical Acclaim of Obidi's Work (ToE)
