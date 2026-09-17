@@ -52,7 +52,7 @@ He introduces hypothetical quantized particles called "entropions" to explain gr
 
 Formulated as a unified framework, Obidi’s theory completely inverts the classical hierarchy of physics. In traditional physics, entropy is merely an abstract, statistical accounting tool—a passive measure of "disorder". Obidi flips this on its head, postulating that entropy is an active, continuous, physical scalar field (the entropic manifold) that serves as the primary generative substrate of nature. [2, 3, 4] 
 
-## ToE challenges our fundamental understanding of physics across four core pillars:
+## Obidi's Theory of Entropicity (ToE) challenges our fundamental understanding of physics across four core pillars:
 
 ## 1. The Inversion of Spacetime ("Entropy Curves Existence")
 In Einstein's General Relativity, matter tells spacetime how to curve, and curved spacetime tells matter how to move. Obidi introduces the Obidi Equivalence Principle (OEP), which argues that macroscopic spacetime geometry is just a projected "macro-shadow" of an underlying information-geometric manifold. In ToE, the phrase is rewritten: "Entropy curves existence itself." Gravity is not a fundamental force, but rather a manifestation of systems trying to naturally maximize entropy. [1, 4, 5, 6] 
