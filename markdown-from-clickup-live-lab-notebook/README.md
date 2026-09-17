@@ -1,1 +1,3 @@
 In this Markdown Volume, we preserve the markdown versions of all the **Theory of Entropicity (ToE)** materials of **Obidi's work** in the ClickUp Repository. This massive and historic undertaking has become imperative in order to present the reader with easily accessible and referenced bite-sized corpus on the subject of the **Theory of Entropicity (ToE),** given its rapid evolution and dissemination on various public and academic platforms and repositories.
+
+Students, Researchers, and Investigators of Obidi's insightful Theory of Entropicity (ToE) will assuredly find this volume another valuable addition to the ToE Canonical Archives.
