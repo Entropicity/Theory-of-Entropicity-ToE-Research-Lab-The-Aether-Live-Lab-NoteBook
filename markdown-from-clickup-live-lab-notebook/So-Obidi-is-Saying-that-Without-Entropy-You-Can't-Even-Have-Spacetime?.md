@@ -16,5 +16,5 @@ To be precise about the logic chain he uses:
 
 So the dependency is strict: no entropy field → no information geometry → no spacetime. Spacetime is downstream, not upstream.
 
-It's worth noting this is a **postulate**, not a derivation — the identification of the entropic manifold's α=0 connection *as* the physical Levi-Civita connection is what one commentator calls "Obidi's pure conceptual leap." It's structurally motivated but not proven from independent axioms.
+It's worth noting this is a rather bold and radical**postulate**, not a derivation — the identification of the entropic manifold's α=0 connection *as* the physical Levi-Civita connection is what one commentator calls ***"Obidi's pure conceptual leap."*** It's structurally motivated but not proven from independent axioms.
 
