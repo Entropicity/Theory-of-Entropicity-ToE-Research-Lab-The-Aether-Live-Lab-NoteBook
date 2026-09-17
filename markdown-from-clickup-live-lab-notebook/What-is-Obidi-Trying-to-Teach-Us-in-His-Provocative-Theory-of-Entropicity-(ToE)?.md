@@ -47,7 +47,7 @@ He introduces hypothetical quantized particles called "entropions" to explain gr
 
 # Scholium 
 
-[John Onimisi Obidi's](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5)[Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88) is trying to teach us that the universe is not built out of matter or housed within a pre-existing container of spacetime; instead, everything we experience arises out of a fundamental, dynamic field of entropy. [1, 2] 
+[John Onimisi Obidi's] (https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11j2ntblv5)[Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88) is trying to teach us that the universe is not built out of matter or housed within a pre-existing container of spacetime; instead, everything we experience arises out of a fundamental, dynamic field of entropy. [1, 2] 
 
 Formulated as a unified framework, Obidi’s theory completely inverts the classical hierarchy of physics. In traditional physics, entropy is merely an abstract, statistical accounting tool—a passive measure of "disorder". Obidi flips this on its head, postulating that entropy is an active, continuous, physical scalar field (the entropic manifold) that serves as the primary generative substrate of nature. [2, 3, 4] 
 
@@ -56,8 +56,10 @@ Formulated as a unified framework, Obidi’s theory completely inverts the class
 ## 1. The Inversion of Spacetime ("Entropy Curves Existence")
 In Einstein's General Relativity, matter tells spacetime how to curve, and curved spacetime tells matter how to move. Obidi introduces the Obidi Equivalence Principle (OEP), which argues that macroscopic spacetime geometry is just a projected "macro-shadow" of an underlying information-geometric manifold. In ToE, the phrase is rewritten: "Entropy curves existence itself." Gravity is not a fundamental force, but rather a manifestation of systems trying to naturally maximize entropy. [1, 4, 5, 6] 
 
-## 2. The Master Entropic Equation (MEE) & The Obidi Action
-Just as Einstein used field equations to describe gravity, Obidi’s framework is mathematically driven by the [Master Entropic Equation (MEE)](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590), which dictates how entropy gradients evolve and couple with information, geometry, and matter. It relies on a variational principle called the Obidi Action, which unifies quantum information geometry and classical thermodynamics. Unlike standard physics equations that seek immediate closed-form solutions, the MEE relies on iterative, non-explicit refinements, mirroring Bayesian inference and how information naturally updates. [4, 7] 
+## 2. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE) & The Obidi Action
+Just as Einstein used field equations to describe gravity, Obidi’s framework is mathematically driven by the [Master Entropic Equation (MEE)/OFE](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-post-einsteinian-synthesis-of-information-geometry-5c73ae1e9590), which dictates how entropy gradients evolve and couple with information, geometry, and matter. 
+
+It relies on a variational principle called the Obidi Action, which unifies quantum information geometry and classical thermodynamics. Unlike standard physics equations that seek immediate closed-form solutions, the MEE/Obidi relies on iterative, non-explicit refinements, mirroring Bayesian inference and how information naturally updates. [4, 7] 
 
 ## 3. Reinterpreting the Speed of Light ($c$)
 One of the most provocative aspects of ToE is its reframing of the universal constant $c$. Obidi argues that $c$ is not fundamentally about light. Rather, $c$ is the cosmic speed limit because it represents the maximum possible rate at which the entropic field can reorganize itself, distribute energy, and shuffle information. Photons (light) are simply the visible byproduct of the field working at this absolute maximum configuration speed. [1, 8] 
