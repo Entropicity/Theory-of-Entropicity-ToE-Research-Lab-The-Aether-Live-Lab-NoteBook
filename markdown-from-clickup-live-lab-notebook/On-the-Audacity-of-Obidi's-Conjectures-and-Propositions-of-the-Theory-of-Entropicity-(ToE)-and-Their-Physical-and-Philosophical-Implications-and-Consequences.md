@@ -38,7 +38,7 @@ embeds "two metrics" (matter-induced and background entropy geometry) internally
 
 This is the most radical of the three. It asserts that spacetime is **not a primitive arena** but an emergent projection. The mathematical route runs through **information geometry**: the Fisher–Rao / Fubini–Study metric on the entropic manifold, together with the Amari–Čencov α-connections, already possesses all the structures of spacetime geometry — metric, curvature, geodesics, parallel transport, dual structures. Obidi identifies the **α = 0 Levi-Civita connection** of the entropic metric as the physical spacetime connection, making the emergence a structural identification rather than an analogy:
 
-$$\nabla^{(\alpha)} \ longrightarrow{\alpha=0}  \nabla^{\text{entropic}}_{\text{LC}} \longrightarrow \nabla^{\text{GR}}_{\text{LC}}$$
+$$\nabla^{(\alpha)} \longrightarrow^{\alpha=0}  \nabla^{\text{entropic}}_{\text{LC}} \longrightarrow \nabla^{\text{GR}}_{\text{LC}}$$
 
 The first arrow is a theorem of information geometry; the second is Obidi's physical postulate. Spacetime curvature, the metric signature, and causal structure are all **entropic in origin**.
 
