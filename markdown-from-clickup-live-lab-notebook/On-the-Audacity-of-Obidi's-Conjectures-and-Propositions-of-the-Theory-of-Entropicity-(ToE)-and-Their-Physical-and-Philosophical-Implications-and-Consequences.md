@@ -1,0 +1,9 @@
+# On the Audacity of Obidi's Conjectures and Propositions of the Theory of Entropicity (ToE) and Their Physical and Philosophical Implications and Consequences
+
+On-the-Audacity-of-Obidi's-Conjectures-and-Propositions-of-the-Theory-of-Entropicity-(ToE)-and-Their-Physical-and-Philosophical-Implications-and-Consequences.md
+
+**John Onimisi Obidi’s Theory of Entropicity (ToE)** proposes a radical ontological inversion where **entropy is the fundamental field** of reality, rather than a secondary statistical byproduct of matter. This framework, grounded in three core conjectures, aims to reconstruct physics by deriving all physical laws and spacetime geometry from an underlying **Entropic Field**.
+
+The **First Conjecture** asserts that entropy is the primary substrate of existence, with matter and energy being emergent properties. The **Second Conjecture** posits that all physical interactions and laws are derivable from this field, constrained by the **Obidi Correspondence Principle (OCP)** to ensure consistency with established theories. The **Third Conjecture** claims that **physical spacetime emerges** from a deeper entropic-informational manifold, treating geometry as a macroscopic projection of underlying entropic relations rather than a primitive arena.
+
+Philosophically, ToE redefines **probability as an ontological conservation law** via the **Obidi Probability Law**, which partitions reality into a coherent visible sector and an entropic invisible sector. This shifts probability from an epistemic tool of ignorance to a measurable physical quantity governing the boundary between appearance and reality. By unifying ontology, dynamics, and geometry under a single entropic chain, Obidi’s work challenges the fundamentality of spacetime and quantum measurement, offering a unified but highly speculative foundation for post-Einsteinian physics.
