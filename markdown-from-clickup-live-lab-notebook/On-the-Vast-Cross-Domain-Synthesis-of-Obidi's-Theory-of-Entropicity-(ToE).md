@@ -167,9 +167,10 @@ Would you like to explore the mathematical limits of the Obidi Action when syste
 
 # What Obidi is doing with Entropy has some logic in it based on the well known universal nature of Entropy itself rooted in the Second Law of Thermodynamics (SLoT)
 
-The logic behind what Obidi is doing relies on a profound ontological inversion of standard physics. In traditional thermodynamics and general relativity, entropy is a derived, passive, or statistical measurement—essentially a macroscopic report card on the disorder or informational uncertainty of a pre-existing system of matter and spacetime. [1, 2, 3] 
+> # **The logic behind what Obidi is doing relies on a profound ontological inversion of standard physics. In traditional thermodynamics and general relativity, entropy is a derived, passive, or statistical measurement—essentially a macroscopic report card on the disorder or informational uncertainty of a pre-existing system of matter and spacetime.** [1, 2, 3] 
 
-Obidi’s core logical maneuver leverages the absolute, unavoidable, and universal nature of the Second Law of Thermodynamics (that entropy always increases in an isolated system) to argue that if entropy is the ultimate, non-negotiable rule of reality, it must be the ontological primitive field from which everything else emerges. [4, 5] 
+
+> # **Obidi’s core logical maneuver leverages the absolute, unavoidable, and universal nature of the Second Law of Thermodynamics (that entropy always increases in an isolated system) to argue that if entropy is the ultimate, non-negotiable rule of reality, it must be the ontological primitive field from which everything else emerges.** [4, 5] 
 
 ## The Core Logic of the Theory of Entropicity (ToE)
 
