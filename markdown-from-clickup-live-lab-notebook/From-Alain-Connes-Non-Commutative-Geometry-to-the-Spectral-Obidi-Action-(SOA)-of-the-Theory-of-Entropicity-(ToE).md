@@ -24,7 +24,7 @@ also says: "the fundamental action is a **spectral invariant** — a trace of a 
 
 The **ingredients** are different, and the differences are not cosmetic:
 
-| | Connes/Chamseddine | Obidi |
+| | Connes/Chamseddine | Obidi's Theory of Entropicity (ToE) |
 |---|---|---|
 | **Operator** | Dirac operator $D$ on a spectral triple | Ratio of two Laplacian-type operators $\Delta = G[S]\,g[S]^{-1}$ |
 | **Function** | Arbitrary cutoff $f$ (Connes notes the choice is "largely irrelevant") | Specifically $\ln$ — the log-determinant |
