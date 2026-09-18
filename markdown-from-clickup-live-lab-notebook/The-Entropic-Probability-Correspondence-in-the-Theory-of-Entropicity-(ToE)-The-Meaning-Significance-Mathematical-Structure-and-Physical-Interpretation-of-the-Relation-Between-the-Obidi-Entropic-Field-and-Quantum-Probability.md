@@ -6,29 +6,31 @@ The-Entropic-Probability-Correspondence-in-the-Theory-of-Entropicity-(ToE)-The-M
 
 ### Abstract
 
-Within the Theory of Entropicity (ToE), the relation
+Within **Obidi's Theory of Entropicity (ToE),** the relation
 
 $$
 \Lambda(x,t)=k_B\ln |\psi(x,t)|^2+C
 $$
 
-is potentially one of the most conceptually significant bridges between entropy, probability, information, and geometry. The equation proposes that the probability distribution associated with a quantum state may be represented as the exponential manifestation of an underlying entropic field configuration. In this formulation, probability is not treated merely as an abstract numerical measure assigned to possible outcomes. Rather, it is related directly to the local configuration of an entropic field, denoted by $\Lambda(x,t)$.
+is potentially one of the most conceptually significant bridges between entropy, probability, information, and geometry. 
+
+> # **The equation proposes that the probability distribution associated with a quantum state may be represented as the exponential manifestation of an underlying entropic field configuration.** In this formulation, probability is not treated merely as an abstract numerical measure assigned to possible outcomes. Rather, it is related directly to the local configuration of an entropic field, denoted by $\Lambda(x,t)$.
 
 The relation therefore suggests that what conventional quantum mechanics describes through the probability density $|\psi|^2$ may, within ToE, admit a deeper representation in terms of entropic structure. The logarithmic form of the relation places it naturally within the broad mathematical family connecting entropy, information, statistical mechanics, probability theory, and information geometry. More importantly, differentiation of the relation shows that gradients of the entropic field correspond directly to logarithmic gradients of probability, while second-order constructions involving such gradients naturally connect the ToE formalism with Fisher information geometry.
 
-The equation, however, must be interpreted carefully. In its present form, it should be regarded as a constitutive or structural relation proposed within ToE rather than as an established consequence of standard quantum mechanics. It also requires dimensional refinement because $|\psi|^2$ is generally a probability density rather than a dimensionless probability. A mathematically more rigorous formulation therefore introduces a reference density. Furthermore, the sign of the logarithmic relation carries important physical meaning and must ultimately be fixed by the deeper dynamics of the Obidi Action, the entropy-flow structure of ToE, or an appropriate extremization principle.
+The equation, however, must be interpreted carefully to give the reader greater clarity and understanding of Obidi's insight. In its present form [details shall be provided later in this exposition pertaining to other powerful representations to which this gives rise], it should be regarded as a constitutive or structural relation proposed within ToE rather than as an established consequence of standard quantum mechanics. It also requires dimensional refinement because $|\psi|^2$ is generally a probability density rather than a dimensionless probability. In a mathematically more rigorous formulation, we must therefore introduce a reference density. Furthermore, the sign of the logarithmic relation carries important physical meaning and must ultimately be fixed by the deeper dynamics of the **Obidi Action,** the entropy-flow structure of ToE, or an appropriate extremization principle.
 
-The purpose of this exposition is to develop systematically the mathematical meaning, theoretical significance, geometric implications, and possible physical interpretation of this entropic-probability correspondence within the conceptual architecture of the Theory of Entropicity.
+The purpose of this exposition is to develop systematically the mathematical meaning, theoretical significance, geometric implications, and possible physical interpretation of this entropic-probability correspondence within the conceptual architecture of the Theory of Entropicity (ToE).
 
 ---
 
 # 1. Introduction
 
-The Theory of Entropicity is founded upon the proposition that entropy is not merely a passive thermodynamic accounting quantity but may possess deeper structural and dynamical significance in the organization of physical reality. Within this framework, entropy is investigated as a possible underlying principle from which familiar descriptions involving motion, probability, geometry, irreversibility, and ultimately spacetime structure may emerge.
+The Theory of Entropicity (ToE) is founded upon the proposition that entropy is not merely a passive thermodynamic accounting quantity but may possess deeper structural and dynamical significance in the organization of physical reality. Within this framework, entropy is investigated as a possible underlying principle from which familiar descriptions involving motion, probability, geometry, matter, irreversibility, and ultimately spacetime structure may emerge.
 
 One of the most important questions that arises within such a theory is the following:
 
-> How should probability be understood if entropy is itself fundamental?
+> # **How should probability be understood if entropy is itself fundamental?**
 
 In conventional quantum mechanics, a state is represented by a wavefunction $\psi$, and the Born rule associates measurable probabilities with the squared magnitude of probability amplitudes. In position representation,
 
@@ -38,7 +40,7 @@ $$
 
 where $\rho(x,t)$ is interpreted as a probability density.
 
-ToE introduces the possibility that this probability density may itself encode a deeper entropic structure. This possibility is expressed through a relation of the general form
+**Obidi's Theory of Entropicity (ToE)** **introduces the possibility that this probability density may itself encode a deeper entropic structure. This possibility is expressed through a relation of the general ("relaxed") form (the Basic Obidi Entropic-Probability (BOEP) relation/equation)**
 
 $$
 \Lambda(x,t)=k_B\ln |\psi(x,t)|^2+C,
@@ -58,7 +60,7 @@ $$
 \Lambda(x,t)=k_B\ln \rho(x,t)+C.
 $$
 
-This equation is conceptually important because it does not merely assert that entropy and probability are related. It proposes a precise logarithmic correspondence between the local probability structure of a physical state and an associated entropic field.
+**This equation is conceptually important because it does not merely assert that entropy and probability are related. It proposes a precise logarithmic correspondence between the local probability structure of a physical state and an associated entropic field.**
 
 Within ToE, this relation may therefore be interpreted as a map between three different descriptive levels:
 
@@ -70,11 +72,11 @@ $$
 \text{Information Geometry}.
 $$
 
-The purpose of this chapter is to analyze this correspondence carefully and to show why it may constitute a foundational bridge within the Theory of Entropicity.
+The purpose of this chapter is to analyze this correspondence carefully and to show why it may constitute a foundational bridge within the Theory of Entropicity (ToE).
 
 ---
 
-# 2. The Basic Entropic-Probability Relation
+# 2. The Basic Obidi Entropic-Probability (BOEP) Relation
 
 Let
 
@@ -138,11 +140,11 @@ $$
 
 This is the first major implication of the relation.
 
-Within this formulation, quantum probability becomes representable as an exponential image of entropic structure.
+**Within this formulation, quantum probability becomes representable as an exponential image of entropic structure.**
 
 ---
 
-# 3. What the Equation Means Physically
+# 3. What the Obidi Entropic-Probability Equation Means Physically
 
 The most immediate physical interpretation is that regions of different probability density correspond to regions of different entropic-field value.
 
@@ -217,7 +219,7 @@ e^{\Delta\Lambda/k_B}
 }.
 $$
 
-This shows that probability ratios correspond directly to entropic-field differences.
+**This shows that probability ratios correspond directly to entropic-field differences.**
 
 Such a structure is reminiscent of potential theories in physics, where the absolute value of a potential may be conventional while potential differences determine observable physical effects.
 
@@ -229,15 +231,15 @@ The appearance of the logarithm is not arbitrary.
 
 Logarithmic relations occur repeatedly wherever entropy, probability, and information are mathematically connected.
 
-The classical Boltzmann entropy relation is
+The **classical Boltzmann entropy** relation is
 
 $$
 S=k_B\ln\Omega,
 $$
 
-where $\Omega$ denotes the number of accessible microscopic states.
+where $\Omega$ denotes the **number of accessible microscopic states**.
 
-In information theory, the surprisal associated with an event of probability $p$ is proportional to
+In **information theory,** the **surprisal** associated with an event of probability $p$ is proportional to
 
 $$
 -\ln p.
@@ -249,20 +251,18 @@ $$
 I(p)=-k_B\ln p.
 $$
 
-The Shannon entropy of a discrete distribution is
+The **Shannon entropy** of a discrete distribution is
 
 $$
-S_{\mathrm{Shannon}}
-=
+S_{\mathrm{Shannon}}=
 -k_B
 \sum_i p_i\ln p_i.
 $$
 
-The Gibbs entropy of a continuous probability distribution may similarly be written in the form
+The **Gibbs entropy** of a **continuous probability distribution** may similarly be written in the form
 
 $$
-S
-=
+S=
 -k_B
 \int
 \rho(x)\ln\rho(x)\,dx,
@@ -270,13 +270,13 @@ $$
 
 subject to the usual subtleties associated with continuous distributions.
 
-Therefore, the general mathematical structure
+Therefore, the **general mathematical structure**
 
 $$
 \ln p
 $$
 
-already lies at the intersection of probability, entropy, information, and statistical mechanics.
+already **lies at the intersection of probability, entropy, information, and statistical mechanics.**
 
 The ToE relation
 
@@ -286,9 +286,9 @@ $$
 
 naturally belongs to this mathematical family.
 
-What is novel within the ToE interpretation is not merely the occurrence of a logarithm. It is the proposal that the logarithmic probability structure may itself be represented as a physical or proto-physical field.
+**What is novel within the Theory of Entropicity (ToE) interpretation is not merely the occurrence of a logarithm. It is the proposal that the logarithmic probability structure may itself be represented as a physical or proto-physical field.**
 
-Thus the relation does more than connect probability and entropy numerically. It raises the possibility that logarithmic probability structure may possess dynamical and geometric significance.
+**Thus the relation does more than connect probability and entropy numerically. It raises the possibility that logarithmic probability structure may possess dynamical and geometric significance.**
 
 ---
 
@@ -296,13 +296,18 @@ Thus the relation does more than connect probability and entropy numerically. It
 
 An important issue arises immediately from the sign of the relation.
 
-In information theory, surprisal is conventionally defined as
+In **information theory,** **surprisal [new information update]** is conventionally defined as
 
 $$
 I=-k_B\ln p.
 $$
 
-A highly probable event therefore has low surprisal, while an unlikely event has high surprisal.
+**A highly probable event therefore has low surprisal  [low new information update], while an unlikely event has high surprisal  [high new information update].**
+
+---
+**Note:**
+***A highly probable event has low surprisal because it doesn’t shock you — it’s exactly what you expected. If something happens almost all the time, seeing it again carries almost no “informational punch.” In contrast, an unlikely event has high surprisal because it forces you to update your understanding of the situation: it delivers a lot of new information in one moment. Surprisal is just a way of measuring how unexpected an event is — common events give you little new information, rare events give you a lot.***
+----
 
 By contrast, the proposed relation
 
@@ -310,21 +315,20 @@ $$
 \Lambda=k_B\ln p+C
 $$
 
-contains a positive logarithmic sign.
+**contains a positive logarithmic sign.**
 
-Therefore, as $p$ increases, $\Lambda$ increases.
+**Therefore, as $p$ increases, $\Lambda$ increases.**
 
-This means that $\Lambda$ should not automatically be identified with ordinary Shannon information or local surprisal.
+**This means that $\Lambda$ should not automatically be identified with ordinary Shannon information or local surprisal.**
 
-There are at least two logically distinct possibilities.
+## There are at least two logically distinct possibilities:
 
 ## 5.1 Positive-Sign Convention
 
 One may define
 
 $$
-\Lambda
-=
+\Lambda=
 +k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -336,14 +340,13 @@ $$
 Under this convention,
 
 $$
-\frac{\partial\Lambda}{\partial\rho}
-=
+\frac{\partial\Lambda}{\partial\rho}=
 \frac{k_B}{\rho}>0.
 $$
 
 Thus, larger probability density corresponds to larger $\Lambda$.
 
-This interpretation may be appropriate if $\Lambda$ is regarded as an entropic potential or entropic state variable whose magnitude increases with local probability concentration.
+**This interpretation may be appropriate if $\Lambda$ is regarded as an entropic potential or entropic state variable whose magnitude increases with local probability concentration.**
 
 ---
 
@@ -352,8 +355,7 @@ This interpretation may be appropriate if $\Lambda$ is regarded as an entropic p
 Alternatively, one might define
 
 $$
-\Lambda
-=
+\Lambda=
 -k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -365,20 +367,42 @@ $$
 Then
 
 $$
-\frac{\partial\Lambda}{\partial\rho}
-=
+\frac{\partial\Lambda}{\partial\rho}=
 -\frac{k_B}{\rho}<0.
 $$
 
-Here, larger probability corresponds to smaller $\Lambda$.
+**Here, larger probability corresponds to smaller $\Lambda$.**
 
-This form resembles conventional surprisal and information-theoretic entropy more closely.
+**This form resembles conventional surprisal and information-theoretic entropy more closely.**
 
 ---
 
+Thus, the general Basic Obidi Entropic-Probability (BOEP) may be written as:
+
+$$
+\Lambda=
+±k_B\ln
+\left(
+\frac{\rho}{\rho_*}
+\right)
++
+\Lambda_*.
+$$
+
+
+
+Then
+
+$$
+\frac{\partial\Lambda}{\partial\rho}=
+±\frac{k_B}{\rho}≷ 0.
+$$
+
+------
+
 ## 5.3 Why the Sign Cannot Be Chosen Arbitrarily
 
-The sign should ultimately follow from the dynamics of ToE rather than from verbal preference.
+The sign should ultimately follow from the dynamics of ToE rather than from verbal or casual preference.
 
 It should be determined by such questions as:
 
@@ -396,9 +420,9 @@ Therefore, the sign of the logarithmic correspondence should ultimately be deriv
 
 # 6. The Dimensional Problem
 
-A technical refinement is necessary.
+A technical refinement is here necessary in order to give the reader some sense of the greater applicability and relevance of Obidi's primal proposition.
 
-In continuous quantum mechanics,
+In continuous quantum mechanics, we know that:
 
 $$
 |\psi(x,t)|^2
@@ -420,16 +444,15 @@ $$
 
 is formally problematic because the logarithm of a dimensional quantity is not mathematically well defined.
 
-The argument of a logarithm must be dimensionless.
+**The argument of a logarithm must be dimensionless.**
 
-A more rigorous ToE formulation should therefore introduce a reference probability density $\rho_*$ with the same dimensions as $\rho$.
+Thus, to give a more rigorous ToE formulation, we therefore introduce a reference probability density $\rho_*$ with the same dimensions as $\rho$.
 
 One then writes
 
 $$
 \boxed{
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 k_B
 \ln
 \left(
@@ -454,8 +477,7 @@ The inverse relation becomes
 
 $$
 \boxed{
-\rho(x,t)
-=
+\rho(x,t)=
 \rho_*
 \exp
 \left(
@@ -464,7 +486,7 @@ $$
 }.
 $$
 
-This form is therefore mathematically preferable to the unqualified expression
+This form is therefore mathematically preferable to the unqualified (general) expression
 
 $$
 \Lambda=k_B\ln\rho+C.
@@ -477,8 +499,7 @@ $$
 The relation
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -494,8 +515,7 @@ The field $\Lambda$ can be regarded as a logarithmic probability potential.
 To see this, consider the inverse relation:
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}.
 $$
@@ -532,8 +552,7 @@ The deeper significance becomes visible when the relation is differentiated.
 Starting from
 
 $$
-\Lambda
-=
+\Lambda=
 k_B
 \ln
 \left(
@@ -543,19 +562,17 @@ k_B
 \Lambda_*,
 $$
 
-assuming $\rho_*$ and $\Lambda_*$ are constants,
+assuming $\rho_*$ and $\Lambda_*$ are constants, we can write:
 
 $$
-\nabla\Lambda
-=
+\nabla\Lambda=
 k_B\nabla\ln\rho.
 $$
 
 Since
 
 $$
-\nabla\ln\rho
-=
+\nabla\ln\rho=
 \frac{\nabla\rho}{\rho},
 $$
 
@@ -563,8 +580,7 @@ we obtain
 
 $$
 \boxed{
-\nabla\Lambda
-=
+\nabla\Lambda=
 k_B
 \frac{\nabla\rho}{\rho}
 }.
@@ -574,16 +590,15 @@ Equivalently,
 
 $$
 \boxed{
-\nabla\rho
-=
+\nabla\rho=
 \frac{\rho}{k_B}
 \nabla\Lambda
 }.
 $$
 
-This equation has a clear meaning:
+**This equation has a clear and profound meaning:**
 
-> Spatial variation of quantum probability density is equivalent to spatial variation of the entropic field.
+> # **Spatial variation of quantum probability density is equivalent to spatial variation of the entropic field.**
 
 If
 
@@ -597,7 +612,7 @@ $$
 \nabla\rho=0.
 $$
 
-Thus, a locally uniform entropic field corresponds to a locally uniform probability density.
+**Thus, a locally uniform entropic field corresponds to a locally uniform probability density.**
 
 Conversely, whenever
 
@@ -611,7 +626,7 @@ $$
 \nabla\Lambda\neq0.
 $$
 
-Probability gradients and entropic gradients therefore become mathematically equivalent representations of the same underlying local structure.
+**Probability gradients and entropic gradients therefore become mathematically equivalent representations of the same underlying local structure.**
 
 ---
 
@@ -620,8 +635,7 @@ Probability gradients and entropic gradients therefore become mathematically equ
 In relativistic notation, the relation may be differentiated using $\partial_\mu$:
 
 $$
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 k_B
 \partial_\mu\ln\rho.
 $$
@@ -630,8 +644,7 @@ Therefore,
 
 $$
 \boxed{
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 k_B
 \frac{\partial_\mu\rho}{\rho}
 }.
@@ -641,24 +654,23 @@ Equivalently,
 
 $$
 \boxed{
-\partial_\mu\rho
-=
+\partial_\mu\rho=
 \frac{\rho}{k_B}
 \partial_\mu\Lambda
 }.
 $$
 
-This covariant relation suggests that the spacetime gradient of probability density may be described through the spacetime gradient of the entropic field.
+**This covariant relation suggests that the spacetime gradient of probability density may be described through the spacetime gradient of the entropic field.**
 
-Within ToE, this is particularly important because the theory aims to associate entropic structure with spacetime geometry and dynamical evolution.
+**Within ToE, this is particularly important because the theory aims to associate entropic structure with spacetime geometry and dynamical evolution.**
 
-The four-gradient
+The **four-gradient**
 
 $$
 \partial_\mu\Lambda
 $$
 
-may therefore encode the directional structure of probability redistribution across spacetime.
+**may therefore encode the directional structure of probability redistribution across spacetime.**
 
 ---
 
@@ -667,8 +679,7 @@ may therefore encode the directional structure of probability redistribution acr
 The time derivative of the relation is
 
 $$
-\frac{\partial\Lambda}{\partial t}
-=
+\frac{\partial\Lambda}{\partial t}=
 k_B
 \frac{\partial}{\partial t}\ln\rho.
 $$
@@ -677,8 +688,7 @@ Hence,
 
 $$
 \boxed{
-\frac{\partial\Lambda}{\partial t}
-=
+\frac{\partial\Lambda}{\partial t}=
 \frac{k_B}{\rho}
 \frac{\partial\rho}{\partial t}
 }.
@@ -688,16 +698,15 @@ Solving for the probability evolution,
 
 $$
 \boxed{
-\frac{\partial\rho}{\partial t}
-=
+\frac{\partial\rho}{\partial t}=
 \frac{\rho}{k_B}
 \frac{\partial\Lambda}{\partial t}
 }.
 $$
 
-This gives the entropic-probability correspondence a dynamical interpretation.
+**This gives the entropic-probability correspondence a dynamical interpretation.**
 
-Quantum probability evolution may be represented as evolution of the entropic field.
+**Quantum probability evolution may be represented as evolution of the entropic field.**
 
 If
 
@@ -723,27 +732,25 @@ $$
 \frac{\partial\rho}{\partial t}<0.
 $$
 
-Thus, local increases or decreases in probability density correspond directly to local changes in entropic-field value.
+**Thus, local increases or decreases in probability density correspond directly to local changes in entropic-field value.**
 
 ---
 
 # 11. Connection to Probability Conservation
 
-Suppose the probability density obeys a continuity equation,
+Now, suppose the probability density obeys a continuity equation,
 
 $$
 \frac{\partial\rho}{\partial t}
 +
-\nabla\cdot\mathbf{J}
-=
+\nabla\cdot\mathbf{J}=
 0.
 $$
 
 Substituting
 
 $$
-\frac{\partial\rho}{\partial t}
-=
+\frac{\partial\rho}{\partial t}=
 \frac{\rho}{k_B}
 \frac{\partial\Lambda}{\partial t},
 $$
@@ -754,8 +761,7 @@ $$
 \frac{\rho}{k_B}
 \frac{\partial\Lambda}{\partial t}
 +
-\nabla\cdot\mathbf{J}
-=
+\nabla\cdot\mathbf{J}=
 0.
 $$
 
@@ -763,40 +769,38 @@ Therefore,
 
 $$
 \boxed{
-\frac{\partial\Lambda}{\partial t}
-=
+\frac{\partial\Lambda}{\partial t}=
 -\frac{k_B}{\rho}
 \nabla\cdot\mathbf{J}
 }.
 $$
 
-This gives a direct connection between probability-current divergence and entropic-field evolution.
+**This gives a direct connection between probability-current divergence and entropic-field evolution.**
 
-Probability accumulation corresponds to one sign of entropic-field change, whereas probability depletion corresponds to the opposite sign.
+**Probability accumulation corresponds to one sign of entropic-field change, whereas probability depletion corresponds to the opposite sign.**
 
-Within the broader ToE picture, this may become relevant to the Obidi Probability Law, in which probability need not remain confined to the observable sector but may be redistributed between observable and entropic sectors.
+> # **Within the broader ToE picture, this becomes highly relevant to the Obidi Probability Law (OPL), in which probability need not remain confined to the observable sector but may be redistributed between observable and entropic sectors.**
 
 ---
 
-# 12. Connection with the Obidi Probability Law
+# 12. Connection with the Obidi Probability Law (OPL)
 
-The Obidi Probability Law proposes that the total probability of the complete system remains conserved even when probability is redistributed between an observable sector and an entropic sector.
+> # **The Obidi Probability Law (OPL) states that the total probability of the complete system remains conserved even when probability is redistributed between an observable sector and an entropic sector.**
 
-One may write
+One may write [simplistically]
 
 $$
 P_o(t)+P_e(t)=1,
 $$
 
-where $P_o$ represents observable probability and $P_e$ represents probability associated with the entropic or excluded sector.
+**where $P_o$ represents observable (or coherent) probability and $P_e$ represents probability associated with the entropic or excluded sector.**
 
 Differentiating,
 
 $$
 \frac{dP_o}{dt}
 +
-\frac{dP_e}{dt}
-=
+\frac{dP_e}{dt}=
 0.
 $$
 
@@ -804,36 +808,33 @@ Therefore,
 
 $$
 \boxed{
-\frac{dP_o}{dt}
-=
--
-\frac{dP_e}{dt}
+\frac{dP_o}{dt}=
+-\frac{dP_e}{dt}
 }.
 $$
 
-Probability lost from one sector is gained by the other.
+**Probability lost from one sector is gained by the other.**
 
 The logarithmic relation
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln\rho+C
 $$
 
 suggests a possible local field representation of this probability redistribution.
 
-Rather than describing probability transfer only through scalar global quantities $P_o$ and $P_e$, ToE may describe the redistribution through a continuously varying entropic field $\Lambda(x,t)$.
+Rather than describing probability transfer only through scalar global quantities $P_o$ and $P_e$, in the general case, ToE describes the redistribution through a continuously varying entropic field $\Lambda(x,t)$.
 
-This opens the possibility that the Obidi Probability Law possesses both a global and a local formulation.
+**This opens the possibility that the Obidi Probability Law possesses both a global and a local formulation.**
 
-The global law is
+**The global law is**
 
 $$
 P_o+P_e=1.
 $$
 
-The local field relation may be expressed schematically as
+**The local field relation may be expressed schematically as**
 
 $$
 \rho
@@ -850,15 +851,14 @@ The two may ultimately be connected through integration over appropriate observa
 The inverse relation
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}
 $$
 
 suggests a deeper interpretation.
 
-Instead of regarding probability as ontologically fundamental, ToE may regard probability as a derived representation of underlying entropic configuration.
+Instead of regarding probability as ontologically fundamental, ToE regards probability as a derived representation of underlying entropic configuration.
 
 In this interpretation,
 
@@ -874,7 +874,7 @@ $$
 
 is a statistical manifestation of $\Lambda$.
 
-Symbolically,
+Symbolically, therefor:
 
 $$
 \Lambda
@@ -884,13 +884,13 @@ $$
 P.
 $$
 
-Probability would therefore arise from entropic structure in approximately the same way that Boltzmann weights arise from energy structure in equilibrium statistical mechanics.
+In ToE, probability therefore arises from entropic structure in approximately the same way that Boltzmann weights arise from energy structure in equilibrium statistical mechanics.
 
-The statement is not that standard quantum mechanics already establishes this conclusion. Rather, it is a possible ToE interpretation that requires derivation from the deeper theory.
+The statement is not that standard quantum mechanics already establishes this conclusion. Rather, it is the ToE interpretation [that may require a more rigorous derivation from the deeper aspect of Obidi's theory.]
 
-If successfully derived, the conceptual meaning would be substantial:
+Nonetheless, the conceptual meaning remains yet substantial:
 
-> Quantum probability would cease to be merely an irreducible postulate and would instead become an emergent statistical representation of the entropic substrate.
+> # **Quantum probability ceases to be merely an irreducible postulate and instead becomes an emergent statistical representation of the entropic substrate of the Theory of Entropicity (ToE).**
 
 ---
 
@@ -901,8 +901,7 @@ The relation has an especially important connection with Fisher information.
 For a probability distribution $p(x|\theta)$ depending on parameters $\theta^i$, the Fisher information metric is
 
 $$
-g^{F}_{ij}
-=
+g^{F}_{ij}=
 \int
 p(x|\theta)
 \frac{\partial\ln p}{\partial\theta^i}
@@ -913,24 +912,21 @@ $$
 Now suppose
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln p+C.
 $$
 
 Then
 
 $$
-\ln p
-=
+\ln p=
 \frac{\Lambda-C}{k_B}.
 $$
 
 Therefore,
 
 $$
-\frac{\partial\ln p}{\partial\theta^i}
-=
+\frac{\partial\ln p}{\partial\theta^i}=
 \frac{1}{k_B}
 \frac{\partial\Lambda}{\partial\theta^i}.
 $$
@@ -938,8 +934,7 @@ $$
 Substituting into the Fisher metric,
 
 $$
-g^{F}_{ij}
-=
+g^{F}_{ij}=
 \int
 p
 \left(
@@ -957,8 +952,7 @@ Hence,
 
 $$
 \boxed{
-g^{F}_{ij}
-=
+g^{F}_{ij}=
 \frac{1}{k_B^2}
 \int
 p(x|\theta)
@@ -972,7 +966,7 @@ $$
 
 This result is mathematically important.
 
-It shows that Fisher information geometry may be expressed directly in terms of correlations of entropic-field gradients.
+It shows that Fisher information geometry can be expressed directly in terms of correlations of entropic-field gradients of ToE.
 
 Thus,
 
@@ -982,13 +976,13 @@ $$
 \text{Entropic-Field Gradient Geometry}.
 $$
 
-This is one of the strongest structural consequences of the proposed relation.
+This is one of the strongest structural consequences of Obidi's Entropic-Probability (OEP) relation.
 
 ---
 
 # 15. The Entropic Field and Information Geometry
 
-The Theory of Entropicity has repeatedly sought a bridge between information geometry and physical geometry.
+The Theory of Entropicity (ToE) has repeatedly sought a bridge between information geometry and physical geometry.
 
 The entropic-probability relation provides a natural intermediate step.
 
@@ -1001,8 +995,7 @@ $$
 one obtains
 
 $$
-\partial_i\Lambda
-=
+\partial_i\Lambda=
 k_B\partial_i\ln p.
 $$
 
@@ -1017,8 +1010,7 @@ Therefore,
 
 $$
 \partial_i\ln p\,
-\partial_j\ln p
-=
+\partial_j\ln p=
 \frac{1}{k_B^2}
 \partial_i\Lambda\,
 \partial_j\Lambda.
@@ -1050,15 +1042,15 @@ $$
 }.
 $$
 
-Within ToE, this may become the mathematical mechanism connecting statistical distinguishability to geometric structure.
+**Within ToE, this becomes the mathematical mechanism connecting statistical distinguishability to geometric structure.**
 
 ---
 
-# 16. Relation to the Broader ToE Program
+# 16. Relation to the Broader Program of the Theory of Entropicity (ToE)
 
-The deeper program of the Theory of Entropicity proposes that physical geometry may emerge from informational or entropic structure.
+The deeper program of the Theory of Entropicity (ToE) proposes that physical geometry emerges from [informational or] entropic structure.
 
-The entropic-probability relation may therefore function as an important linking principle.
+The entropic-probability relation therefore functions as an important linking principle.
 
 The conceptual sequence may be represented as
 
@@ -1084,7 +1076,7 @@ G_{\mu\nu}^{(\mathrm{information})}
 g_{\mu\nu}^{(\mathrm{physical})}.
 $$
 
-The Obidi transformation may then serve as the mathematical mechanism by which a positive-definite information-geometric structure is transformed or mapped into a Lorentzian physical metric.
+The **disformal Obidi transformation** then serves as the mathematical mechanism by which a positive-definite information-geometric structure is transformed or mapped into a Lorentzian [indefinite] physical metric.
 
 The complete conceptual chain may therefore be written schematically as
 
@@ -1102,7 +1094,7 @@ $$
 }.
 $$
 
-This does not constitute a completed derivation by itself. However, it identifies a logically coherent sequence of structures that the ToE formalism can attempt to make mathematically rigorous.
+Though this does not constitute a completed derivation by itself, it nonetheless identifies a logically coherent sequence of structures that the ToE formalism attempts to make mathematically rigorous. [This is the subject of a subsequent exposition.]
 
 ---
 
@@ -1119,8 +1111,7 @@ does not replace the wavefunction.
 The wavefunction is generally complex:
 
 $$
-\psi
-=
+\psi=
 \sqrt{\rho}
 e^{iS/\hbar}.
 $$
@@ -1148,7 +1139,7 @@ $$
 
 This distinction is important.
 
-A complete ToE reconstruction of quantum mechanics would have to account for both
+A subsequent complete ToE reconstruction of quantum mechanics would necessarily have to account for both
 
 $$
 \rho
@@ -1163,8 +1154,7 @@ $$
 One possible decomposition is
 
 $$
-\psi
-=
+\psi=
 \sqrt{
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}
@@ -1176,8 +1166,7 @@ Therefore,
 
 $$
 \boxed{
-\psi
-=
+\psi=
 \sqrt{\rho_*}
 \exp
 \left[
@@ -1201,7 +1190,7 @@ $$
 (\Lambda,S).
 $$
 
-This resembles the hydrodynamic or Madelung decomposition of quantum mechanics but gives the amplitude sector a specifically entropic interpretation.
+**This resembles the ***hydrodynamic or Madelung decomposition of quantum mechanics*** but gives the amplitude sector a specifically entropic interpretation.**
 
 ---
 
@@ -1216,8 +1205,7 @@ $$
 and
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B},
 $$
@@ -1225,8 +1213,7 @@ $$
 the magnitude of the wavefunction satisfies
 
 $$
-|\psi|
-=
+|\psi|=
 \sqrt{\rho_*}
 e^{(\Lambda-\Lambda_*)/(2k_B)}.
 $$
@@ -1254,8 +1241,7 @@ Differentiating again reveals further mathematical structure.
 From
 
 $$
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 k_B
 \frac{\partial_\mu\rho}{\rho},
 $$
@@ -1263,8 +1249,7 @@ $$
 take another derivative:
 
 $$
-\partial_\nu\partial_\mu\Lambda
-=
+\partial_\nu\partial_\mu\Lambda=
 k_B
 \partial_\nu
 \left(
@@ -1275,12 +1260,10 @@ $$
 Therefore,
 
 $$
-\partial_\mu\partial_\nu\Lambda
-=
+\partial_\mu\partial_\nu\Lambda=
 k_B
 \left[
-\frac{\partial_\mu\partial_\nu\rho}{\rho}
--
+\frac{\partial_\mu\partial_\nu\rho}{\rho}-
 \frac{
 (\partial_\mu\rho)
 (\partial_\nu\rho)
@@ -1294,12 +1277,10 @@ Hence,
 
 $$
 \boxed{
-\partial_\mu\partial_\nu\Lambda
-=
+\partial_\mu\partial_\nu\Lambda=
 k_B
 \left(
-\frac{\partial_\mu\partial_\nu\rho}{\rho}
--
+\frac{\partial_\mu\partial_\nu\rho}{\rho}-
 \frac{
 \partial_\mu\rho
 \partial_\nu\rho
@@ -1310,11 +1291,11 @@ k_B
 }.
 $$
 
-Second derivatives of the entropic field therefore contain both curvature-like information about the probability distribution and products of probability gradients.
+**Second derivatives of the entropic field therefore contain both curvature-like information about the probability distribution and products of probability gradients.**
 
-Such structures are relevant to Hessian geometry, information geometry, and field equations involving second derivatives.
+Such structures are relevant to **Hessian geometry, information geometry,** and **field equations involving second derivatives.**
 
-This may become important if ToE seeks to construct curvature tensors from entropic quantities.
+This important for ToE in its construction of curvature tensors from entropic quantities [as we have shown in other publications].
 
 ---
 
@@ -1323,18 +1304,15 @@ This may become important if ToE seeks to construct curvature tensors from entro
 Taking the Laplacian,
 
 $$
-\nabla^2\Lambda
-=
+\nabla^2\Lambda=
 k_B\nabla^2\ln\rho.
 $$
 
 Using
 
 $$
-\nabla^2\ln\rho
-=
-\frac{\nabla^2\rho}{\rho}
--
+\nabla^2\ln\rho=
+\frac{\nabla^2\rho}{\rho}-
 \frac{|\nabla\rho|^2}{\rho^2},
 $$
 
@@ -1342,32 +1320,28 @@ one obtains
 
 $$
 \boxed{
-\nabla^2\Lambda
-=
+\nabla^2\Lambda=
 k_B
 \left[
-\frac{\nabla^2\rho}{\rho}
--
+\frac{\nabla^2\rho}{\rho}-
 \frac{|\nabla\rho|^2}{\rho^2}
 \right]
 }.
 $$
 
-This equation is especially relevant if the ToE entropic field satisfies a field equation involving the Laplacian or d'Alembertian.
+**This equation is also especially relevant for the ToE entropic field as it is formulated to satisfy a field equation involving the Laplacian or d'Alembertian.**
 
-For example, if a weak-field relation takes the schematic form
+**For example, if a weak-field relation takes the schematic form**
 
 $$
-\nabla^2\Lambda
-=
+\nabla^2\Lambda=
 -\eta\rho_M,
 $$
 
 then the entropic-probability correspondence implies
 
 $$
-k_B\nabla^2\ln\rho
-=
+k_B\nabla^2\ln\rho=
 -\eta\rho_M.
 $$
 
@@ -1375,15 +1349,14 @@ Therefore,
 
 $$
 \boxed{
-\nabla^2\ln\rho
-=
+\nabla^2\ln\rho=
 -\frac{\eta}{k_B}\rho_M
 }.
 $$
 
-Such an equation would directly connect matter density to the logarithmic geometry of probability density.
+Such an equation directly connects matter density to the logarithmic geometry of probability density.
 
-This would be a highly nontrivial consequence and would require careful theoretical justification.
+This stands as a highly nontrivial consequence of ToE [and would therefore require further careful theoretical justification].
 
 ---
 
@@ -1392,18 +1365,15 @@ This would be a highly nontrivial consequence and would require careful theoreti
 If the entropic field obeys a relativistic equation of the form
 
 $$
-\kappa\Box\Lambda
-+
-m_\Lambda^2\Lambda
-=
+\kappa\Box\Lambda+
+m_\Lambda^2\Lambda=
 \eta\rho_M,
 $$
 
 then substituting
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -1420,19 +1390,16 @@ $$
 \ln
 \left(
 \frac{\rho}{\rho_*}
-\right)
-+
+\right)+
 m_\Lambda^2
 \left[
 k_B
 \ln
 \left(
 \frac{\rho}{\rho_*}
-\right)
-+
+\right)+
 \Lambda_*
-\right]
-=
+\right]=
 \eta\rho_M.
 $$
 
@@ -1452,15 +1419,14 @@ m_\Lambda^2k_B
 \frac{\rho}{\rho_*}
 \right)
 +
-m_\Lambda^2\Lambda_*
-=
+m_\Lambda^2\Lambda_*=
 \eta\rho_M
 }.
 $$
 
-Thus, the field equation for $\Lambda$ may equivalently be interpreted as a nonlinear equation governing the probability density.
+**Thus, the field equation for $\Lambda$ may equivalently be interpreted as a nonlinear equation governing the probability density.**
 
-This demonstrates how the entropic-probability relation could connect ToE field dynamics directly with probability evolution.
+**This demonstrates how the entropic-probability relation connects ToE field dynamics directly with probability evolution.**
 
 ---
 
@@ -1469,8 +1435,7 @@ This demonstrates how the entropic-probability relation could connect ToE field 
 Probability distributions of the form
 
 $$
-p(x)
-=
+p(x)=
 \frac{1}{Z}
 e^{F(x)}
 $$
@@ -1480,23 +1445,21 @@ are ubiquitous throughout statistical physics and information theory.
 The ToE relation gives
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}.
 $$
 
 This has the same general exponential structure.
 
-The entropic field therefore acts mathematically like a log-density coordinate:
+**The entropic field therefore acts mathematically like a log-density coordinate:**
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln\rho+\text{constant}.
 $$
 
-This means that $\Lambda$ converts multiplicative probability relationships into additive field relationships.
+**This means that $\Lambda$ converts multiplicative probability relationships into additive field relationships.**
 
 If
 
@@ -1507,16 +1470,14 @@ $$
 then
 
 $$
-\ln\rho
-=
+\ln\rho=
 \ln\rho_1+\ln\rho_2.
 $$
 
 Hence,
 
 $$
-\Lambda
-=
+\Lambda=
 \Lambda_1+\Lambda_2+\text{constant},
 $$
 
@@ -1528,7 +1489,7 @@ The logarithmic field representation may therefore possess useful compositional 
 
 # 23. Entropy Versus Entropic Potential
 
-A crucial conceptual distinction should be maintained.
+Here, a crucial conceptual distinction should be maintained.
 
 The quantity
 
@@ -1542,7 +1503,7 @@ Thermodynamic entropy is generally an ensemble or macroscopic quantity involving
 
 By contrast, $\Lambda(x,t)$ is local and field-like.
 
-A more precise terminology may therefore be:
+A more precise ToE terminology may therefore suffice for our **"heuristic and pedagogical"** understanding:
 
 * entropic potential,
 * entropic field,
@@ -1550,21 +1511,20 @@ A more precise terminology may therefore be:
 * local entropic state function,
 * entropic configuration variable.
 
-This distinction protects ToE from conflating different uses of the word entropy.
+This distinction serves primarily to separate and safeguard ToE from conflating different uses of the word entropy.
 
-The theory may subsequently establish a functional relationship between $\Lambda$ and thermodynamic entropy, but the two need not initially be identical.
+Even though the Theory of Entropicity (ToE) may subsequently need to establish a functional relationship between $\Lambda$ and thermodynamic entropy, the two need not initially be identical for all logical and clinical purposes.
 
 ---
 
 # 24. Relationship to the Born Rule
 
-The Born rule states that measurement probabilities are determined by squared quantum amplitudes.
+The **Born rule** states that measurement probabilities are determined by squared quantum amplitudes.
 
 For a state $|\psi\rangle$ projected onto $|\phi\rangle$,
 
 $$
-P
-=
+P=
 |\langle\phi|\psi\rangle|^2.
 $$
 
@@ -1574,20 +1534,19 @@ $$
 \rho(x)=|\psi(x)|^2.
 $$
 
-ToE need not discard this rule.
+Obidi's Theory of Entropicity (ToE) does not discard this rule.
 
-Instead, it may seek to explain why probability has this structure by proposing that
+Instead, ToE seeks to explain why probability has this structure **(of the Born Rule)** by proposing that
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}.
 $$
 
-Then the Born density becomes a manifestation of the entropic field.
+Then the **Born density** becomes an inescapable manifestation of the entropic field of ToE.
 
-The proposed interpretation is therefore not
+The ToE interpretation is therefore not
 
 $$
 \text{ToE replaces Born's rule}.
@@ -1597,7 +1556,7 @@ Rather, it is
 
 $$
 \boxed{
-\text{Born probability may emerge as the observable representation of entropic structure}.
+\text{Born probability emerges as the observable representation of entropic structure}.
 }
 $$
 
@@ -1607,13 +1566,12 @@ This distinction is essential.
 
 # 25. Observable and Entropic Probability Sectors
 
-Within the Obidi Probability Law, one may distinguish between an observable sector and an entropic sector.
+Within the **Obidi Probability Law (OPL),** one distinguishes between an observable sector and an entropic sector.
 
 Let the total state space be decomposed schematically as
 
 $$
-\mathcal{H}_{\mathrm{total}}
-=
+\mathcal{H}_{\mathrm{total}}=
 \mathcal{H}_o
 \oplus
 \mathcal{H}_e.
@@ -1625,19 +1583,19 @@ $$
 P_o+P_e=1.
 $$
 
-The logarithmic entropic field may then encode the redistribution of probability density within this extended state space.
+**The logarithmic entropic field then encodes the redistribution of probability density within this extended state space.**
 
-If probability migrates from the observable sector into the entropic sector,
+**If probability migrates from the observable sector into the entropic sector,**
 
 $$
 P_o\rightarrow P_e,
 $$
 
-then the apparent reduction of observable probability need not represent destruction of probability.
+**then the apparent reduction of observable probability does not represent destruction of probability.**
 
-Instead, it may represent redistribution within a larger conserved structure.
+**Instead, it represents redistribution within a larger conserved structure.**
 
-This may eventually provide ToE with a framework for discussing irreversibility, decoherence, environmental coupling, and loss of accessible information.
+This provides ToE with an insightful framework for discussing irreversibility, decoherence, environmental coupling, and loss of accessible information.
 
 ---
 
@@ -1660,10 +1618,8 @@ $$
 Since
 
 $$
-\frac{dP_o}{dt}
-+
-\frac{dP_e}{dt}
-=
+\frac{dP_o}{dt}+
+\frac{dP_e}{dt}=
 0,
 $$
 
@@ -1675,7 +1631,7 @@ $$
 \frac{dS}{dt}>0,
 $$
 
-then one obtains a possible statistical connection among
+then one obtains a [possible] statistical connection among
 
 $$
 \text{Probability Transfer},
@@ -1691,7 +1647,7 @@ $$
 \text{Irreversibility}.
 $$
 
-The entropic field could then act as the local mediator describing where and how probability weight is redistributed.
+**The ToE entropic field then acts as the local mediator describing where and how probability weight is redistributed.**
 
 This possibility aligns naturally with ToE's broader objective of treating the arrow of time as an emergent consequence of entropy flow rather than as an independent primitive.
 
@@ -1701,7 +1657,7 @@ This possibility aligns naturally with ToE's broader objective of treating the a
 
 Quantum decoherence involves the suppression of observable interference through interaction with environmental degrees of freedom.
 
-From the ToE perspective, one may attempt to interpret this as a redistribution of probability or accessible coherence into entropic degrees of freedom.
+From the ToE perspective, one attempts to interpret this as a redistribution of probability or accessible coherence into entropic degrees of freedom.
 
 The schematic transition may be written as
 
@@ -1713,7 +1669,7 @@ $$
 \text{Reduced Observable State}.
 $$
 
-Within the Obidi Probability framework, this may be expressed as
+Within the Obidi Probability framework, this is expressed as
 
 $$
 P_o
@@ -1735,9 +1691,9 @@ $$
 e^{\Lambda/k_B}
 $$
 
-could then provide a local representation of such redistribution.
+then provides a local representation of such redistribution.
 
-However, establishing this rigorously would require deriving the reduced density matrix dynamics and demonstrating how $\Lambda$ enters the decoherence functional.
+**However, establishing this rigorously would require deriving the reduced density matrix dynamics and demonstrating how $\Lambda$ enters the decoherence functional.** We shall not embark on such at this time.
 
 ---
 
@@ -1746,8 +1702,7 @@ However, establishing this rigorously would require deriving the reduced density
 Because
 
 $$
-\nabla\Lambda
-=
+\nabla\Lambda=
 k_B\nabla\ln\rho,
 $$
 
@@ -1756,8 +1711,7 @@ one may investigate whether probability currents are dynamically related to entr
 For example, a phenomenological relation might take the form
 
 $$
-\mathbf{J}
-=
+\mathbf{J}=
 -\mathcal{D}\rho\nabla\Lambda,
 $$
 
@@ -1766,16 +1720,14 @@ where $\mathcal{D}$ is an appropriate transport coefficient.
 Substituting
 
 $$
-\nabla\Lambda
-=
+\nabla\Lambda=
 k_B\frac{\nabla\rho}{\rho},
 $$
 
 gives
 
 $$
-\mathbf{J}
-=
+\mathbf{J}=
 -\mathcal{D}k_B\nabla\rho.
 $$
 
@@ -1783,15 +1735,15 @@ This has the form of a diffusion current.
 
 Thus, under appropriate assumptions, entropic-gradient-driven flow may reproduce diffusion-like probability dynamics.
 
-This illustrates the wider mathematical compatibility between entropy gradients, probability gradients, and transport processes.
+**This illustrates the wider mathematical compatibility between entropy gradients, probability gradients, and transport processes.**
 
-Such an equation should be regarded as a model possibility unless it is derived from the Obidi Action.
+For now, such an equation should be regarded as a model possibility until it has been rigorously derived from the **Obidi Action.**
 
 ---
 
 # 29. Entropic Force Interpretation
 
-If ToE defines an effective entropic force through
+If in ToE we define an effective entropic force through
 
 $$
 F_\mu
@@ -1802,8 +1754,7 @@ $$
 then using
 
 $$
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 k_B\partial_\mu\ln\rho,
 $$
 
@@ -1826,32 +1777,31 @@ F_\mu
 }.
 $$
 
-This would imply that effective entropic motion is controlled by relative probability gradients rather than simply absolute probability differences.
+**This implies that effective entropic motion is controlled by relative probability gradients rather than simply absolute probability differences.**
 
-That is a potentially important ToE interpretation because the logarithmic derivative
+**That is a highly consequential and important ToE interpretation because the logarithmic derivative**
 
 $$
 \frac{\nabla\rho}{\rho}
 $$
 
-measures fractional variation in the probability density.
+**measures fractional variation in the probability density.**
 
 ---
 
-# 30. Connection with the Entropic Resistance Principle
+# 30. Connection with the ToE Entropic Resistance Principle (ERP)
 
-The Entropic Resistance Principle in ToE proposes that physical evolution is constrained by resistance associated with entropic rearrangement.
+**The Entropic Resistance Principle (ERP) in ToE proposes that physical evolution is constrained by resistance associated with entropic rearrangement/reordering/redistribution.**
 
-The entropic-probability correspondence suggests that a steep probability gradient corresponds to a steep entropic gradient:
+**The Obidi entropic-probability correspondence thus suggests that a steep probability gradient corresponds to a steep entropic gradient:**
 
 $$
-|\nabla\Lambda|
-=
+|\nabla\Lambda|=
 k_B
 \frac{|\nabla\rho|}{\rho}.
 $$
 
-A large relative variation in probability therefore implies a large entropic gradient.
+**A large relative variation in probability therefore implies a large entropic gradient.**
 
 If entropic resistance increases with the magnitude of such gradients, then highly localized or rapidly changing probability configurations may carry greater entropic cost.
 
@@ -1875,24 +1825,23 @@ $$
 \text{Dynamical Constraint}.
 $$
 
-Such a connection would require explicit formulation within the Obidi Action.
+Such a connection still requires further explicit formulation within the **Obidi Action.**
 
 ---
 
-# 31. Relation to the Entropic Speed Limit
+# 31. Relation to the Entropic Speed Limit (ESL)
 
-The Entropic Speed Limit in ToE proposes that physical evolution cannot exceed the maximum rate permitted by entropic reconfiguration.
+The **Entropic Speed Limit (ESL)** in ToE proposes that physical evolution cannot exceed the maximum rate permitted by entropic reconfiguration.
 
 If probability evolution is related to entropic-field evolution through
 
 $$
-\frac{\partial\rho}{\partial t}
-=
+\frac{\partial\rho}{\partial t}=
 \frac{\rho}{k_B}
 \frac{\partial\Lambda}{\partial t},
 $$
 
-then a bound on entropic-field evolution automatically generates a bound on probability evolution.
+**then a bound on entropic-field evolution automatically generates a bound on probability evolution.**
 
 Suppose
 
@@ -1925,21 +1874,21 @@ $$
 }
 $$
 
-This provides a possible connection between the Entropic Speed Limit and the dynamics of quantum probability.
+**This therefore provides a possible connection between the Entropic Speed Limit (ESL) and the dynamics of quantum probability.**
 
 ---
 
 # 32. The Deep Conceptual Interpretation
 
-The strongest conceptual interpretation of the equation is the following.
+The strongest conceptual ToE interpretation of the equation is the following.
 
-Conventional quantum mechanics tells us how to calculate probabilities from the wavefunction.
+**Conventional quantum mechanics tells us how to calculate probabilities from the wavefunction.**
 
-ToE asks a deeper question:
+**ToE asks a deeper question:**
 
-> Why should probability possess the structure that quantum mechanics assigns to it?
+> # **Why should probability possess the structure that quantum mechanics assigns to it?**
 
-The logarithmic entropic relation suggests the answer may lie in a deeper field.
+**The logarithmic entropic relation suggests the answer may lie in a deeper field.**
 
 Instead of
 
@@ -1947,16 +1896,15 @@ $$
 \rho
 $$
 
-being primitive, one proposes
+being primitive, ToE proposes
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{(\Lambda-\Lambda_*)/k_B}.
 $$
 
-Then probability is an observable or statistical projection of an underlying entropic configuration.
+**Then probability becomes an observable or statistical projection of an underlying entropic configuration.**
 
 Thus,
 
@@ -1966,11 +1914,11 @@ $$
 }
 $$
 
-In this interpretation, $\Lambda$ functions as a deeper coordinate of statistical reality.
+In this ToE interpretation, $\Lambda$ functions as a deeper coordinate of statistical reality.
 
 ---
 
-# 33. Why This Is Important for ToE
+# 33. Why This Is Important for Obidi's Theory of Entropicity (ToE)
 
 The relation is important because it potentially unifies several otherwise separate areas of the theory.
 
@@ -2014,40 +1962,39 @@ g_{\mu\nu}
 }.
 $$
 
-If rigorously established, this could provide ToE with a unified structural pathway connecting quantum probability to emergent spacetime geometry.
+If [further] rigorously established, this would provide ToE with a unified structural pathway connecting quantum probability to emergent spacetime geometry.
 
 ---
 
 # 34. What the Equation Does Not Yet Prove
 
-The equation should not presently be interpreted as proving that:
+We make this remark. The equation should not presently be interpreted as proving that:
 
 * entropy is literally identical to quantum probability;
-* quantum mechanics has been derived from ToE;
+* quantum mechanics has been derived from ToE (this is not our objective in this paper);
 * spacetime curvature follows immediately from probability density;
 * the Born rule has already been derived from first principles;
 * Fisher information is automatically identical to physical spacetime curvature;
 * the entropic field $\Lambda$ has already been experimentally observed.
 
-These conclusions would require additional derivations.
+These conclusions would require additional demonstrations [in subsequent submissions].
 
-At present, the equation is best understood as a mathematically meaningful and potentially powerful structural bridge within the ToE framework.
+At present, the equation is best understood as a mathematically meaningful and potentially powerful structural bridge within the Theory of Entropicity (ToE).
 
 ---
 
 # 35. What Would Strengthen the Relation Theoretically
 
-The theoretical status of the relation would become substantially stronger if it could be derived rather than postulated.
+The theoretical status of the Obidi relation would become substantially stronger if it could be derived rather than postulated [much of this work has already been substantially demonstrated in ***"Einstein and Bohr Finally Reconciled..."***].
 
 Several possible derivational routes exist.
 
-One route would be through the Obidi Action.
+**One route** is surely through the **Obidi Action.**
 
 Suppose an action takes the form
 
 $$
-S_{\mathrm{Obidi}}
-=
+S_{\mathrm{Obidi}}=
 \int
 \mathcal{L}
 (\Lambda,\partial_\mu\Lambda,\rho,\ldots)
@@ -2063,8 +2010,7 @@ $$
 and if this variational equation yields
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -2073,9 +2019,9 @@ k_B\ln
 \Lambda_*,
 $$
 
-then the entropic-probability relation would become a dynamical consequence of the theory.
+then the entropic-probability relation becomes a dynamical consequence of the theory.
 
-A second route could involve entropy maximization.
+**A second route involves entropy maximization.**
 
 If an entropy functional
 
@@ -2085,7 +2031,7 @@ $$
 
 is extremized subject to suitable constraints, then exponential distributions naturally arise.
 
-A third route could involve the Vuli Ndlela Integral.
+**A third route involves the Vuli-Ndlela Integral (VNI).**
 
 If the path weighting contains an entropic contribution of the form
 
@@ -2093,11 +2039,11 @@ $$
 e^{-S_{\mathrm{ent}}/k_B},
 $$
 
-then probability measures may emerge exponentially from entropic action.
+then probability measures emerge exponentially from entropic action.
 
-A fourth route could involve the information-geometric structure directly.
+**A fourth route involves the information-geometric structure directly.**
 
-If $\Lambda$ is defined as a natural coordinate on the statistical manifold, then the logarithmic relation may arise geometrically.
+If $\Lambda$ is defined as a natural coordinate on the statistical manifold, then the logarithmic relation arises geometrically.
 
 ---
 
@@ -2106,19 +2052,16 @@ If $\Lambda$ is defined as a natural coordinate on the statistical manifold, the
 Consider a functional of the schematic form
 
 $$
-\mathcal{F}[\rho]
-=
+\mathcal{F}[\rho]=
 \int
-\rho\Lambda\,dx
--
+\rho\Lambda\,dx-
 k_B
 \int
 \rho\ln
 \left(
 \frac{\rho}{\rho_*}
 \right)
-dx
--
+dx-
 \lambda
 \left(
 \int\rho\,dx-1
@@ -2134,26 +2077,22 @@ $$
 The functional derivative is
 
 $$
-\Lambda
--
+\Lambda-
 k_B
 \left[
 \ln
 \left(
 \frac{\rho}{\rho_*}
 \right)+1
-\right]
--
-\lambda
-=
+\right]-
+\lambda=
 0.
 $$
 
 Hence,
 
 $$
-\Lambda
-=
+\Lambda=
 k_B
 \ln
 \left(
@@ -2168,8 +2107,7 @@ $$
 Defining
 
 $$
-\Lambda_*
-=
+\Lambda_*=
 k_B+\lambda,
 $$
 
@@ -2177,8 +2115,7 @@ one obtains
 
 $$
 \boxed{
-\Lambda
-=
+\Lambda=
 k_B
 \ln
 \left(
@@ -2189,9 +2126,9 @@ k_B
 }.
 $$
 
-This demonstrates that a logarithmic entropic-probability relation can arise naturally from a variational principle involving an entropy-like functional.
+**This demonstrates that a logarithmic entropic-probability relation can arise naturally from a variational principle involving an entropy-like functional.**
 
-This does not by itself establish that this is the correct derivation for ToE. However, it shows that the proposed relation need not remain a purely arbitrary ansatz.
+**Even though this does not yet by itself establish a rigorous ToE derivation, it nonetheless shows that the proposed Obidi relation need not remain a purely arbitrary ansatz.** [Refer to the work: ***"Einstein and Bohr Finally Reconciled..."***]
 
 ---
 
@@ -2202,8 +2139,7 @@ Exponential probability distributions commonly arise when entropy is extremized 
 For example, maximizing entropy under a mean-energy constraint produces
 
 $$
-p_i
-=
+p_i=
 \frac{1}{Z}
 e^{-\beta E_i}.
 $$
@@ -2211,26 +2147,23 @@ $$
 Taking the logarithm,
 
 $$
-\ln p_i
-=
+\ln p_i=
 -\beta E_i-\ln Z.
 $$
 
 Thus,
 
 $$
-E_i
-=
--\frac{1}{\beta}\ln p_i
--
+E_i=
+-\frac{1}{\beta}\ln p_i-
 \frac{1}{\beta}\ln Z.
 $$
 
-This demonstrates a general principle:
+**This demonstrates a general principle:**
 
-> Quantities governing statistical weighting are naturally related to logarithms of probability.
+> # **Quantities governing statistical weighting are naturally related to logarithms of probability.**
 
-ToE extends this structural idea by proposing that the relevant governing quantity may be an entropic field itself.
+**ToE extends this structural idea by proposing that the relevant governing quantity is the entropic field itself.**
 
 ---
 
@@ -2238,7 +2171,7 @@ ToE extends this structural idea by proposing that the relevant governing quanti
 
 The logarithm of probability is often a more natural coordinate than probability itself.
 
-Probability is multiplicative, whereas log-probability is additive.
+**Probability is multiplicative, whereas log-probability is additive.**
 
 For independent events,
 
@@ -2249,8 +2182,7 @@ $$
 Taking logarithms,
 
 $$
-\ln p_{AB}
-=
+\ln p_{AB}=
 \ln p_A+\ln p_B.
 $$
 
@@ -2262,7 +2194,7 @@ $$
 
 then independent statistical contributions combine additively in $\Lambda$.
 
-This additive structure may make $\Lambda$ particularly suitable as a fundamental field coordinate.
+This additive structure makes $\Lambda$ particularly suitable as a fundamental field coordinate.
 
 ---
 
@@ -2271,16 +2203,14 @@ This additive structure may make $\Lambda$ particularly suitable as a fundamenta
 Given
 
 $$
-\partial_i\Lambda
-=
+\partial_i\Lambda=
 k_B\partial_i\ln p,
 $$
 
 one may define an entropic-gradient tensor
 
 $$
-\mathcal{E}_{ij}
-=
+\mathcal{E}_{ij}=
 \left\langle
 \partial_i\Lambda
 \partial_j\Lambda
@@ -2290,8 +2220,7 @@ $$
 Then
 
 $$
-\mathcal{E}_{ij}
-=
+\mathcal{E}_{ij}=
 k_B^2
 \left\langle
 \partial_i\ln p
@@ -2305,8 +2234,7 @@ $$
 \left\langle
 \partial_i\ln p
 \partial_j\ln p
-\right\rangle
-=
+\right\rangle=
 g^F_{ij}.
 $$
 
@@ -2314,8 +2242,7 @@ Therefore,
 
 $$
 \boxed{
-\mathcal{E}_{ij}
-=
+\mathcal{E}_{ij}=
 k_B^2g^F_{ij}
 }.
 $$
@@ -2324,18 +2251,17 @@ Equivalently,
 
 $$
 \boxed{
-g^F_{ij}
-=
+g^F_{ij}=
 \frac{1}{k_B^2}
 \mathcal{E}_{ij}
 }.
 $$
 
-This provides a particularly clean mathematical statement:
+This provides a particularly vital mathematical ToE statement:
 
-> Fisher geometry may be interpreted as normalized entropic-gradient geometry.
+> # **Fisher geometry may be interpreted as normalized entropic-gradient geometry.**
 
-Within ToE, this relationship deserves substantial attention.
+**Within ToE, this relationship deserves substantial attention.**
 
 ---
 
@@ -2361,7 +2287,7 @@ g^F_{ij}
 \right\rangle.
 $$
 
-The Obidi transformation may then act schematically as
+The disformal Obidi transformation then acts schematically as
 
 $$
 \mathcal{O}:
@@ -2396,7 +2322,7 @@ g^{O}_{\mu\nu}
 g^{GR}_{\mu\nu},
 $$
 
-then the full ToE sequence would become
+then the full ToE sequence becomes
 
 $$
 \boxed{
@@ -2412,7 +2338,7 @@ $$
 }.
 $$
 
-That is potentially one of the most important conceptual chains available to the Theory of Entropicity.
+**That is potentially one of the most important conceptual chains in the Theory of Entropicity (ToE).**
 
 ---
 
@@ -2423,16 +2349,14 @@ In field theory, constitutive relations connect different physical variables.
 For example, a material may satisfy
 
 $$
-\mathbf{D}
-=
+\mathbf{D}=
 \varepsilon\mathbf{E}.
 $$
 
-Similarly, ToE may interpret
+Similarly, ToE interprets
 
 $$
-\Lambda
-=
+\Lambda=
 k_B\ln
 \left(
 \frac{\rho}{\rho_*}
@@ -2443,19 +2367,18 @@ $$
 
 as a constitutive relation linking entropic structure to probability density.
 
-The relation then says:
+**Thus, the Obidi relation of ToE states:**
 
-> Given a probability configuration, there exists an associated entropic-field configuration, and vice versa.
+> # **Given a probability configuration, there exists an associated entropic-field configuration, and vice versa.**
 
-A more advanced theory may eventually replace this simple relation with a nonlinear or nonlocal functional,
+This is just a basic statement of Obidi's relation; so, it is envisaged that a more advanced structure may eventually replace this simple relation with a nonlinear or nonlocal functional,
 
 $$
-\Lambda(x)
-=
+\Lambda(x)=
 \mathcal{F}[\rho](x).
 $$
 
-But the logarithmic form provides a natural minimal starting point.
+But the logarithmic form provides a natural minimal starting point, at least so far.
 
 ---
 
@@ -2465,8 +2388,7 @@ One may therefore define the entropic-probability correspondence as
 
 $$
 \boxed{
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 \sigma k_B
 \ln
 \left[
@@ -2489,8 +2411,7 @@ The inverse relation is
 
 $$
 \boxed{
-\rho(x,t)
-=
+\rho(x,t)=
 \rho_*
 \exp
 \left[
@@ -2508,8 +2429,7 @@ $$
 for $\sigma=\pm1$, this may also be written as
 
 $$
-\rho
-=
+\rho=
 \rho_*
 e^{\sigma(\Lambda-\Lambda_*)/k_B}.
 $$
@@ -2518,19 +2438,19 @@ The sign $\sigma$ should ultimately be derived from the dynamics.
 
 ---
 
-# 43. Proposed Interpretation within ToE
+# 43. Interpretation within ToE
 
-A precise interpretation consistent with the broader foundations of the Theory of Entropicity may be stated as follows:
+A precise interpretation consistent with the broader foundations of the Theory of Entropicity (ToE) may now be stated as follows:
 
-> The Obidi entropic field $\Lambda$ represents a logarithmic encoding of the local statistical accessibility of physical configurations. Quantum probability density is then the exponential observable representation of that entropic configuration. Spatial and temporal variations of probability correspond to gradients and evolution of the entropic field, while correlations of entropic-field gradients generate the Fisher information metric. Through the wider geometric machinery of ToE, including the Obidi transformation and the Obidi metric, this information-geometric structure may serve as an intermediate layer between probabilistic quantum description and emergent physical spacetime geometry.
+> The Obidi entropic field $\Lambda$ represents a logarithmic encoding of the local statistical accessibility of physical configurations. Quantum probability density is then the exponential observable representation of that entropic configuration. Spatial and temporal variations of probability correspond to gradients and evolution of the entropic field, while correlations of entropic-field gradients generate the Fisher information metric. Through the wider geometric machinery of the Theory of Entropicity (ToE), including the disformal Obidi transformation and the Obidi metric, this information-geometric structure is positioned to serve as an intermediate layer between probabilistic quantum description and emergent physical spacetime geometry in the theory.
 
-This interpretation is considerably stronger and more precise than simply saying that entropy and probability are related.
+We note that this interpretation is considerably stronger and more precise than simply saying that entropy and probability are related.
 
 ---
 
 # 44. The Conceptual Hierarchy
 
-The theory may therefore distinguish the following levels:
+The Theory of Entropicity (ToE) therefore distinguishes the following levels:
 
 $$
 \boxed{
@@ -2615,18 +2535,17 @@ $$
 
 ---
 
-# 45. A Possible Foundational Statement
+# 45. A Foundational Statement
 
-The relationship may be elevated to a formal foundational proposition.
+We may now elevate the relationship to a formal foundational proposition.
 
 ## Entropic-Probability Correspondence Principle
 
-Within the Theory of Entropicity, the local probability density $\rho$ associated with a physical configuration is related to the local Obidi entropic field $\Lambda$ through the logarithmic correspondence
+Within the Theory of Entropicity (ToE), the local probability density $\rho$ associated with a physical configuration is related to the local Obidi entropic field $\Lambda$ through the logarithmic correspondence
 
 $$
 \boxed{
-\Lambda-\Lambda_*
-=
+\Lambda-\Lambda_*=
 \sigma k_B
 \ln
 \left(
@@ -2639,8 +2558,7 @@ or equivalently
 
 $$
 \boxed{
-\rho
-=
+\rho=
 \rho_*
 \exp
 \left[
@@ -2653,8 +2571,7 @@ Under this correspondence, probability gradients are entropic-field gradients,
 
 $$
 \boxed{
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 \sigma k_B
 \partial_\mu\ln\rho,
 }
@@ -2664,8 +2581,7 @@ and Fisher information geometry may be represented as the statistical geometry o
 
 $$
 \boxed{
-g^F_{ij}
-=
+g^F_{ij}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -2678,15 +2594,15 @@ This provides a direct mathematical bridge between entropic structure, probabili
 
 ---
 
-# 46. Relation to the Ontology of ToE
+# 46. Relation to the Ontology of the Theory of Entropicity (ToE)
 
-The equation raises a deeper ontological question:
+**The equation raises a deeper ontological question:**
 
-Which quantity is fundamental?
+> # **Which quantity is fundamental?**
 
-Standard quantum mechanics generally treats the quantum state as fundamental to the formalism and obtains probabilities through the Born rule.
+**Standard quantum mechanics generally treats the quantum state as fundamental to the formalism and obtains probabilities through the Born rule.**
 
-ToE may instead propose a hierarchy in which
+**The Theory of Entropicity (ToE) instead proposes a [deeper] hierarchy in which**
 
 $$
 \Lambda
@@ -2700,7 +2616,7 @@ $$
 
 is an emergent statistical quantity.
 
-The distinction may be written as
+The distinction may thus be written as
 
 $$
 \text{Ontic Entropic Structure}
@@ -2708,9 +2624,9 @@ $$
 \text{Probabilistic Quantum Description}.
 $$
 
-This would represent a significant conceptual departure from interpretations in which probability is irreducible.
+This represents a significant conceptual departure from [the standard or traditional quantum mechanical] interpretations in which probability is irreducible.
 
-However, such an ontology must ultimately be justified by predictive mathematics and empirical tests.
+We note, nonetheless, that such a radical and audacious ontology must ultimately be justified by predictive mathematics and empirical tests.
 
 ---
 
@@ -2733,8 +2649,7 @@ $$
 If
 
 $$
-\rho
-=
+\rho=
 \rho_*e^{(\Lambda-\Lambda_*)/k_B},
 $$
 
@@ -2746,9 +2661,9 @@ $$
 g^F.
 $$
 
-Therefore, ToE may argue that geometry originates not directly from probability alone but from the differential structure of the entropic field encoded by probability.
+**Therefore, ToE argues that geometry originates not directly from probability [alone] but from the differential structure of the entropic field encoded by probability.**
 
-This gives a sharper formulation of the ToE idea that information geometry and physical geometry may be deeply connected.
+**This hence gives a sharper formulation of the ToE idea that information geometry and physical geometry may be deeply connected.**
 
 ---
 
@@ -2758,8 +2673,7 @@ The most important mathematical consequence of the entire relation may be summar
 
 $$
 \boxed{
-\partial_i\ln p
-=
+\partial_i\ln p=
 \frac{1}{k_B}
 \partial_i\Lambda.
 }
@@ -2775,8 +2689,7 @@ it follows immediately that
 
 $$
 \boxed{
-g^F_{ij}
-=
+g^F_{ij}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -2785,15 +2698,15 @@ g^F_{ij}
 }
 $$
 
-Thus, information geometry is no longer merely associated conceptually with entropy. It can be written explicitly in terms of entropic-field derivatives.
+**Thus, information geometry is no longer merely associated conceptually with entropy. It can be written explicitly in terms of entropic-field derivatives in Obidi's Theory of Entropicity (ToE).**
 
-Within ToE, this may be one of the clearest mathematical pathways linking entropy to geometry.
+> # **Within the Theory of Entropicity (ToE), this represents perhaps one of the clearest and most daring mathematical pathways linking entropy to geometry.**
 
 ---
 
 # 49. The Most Important Physical Consequence
 
-The most important physical interpretation is
+The most important physical ToE interpretation is
 
 $$
 \boxed{
@@ -2803,9 +2716,9 @@ e^{\Lambda/k_B}.
 }
 $$
 
-Under the positive-sign convention, this means:
+**Under the positive-sign convention, this means:**
 
-> Quantum probability density may be interpreted as the exponential manifestation of an underlying entropic field configuration.
+> # **Quantum probability density may be interpreted as the exponential manifestation of an underlying entropic field configuration.**
 
 Under the negative-sign convention,
 
@@ -2817,17 +2730,17 @@ $$
 
 the interpretation becomes:
 
-> Quantum probability density is exponentially suppressed by increasing entropic potential.
+> # **Quantum probability density is exponentially suppressed by increasing entropic potential.**
 
-Which version is physically appropriate must be decided by the dynamical structure of ToE.
+**Which version is physically appropriate [with respect to the system] must be decided by the dynamical structure of ToE via the Obidi Action.**
 
 ---
 
-# 50. The Strongest Form of the ToE Hypothesis
+# 50. The Strongest Form of the ToE Proposition
 
-The strongest form of the idea may be stated as follows:
+Given all of the foregoing, the strongest form of the ToE idea may now be stated as follows:
 
-> The probability distribution appearing in quantum mechanics is not necessarily a primitive property of nature. It may instead be the statistical projection of a deeper entropic field. The logarithm of probability defines an entropic coordinate, gradients of that coordinate generate Fisher information geometry, and the resulting information-geometric structure may, through the Obidi transformation and associated metric correspondence, contribute to the emergence of Lorentzian spacetime geometry.
+> # **The probability distribution appearing in quantum mechanics is not necessarily a primitive property of nature. It may instead be the statistical projection of a deeper entropic field. The logarithm of probability defines an entropic coordinate, gradients of that coordinate generate Fisher information geometry, and the resulting information-geometric structure may, through the disformal Obidi transformation and associated metric correspondence, yield to the emergence of Lorentzian spacetime geometry.**
 
 In compact mathematical form,
 
@@ -2847,29 +2760,27 @@ g^{GR}_{\mu\nu}.
 }
 $$
 
-This is the broader theoretical significance of the equation.
+**This is the broader theoretical significance of the ToE Basic Obidi Entropic-Probability (BOEP) Relation we began with in this paper.**
 
 ---
 
 # 51. Conclusion
 
-The equation
+The equation [Basic Obidi Entropic-Probability (BOEP) Relation]
 
 $$
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 k_B\ln|\psi(x,t)|^2+C
 $$
 
-appears simple, but within the foundations of the Theory of Entropicity it carries potentially extensive mathematical and conceptual consequences.
+appears simple, but within the foundations of the Theory of Entropicity (ToE) it carries [potentially] extensive mathematical and conceptual consequences.
 
-Its first meaning is that probability and entropic structure may be regarded as two representations of the same local statistical configuration.
+* **Its first meaning is that probability and entropic structure may be regarded as two representations of the same local statistical configuration.**
 
-Its second meaning is that probability ratios correspond directly to entropic-field differences:
+* **Its second meaning is that probability ratios correspond directly to entropic-field differences:**
 
 $$
-\Delta\Lambda
-=
+\Delta\Lambda=
 k_B
 \ln
 \left(
@@ -2877,28 +2788,25 @@ k_B
 \right).
 $$
 
-Its third meaning is that probability gradients and entropic gradients are mathematically equivalent:
+* **Its third meaning is that probability gradients and entropic gradients are mathematically equivalent:**
 
 $$
-\nabla\Lambda
-=
+\nabla\Lambda=
 k_B\nabla\ln\rho.
 $$
 
-Its fourth meaning is that probability evolution can be expressed through entropic-field evolution:
+* **Its fourth meaning is that probability evolution can be expressed through entropic-field evolution:**
 
 $$
-\frac{\partial\rho}{\partial t}
-=
+\frac{\partial\rho}{\partial t}=
 \frac{\rho}{k_B}
 \frac{\partial\Lambda}{\partial t}.
 $$
 
-Its fifth meaning is that Fisher information geometry can be rewritten directly in terms of entropic-field gradients:
+* **Its fifth meaning is that Fisher information geometry can be rewritten directly in terms of entropic-field gradients:**
 
 $$
-g^F_{ij}
-=
+g^F_{ij}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -2906,14 +2814,13 @@ g^F_{ij}
 \right\rangle.
 $$
 
-Its sixth meaning is that the relation may provide a mathematical pathway from quantum probability to information geometry and, within the wider ToE framework, from information geometry toward emergent spacetime geometry.
+* **Its sixth meaning is that the relation may provide a mathematical pathway from quantum probability to information geometry and, within the wider ToE framework, from information geometry toward emergent spacetime geometry.**
 
-For mathematical rigor, the preferred relation should be written as
+For mathematical rigor, the relation is written as
 
 $$
 \boxed{
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 \sigma k_B
 \ln
 \left[
@@ -2942,8 +2849,7 @@ The inverse relation is
 
 $$
 \boxed{
-\rho(x,t)
-=
+\rho(x,t)=
 \rho_*
 \exp
 \left[
@@ -2952,9 +2858,9 @@ $$
 }
 $$
 
-The deepest significance of this correspondence is therefore not simply that entropy and probability are mathematically connected. That fact is already well known in statistical physics and information theory.
+**The deepest significance of this correspondence is therefore not simply that entropy and probability are mathematically connected. That fact is already well known in statistical physics and information theory.**
 
-The stronger ToE proposition is that the logarithmic structure of probability may itself correspond to a physically meaningful entropic field, and that the differential structure of this field may generate information geometry.
+**The stronger ToE proposition is that the logarithmic structure of probability may itself correspond to a physically meaningful entropic field, and that the differential structure of this field may generate information geometry.**
 
 The proposed hierarchy is therefore
 
@@ -2992,10 +2898,14 @@ $$
 e^{\Lambda/k_B}
 $$
 
-can ultimately be derived from the Obidi Action, the Vuli Ndlela Integral, an entropic variational principle, or another foundational ToE mechanism rather than introduced merely as an ansatz, then its theoretical status would change substantially.
+can ultimately be derived from the **Obidi Action,** the **Vuli-Ndlela Integral (VNI),** an **entropic variational principle,** or **another foundational ToE mechanism** rather than introduced merely as an ansatz, then its theoretical status would change substantially.
 
 It would no longer represent only a suggestive analogy between entropy and probability.
 
-It would become a structural law connecting the probabilistic language of quantum mechanics, the differential geometry of information, and the entropic foundations proposed by the Theory of Entropicity.
+It would become a structural law connecting the probabilistic language of quantum mechanics, the differential geometry of information, and the entropic foundations proposed by the Theory of Entropicity (ToE).
 
-The next rigorous step would be for us to derive this relation directly and rigorously from the **Obidi Action** or **Vuli Ndlela Integral (VNI)**, rather than assuming it, and then test whether the same derivation recovers the Born rule and Fisher metric without additional postulates. 
+The next rigorous step would be for us to derive this relation directly and rigorously from the **Obidi Action** or **Vuli Ndlela Integral (VNI)**, rather than assuming it, and then test whether the same derivation recovers the **Born rule** and **Fisher metric** without additional postulates. 
+
+**For further details of earlier demonstrations concerning Obidi's Entropic-Probability Relation and the Obidi Probability Law, etc., refer to the work:** 
+
+> # ***Einstein and Bohr Finally Reconciled...***
