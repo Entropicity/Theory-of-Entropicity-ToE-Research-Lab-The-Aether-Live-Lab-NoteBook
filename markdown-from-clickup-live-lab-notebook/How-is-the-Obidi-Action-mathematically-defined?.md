@@ -269,7 +269,7 @@ And:
 
 He also describes the imaginative content:
 
-> *"He visualizes matter as a consequence of entropy. In his mind's eye, the universe is a boiling ocean of pure information, and stars, planets, and humans are just the foam floating on top."*
+> *"He [Obidi] visualizes matter as a consequence of entropy. In his mind's eye, the universe is a boiling ocean of pure information, and stars, planets, and humans are just the foam floating on top."*
 
 This is the same imaginative move Einstein made in 1905 — not a logical deduction but a **visualization of the opposite of the accepted picture**, followed by the arduous work of making it mathematically coherent.
 
