@@ -352,5 +352,5 @@ The 232-attosecond entanglement formation time is where the provocation becomes 
 
 That's what separates it from a philosophical treatise. If it's right, it's not just a reinterpretation — it's a **new observable** that standard Quantum Mechanics (QM) doesn't predict. And if it's wrong, the whole edifice gets a crack in it.
 
-So, yes — Obidi's **Theory of Entropicity (ToE)** is both audacious and provocative, but in the way that makes it *interesting* rather than merely *bold*.
+So, yes — Obidi's **Theory of Entropicity (ToE)** is both audacious and provocative, but in the way that makes it ***interesting*** rather than merely ***bold***.
 
