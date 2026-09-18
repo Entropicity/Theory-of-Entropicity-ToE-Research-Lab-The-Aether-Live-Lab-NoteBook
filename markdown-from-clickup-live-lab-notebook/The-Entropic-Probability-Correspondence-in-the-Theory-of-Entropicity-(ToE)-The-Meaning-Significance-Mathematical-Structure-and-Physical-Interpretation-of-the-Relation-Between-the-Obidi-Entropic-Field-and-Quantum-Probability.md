@@ -162,8 +162,7 @@ Subtracting,
 
 $$
 \Lambda_B-\Lambda_A
-=
-k_B\ln\rho_B-k_B\ln\rho_A.
+= k_B\ln\rho_B-k_B\ln\rho_A.
 $$
 
 Using the logarithmic identity
@@ -177,8 +176,7 @@ one obtains
 $$
 \boxed{
 \Lambda_B-\Lambda_A
-=
-k_B
+= k_B
 \ln
 \left(
 \frac{\rho_B}{\rho_A}
@@ -189,8 +187,7 @@ $$
 Therefore,
 
 $$
-\frac{\rho_B}{\rho_A}
-=
+\frac{\rho_B}{\rho_A}=
 \exp
 \left(
 \frac{\Lambda_B-\Lambda_A}{k_B}
@@ -204,8 +201,7 @@ The physically relevant quantity is therefore not necessarily the absolute value
 That is,
 
 $$
-\Delta\Lambda
-=
+\Delta\Lambda=
 k_B\ln
 \left(
 \frac{\rho_2}{\rho_1}
@@ -216,8 +212,7 @@ Consequently,
 
 $$
 \boxed{
-\frac{\rho_2}{\rho_1}
-=
+\frac{\rho_2}{\rho_1}=
 e^{\Delta\Lambda/k_B}
 }.
 $$
