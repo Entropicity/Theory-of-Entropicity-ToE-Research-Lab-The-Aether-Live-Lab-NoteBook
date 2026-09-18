@@ -228,7 +228,7 @@ A direct consequence of the NRT is that **simultaneity is forbidden, even locall
 This is stronger than the standard relativistic denial of absolute simultaneity. In ToE, simultaneity is not merely relative; it is **structurally impossible** because the entropic field cannot redistribute instantaneously. The consequence is that **time dilation, length contraction, and mass increase** are not geometric consequences of Lorentz symmetry but **manifestations of entropic resistance**: motion through the entropic field requires reconfiguration of its curvature, and this reconfiguration incurs an entropic cost.
 
 The ***Einsteinian*** **equivalence principle** also obtains a natural entropic interpretation: 
-> # ***both gravitational curvature and acceleration represent configurations in which the entropy field reorganizes at constrained rates. A freely falling observer does not feel gravity because, locally, the entropy field is in a state of **dynamic equilibrium**.***
+> # ***Both gravitational curvature and acceleration represent configurations in which the entropy field reorganizes at constrained rates. A freely falling observer does not feel gravity because, locally, the entropy field is in a state of **dynamic equilibrium**.***
 
 ---
 
@@ -237,7 +237,9 @@ The ***Einsteinian*** **equivalence principle** also obtains a natural entropic 
 ToE derives the **Principle of Complementarity (PoC)** as a consequence of entropic constraints rather than an independent quantum postulate. The reasoning is:
 
 1. Distinguishability is **finite** — the entropic field has a bounded resolution.
+
 2. Resolution requires **entropic change** — to distinguish one state from another, the field must reconfigure.
+
 3. Entropic change is **directional** — it cannot proceed along all axes simultaneously.
 
 Therefore, the entropic field **cannot be simultaneously resolved with maximal sharpness along incompatible directions**. Complementarity is not an added principle; it **follows** from the geometry of the entropic field. This re-derivation dissolves the long-standing interpretive ambiguity of complementarity: it is not a rule about what we can know, but a **structural constraint on the field itself**.
@@ -251,7 +253,9 @@ The broader consequence is that **measurement is not passive** — it is an **en
 A subtle but important point: the three conjectures are **logically independent**, and this independence is not accidental.
 
 - The **First** asks: *What is fundamental?* → Entropy.
+
 - The **Second** asks: *What determines physical laws?* → The Entropic Field.
+
 - The **Third** asks: *What is spacetime?* → An emergent structure from entropic information.
 
 The First does not imply the Third. Stating "entropy is fundamental" does not logically entail "spacetime emerges from entropy" — one must separately demonstrate or postulate the emergence. The First is an **ontological declaration**; the Third is a **geometrical postulate**. The Second does not trivially absorb the Third either, because the Second addresses *how* laws behave, while the Third addresses *why there is spacetime at all* — a deeper question of undeniable utility.
@@ -279,7 +283,9 @@ This is not a limitation of current computational power; it is a **structural fe
 The **Obidi Curvature Invariant (OCI)** connects the curvature structure of the entropic field to the **binary unit of information**. If the bit arises from the curvature structure of the entropic field, then the foundations of information theory, thermodynamics, and quantum physics become **deeply interconnected**:
 
 - **Information** becomes a manifestation of entropic geometry.
+
 - **Thermodynamic costs** reflect the energy required to deform the entropic field across curvature thresholds.
+
 - **Quantum discreteness** emerges from the distinguishability structure of the entropic manifold.
 
 This is a direct response to Wheeler's "It from Bit" program, but with a crucial difference: ToE provides a **conserved, geometrically grounded quantity** (the Obidi Probability Law) that makes information not just foundational but **dynamically real**.
@@ -288,7 +294,11 @@ This is a direct response to Wheeler's "It from Bit" program, but with a crucial
 
 ## New Conservation Laws, Uncertainty, and CPT
 
-ToE also yields **new conservation laws** and **uncertainty relations** that go beyond the standard framework. The conservation identity $P_o(t) + P_e(t) = 1$ is one such law — a conservation of **total distinguishability** between the coherent and entropic sectors.
+ToE also yields **new conservation laws** and **uncertainty relations** that go beyond the standard framework. The conservation identity 
+
+$P_o(t) + P_e(t) = 1$ 
+
+is one such law — a conservation of **total distinguishability** between the coherent and entropic sectors.
 
 In the particle physics domain, ToE addresses **CPT symmetry-breaking** in the Standard Model, suggesting that the asymmetry between matter and antimatter may be a consequence of the **directional entropic flow** encoded in the $\alpha$-connections. The dualistic geometry ($\alpha \neq 0$) provides a natural mechanism for CP violation that is geometric in origin rather than a parameter to be fitted.
 
