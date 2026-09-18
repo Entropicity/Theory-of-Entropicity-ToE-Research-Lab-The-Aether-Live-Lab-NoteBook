@@ -243,7 +243,7 @@ Based on Obidi's own account and the trajectory of his publications, the path to
 
 ## 1. The Starting Observation
 
-Obidi's entry point was not thermodynamics but **information geometry**. His core insight, stated plainly in his "Logical Motivation" essay, is:
+Obidi's entry point was thermodynamics, which was thereafter followed with insights from **information geometry**. His core follow-up insight, stated plainly in his "Logical Motivation" essay, is:
 
 > *Entropy is the scalar potential from which all information geometry flows.*
 
