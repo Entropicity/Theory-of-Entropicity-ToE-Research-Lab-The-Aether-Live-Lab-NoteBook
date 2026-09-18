@@ -18,7 +18,7 @@ Obidi's SOA:
 
 $$S_{\text{Obidi}} = -\text{Tr}\ln(\Delta), \qquad \Delta = G[S]\, g[S]^{-1}$$
 
-also says: "the fundamental action is a **spectral invariant** — a trace of a function of an operator — from which geometry and dynamics follow." That is the same *move*. The "derive the action from the spectrum of an operator" strategy is Connes' strategy, and Obidi is making it.
+also says: "the fundamental action is a **spectral invariant** — a trace of a function of an operator — from which geometry and dynamics follow." That is the same *move*. The "derive the action from the spectrum of an operator" strategy is Connes' strategy, and Obidi is making an entropic use of it.
 
 ## Where It Is NOT a Repetition
 
