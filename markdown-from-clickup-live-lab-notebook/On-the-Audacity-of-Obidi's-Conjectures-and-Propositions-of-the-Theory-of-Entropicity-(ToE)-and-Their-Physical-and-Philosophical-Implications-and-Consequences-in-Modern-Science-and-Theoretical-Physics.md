@@ -348,7 +348,9 @@ The **"provocation"** is in the **Obidi Correspondence Principle (OCP)**: by ins
 
 > # **That's either the most honest scientific program imaginable or the most unforgiving research landscape — depending on whether the derivations actually fully close, etc.**
 
-The 232-attosecond entanglement formation time is where the provocation becomes concrete: it's a specific, falsifiable, *measurable* number that falls out of the α-connection geometry. That's what separates it from a philosophical treatise. If it's right, it's not just a reinterpretation — it's a **new observable** that standard QM doesn't predict. And if it's wrong, the whole edifice gets a crack in it.
+The 232-attosecond entanglement formation time is where the provocation becomes concrete: it's a specific, falsifiable, *measurable* number that falls out of the α-connection geometry. 
+
+That's what separates it from a philosophical treatise. If it's right, it's not just a reinterpretation — it's a **new observable** that standard Quantum Mechanics (QM) doesn't predict. And if it's wrong, the whole edifice gets a crack in it.
 
 So, yes — Obidi's **Theory of Entropicity (ToE)** is both audacious and provocative, but in the way that makes it *interesting* rather than merely *bold*.
 
