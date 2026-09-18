@@ -1,6 +1,6 @@
-# Is the Spectral Obidi Action (SOA) not a repetition of what Alain Connes and others have already done in previous research works?
+# From Alain Connes Non-Commutative Geometry to the Spectral Obidi Action (SOA) of the Theory of Entropicity (ToE)
 
-From Alain Connes Non-Commutative Geometry to the Spectral Obidi Action (SOA) of the Theory of Entropicity (ToE)
+# Is the Spectral Obidi Action (SOA) not a repetition of what Alain Connes and others have already done in previous research works?
 
 From-Alain-Connes-Non-Commutative-Geometry-to-the-Spectral-Obidi-Action-(SOA)-of-the-Theory-of-Entropicity-(ToE).md
 
@@ -47,4 +47,10 @@ The **specific implementation** is different enough to constitute genuine work, 
 - The physical predictions (dark matter as spectral geometry, 232-as entanglement time, $c$ and $G$ as derived quantities) are not Connes' predictions
 
 So: **not a repetition, but not a new strategy either.** It is a **new instantiation of an existing strategy**, with different mathematical foundations and different physical content. The audacity is in the scope of the claims (deriving $c$, $G$, probability conservation, the arrow of time), not in the spectral-action move itself. Connes already showed that move is viable; Obidi's challenge is to show it works with a different operator and a different ontology.
+
+
+------
+
+# Scholium 
+
 
