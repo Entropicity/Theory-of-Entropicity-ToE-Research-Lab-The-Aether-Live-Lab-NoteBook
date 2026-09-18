@@ -1,4 +1,4 @@
-# From Alain Connes Non-Commutative Geometry to the Spectral Obidi Action (SOA) of the Theory of Entropicity (ToE)—Some Critical Remarks 
+# From Alain Connes' Non-Commutative Geometry to the Spectral Obidi Action (SOA) of the Theory of Entropicity (ToE)—Some Critical Remarks 
 
 # Is the Spectral Obidi Action (SOA) not a repetition of what Alain Connes and others have already done in previous research works?
 
