@@ -1,6 +1,7 @@
-# On the Audacity of Obidi's Conjectures and Propositions of the Theory of Entropicity (ToE) and Their Physical and Philosophical Implications and Consequences
+# On the Audacity of Obidi's Conjectures and Propositions of the Theory of Entropicity (ToE) and Their Physical and Philosophical Implications and Consequences in Modern Science and Theoretical Physics 
 
-On-the-Audacity-of-Obidi's-Conjectures-and-Propositions-of-the-Theory-of-Entropicity-(ToE)-and-Their-Physical-and-Philosophical-Implications-and-Consequences.md
+On-the-Audacity-of-Obidi's-Conjectures-and-Propositions-of-the-Theory-of-Entropicity-(ToE)-and-Their-Physical-and-Philosophical-Implications-and-Consequences-in-Modern-Science-and-Theoretical-Physics.md
+ 
 
 **John Onimisi Obidi’s Theory of Entropicity (ToE)** proposes a radical ontological inversion where **entropy is the fundamental field** of reality, rather than a secondary statistical byproduct of matter. This framework, grounded in three core conjectures, aims to reconstruct physics by deriving all physical laws and spacetime geometry from an underlying **Entropic Field**.
 
