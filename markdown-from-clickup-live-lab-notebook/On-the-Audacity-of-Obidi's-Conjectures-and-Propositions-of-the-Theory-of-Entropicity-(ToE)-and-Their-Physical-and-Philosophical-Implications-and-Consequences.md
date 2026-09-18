@@ -115,8 +115,12 @@ This echoes — and formalizes — the ***Schopenhauerian*** distinction between
 ### **Causality redefined.** 
 Causality becomes **entropic separability** — events are causally connected when the entropic field distinguishes them. Measurement becomes **entropic stabilization**. These are not metaphorical rewordings but structural claims about what causal and measurement relations *are* in the entropic ontology.
 
-### **The Kolmogorov–Obidi lineage.** 
-Obidi situates ToE within a century-long convergence from Kolmogorov's information theory through Shannon, Fisher, and information geometry, arguing that these threads were always pointing toward entropy as the primitive field. The **Kolmogorov–Obidi Law (KOL)** for entropic propagation speed, $c_{\text{ent}} = \sqrt{\kappa / \rho_S}$, is presented as a natural descendant of this lineage.
+### **The Kolmogorov–Obidi lineage (KOL).** 
+Obidi situates ToE within a century-long convergence from **Kolmogorov's information theory** through **Shannon, Fisher,** and **information geometry,** arguing that these threads were always pointing toward entropy as the primitive field. The **Kolmogorov–Obidi Law (KOL)** for entropic propagation speed, 
+
+$c_{\text{ent}} = \sqrt{\kappa / \rho_S}$, 
+
+is presented as a natural descendant of this lineage.
 
 ---
 
