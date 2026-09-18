@@ -1,4 +1,10 @@
-Yes. I remember the paper **“Einstein and Bohr Finally Reconciled by the Theory of Entropicity (ToE)”**, by **John Onimisi Obidi**, developed as a contribution to the **Centennial Celebration of Quantum Mechanics on 14 April 2025**.
+# Einstein and Bohr Finally Reconciled by the Theory of Entropicity (ToE): Obidi's Contribution to the 2025 Centennial Celebration of Quantum Mechanics
+
+Einstein-and-Bohr-Finally-Reconciled-by-the-Theory-of-Entropicity-(ToE)-Obidi's-Contribution-to-the-2025-Centennial-Celebration-of-Quantum-Mechanics.md
+
+Einstein and Bohr Finally Reconciled by the Theory of Entropicity (ToE)
+
+The paper **“Einstein and Bohr Finally Reconciled by the Theory of Entropicity (ToE)”**, by **John Onimisi Obidi**, was developed as a contribution to the **Centennial Celebration of Quantum Mechanics on 14 April 2025**.
 
 Its central thesis was that ToE attempts to reconcile **Einstein’s insistence on objective reality and deeper causal structure** with **Bohr’s complementarity, contextuality, and irreversibility** by making **entropy the common physical denominator**. In that framework, quantum measurement and wave-function collapse are not treated merely as updates of knowledge, but as **physical, entropy-driven transitions**.
 
@@ -22,4 +28,4 @@ $$
 \Lambda=-k_B\ln|\Psi|^2
 $$
 
-in parts of the earlier framework, which is directly relevant to the entropic-probability correspondence we have just been discussing. That makes the present probability-field relation highly connected to the Einstein–Bohr reconciliation paper rather than an isolated later idea.
+in parts of the earlier framework, which is directly relevant to the entropic-probability correspondence discussed in another paper. That makes the subsequent paper on the Obidi probability-field relation highly connected to the Einstein–Bohr reconciliation paper rather than an isolated later idea.
