@@ -9,8 +9,7 @@ Within the Theory of Entropicity, the relation between probability and entropy i
 The foundational relation may be written as
 
 $$
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 -k_B
 \ln
 \left[
@@ -18,7 +17,7 @@ $$
 \right],
 $$
 
-where \(\Lambda(x,t)\) is the local Obidi entropic potential, \(p(x,t)\) is the relevant probability density, \(p_*\) is a reference density introduced so that the logarithmic argument is dimensionless, and \(k_B\) fixes the physical entropic scale.
+where $\(\Lambda(x,t)\)$ is the local Obidi entropic potential, $\(p(x,t)\)$ is the relevant probability density, $\(p_*\)$ is a reference density introduced so that the logarithmic argument is dimensionless, and $\(k_B\)$ fixes the physical entropic scale.
 
 For a quantum system,
 
@@ -30,8 +29,7 @@ so that
 
 $$
 \boxed{
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 -k_B
 \ln
 \left[
@@ -46,8 +44,7 @@ Its inverse is
 
 $$
 \boxed{
-p(x,t)
-=
+p(x,t)=
 p_*
 \exp
 \left[
@@ -89,8 +86,7 @@ This hierarchy expresses the deeper role assigned to entropy in the theory.
 In conventional formulations of statistical mechanics and information theory, one typically begins with a probability distribution \(p\). Entropy is subsequently calculated from that distribution through a functional such as
 
 $$
-S
-=
+S=
 -k_B
 \int
 p(x)\ln p(x)\,dx.
@@ -111,16 +107,14 @@ is interpreted not merely as a factor appearing inside an entropy functional, bu
 Thus,
 
 $$
-\Lambda
-=
+\Lambda=
 -k_B\ln(p/p_*),
 $$
 
 and therefore
 
 $$
-p
-=
+p=
 p_*e^{-\Lambda/k_B}.
 $$
 
@@ -133,22 +127,19 @@ A configuration with lower entropic potential possesses greater statistical acce
 For two configurations \(1\) and \(2\),
 
 $$
-\Lambda_1
-=
+\Lambda_1=
 -k_B\ln(p_1/p_*),
 $$
 
 $$
-\Lambda_2
-=
+\Lambda_2=
 -k_B\ln(p_2/p_*).
 $$
 
 Subtracting,
 
 $$
-\Lambda_2-\Lambda_1
-=
+\Lambda_2-\Lambda_1=
 -k_B
 \ln
 \left(
@@ -160,8 +151,7 @@ Hence,
 
 $$
 \boxed{
-\frac{p_2}{p_1}
-=
+\frac{p_2}{p_1}=
 \exp
 \left[
 -\frac{\Lambda_2-\Lambda_1}{k_B}
@@ -200,8 +190,7 @@ This same exponential structure is fundamental throughout equilibrium statistica
 Once the entropic potential is defined locally,
 
 $$
-\Lambda(x)
-=
+\Lambda(x)=
 -k_B
 \ln
 \left(
@@ -214,8 +203,7 @@ the standard entropy functional acquires a new interpretation.
 Multiply the relation by \(p(x)\):
 
 $$
-p(x)\Lambda(x)
-=
+p(x)\Lambda(x)=
 -k_B
 p(x)
 \ln
@@ -228,8 +216,7 @@ Integrating over the probability space gives
 
 $$
 \int
-p(x)\Lambda(x)\,dx
-=
+p(x)\Lambda(x)\,dx=
 -k_B
 \int
 p(x)
@@ -258,8 +245,7 @@ Instead,
 
 $$
 \boxed{
-\text{global entropy}
-=
+\text{global entropy}=
 \text{statistical accumulation of local entropic structure}.
 }
 $$
@@ -286,8 +272,7 @@ Rather,
 
 $$
 \boxed{
-S
-=
+S=
 \mathcal{F}[p,\Lambda].
 }
 $$
@@ -295,8 +280,7 @@ $$
 In the simplest expectation-value representation,
 
 $$
-S
-=
+S=
 \langle\Lambda\rangle.
 $$
 
@@ -311,16 +295,14 @@ The logarithmic probability field is deeply compatible with the classical and qu
 Boltzmann's celebrated relation is
 
 $$
-S_B
-=
+S_B=
 k_B\ln\Omega.
 $$
 
 Shannon entropy is
 
 $$
-S_{\mathrm{Sh}}
-=
+S_{\mathrm{Sh}}=
 -k_B
 \sum_i
 p_i\ln p_i.
@@ -329,8 +311,7 @@ $$
 Von Neumann entropy is
 
 $$
-S_{\mathrm{vN}}
-=
+S_{\mathrm{vN}}=
 -k_B
 \operatorname{Tr}
 (\rho\ln\rho).
@@ -356,8 +337,7 @@ ToE promotes this local logarithmic quantity into the entropic potential
 
 $$
 \boxed{
-\Lambda
-=
+\Lambda=
 -k_B\ln(p/p_*).
 }
 $$
@@ -399,24 +379,21 @@ The logarithm is not introduced arbitrarily.
 Its central mathematical property is
 
 $$
-\ln(ab)
-=
+\ln(ab)=
 \ln a+\ln b.
 $$
 
 For statistically independent systems,
 
 $$
-p_{AB}
-=
+p_{AB}=
 p_Ap_B.
 $$
 
 Therefore,
 
 $$
--\ln p_{AB}
-=
+-\ln p_{AB}=
 -\ln p_A
 -\ln p_B.
 $$
@@ -425,8 +402,7 @@ Multiplying by \(k_B\),
 
 $$
 \boxed{
-\Lambda_{AB}
-=
+\Lambda_{AB}=
 \Lambda_A+\Lambda_B.
 }
 $$
@@ -456,16 +432,14 @@ Within ToE, it also provides a principled reason for treating \(\Lambda\) as the
 For a quantum system,
 
 $$
-p(x,t)
-=
+p(x,t)=
 |\Psi(x,t)|^2.
 $$
 
 Therefore,
 
 $$
-|\Psi(x,t)|^2
-=
+|\Psi(x,t)|^2=
 p_*
 e^{-\Lambda(x,t)/k_B}.
 $$
@@ -473,8 +447,7 @@ $$
 Taking the square root,
 
 $$
-|\Psi(x,t)|
-=
+|\Psi(x,t)|=
 \sqrt{p_*}
 e^{-\Lambda(x,t)/(2k_B)}.
 $$
@@ -534,8 +507,7 @@ Thus ToE suggests a layered interpretation of the wavefunction:
 
 $$
 \boxed{
-\text{quantum amplitude}
-=
+\text{quantum amplitude}=
 \text{entropic weighting},
 }
 $$
@@ -544,8 +516,7 @@ while
 
 $$
 \boxed{
-\text{quantum phase}
-=
+\text{quantum phase}=
 \text{coherent dynamical structure}.
 }
 $$
@@ -559,16 +530,14 @@ The local relation becomes dynamically significant when differentiated.
 From
 
 $$
-\Lambda
-=
+\Lambda=
 -k_B\ln p,
 $$
 
 one obtains
 
 $$
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 -k_B
 \partial_\mu\ln p.
 $$
@@ -576,8 +545,7 @@ $$
 Since
 
 $$
-\partial_\mu\ln p
-=
+\partial_\mu\ln p=
 \frac{\partial_\mu p}{p},
 $$
 
@@ -585,8 +553,7 @@ we obtain
 
 $$
 \boxed{
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 -\frac{k_B}{p}
 \partial_\mu p.
 }
@@ -596,8 +563,7 @@ Equivalently,
 
 $$
 \boxed{
-\partial_\mu p
-=
+\partial_\mu p=
 -\frac{p}{k_B}
 \partial_\mu\Lambda.
 }
@@ -646,8 +612,7 @@ Suppose the probability density satisfies a continuity equation,
 $$
 \frac{\partial p}{\partial t}
 +
-\nabla\cdot\mathbf{J}
-=
+\nabla\cdot\mathbf{J}=
 0.
 $$
 
@@ -664,10 +629,8 @@ the continuity equation becomes
 
 $$
 -\frac{p}{k_B}
-\frac{\partial\Lambda}{\partial t}
-+
-\nabla\cdot\mathbf{J}
-=
+\frac{\partial\Lambda}{\partial t}+
+\nabla\cdot\mathbf{J}=
 0.
 $$
 
@@ -675,8 +638,7 @@ Hence,
 
 $$
 \boxed{
-\frac{\partial\Lambda}{\partial t}
-=
+\frac{\partial\Lambda}{\partial t}=
 \frac{k_B}{p}
 \nabla\cdot\mathbf{J}.
 }
@@ -713,8 +675,7 @@ $$
 Each corresponds to an entropic potential
 
 $$
-\Lambda_i
-=
+\Lambda_i=
 -k_B\ln(p_i/p_*).
 $$
 
@@ -733,8 +694,7 @@ $$
 changes dynamically, and because
 
 $$
-p_i
-=
+p_i=
 p_*
 e^{-\Lambda_i/k_B},
 $$
@@ -812,10 +772,8 @@ where \(P_o\) denotes the probability associated with the observable sector and 
 Differentiating,
 
 $$
-\frac{dP_o}{dt}
-+
-\frac{dP_e}{dt}
-=
+\frac{dP_o}{dt}+
+\frac{dP_e}{dt}=
 0.
 $$
 
@@ -823,9 +781,7 @@ Hence,
 
 $$
 \boxed{
-\frac{dP_o}{dt}
-=
--
+\frac{dP_o}{dt}=-
 \frac{dP_e}{dt}.
 }
 $$
@@ -857,8 +813,7 @@ $$
 Associated entropic potentials may be defined through
 
 $$
-\Lambda_o
-=
+\Lambda_o=
 -k_B
 \ln(p_o/p_*),
 $$
@@ -866,8 +821,7 @@ $$
 and
 
 $$
-\Lambda_e
-=
+\Lambda_e=
 -k_B
 \ln(p_e/p_*).
 $$
@@ -878,8 +832,7 @@ Thus the Obidi Probability Law acquires a local dynamical interpretation:
 
 $$
 \boxed{
-\text{probability conservation}
-=
+\text{probability conservation}=
 \text{entropic redistribution across sectors}.
 }
 $$
@@ -941,8 +894,7 @@ This connects the emergence of classicality to irreversible entropic dynamics ra
 One of the strongest mathematical consequences of the relation
 
 $$
-\Lambda
-=
+\Lambda=
 -k_B\ln p
 $$
 
@@ -965,8 +917,7 @@ $$
 Since
 
 $$
-\partial_i\ln p
-=
+\partial_i\ln p=
 -\frac{1}{k_B}
 \partial_i\Lambda,
 $$
@@ -974,8 +925,7 @@ $$
 substitution gives
 
 $$
-g_{ij}^{F}
-=
+g_{ij}^{F}=
 \frac{1}{k_B^2}
 \int
 p
@@ -990,8 +940,7 @@ Therefore,
 
 $$
 \boxed{
-g_{ij}^{F}
-=
+g_{ij}^{F}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -1053,8 +1002,7 @@ then statistical distinguishability is generated by variation in the entropic fi
 The information-geometric line element
 
 $$
-ds_F^2
-=
+ds_F^2=
 g_{ij}^{F}
 d\theta^id\theta^j
 $$
@@ -1084,8 +1032,7 @@ It is generated by entropic differentiation.
 The second derivative of the entropic potential is
 
 $$
-\partial_\mu\partial_\nu\Lambda
-=
+\partial_\mu\partial_\nu\Lambda=
 -k_B
 \partial_\mu\partial_\nu\ln p.
 $$
@@ -1094,12 +1041,10 @@ Expanding,
 
 $$
 \boxed{
-\partial_\mu\partial_\nu\Lambda
-=
+\partial_\mu\partial_\nu\Lambda=
 -k_B
 \left[
-\frac{\partial_\mu\partial_\nu p}{p}
--
+\frac{\partial_\mu\partial_\nu p}{p}-
 \frac{
 \partial_\mu p
 \partial_\nu p
@@ -1329,16 +1274,14 @@ This provides a natural conceptual unity between the logarithmic probability fie
 A local Obidi Action may be written schematically as
 
 $$
-S_O[\Lambda]
-=
+S_O[\Lambda]=
 \int
 \sqrt{-g}
 \left[
 \frac{1}{2}
 K(\Lambda)
 \nabla_\mu\Lambda
-\nabla^\mu\Lambda
--
+\nabla^\mu\Lambda-
 V(\Lambda)
 \right]
 d^4x.
@@ -1357,8 +1300,7 @@ the kinetic sector becomes
 
 $$
 \nabla_\mu\Lambda
-\nabla^\mu\Lambda
-=
+\nabla^\mu\Lambda=
 k_B^2
 \nabla_\mu\ln p
 \nabla^\mu\ln p.
@@ -1389,16 +1331,14 @@ It may instead be understood as the dynamical functional governing the geometry 
 If an effective entropic force is associated with the gradient of \(\Lambda\),
 
 $$
-F_\mu
-=
+F_\mu=
 -\partial_\mu\Lambda,
 $$
 
 then
 
 $$
-F_\mu
-=
+F_\mu=
 k_B
 \partial_\mu\ln p.
 $$
@@ -1407,8 +1347,7 @@ Hence,
 
 $$
 \boxed{
-F_\mu
-=
+F_\mu=
 k_B
 \frac{\partial_\mu p}{p}.
 }
@@ -1429,8 +1368,7 @@ This naturally links the Entropic Resistance Principle to probability evolution.
 From
 
 $$
-|\nabla\Lambda|
-=
+|\nabla\Lambda|=
 k_B
 |\nabla\ln p|,
 $$
@@ -1561,12 +1499,9 @@ Thus,
 
 $$
 \boxed{
-\text{measurement}
-=
-\text{entropic restructuring}
-=
-\text{probability restructuring}
-=
+\text{measurement}=
+\text{entropic restructuring}=
+\text{probability restructuring}=
 \text{information-geometric restructuring}.
 }
 $$
@@ -1585,8 +1520,7 @@ Instead, it introduces a local entropic potential,
 
 $$
 \boxed{
-\Lambda(x,t)
-=
+\Lambda(x,t)=
 -k_B
 \ln
 \left[
@@ -1601,8 +1535,7 @@ Thus,
 
 $$
 \boxed{
-\Lambda
-=
+\Lambda=
 \text{local entropic structure},
 }
 $$
@@ -1611,8 +1544,7 @@ while
 
 $$
 \boxed{
-S
-=
+S=
 \text{global statistical functional of that structure}.
 }
 $$
@@ -1643,8 +1575,7 @@ Second,
 
 $$
 \boxed{
-p(x,t)
-=
+p(x,t)=
 p_*
 e^{-\Lambda/k_B}
 }
@@ -1656,8 +1587,7 @@ Third,
 
 $$
 \boxed{
-S
-=
+S=
 \langle\Lambda\rangle
 }
 $$
@@ -1668,8 +1598,7 @@ Fourth,
 
 $$
 \boxed{
-\partial_\mu\Lambda
-=
+\partial_\mu\Lambda=
 -k_B\partial_\mu\ln p
 }
 $$
@@ -1680,8 +1609,7 @@ Fifth,
 
 $$
 \boxed{
-g_{ij}^{F}
-=
+g_{ij}^{F}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -1724,8 +1652,7 @@ At the quantum level,
 
 $$
 \boxed{
-\Psi
-=
+\Psi=
 \sqrt{p_*}
 \exp
 \left[
@@ -1792,8 +1719,7 @@ It represents the natural local measure of statistical accessibility, informatio
 By assigning it physical field status,
 
 $$
-\Lambda
-=
+\Lambda=
 -k_B\ln(p/p_*),
 $$
 
@@ -1831,8 +1757,7 @@ It transforms the expression
 
 $$
 \boxed{
-\Lambda
-=
+\Lambda=
 -k_B
 \ln
 \left(
