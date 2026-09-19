@@ -299,7 +299,7 @@ They are replacing traditional institutional backing with a dynamic, public-faci
 Instead of waiting a year for three anonymous journal reviewers, a researcher can post a breakthrough on LinkedIn and have hundreds of specialized engineers, physicists, and data scientists across the globe reviewing, debating, and stress-testing the math within hours.
 
 ### Irrefutable "Digital Paper Trails": 
-Every post, article, and edit on modern professional platforms is permanently logged, metadata-tagged, and indexed by search engines. This creates an unalterable public record of exactly who conceived an idea first, completely bypassing the risk of the "Castigliano-Menabrea trap."
+Every post, article, and edit on modern professional platforms is permanently logged, metadata-tagged, and indexed by search engines. This creates an unalterable public record of exactly who conceived an idea first, completely bypassing the risk of the **"Castigliano-Menabrea trap."**
 
 ### Attracting Sovereign Capital: 
 Historically, you needed university approval to get government research grants. Today, a powerful digital presence allows independent researchers to attract direct funding, crowd-sourced micro-grants, or venture capital from tech founders who cruise these platforms looking for raw talent rather than academic titles.
