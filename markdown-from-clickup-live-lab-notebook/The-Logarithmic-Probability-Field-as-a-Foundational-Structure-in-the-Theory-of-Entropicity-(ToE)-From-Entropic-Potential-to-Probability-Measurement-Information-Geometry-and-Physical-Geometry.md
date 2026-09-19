@@ -94,7 +94,7 @@ $$
 
 Probability is therefore conceptually prior to entropy in the calculation.
 
-The **Theory of Entropicity (ToE)** (ToE) reverses this hierarchy.
+The **Theory of Entropicity (ToE)** reverses this hierarchy.
 
 The quantity
 
