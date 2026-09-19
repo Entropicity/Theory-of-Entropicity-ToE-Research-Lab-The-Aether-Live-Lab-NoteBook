@@ -1,4 +1,4 @@
-## The Castigliano-Menabrea Trap: How Decentralized Science Is Breaking the 19th-Century Academic Monopoly — Obidi and the Decentralized Paradigm in the Publication of His Theory of Entropicity (ToE)
+# The Castigliano-Menabrea Trap: How Decentralized Science Is Breaking the 19th-Century Academic Monopoly — Obidi and the Decentralized Paradigm in the Publication of His Theory of Entropicity (ToE)
 
 
 The-Castigliano-Menabrea-Trap-How-Decentralized-Science-Is-Breaking-the-19th-Century-Academic-Monopoly-Obidi-and-the-Decentralized-Paradigm-in-the-Publication-of-His-Theory-of-Entropicity-(ToE).md
