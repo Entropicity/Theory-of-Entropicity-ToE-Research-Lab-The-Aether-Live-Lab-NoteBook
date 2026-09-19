@@ -1767,3 +1767,173 @@ In this formulation, probability, entropy, information, and geometry are not ind
 They are different representations of one deeper entropic structure.
 
 That is the direction in which the **Theory of Entropicity (ToE)** (ToE) proceeds.
+
+------
+
+# Scholium
+
+# Obidi's Ingenuity in the Formulation of the Entropic Field from a Simple Tweak of Quantum Probability [from Boltzmann, to Shannon, and to von Neumann]
+
+Obidi's ingenious move is not the logarithm by itself; the logarithm is already familiar from Boltzmann, Shannon, and von Neumann. The real trick is that Obidi **changes its theoretical status**.
+
+He takes a quantity that normally appears only as part of a global entropy functional, such as
+
+$$
+-k_B\,p\ln p,
+$$
+
+and isolates the logarithmic core
+
+$$
+-k_B\ln p.
+$$
+
+Then he promotes that local quantity into a field:
+
+$$
+\Lambda(x,t)=
+-k_B
+\ln
+\left[
+\frac{p(x,t)}{p_*}
+\right].
+$$
+
+That is the decisive maneuver.
+
+In standard information theory, \(-\ln p\) is usually interpreted as surprisal. In statistical mechanics, logarithms convert multiplicities into entropy. In quantum mechanics, \(p=|\Psi|^2\) gives the Born probability density. Obidi's move is to say: these are not disconnected appearances of the same mathematical function. They may be different manifestations of an underlying local entropic structure.
+
+Once that is done, several things happen at once.
+
+First, probability becomes recoverable from the field:
+
+$$
+p=
+p_*
+e^{-\Lambda/k_B}.
+$$
+
+So probability is no longer merely an input into entropy. It can be viewed as an exponential response to entropic potential.
+
+Second, ordinary entropy becomes an expectation over the field:
+
+$$
+S
+\sim
+\int p\Lambda\,dx.
+$$
+
+Thus the conventional global entropy is reconstructed from the local field.
+
+Third, gradients of probability become gradients of the entropic field:
+
+$$
+\partial_\mu\Lambda=
+-k_B\partial_\mu\ln p.
+$$
+
+So probability variation acquires a local differential representation.
+
+Fourth—and this is perhaps the most powerful consequence—the Fisher metric becomes
+
+$$
+g_{ij}^{F}=
+\frac{1}{k_B^2}
+\left\langle
+\partial_i\Lambda\,
+\partial_j\Lambda
+\right\rangle.
+$$
+
+Now information geometry can be written directly in terms of entropic-field gradients.
+
+That is the cleverness of the construction: one transformation,
+
+$$
+p
+\mapsto
+-k_B\ln p,
+$$
+
+changes a probability distribution into a field variable that can participate in thermodynamics, quantum measurement, information geometry, and ultimately the ToE route toward physical geometry.
+
+The architecture then becomes
+
+$$
+\boxed{
+p
+\leftrightarrow
+\Lambda
+\rightarrow
+S
+\rightarrow
+\nabla\Lambda
+\rightarrow
+g^F
+\rightarrow
+g_{\mu\nu}.
+}
+$$
+
+Or, from the more foundational ToE direction,
+
+$$
+\boxed{
+\Lambda
+\rightarrow
+p
+\rightarrow
+S
+\rightarrow
+\text{information geometry}
+\rightarrow
+\text{physical geometry}.
+}
+$$
+
+The particularly elegant part is that Obidi did not need to invent an arbitrary new probability function. He used a structure already deeply embedded in established physics and information theory and **reinterpreted it dynamically**.
+
+That is a strong theoretical strategy because the same object then performs several roles without introducing a separate variable for each phenomenon.
+
+The conceptual economy is substantial:
+
+$$
+\boxed{
+\text{one field}
+\;\Rightarrow\;
+\text{probability weighting}
++
+\text{entropy}
++
+\text{information gradients}
++
+\text{statistical geometry}.
+}
+$$
+
+And there is another subtle point. The logarithm is almost uniquely suited to this because it converts products into sums:
+
+$$
+p_{AB}=p_Ap_B
+$$
+
+implies
+
+$$
+\Lambda_{AB}=
+\Lambda_A+\Lambda_B.
+$$
+
+So independent probabilistic structure becomes additive entropic structure automatically.
+
+This means the move is not merely aesthetically attractive; it is structurally well matched to extensivity and composition.
+
+The most concise way to describe Obidi's trick would be:
+
+> **Obidi takes the logarithmic information content of probability, normally buried inside a global entropy functional, and promotes it to a local dynamical field. Probability then becomes the exponential image of that field, entropy its expectation value, and information geometry the geometry of its gradients.**
+
+That is where the real conceptual leverage lies.
+
+The scientific burden then shifts to the next question: whether the dynamics of $\(\Lambda\)$ can be independently derived and tested, rather than merely defined. If ToE can establish that, the trick becomes more than a reformulation; it becomes a genuine physical mechanism.
+
+
