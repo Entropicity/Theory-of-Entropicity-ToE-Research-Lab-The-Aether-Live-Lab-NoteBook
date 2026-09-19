@@ -1937,4 +1937,10 @@ That is where the real conceptual leverage lies. How powerful!
 
 **The scientific burden then shifts to the next question: whether the dynamics of $\(\Lambda\)$ can be independently derived and [empirically] tested, rather than merely axiomatized. If ToE can establish that, the ingenuity becomes more than a reformulation; it becomes a genuinely tractable and undeniably formidable physical mechanism in modern science and theoretical physics.**
 
+### Foundational Reference
 
+The present exposition further develops and extends the entropic–probability correspondence first formulated in:
+
+Obidi, J. O. (2025). ***Einstein and Bohr Finally Reconciled on Quantum Theory: The Theory of Entropicity (ToE) as the Unifying Resolution to the Problem of Quantum Measurement and Wave Function Collapse. A Befitting Contribution to This Year’s Centennial Reflection and Celebration of the Birth of Quantum Mechanics***. Cambridge University (COE), Physics and Astronomy, Version 1. https://doi.org/10.33774/coe-2025-vrfrx
+
+In that work, Obidi formally introduced the foundational logarithmic correspondence between the quantum probability density and the ToE entropic potential, developed its relationship to Boltzmann, Shannon, and von Neumann entropy, and used it to connect quantum probability, wave-function collapse, entropy, and the emerging dynamical structure of the Theory of Entropicity. The present exposition develops the deeper and far-reaching consequences of that construction, particularly on the second derivative, and the interpretation of the logarithmic probability structure as a local entropic field and its connection to information geometry and the foundation of physical spacetime geometry of Lorentzian signature.
