@@ -311,11 +311,9 @@ $$
 Von Neumann entropy is
 
 $$
-S_{\mathrm{vN}}=
--k_B
-\operatorname{Tr}
-(\rho\ln\rho).
+S_{\mathrm{vN}} = -k_B\, \mathrm{Tr}(\rho \ln \rho).
 $$
+
 
 These expressions appear in different theoretical contexts, but they share a striking mathematical structure: the logarithm of multiplicity, probability, or state weight.
 
@@ -455,8 +453,7 @@ $$
 Writing the wavefunction in polar form,
 
 $$
-\Psi(x,t)
-=
+\Psi(x,t)=
 |\Psi(x,t)|
 e^{i\Theta(x,t)},
 $$
@@ -465,8 +462,7 @@ gives
 
 $$
 \boxed{
-\Psi(x,t)
-=
+\Psi(x,t)=
 \sqrt{p_*}
 \exp
 \left[
@@ -619,8 +615,7 @@ $$
 Since
 
 $$
-\frac{\partial p}{\partial t}
-=
+\frac{\partial p}{\partial t}=
 -\frac{p}{k_B}
 \frac{\partial\Lambda}{\partial t},
 $$
@@ -903,8 +898,7 @@ appears in information geometry.
 The Fisher information metric is
 
 $$
-g_{ij}^{F}
-=
+g_{ij}^{F}=
 \int
 p(x|\theta)
 \,
@@ -988,8 +982,7 @@ The Fisher metric measures the distinguishability between nearby probability dis
 If
 
 $$
-g_{ij}^{F}
-=
+g_{ij}^{F}=
 \frac{1}{k_B^2}
 \left\langle
 \partial_i\Lambda
@@ -1218,8 +1211,7 @@ $$
 At the local level,
 
 $$
-p(x)
-=
+p(x)=
 p_*
 \exp
 \left[
@@ -1290,8 +1282,7 @@ $$
 Using
 
 $$
-\nabla_\mu\Lambda
-=
+\nabla_\mu\Lambda=
 -k_B
 \nabla_\mu\ln p,
 $$
@@ -1410,8 +1401,7 @@ $$
 then the probability density must satisfy
 
 $$
-\frac{\partial p}{\partial t}
-=
+\frac{\partial p}{\partial t}=
 -\frac{p}{k_B}
 \frac{\partial\Lambda}{\partial t}.
 $$
@@ -1776,4 +1766,4 @@ In this formulation, probability, entropy, information, and geometry are not ind
 
 They are different representations of one deeper entropic structure.
 
-That is the direction in which the Theory of Entropicity proceeds.
+That is the direction in which the Theory of Entropicity (ToE) proceeds.
