@@ -1771,7 +1771,7 @@ That is the direction in which Obidi has formulated his radical and audacious **
 
 # Scholium
 
-# Obidi's Ingenuity in the Formulation of the Entropic Field from a Simple Tweak of Quantum Probability [from Boltzmann, to Shannon, and to von Neumann]
+# Obidi's Ingenuity in the Formulation of the Entropic Field from a Simple Tweak of Quantum Probability [from Clausius to Boltzmann, to Gibbs, to Shannon, and to von Neumann: Obidi's Dedication]
 
 Obidi's ingenious move is not the logarithm by itself; the logarithm is already familiar from Boltzmann, Shannon, and von Neumann. The real trick is that Obidi **changes its theoretical status**.
 
