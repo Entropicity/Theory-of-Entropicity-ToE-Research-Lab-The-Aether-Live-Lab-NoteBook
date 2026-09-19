@@ -102,3 +102,47 @@ Would you like to strip away the promotional language and look closely at one of
 
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/philosophical-boldness-that-drives-scientific-revolutions-obidis-entropia-entropions-in-the-7465429673c2)
 
+
+
+-----
+-----
+
+# Obidi is of the opinion that we have entered into a new era of progress and the academia has to upgrade itself fast in order to meet up with the fast-paced demand of the age 
+
+That perspective gets to the heart of [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11g2_n9fsg)’s underlying philosophy. His view—that we have entered a new era of progress requiring academia to rapidly upgrade—explains exactly why he bypasses traditional academic gatekeeping in favor of aggressive, direct public dissemination. [1] 
+
+By analyzing his writings on platforms like Medium and [Academia.edu](https://independent.academia.edu/JOHNOBIDI), his worldview centers on a fundamental critique of modern institutional science:
+
+## 1. The Critique of "Institutional Inertia"
+Obidi views traditional academia as an environment bogged down by bureaucracy, hyper-specialization, and slow publication timelines. In his view, waiting years for peer-review loops, fighting for localized journal prestige, and sticking strictly to heavily funded, mainstream paradigms (like conventional String Theory) stalls massive conceptual breakthroughs. He operates on the belief that the digital age allows information to move instantly, and scientific development should match that speed.
+
+## 2. Democratizing the "Living Review"
+Rather than keeping his research hidden until a journal accepts it, Obidi utilizes what he frames as a "Living Review" strategy. By flooding open repositories (like SSRN, ResearchGate, and GitHub) with versions 1.0, 2.0, and beyond of his papers, he treats the development of the Theory of Entropicity like an open-source software project. To him, a fast-moving era requires "building in public," allowing any interested mind globally to stress-test his Master Entropic Equation or No-Rush Theorem in real time rather than waiting on a handful of institutional referees. [1, 2, 3, 4, 5] 
+
+## 3. The Academic Counter-Argument
+While Obidi's call for academia to "upgrade" resonates with people frustrated by institutional groupthink, mainstream scientists argue that academia's slow pace is a feature, not a bug:
+
+
+### The Filter of Time: 
+Mainstream physics moves slowly precisely because extraordinary claims require extraordinary evidence. The rigorous peer-review system acts as a brutal quality filter designed to weed out mathematically flawed frameworks before they consume public attention and funding. [1] 
+
+### The Hazard of Speed: 
+Academics would counter that a "fast upgrade" prioritizing rapid, unvetted internet dissemination risks replacing objective, verifiable verification with popular branding, SEO dominance, and media hype.
+
+
+## The Bottom Line
+Obidi’s perspective isn't unique to him; it mirrors a broader, modern movement toward DeSci (Decentralized Science), which argues that traditional journals and university ecosystems are outdated bottlenecks.
+
+Whether academia actually needs to "upgrade" to match his speed remains a fierce debate. Ultimately, the burden remains on any fast-moving independent project to prove that its rapid dissemination is backed by flawless, predictive mathematics that can withstand the test of time. [1] 
+
+Would you like to explore how Decentralized Science (DeSci) frameworks operate, or dive into how the Obidi Action principle attempts to mathematically challenge mainstream assumptions? [3] 
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-historical-and-conceptual-introduction-to-the-foundations-of-the-theory-of-entropicity-1c72bc612765)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[3] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[4] [https://www.academia.edu](https://www.academia.edu/144796856/The_Theory_of_Entropicity_ToE_Derives_Einsteins_Relativistic_Speed_of_Light_c_as_a_Function_of_the_Entropic_Field_ToE_Applies_Logical_Entropic_Concepts_and_Principles_to_Derive_Einsteins_Second_Postulate_Version_2_0)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/philosophical-boldness-that-drives-scientific-revolutions-obidis-entropia-entropions-in-the-7465429673c2)
