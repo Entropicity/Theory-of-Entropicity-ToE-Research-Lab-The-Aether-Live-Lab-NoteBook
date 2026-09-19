@@ -1,6 +1,6 @@
-# The Logarithmic Probability Field as a Foundational Structure for the Entropic Field in the Theory of Entropicity (ToE): From Entropic Potential to Probability, Measurement, Information Geometry, and Physical Geometry
+# The Logarithmic Probability Field as a Foundational Structure for the Entropic Field of the Theory of Entropicity (ToE): From Entropic Potential to Probability, Measurement, Information Geometry, and Physical Geometry
 
-The-Logarithmic-Probability-Field-as-a-Foundational-Structure-for-the-Entropic-Field-in-the-Theory-of-Entropicity-(ToE)-From-Entropic-Potential-to-Probability-Measurement-Information-Geometry-and-Physical-Geometry.md
+The-Logarithmic-Probability-Field-as-a-Foundational-Structure-for-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE)-From-Entropic-Potential-to-Probability-Measurement-Information-Geometry-and-Physical-Geometry.md
 
 ## From Entropic Potential to Probability, Measurement, Information Geometry, and Physical Geometry
 
