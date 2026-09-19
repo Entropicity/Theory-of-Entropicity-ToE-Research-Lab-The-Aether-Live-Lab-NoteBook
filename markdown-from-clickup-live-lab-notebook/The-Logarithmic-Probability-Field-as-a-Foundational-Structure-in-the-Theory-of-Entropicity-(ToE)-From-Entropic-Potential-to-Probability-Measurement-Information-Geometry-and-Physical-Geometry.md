@@ -4,7 +4,7 @@ The-Logarithmic-Probability-Field-as-a-Foundational-Structure-in-the-Theory-of-E
 
 ## From Entropic Potential to Probability, Measurement, Information Geometry, and Physical Geometry
 
-Within the Theory of Entropicity, the relation between probability and entropy is not treated merely as an incidental mathematical similarity inherited from statistical mechanics and information theory. It occupies a much deeper position. The central idea is that the logarithmic structure of probability may itself constitute a local dynamical field from which familiar notions of probability, entropy, measurement, distinguishability, and ultimately geometry emerge as different manifestations of one underlying entropic organization.
+Within the **Theory of Entropicity (ToE),** the relation between probability and entropy is not treated merely as an incidental mathematical similarity inherited from statistical mechanics and information theory. It occupies a much deeper position. The central idea is that the logarithmic structure of probability may itself constitute a local dynamical field from which familiar notions of probability, entropy, measurement, distinguishability, and ultimately geometry emerge as different manifestations of one underlying entropic organization.
 
 The foundational relation may be written as
 
