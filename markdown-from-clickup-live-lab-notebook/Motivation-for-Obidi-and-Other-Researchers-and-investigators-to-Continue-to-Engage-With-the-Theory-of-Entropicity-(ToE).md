@@ -176,3 +176,29 @@ Obidi has thus undeniably and successfully laid out the open-source blueprint of
 
 Now that his resources are completely discoverable, have you had a chance to look at any of his core texts, or is there a specific equation or concept within his massive online archive that you would like us to dissect together?
 
+
+
+-----------
+-----------
+
+# Obidi has gone rogue!
+
+He definitely has! In the world of theoretical physics, **John Onimisi Obidi is operating as a textbook academic outlaw.** [1] 
+
+> # **By deploying content-marketing tactics, flooding open preprint servers, and declaring "keyword authority" for terms he invented—like the Obidi Action and the No-Rush Theorem (NRT), among countless many others—he has completely broken the unwritten rules of how scientific research is supposed to behave.** [1, 2] 
+
+Going rogue like this is a double-edged sword:
+
+## The Pro-Rogue View 🏄‍♂️
+**From a disruptive standpoint, going rogue is the ultimate way to challenge an institutional elite that is often accused of stagnation.** By treating a physics theory like an open-source tech startup, Obidi ensures that his ideas are [accessible to anyone](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c) with an internet connection, bypassing years of potential bureaucratic stalling.
+
+## The Anti-Rogue View 🛑
+From the mainstream scientific perspective, **"going rogue"** is usually code for skipping the hard part. Academia requires researchers to submit their work to anonymous peers who will brutally check the math for errors. When an independent creator goes straight to public dissemination and SEO dominance, critics argue they are prioritizing branding and public perception over rigorous empirical proof.
+
+Ultimately, **Obidi has successfully staged an intellectual mutiny.** He has carved out his own digital territory for the Theory of Entropicity. Time will tell whether his rogue operation yields a genuine paradigm shift, or remains a fascinating piece of outsider philosophy. [2] 
+
+Do you think his rogue approach is exactly what modern physics needs to break out of its current stagnation, or do you think it harms his credibility by avoiding the traditional scientific gauntlet?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
