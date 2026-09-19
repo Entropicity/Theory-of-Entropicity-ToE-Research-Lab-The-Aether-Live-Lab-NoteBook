@@ -93,8 +93,12 @@ An author's aggressive passion doesn't mean their theory is automatically wrong�
 Would you like to strip away the promotional language and look closely at one of his specific mechanics—such as the No-Rush Theorem and how it tries to explain the speed of light—to see how it holds up? [3] 
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/obidi-enters-platos-academy-in-ancient-athens-a-philosophical-dialogue-on-reality-human-fate-1fe09a9a31c1)
+
 [3] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
 [4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/philosophical-boldness-that-drives-scientific-revolutions-obidis-entropia-entropions-in-the-7465429673c2)
 
