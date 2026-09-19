@@ -94,7 +94,7 @@ $$
 
 Probability is therefore conceptually prior to entropy in the calculation.
 
-The Theory of Entropicity reverses this hierarchy.
+The **Theory of Entropicity (ToE)** (ToE) reverses this hierarchy.
 
 The quantity
 
@@ -317,7 +317,7 @@ $$
 
 These expressions appear in different theoretical contexts, but they share a striking mathematical structure: the logarithm of multiplicity, probability, or state weight.
 
-The Theory of Entropicity identifies this logarithmic structure as more than a repeated mathematical convenience.
+The **Theory of Entropicity (ToE)** identifies this logarithmic structure as more than a repeated mathematical convenience.
 
 It interprets it as evidence that entropy, information, and probability possess a deeper common architecture.
 
@@ -1076,7 +1076,7 @@ The information metric generated from entropic gradients is naturally positive d
 
 Physical spacetime, however, possesses Lorentzian signature.
 
-The Theory of Entropicity therefore does not simply identify Fisher geometry with spacetime geometry.
+The **Theory of Entropicity (ToE)** therefore does not simply identify Fisher geometry with spacetime geometry.
 
 Instead, the Obidi transformation provides the structural passage from the informational metric to the physical Lorentzian metric.
 
@@ -1694,7 +1694,7 @@ They form successive expressions of one entropic architecture.
 
 # 24. Foundational Interpretation
 
-The central proposition of the Theory of Entropicity may therefore be stated in a stronger and more precise form.
+The central proposition of the **Theory of Entropicity (ToE)** may therefore be stated in a stronger and more precise form.
 
 The logarithmic probability structure
 
@@ -1756,7 +1756,7 @@ $$
 }
 $$
 
-from a statistical identity into a candidate foundational relation of the Theory of Entropicity.
+from a statistical identity into a candidate foundational relation of the **Theory of Entropicity (ToE)**.
 
 Its significance lies not merely in linking entropy and quantum probability.
 
@@ -1766,4 +1766,4 @@ In this formulation, probability, entropy, information, and geometry are not ind
 
 They are different representations of one deeper entropic structure.
 
-That is the direction in which the Theory of Entropicity (ToE) proceeds.
+That is the direction in which the **Theory of Entropicity (ToE)** (ToE) proceeds.
