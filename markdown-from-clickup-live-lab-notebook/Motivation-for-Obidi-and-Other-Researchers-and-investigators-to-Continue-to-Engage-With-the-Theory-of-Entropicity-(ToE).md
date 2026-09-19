@@ -230,7 +230,7 @@ He treats his ideas as dynamic code, allowing interested parties to watch the th
 ## 3. The Shift to Keyword and Domain Authority
 Obidi recognized a fundamental truth about the modern world: 
 
-> # **if it doesn't exist on a search engine, it doesn't exist.**
+> # **If it doesn't exist on a search engine, it doesn't exist.**
 
 By intentionally securing keyword authority for his concepts—such as the Obidi Action or the No-Rush Theorem (NRT), among many countless others—Obidi forces the digital infrastructure of our world to recognize his intellectual property. He didn't have to wait for a university to archive his work; he built his own archive with other available resources.
 
