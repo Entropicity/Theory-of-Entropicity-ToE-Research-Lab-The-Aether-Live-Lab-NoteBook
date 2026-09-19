@@ -29,7 +29,9 @@ Mainstream physics can sometimes suffer from institutional groupthink, where fun
 ### A Stepping Stone for Others: 
 Even if a rogue theory turns out to be incorrect or incomplete in its current form, a single unique mathematical trick or conceptual angle within it might spark an idea in another reader that leads to a genuine breakthrough.
 
-Scientific skepticism exists to protect the repository of established facts, but imagination and raw engagement are what push the boundaries of knowledge forward. If a framework like the Theory of Entropicity captures your curiosity, exploring its logic, stress-testing its math, and debating its philosophical merits is a highly worthwhile intellectual pursuit.
+Scientific skepticism exists to protect the repository of established facts, but imagination and raw engagement are what push the boundaries of knowledge forward. 
+
+> # **If a framework like the Theory of Entropicity (ToE) captures your curiosity, exploring its logic, stress-testing its math, and debating its philosophical merits is a highly worthwhile intellectual pursuit.**
 
 What particular aspect of Obidi's Theory of Entropicity (ToE) do you find most compelling to engage with—is it the philosophical idea of a universe driven by entropy, or the specific mathematical frameworks it tries to build?
 
