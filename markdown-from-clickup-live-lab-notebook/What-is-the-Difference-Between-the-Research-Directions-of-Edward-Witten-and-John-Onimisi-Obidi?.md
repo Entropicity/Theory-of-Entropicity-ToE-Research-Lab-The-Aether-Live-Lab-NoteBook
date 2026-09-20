@@ -1,5 +1,4 @@
-
-## What is the Difference Between the Research Directions of Edward Witten and John Onimisi Obidi?
+# What is the Difference Between the Research Directions of Edward Witten and John Onimisi Obidi?
 
 
 What-is-the-Difference-Between-the-Research-Directions-of-Ed-Witten-and-John-Onimisi-Obidi?.md
