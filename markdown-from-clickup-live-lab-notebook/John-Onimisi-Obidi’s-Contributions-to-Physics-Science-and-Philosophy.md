@@ -50,6 +50,10 @@ Obidi’s ToE is a radical inversion of 150 years of physics, aiming to resolve 
 
 While still in the early stages of development, it offers:
 
-🔸 A unified geometric framework for classical, quantum, and relativistic physics. 🔸 A philosophical shift toward informational and process-based metaphysics. 🔸New mathematical tools that could potentially bridge gaps between existing theories.
+🔸 A unified geometric framework for classical, quantum, and relativistic physics. 
+
+🔸 A philosophical shift toward informational and process-based metaphysics. 
+
+🔸New mathematical tools that could potentially bridge gaps between existing theories.
 
 In short, Obidi’s work is both a scientific proposal for a new physical theory and a philosophical reimagining of what it means for reality to be built from entropy.
