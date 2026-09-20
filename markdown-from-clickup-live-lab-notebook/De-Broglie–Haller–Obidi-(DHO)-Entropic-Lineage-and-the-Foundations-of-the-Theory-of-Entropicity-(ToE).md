@@ -193,9 +193,8 @@ When Obidi analyzed Haller's work, he recognized it as an Entropic Rosetta Stone
 ## Step 3: Obidi's Decisive Insight (The Shift from Particle to Field)
 Haller’s math was brilliant, but it was strictly confined to a single, isolated particle moving through an already existing background of space and time. This is where Obidi’s unique genius intervened. [4] 
 
-Obidi looked at Haller’s equation and realized that a particle's trajectory is merely a one-dimensional worldline trace of something much larger. If a particle’s mechanical action is fundamentally entropic, then the entire background fabric of reality must be an active, continuous entropic field. 
+Obidi looked at Haller’s equation and realized that a particle's trajectory is merely a one-dimensional worldline trace of something much larger. If a particle’s mechanical action is fundamentally entropic, then the entire background fabric of reality must be an active, continuous entropic field. [1, 3, 4, 7] 
 
-[1, 3, 4, 7] 
 Instead of an object moving through space and generating entropy, Obidi inverted the paradigm: The continuous entropic field ($S(x)$) is the primary substance, and particles, forces, and spacetime geometry are merely emergent, localized ripples within that field. [1, 8] 
 
 ------------------------------
