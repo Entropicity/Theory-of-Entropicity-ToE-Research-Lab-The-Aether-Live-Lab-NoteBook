@@ -41,7 +41,7 @@ While modern string theory searches for background-independent formulations, it 
 [John Onimisi Obidi](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415)'s framework, developed through his Theory of Entropicity (ToE), strips away physical geometry entirely at the fundamental scale: [1, 6] 
 
 
-### The Entropic Field ($S(x)$): 
+### The Entropic Field (S(x)): 
 Obidi asserts that entropy is not a macroscopic statistical byproduct of disorder, but a primary, dynamic field. In his view, "matter is structured entropy". [3, 7, 8] 
 
 ### The Obidi Action & Master Equation: 
