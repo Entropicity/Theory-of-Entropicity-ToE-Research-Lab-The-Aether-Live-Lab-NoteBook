@@ -81,42 +81,65 @@ The non-linear tracking equation governs how the probability density $p(x,t)$ co
 
    1. The Core Local Field Relation:
    $$\Lambda(x,t) = -k_B \ln \left[ \frac{p(x,t)}{p^*} \right] \implies p(x,t) = p^* e^{-\frac{\Lambda(x,t)}{k_B}}$$ 
+  
    2. The Spatial Expectation Conservation Law:
    The total integrated probability over the spatial domain $\Omega$ must remain conserved at unity ($\int_\Omega p(x,t) dx = 1$). Consequently, the global entropy $S(t) = \int_\Omega p(x,t)\Lambda(x,t) dx$ tracks the statistical average of the local field, denoted as $\langle \Lambda \rangle$.
 
 ## Step A: Introducing the Entropic Field Dynamics
 Assume the local entropic field $\Lambda(x,t)$ undergoes spatial diffusion and driven dissipation due to interactions with an external macro-environment (the measurement apparatus). The fundamental equation of motion for the field configuration is written as:
+
 $$\frac{\partial \Lambda(x,t)}{\partial t} = \mathcal{D} \nabla^2 \Lambda + \mathcal{F}(x,t)$$ 
+
 Where $\mathcal{D}$ is the entropic diffusion coefficient and $\mathcal{F}(x,t)$ represents the local informational force gradient exerted by the measuring device.
+
 ## Step B: Differentiating the Probability Density
 To find the temporal evolution of the probability distribution, we take the partial time derivative of the local field relation:
+
 $$\frac{\partial p}{\partial t} = \frac{\partial}{\partial t} \left( p^* e^{-\frac{\Lambda}{k_B}} \right) = -\frac{p^*}{k_B} e^{-\frac{\Lambda}{k_B}} \frac{\partial \Lambda}{\partial t} = -\frac{p(x,t)}{k_B} \frac{\partial \Lambda}{\partial t}$$ 
+
 Substituting the equation of motion for $\Lambda$ into this derivative yields:
+
 $$\frac{\partial p}{\partial t} = -\frac{p(x,t)}{k_B} \left( \mathcal{D} \nabla^2 \Lambda + \mathcal{F}(x,t) \right)$$ 
+
 ## Step C: Eliminating the Force Term via Global Normalization
 Because total probability is strictly conserved ($\frac{\partial}{\partial t} \int_\Omega p \, dx = 0$), integrating the expression over the entire manifold forces a mathematical constraint on the external driving function $\mathcal{F}(x,t)$.
+
 By projecting $\mathcal{F}(x,t)$ onto its spatial expectation value $\langle \dot{\Lambda} \rangle$, the localized variance can be separated from the global background shift. Substituting the spatial identity $\nabla^2 \Lambda = -k_B \nabla^2 (\ln p)$ and expanding using the chain rule yields:
+
 $$\nabla^2 \ln p = \frac{\nabla^2 p}{p} - \frac{(\nabla p)^2}{p^2}$$ 
+
 When balanced against the total boundary information flux, the non-linearities isolate the deviation of the field's rate of change from its mean value. This algebraic reduction yields the explicit Non-Linear Tracking Equation:
+
 $$\frac{\partial p(x,t)}{\partial t} = \mathcal{D} \nabla^2 p + \frac{p(x,t)}{k_B} \left( \langle \dot{\Lambda} \rangle - \dot{\Lambda}(x,t) \right)$$ 
+
 This derivation reveals that probability does not evolve passively. The term $\left( \langle \dot{\Lambda} \rangle - \dot{\Lambda}(x,t) \right)$ acts as a statistical feedback mechanism: areas where the entropic field drops faster than the spatial average ($\dot{\Lambda} > \langle \dot{\Lambda} \rangle$) experience an exponential growth in probability density, smoothly formalizing the physical mechanics of wave function collapse.
+
 ------------------------------
+
 ## 2. Boundary Conditions for the Obidi Action in a Closed Cosmological System
 When applying the Obidi Action $\mathcal{I}_O$ to a closed, compact cosmological manifold $\mathcal{M}$ (without an external boundary or edge, such as a closed Friedmann-Lemaître-Robertson-Walker universe), solving the resulting field equations requires defining strict, self-consistent boundary conditions.
+
 Because the action mixes information metrics ($g^F_{ij}$) with spacetime geometry ($g_{\mu\nu}$), these parameters dictate how the universe stabilizes its fundamental parameters:
 
                   [ Closed Cosmological Manifold ℳ ]
                                   │
-         ┌────────────────────────┴────────────────────────┐
+         
+         ┌────────────────────────┴─────────────
+───────────┐
          ▼                                                 ▼
-[ Information Isolation ]                         [ Topological Closure ]
+
+[ Information Isolation ]                        
+[ Topological Closure ]
+
  δΛ = 0 on ∂ℳ                                      ∮ ∂_μ Λ dΣ^μ = 0
  (No external leak)                                (Total entropy conserved)
 
 ## I. Information Isolation (Dirichlet Boundary Conditions)
 For a closed universe, there can be no informational exchange with an outside environment. 
 
-At the temporal initial ($\Sigma_{\text{initial}}$) and final ($\Sigma_{\text{final}}$) spatial hypersurfaces of the cosmological epoch:
+At the temporal initial 
+
+($\Sigma_{\text{initial}}$) and final ($\Sigma_{\text{final}}$) spatial hypersurfaces of the cosmological epoch:
 
 $$\delta \Lambda \Big\vert{}_{\partial \mathcal{M}} = 0$$ 
 
