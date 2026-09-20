@@ -1,8 +1,8 @@
-#  Possible convergence between Theory of Entropicity (ToE) and Felix Finster's causal fermion systems
+#  Possible convergence between Theory of Entropicity (ToE) and Professor Felix Finster's causal fermion systems: Dirac's 90-Year-Old "Mistake" Unifies All of Physics — Felix Finster / Curt Jaimungal
 
-## Dirac's 90-Year-Old "Mistake" Unifies All of Physics — Felix Finster / Curt Jaimungal
+Possible-convergence-between-the-Theory-of-Entropicity-(ToE)-and-Professor-Felix-Finster's-causal-fermion-systems-Dirac's-90-Year-Old-"Mistake"-Unifies-All-of-Physics-Felix-Finster-Curt-Jaimungal.md
 
-Possible-convergence-between-the-Theory-of-Entropicity-(ToE)-and-Felix-Finster's-causal-fermion-systems.md
+
 
 ---------- Forwarded message ---------
 
