@@ -84,7 +84,7 @@ and
 
 The first seems to follow naturally from the construction; the second requires the uniqueness of the transformation to be demonstrated.
 
-THE ∇S = 0 PROBLEM
+## THE ∇S = 0 PROBLEM
 
 A second issue concerns the normalization
 
@@ -120,7 +120,7 @@ For example:
 
 I think this is particularly important because ToE treats entropy as ontologically fundamental. A fundamental theory should ideally specify the status of every physically admissible configuration of its fundamental field.
 
-THE WEAK-GRADIENT LIMIT DESERVES A VERY EXPLICIT DERIVATION
+## THE WEAK-GRADIENT LIMIT DESERVES A VERY EXPLICIT DERIVATION
 
 Letter III states that the Einstein–Hilbert action emerges from the Obidi Action in the near-equilibrium, weak-gradient, large-scale limit.
 
@@ -206,7 +206,7 @@ Einstein–Hilbert sector.
 
 In other words, it would be helpful to demonstrate precisely why the weak-gradient limit gives the physical Einstein metric rather than merely leaving the Lorentzianized metric G̃_ab intact.
 
-THE STATUS OF G_ab, G̃_ab AND THE EMERGENT EINSTEIN METRIC
+## THE STATUS OF G_ab, G̃_ab AND THE EMERGENT EINSTEIN METRIC
 
 I think a reader could benefit from an especially explicit distinction between three objects:
 
@@ -238,7 +238,7 @@ in the infrared limit.
 
 This would also make it much harder for a critic to argue that the Lorentzian structure has simply been inserted at the transformation stage.
 
-THE VARIATIONAL STATUS OF u_a
+## THE VARIATIONAL STATUS OF u_a
 
 Another technical point concerns whether u_a is an independent dynamical variable or merely shorthand for the normalized entropy gradient.
 
@@ -271,7 +271,7 @@ under a general variation δG_ab.
 
 I think an explicit appendix carrying out this full variation would be extremely valuable.
 
-THE FULL VARIATION OF THE OBlDI ACTION
+## THE FULL VARIATION OF THE OBlDI ACTION
 
 This may be the single most useful mathematical strengthening that could be added to Letter III.
 
@@ -298,7 +298,7 @@ G_μν + Λ g_μν
 
 as a consequence of the action, or whether some of the Einstein structure has entered through the choice of geometric or constraint terms.
 
-THE MATTER SECTOR
+## THE MATTER SECTOR
 
 Letter III introduces a standard matter action coupled to the emergent/entropic metric.
 
@@ -306,11 +306,11 @@ That is entirely reasonable as an effective construction.
 
 But I think the theory should carefully distinguish between two different claims:
 
-“matter couples consistently to emergent spacetime”
+**“matter couples consistently to emergent spacetime”**
 
 and
 
-“matter itself is derived from entropy.”
+**“matter itself is derived from entropy.”**
 
 The former can follow from minimal coupling; the latter requires a deeper derivation.
 
@@ -318,7 +318,7 @@ If ToE ultimately claims that matter is emergent from the entropic field, it wou
 
 Otherwise, the matter sector may reasonably be interpreted as an external sector placed on the emergent geometry.
 
-THE CONSTRAINT SECTOR
+## THE CONSTRAINT SECTOR
 
 Similarly, I would be interested in seeing the constraint action treated with complete variational transparency.
 
