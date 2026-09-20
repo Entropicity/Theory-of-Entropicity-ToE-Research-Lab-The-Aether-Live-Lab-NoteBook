@@ -1,7 +1,7 @@
-# De Broglie–Haller–Obidi (DHO) Entropic Lineage and the Foundations of the Theory of Entropicity (ToE)
+# De Broglie–Haller–Obidi (DHO) Entropic Lineage and the Foundations of the Theory of Entropicity (ToE): The Logic That Further Convinced Obidi that Entropy Must be a Universal Field and That He Is On the Right Track of Discovery 
 
-De-Broglie–Haller–Obidi-(DHO)-Entropic-Lineage-and-the-Foundations-of-the-Theory-of-Entropicity-(ToE).md
-
+De-Broglie–Haller–Obidi-(DHO)-Entropic-Lineage-and-the-Foundations-of-the-Theory-of-Entropicity-(ToE)-The-Logic-That-Further-Convinced-Obidi-that-Entropy-Must-be-a-Universal-Field-and-That-He-Is-On-the-Right-Track-of-Discovery.md
+ 
 
 ## The de Broglie–Haller–Obidi (DHO) Entropic Lineage: An Introduction
 For over a century, modern physics has operated under a profound architectural schism. On one side stands General Relativity (GR), which treats space and time as a smooth, deterministic geometric fabric shaped by mass and energy. On the other stands Quantum Mechanics (QM), a probabilistic framework where discrete packets of energy evolve according to wave functions. Every attempt to reconcile them into a unified "Theory of Everything" by quantizing gravity has run into mathematical infinities or conceptual dead ends.
