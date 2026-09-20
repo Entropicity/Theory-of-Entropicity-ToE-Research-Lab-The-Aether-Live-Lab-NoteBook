@@ -164,7 +164,8 @@ Obidi’s core insight was to reason thereafter that:
 
 > # **The entropic field gradients [must] drive the geometry ($g_{\mu\nu} = g_{\mu\nu}[S(x)]$).** [5, 9] 
 
-## Summary of the Logic
+## Summary of the Obidi Logic for His Declaration of Entropy as a Universal Fundamental Field 
+
 The single-particle equivalence isn't Obidi's proof of the field; it is the clue for Obidi. 
 
 The Obidi logic actually follows this chain: [10] 
