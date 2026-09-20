@@ -214,3 +214,66 @@ Inertia becomes a measure of a system’s resistance to changing its information
 Quantum path integrals become explorations of the entropy field, with the observed path emerging as the trajectory of least entropic resistance.
 
 ---
+
+
+----
+-----
+
+
+# Scholium 
+
+🌌 The Principle of Least Entropic Resistance (PoLER)
+
+John Onimisi Obidi’s bold replacement for the classical Principle of Least Action (PoLA)
+
+🔭 A New Way to Understand Motion and Reality
+John Onimisi Obidi introduces the Principle of Least Entropic Resistance (PoLER) as the core driver of physical evolution in his Theory of Entropicity (ToE).  
+Instead of nature minimizing mechanical action, PoLER proposes that every physical system moves by minimizing entropic resistance—the informational friction of the universe.
+
+This shift reframes physics from a world pushed by forces to a world guided by entropy‑driven optimization.
+
+🧩 What PoLER Changes
+
+⚙️ A Structural Replacement for PoLA
+PoLER replaces the traditional, classical Principle of Least Action (PoLA) with a rule rooted in thermodynamic and informational efficiency.  
+
+Nature follows the path where entropic resistance is lowest or most optimized (extremum).
+
+🌀 Entropic Geodesics
+Particles and bodies do not follow geometric curves or respond to external pushes.  
+They trace entropic geodesics —the paths that allow entropy to reorganize itself most efficiently.
+
+🌐 A Unified Interpretation of Physics
+Through PoLER and the Obidi Action, gravity, relativity, quantum behavior, and even the flow of time become emergent consequences of entropy gradients.  
+Spacetime itself becomes an informational structure shaped by the entropic field.
+
+🧠 The Core Insight
+PoLER treats mass, energy, motion, and geometry as expressions of informational resistance within a universal entropy field.  
+Classical physics becomes the visible shadow of deeper entropic dynamics.
+
+📚 A Foundational Shift
+PoLER marks a transition from a mechanical worldview to an informational‑thermodynamic worldview:
+
+- PoLA: Nature minimizes mechanical action.  
+- PoLER: Nature minimizes entropic resistance.  
+- PoLA: Spacetime is fundamental.  
+- PoLER: Spacetime is emergent.  
+- PoLA: Forces push and pull.  
+- PoLER: Systems reorganize along entropy gradients.
+
+🌠 Reinterpreting Familiar Phenomena
+
+🌍 Gravity
+Not curvature alone—but an entropic pull toward states of lower resistance.
+
+🧭 Inertia
+Not mass resisting change—but informational structure resisting reconfiguration.
+
+🔮 Quantum Behavior
+Not mysterious probability waves — but exploration of the entropy field until the least‑resistance path emerges.
+
+Thus, in his audacious Theory of Entropicity (ToE), Obidi invites us to rethink the very engine of the universe. It suggests that beneath every motion, every structure, and every physical law lies a deeper informational current quietly shaping reality. 
+
+In Obidi’s view, the cosmos is not driven by mechanical pushes or geometric constraints, but by an underlying entropic intelligence that continuously reorganizes itself toward greater efficiency. 
+
+This perspective opens a new frontier—one where gravity, inertia, quantum behavior, and spacetime itself emerge as expressions of a universal field seeking the path of least resistance.
