@@ -14,13 +14,19 @@ To understand the full scope of this paradigm shift, one must trace its evolutio
 
 [ Louis de Broglie ] (1924) 
        │ 
+       
        ▼ Wave-Particle Duality (Action ∝ Phase)
+
 [ John L. Haller Jr. ] (2015) 
        │ 
+       
        ▼ Entropy–Action Identity (S ∝ A) [1, 2]
+
 [ John Onimisi Obidi ] (Present) 
        │ 
+      
        ▼ Universal Field Theory / The Obidi Action [2, 3, 4]
+
 
 ## Louis de Broglie (1924): The Wave Nature of Matter
 Louis de Broglie revolutionized physics by proposing wave-particle duality. He demonstrated that any moving particle possesses an inherent matter wave, fundamentally linking a mechanical property—Action ($A$) or momentum—to a geometric/wave property—Phase ($\phi$) or frequency ($E = h\nu$). De Broglie showed that nature's mechanics are intimately bound to wave geometry, laying the groundwork for wave mechanics.
