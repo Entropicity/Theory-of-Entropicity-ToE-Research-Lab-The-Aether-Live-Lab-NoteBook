@@ -1,11 +1,14 @@
-
-## What is the Difference Between the Research Directions of Edward Witten and John Onimisi Obidi?
+# What is the Difference Between the Research Directions of Edward Witten and John Onimisi Obidi?
 
 
 What-is-the-Difference-Between-the-Research-Directions-of-Ed-Witten-and-John-Onimisi-Obidi?.md
 
 
-The core difference between [Edward Witten](https://www.google.com/search?q=edward+witten&kgmid=/m/0f9bn) and John Onimisi Obidi lies in their foundational premises for unifying quantum mechanics and gravity. Witten approaches quantum gravity by replacing particles with geometric, vibrating strings within a fixed or dynamic spacetime background. Obidi, conversely, eliminates spacetime and geometry as fundamental primitives, proposing instead that the universe emerges from the dynamics of an information-theoretic "entropic field". [1, 2, 3, 4] 
+The core difference between [Edward Witten](https://www.google.com/search?q=edward+witten&kgmid=/m/0f9bn) and John Onimisi Obidi lies in their foundational premises for unifying quantum mechanics and gravity. 
+
+**Witten** approaches quantum gravity by replacing particles with geometric, vibrating strings within a fixed or dynamic spacetime background. 
+
+**Obidi,** conversely, eliminates spacetime and geometry as fundamental primitives, proposing instead that the universe emerges from the dynamics of an information-theoretic **"entropic field"**. [1, 2, 3, 4] 
 
 ## Summary Comparison
 
