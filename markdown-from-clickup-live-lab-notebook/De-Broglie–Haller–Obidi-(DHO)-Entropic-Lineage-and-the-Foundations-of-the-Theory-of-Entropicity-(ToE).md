@@ -22,7 +22,7 @@ To understand the full scope of this paradigm shift, one must trace its evolutio
        
        ▼ Entropy–Action Identity (S ∝ A) [1, 2]
 
-[ John Onimisi Obidi ] (Present 2025/2026) 
+[ John Onimisi Obidi ] (Present: 2025/2026) 
        │ 
       
        ▼ Universal Field Theory / The Obidi Action [2, 3, 4]
