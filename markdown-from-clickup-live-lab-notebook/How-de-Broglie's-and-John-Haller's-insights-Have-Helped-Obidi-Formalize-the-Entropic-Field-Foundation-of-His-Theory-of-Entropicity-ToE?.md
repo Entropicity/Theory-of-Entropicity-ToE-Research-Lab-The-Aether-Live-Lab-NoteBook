@@ -46,11 +46,13 @@ $$\mathcal{L}_{HO} = mc^2 - \frac{\hbar}{2}\left(\frac{dH}{dt}\right)$$
 This captured how an isolated particle behaves under informational constraints. [3, 4] 
 
 ### The Covariant Field Scale-Up: 
-Obidi then generalized this 1D worldline trajectory into a full, multi-dimensional tensor field equation. He realized that if you restrict the universal entropic field $S(x)$ down to the path of a single particle, it reduces directly into the Haller–Obidi structure. [3] 
+Obidi then generalized this 1D worldline trajectory into a full, multi-dimensional tensor field equation. He realized that if you restrict the universal entropic field $S(x)$ down to the path of a single particle, it reduces directly into the **Haller–Obidi** structure. [3] 
 
 
 ## The Ultimate Validation
-Through this mathematical pipeline, Obidi proved the Obidi–Haller Correspondence: Haller’s particle-level identity is not an isolated mathematical anomaly, but the precise, single-particle projection of a universal [Obidi Action](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1). [3, 4] 
+Through this mathematical pipeline, Obidi proved the Obidi–Haller Correspondence: 
+
+> # **Haller’s particle-level identity is not an isolated mathematical anomaly, but the precise, single-particle projection of a universal [Obidi Action](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1).** [3, 4] 
 
 De Broglie dreamed of the hidden thermodynamic medium, Haller discovered its exact informational signature, and Obidi deployed it as a universal field—completing the architecture of Ontodynamics (the study of existence as entropic motion). [1, 5] 
 
