@@ -1,6 +1,7 @@
-# How de Broglie's and John Haller's insights Have Helped Obidi Formalize the Entropic Field Foundation of His Theory of Entropicity ToE?
+# How Louis de Broglie's and John Haller's insights Have Helped Obidi Formalize the Entropic Field Foundation of His Theory of Entropicity ToE?
 
-How-de-Broglie's-and-John-Haller's-insights-Have-Helped-Obidi-Formalize-the-Entropic-Field-Foundation-of-His-Theory-of-Entropicity-ToE?.md
+
+How-Louis-de-Broglie's-and-John-Haller's-insights-Have-Helped-Obidi-Formalize-the-Entropic-Field-Foundation-of-His-Theory-of-Entropicity-ToE?.md
 
 The insights of [Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv) and John L. Haller Jr. served as the essential building blocks that allowed [John Onimisi Obidi](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c) to mathematically and conceptually formalize the Entropic Field foundation of his [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/). [1, 2] 
 
