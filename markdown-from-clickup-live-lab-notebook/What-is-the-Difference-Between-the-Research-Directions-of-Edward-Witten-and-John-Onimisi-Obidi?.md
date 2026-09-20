@@ -18,7 +18,7 @@ The core difference between [Edward Witten](https://www.google.com/search?q=edwa
 | Ontological Primitive | 1D vibrating strings moving in a higher-dimensional spacetime. | A single scalar entropic field, $S(x)$, measuring state distinguishability. |
 | Core Variational Tool | Polyakov action, Nambu-Goto action, and supersymmetric extensions. | Obidi Action (Local and Spectral formulations). |
 | Nature of Gravity | Mediated by a fundamental particle (the graviton), which arises as a closed string vibrational mode. | Emergent "entropic pressure" driven by the optimization of entropic field gradients. |
-| Spacetime Concept | Spacetime exists as a geometric arena (often requiring 10 or 11 dimensions). | Spacetime is a macroscopic illusion, derived dynamically from information geometry. |
+| Spacetime Concept | Spacetime exists as a geometric arena (often requiring 10 or 11 dimensions). | Spacetime is a macroscopic illusion, derived dynamically from entropic information geometry. |
 | Treatment of Constants | The speed of light ($c$) is treated as an axiomatic, universal physical constant. | The speed of light ($c$) is the derived maximum rate of entropic rearrangement. |
 
 ------------------------------
