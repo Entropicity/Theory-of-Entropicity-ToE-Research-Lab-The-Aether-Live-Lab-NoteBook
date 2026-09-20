@@ -1,3 +1,5 @@
+# Particles and Bodies do not Follow Geometric Curves or Respond to External Pushes. They Trace Entropic Geodesics — the Paths that Allow Entropy to Reorganize Itself most Efficiently
+
 # The statement — that “particles and bodies do not follow geometric curves or respond to external pushes. They trace entropic geodesics — the paths that allow entropy to reorganize itself most efficiently” — is a conceptual formulation aligned with the Theory of Entropicity (ToE), a modern theoretical framework in which entropy is treated as the primary ontological field from which geometry, dynamics, and information emerge.
 
 Particles and Bodies do not Follow Geometric Curves or Respond to External Pushes. They Trace Entropic Geodesics — the Paths that Allow Entropy to Reorganize Itself most Efficiently
