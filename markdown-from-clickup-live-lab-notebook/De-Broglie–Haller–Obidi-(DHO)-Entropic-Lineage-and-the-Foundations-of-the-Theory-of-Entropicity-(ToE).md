@@ -235,7 +235,9 @@ Would you like to examine the exact transition from the Haller–Obidi Lagrangia
 
 # Scholium 
 
-To truly grasp how John Onimisi Obidi unified this lineage, we have to look closely at the precise structural connection he discovered. He did not simply notice a vague conceptual similarity between [Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv) and John L. Haller Jr.; instead, he realized that Haller’s modern information-theoretic equations provided the exact mathematical signature for de Broglie’s forgotten thermodynamic intuition. [1, 2, 3, 4] 
+To truly grasp how **John Onimisi Obidi** unified this lineage in the formulation of his radical Theory of Entropicity (ToE), we have to look closely at the precise structural connection he discovered. 
+
+He did not simply notice a vague conceptual similarity between **[Louis de Broglie](https://www.google.com/search?q=louis+de+broglie&kgmid=/m/0d8yv)** and **John L. Haller Jr.;** instead, he realized that Haller’s modern information-theoretic equations provided the exact mathematical signature for de Broglie’s forgotten thermodynamic intuition. [1, 2, 3, 4] 
 
 Here is the step-by-step account of how Obidi examined de Broglie's original ideas, mapped them onto Haller's particle limit, and used that bridge to build the [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6606418). [1, 3] 
 
@@ -254,6 +256,7 @@ Instead, de Broglie proposed a deeply mechanical hunch: the "isolated particle" 
 Because the mathematics of information theory did not exist in the 1920s, de Broglie lacked the tools to calculate the exact nature of this sub-quantum medium. He could intuit the thermodynamic engine, but he could not reveal its gears. [2, 3] 
 
 ------------------------------
+
 ## Two: Obidi’s Realization – Haller as the "Rosetta Stone"
 This is where Obidi's analytical process began. While reviewing John L. Haller Jr.’s 2015 breakthrough, Obidi did not see it merely as an interesting paper on statistical mechanics. He immediately recognized it as the quantitative proof of de Broglie's hidden thermostat. [6, 8] 
 
@@ -273,7 +276,7 @@ Before launching into a full field theory, Obidi paused to identify why Haller's
 
 Obidi's crucial breakthrough came from asking an inverted question: If a single particle's motion is dictated by an informational entropy identity, where does the background spacetime fabric itself come from? [10] 
 
-He reasoned that Haller's isolated particle was merely a one-dimensional, localized limit slice of a far grander reality. If an isolated particle generates an entropic footprint as it travels, it is because it is plowing through a continuous, multi-dimensional Entropic Field ($S(x)$) that blankets the entire universe. [1, 9] 
+He reasoned that Haller's isolated particle was merely a one-dimensional, localized limit slice of a far grander reality. If an isolated particle generates an entropic footprint as it travels, it is because it is plowing through a continuous, multi-dimensional Entropic Field (S(x)) that blankets the entire universe. [1, 9] 
 
 [ De Broglie's Idea ]       → The particle interacts with a hidden thermodynamic medium.
         
