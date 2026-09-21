@@ -131,6 +131,6 @@ The criticisms are not trivial; they are necessary pressure on a bold claim. But
 
 Thus, a balanced response is:
 
-> # **Obidi’s Obidi Curvature Invariant $$\ln 2$$ is best understood today as a foundational conjecture with partial formal support, not yet a fully proven universal theorem. Its strength lies in the way it ties minimal informational events to geometric structure; its vulnerability lies in the open work needed to demonstrate optimality, completeness, and invariance across the full hybrid manifold.*"
+> # **Obidi’s Obidi Curvature Invariant $$\ln 2$$ is best understood today as a foundational conjecture with partial formal support, not yet a fully proven universal theorem. Its strength lies in the way it ties minimal informational events to geometric structure; its vulnerability lies in the open work needed to demonstrate optimality, completeness, and invariance across the full hybrid manifold.**
 
 If you want, we can dig into how the Curvature Transfer Theorem (CTT) tries to bridge information geometry to physical spacetime, or unpack how Landauer’s principle is being used as the physical anchor for $$\ln 2$$ in ToE.
