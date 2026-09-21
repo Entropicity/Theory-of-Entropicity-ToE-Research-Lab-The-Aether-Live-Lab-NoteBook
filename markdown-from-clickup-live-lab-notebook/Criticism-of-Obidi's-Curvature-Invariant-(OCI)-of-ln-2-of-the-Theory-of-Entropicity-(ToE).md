@@ -38,7 +38,7 @@ is a minimum threshold for physical distinguishability, you need both:
 - Saturation:  
   At least one explicit pair
 
-  $$A^\,B^\$$
+  $$A^{*},\; B^{*}$$
 
   such that
   
