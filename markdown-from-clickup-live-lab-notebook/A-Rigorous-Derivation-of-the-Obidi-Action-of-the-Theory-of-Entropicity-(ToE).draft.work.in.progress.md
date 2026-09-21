@@ -1,4 +1,6 @@
-# From Entropy to the Obidi Action
+# DRAFT: IN PROGRESS, UNDER CONSTRUCTION
+
+# From Entropy to the Obidi Action: DRAFT
 
 ## A Step-by-Step Variational Derivation of the Obidi Action of the Theory of Entropicity (ToE)
 
