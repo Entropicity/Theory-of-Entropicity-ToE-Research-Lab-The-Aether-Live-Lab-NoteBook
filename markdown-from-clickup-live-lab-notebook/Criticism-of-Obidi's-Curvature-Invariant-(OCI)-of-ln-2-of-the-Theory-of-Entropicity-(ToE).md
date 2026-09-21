@@ -38,11 +38,11 @@ is a minimum threshold for physical distinguishability, you need both:
 - Saturation:  
   At least one explicit pair
 
-  A^{*}.B^{*}
+  A^{a}.B^{b}
 
   such that
   
-  $$D_{\text{inf}}(A^\,B^) = \ln 2$$
+  $$D_{\text{inf}}{(A^\,B^)} = \ln 2$$
 
 Obidi’s current work does more than “notice” 
 
