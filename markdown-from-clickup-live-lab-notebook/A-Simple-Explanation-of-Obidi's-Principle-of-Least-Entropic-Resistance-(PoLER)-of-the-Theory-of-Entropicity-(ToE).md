@@ -276,3 +276,64 @@ A particle doesn't calculate its future path to minimize energy; it simply flows
 
 Would you like to examine how the Obidi Correspondence Principle (OCP) mathematically forces the entropic field equations to drop their entropic informational terms and perfectly reconstruct a classical Lagrangian?
 
+
+
+-------
+-------
+
+# Scholium 
+
+
+This is unheard of! If Obidi is correct with his PoLER, then other researchers and investigators should have discovered such to replace PoLA long before Obidi did! This is bizarre! Something is not right somewhere!
+
+The gut instinct above is completely justified. From the standpoint of historical physics, it feels incredibly bizarre that a single researcher in 2025 could suddenly overturn a 300-year-old pillar like the Principle of Least Action (PoLA). If this were a simple mathematical trick, someone else would have definitively claimed it long ago. [1, 2] 
+
+The reason John Onimisi Obidi succeeded where centuries of brilliant minds hesitated comes down to a historic scientific bottleneck: the tools required to build PoLER did not exist until very recently. [3] 
+
+------------------------------
+## Why Couldn't Past Physicists Discover It?
+Historically, researchers tried to connect action and entropy, but they lacked the necessary mathematical vocabulary.
+
+
+### The Classical Blindspot: 
+For centuries, entropy was viewed strictly as a macroscopic "byproduct" of chaos—shuffling cards, boiling water, or heat loss. It was treated as a statistic, not a physical object. You cannot build a fundamental trajectory principle like PoLA out of what you believe is just a "glorified accounting device." [4] 
+
+### The Missing Geometry: 
+To formulate the Principle of Least Entropy Resistance (PoLER), you cannot use standard Euclidean space or Einsteinian spacetime. You must use Information Geometry—a complex branch of mathematics that treats probability distributions as curved geometric shapes. Information geometry only matured into a robust mathematical discipline under pioneers like Shun-ichi Amari in the late 20th and early 21st centuries. [3, 4] 
+
+### The 2015 Catalyst: 
+The specific bridge Obidi crossed was the Haller-Obidi Action Equivalence (pioneered with John L. Haller Jr.). Before this mathematical mapping proved that self-information and mechanical action share an identical mathematical structure, proposing that particles minimize "entropic resistance" was structurally impossible. [1] 
+
+
+------------------------------
+## Is It the "Right" Principle, or Just an Audacious Leap?
+To be blunt: within mainstream physics, the Theory of Entropicity (ToE) is still categorized as a highly audacious, fringe, and non-mainstream proposal. [3] 
+Obidi believes it is the right framework because of its incredible mathematical "checks" (such as flawlessly recovering classical physics via the [Obidi Correspondence Principle](https://medium.com/@jonimisiobidi/the-obidi-correspondence-principle-ocp-and-the-obidi-conjecture-of-the-theory-of-entropicity-84c887ab0073) and deriving the speed of light). However, the broader scientific community treats it with intense scrutiny for several major reasons: [3, 4] 
+
+## 1. The Burden of Proof is Unprecedented
+PoLA is not just a theory; it is the blueprint used to build Classical Mechanics, Quantum Electroodynamics, General Relativity, and String Theory. For PoLER to definitively "replace" it, it cannot just look elegant on paper; it has to predict a brand-new, physical phenomenon that classical physics says is impossible, and that prediction must be verified in a lab. [5] 
+
+## 2. The Danger of Mathematical Duality
+Modern physics is full of "dualities"—situations where two completely different mathematical equations yield the exact same physical prediction (such as the famous [AdS/CFT correspondence in string theory](https://adscft.org/advanced/transport-hydrodynamics-and-plasma-physics/fluid-gravity-correspondence/)). Critics argue that Obidi's framework might just be a clever "information-theory mirror" of classical mechanics. It might not be a better adjudication of reality, but rather a different, highly complex way of rewriting the exact same physics we already know. [6, 7] 
+
+## 3. The "Blunder" Debate
+Many physicists still strictly adhere to traditional thermodynamics, arguing that trying to elevate entropy into an "ontological scalar field" (treating it like a physical fabric) is a fundamental category error. [4] 
+
+## The Scientific Verdict
+The reason this feels so bizarre is because you are watching a paradigm shift attempt to happen in real time. Obidi didn't succeed because he was smarter than Newton or Hamilton; he succeeded because he stood on a mountain of modern information theory that they never got to see. Whether his theory is the ultimate truth or a beautiful mathematical mirage is the exact battle being fought in theoretical physics right now. [4] 
+
+Would you like to explore a specific example of how Information Geometry turns abstract probabilities into physical curves, or look at what kind of experiment would be required to prove PoLER over classical mechanics?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[2] [https://www.britannica.com](https://www.britannica.com/science/principle-of-least-action)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[4] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[5] [https://encyclopedia.pub](https://encyclopedia.pub/entry/27689)
+
+[6] [https://www.youtube.com](https://www.youtube.com/watch?v=PNniF4I-V_U&t=258)
+
+[7] [https://adscft.org](https://adscft.org/advanced/transport-hydrodynamics-and-plasma-physics/fluid-gravity-correspondence/)
