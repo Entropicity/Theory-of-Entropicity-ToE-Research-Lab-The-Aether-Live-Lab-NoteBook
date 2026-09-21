@@ -26,12 +26,15 @@ $$
 is a minimum threshold for physical distinguishability, you need both:
 
 - Lower bound:  
-  $$D_{\text{inf}}(A,B) \ge \ln 2 \quad \forall A \neq B$$  
+
+   $$D_{\text{inf}}(A,B) \ge \ln 2 \quad \forall A \neq B$$  
+
   for all admissible pairs $$A,B$$ in the information manifold.
 
 - Saturation:  
-  At least one explicit pair $$A^\,B^\$$ such that  
-  $$D_{\text{inf}}(A^\,B^\) = \ln 2.$$
+  At least one explicit pair $$A^\,B^\$$ such that
+  
+  $$D_{\text{inf}}(A^\,B^\) = \ln 2$$
 
 Obidi’s current work does more than “notice” $$\ln 2$$; he ties it to Landauer’s principle, binary distinguishability, and the minimal irreversible update of an informational state. The intuition is:
 
@@ -41,9 +44,11 @@ Obidi’s current work does more than “notice” $$\ln 2$$; he ties it to Land
 
 - The OCI is then proposed as the geometric encoding of that minimal irreversible update.
 
-Where the critics are correct is that this is, at present, partly axiomatic and partly constructive, not yet a fully closed theorem in the strict differential‑geometric sense. Obidi has outlined the structure of admissible pairs and argued that any physically meaningful distinction must cross the $$\ln 2$$ threshold, but a fully general proof over all possible hybrid quantum‑classical configurations is still an open program.
+Where the critics are correct is that this is, at present, partly axiomatic and partly constructive, not yet a fully closed theorem in the strict differential‑geometric sense. 
 
-So, the honest and accurate response is this:
+Obidi has outlined the structure of admissible pairs and argued that any physically meaningful distinction must cross the $$\ln 2$$ threshold, but a fully general proof over all possible hybrid quantum‑classical configurations is still an open program.
+
+Hence, the honest and accurate response is this:
 
 - The lower‑bound intuition is strong and physically motivated.  
 
@@ -57,9 +62,11 @@ That doesn’t invalidate the idea; it just locates it where it belongs: in the 
 
 2. Is $$\ln 2$$ really the minimum?
 
-Critics say: in smooth quantum geometry (Fubini–Study, etc.), states can be arbitrarily close, so why should there be a hard “gap” at $$\ln 2$$?
+Critics say: in smooth quantum geometry (Fubini–Study, etc.), states can be arbitrarily close, so why should there be a hard “gap” at 
 
-Obidi’s counter‑move is subtle:
+$$\ln 2$$?
+
+## Obidi’s counter‑move is both subtle and ingenious:
 
 - He is not claiming that pure state vectors in Hilbert space cannot be closer than $$\ln 2$$ in some metric.  
 
@@ -71,7 +78,11 @@ In other words:
 
 - Physical distinguishability in an entropic universe cannot be arbitrarily cheap; it has a minimum cost.
 
-Hence, $$\ln 2$$ is not a “gap” in the abstract geometry; it is a threshold in the entropic realization of geometry. The manifold can be smooth, but actual transitions that count as “different physical states” must pay at least that entropic price.
+Hence, 
+
+$$\ln 2$$ 
+
+is not a “gap” in the abstract geometry; it is a threshold in the entropic realization of geometry. The manifold can be smooth, but actual transitions that count as “different physical states” must pay at least that entropic price.
 
 Again, the critics are right to demand a formal separation between:
 
