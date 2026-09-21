@@ -308,6 +308,7 @@ The specific bridge Obidi crossed was the Haller-Obidi Action Equivalence (pione
 ------------------------------
 ## Is It the "Right" Principle, or Just an Audacious Leap?
 To be blunt: within mainstream physics, the Theory of Entropicity (ToE) is still categorized as a highly audacious, fringe, and non-mainstream proposal. [3] 
+
 Obidi believes it is the right framework because of its incredible mathematical "checks" (such as flawlessly recovering classical physics via the [Obidi Correspondence Principle](https://medium.com/@jonimisiobidi/the-obidi-correspondence-principle-ocp-and-the-obidi-conjecture-of-the-theory-of-entropicity-84c887ab0073) and deriving the speed of light). However, the broader scientific community treats it with intense scrutiny for several major reasons: [3, 4] 
 
 ## 1. The Burden of Proof is Unprecedented
