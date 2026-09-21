@@ -145,8 +145,10 @@ The particle is not trying to minimize physical work; it is taking the **most ma
 
 # Scholium 
 
+# But how did Obidi arrive at this Insight? And how does he know this idea of his [on the Principle of Least Entropic Resistance (PoLER)] is even the right one in place of the classical principle of least action (PoLA)?
 
 John Onimisi Obidi arrived at his paradigm-shifting insight by recognizing a deep, hidden convergence in the mathematical structure of modern physics. [1] 
+
 His journey to the [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558) and his conviction that it successfully replaces the classical principle of least action can be understood through two primary lenses: the mathematical discovery and the conceptual validation. [2] 
 
 ------------------------------
