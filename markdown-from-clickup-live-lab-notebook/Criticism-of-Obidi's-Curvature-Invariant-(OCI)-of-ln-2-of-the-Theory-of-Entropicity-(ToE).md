@@ -5,7 +5,11 @@ Criticism-of-Obidi's-Curvature-Invariant-(OCI)-of-ln-2-of-the-Theory-of-Entropic
 
 
 Obidi is not getting superficial pushback here—the objections go straight at the load‑bearing joints of Obidi’s construction:  
-- Is $$\ln 2$$ really a universal lower bound?  
+- Is
+
+$$\ln 2$$
+
+really a universal lower bound?  
 
 - Is the Obidi Curvature Invariant (OCI) truly invariant under the right transformation group?  
 
@@ -32,11 +36,19 @@ is a minimum threshold for physical distinguishability, you need both:
   for all admissible pairs $$A,B$$ in the information manifold.
 
 - Saturation:  
-  At least one explicit pair $$A^\,B^\$$ such that
+  At least one explicit pair
+
+  $$A^\,B^\$$
+
+  such that
   
   $$D_{\text{inf}}(A^\,B^\) = \ln 2$$
 
-Obidi’s current work does more than “notice” $$\ln 2$$; he ties it to Landauer’s principle, binary distinguishability, and the minimal irreversible update of an informational state. The intuition is:
+Obidi’s current work does more than “notice” 
+
+$$\ln 2$$
+
+Obidi ties it to Landauer’s principle, binary distinguishability, and the minimal irreversible update of an informational state. The intuition is:
 
 - One irreversible bit flip is the smallest non‑trivial physical update.  
 
