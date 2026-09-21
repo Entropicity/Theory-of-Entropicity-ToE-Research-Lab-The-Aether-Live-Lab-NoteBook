@@ -53,3 +53,87 @@ Would you like to examine the mathematical setup of the Obidi Action equations, 
 [9] [https://medium.com](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1)
 
 [10] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+
+-------
+-------
+
+# Scholium 
+
+
+# Obidi’s Entropic Optimization Requirement  
+## How a Trajectory Satisfies the Principle of Least Entropic Resistance (PoLER)
+
+A natural question arises in John Onimisi Obidi’s **Theory of Entropicity (ToE)**:
+
+**But how can a trajectory meet Obidi’s requirement that it must be entropic optimization instead of the classical principle of least action?**
+
+In ToE, this transition represents a **fundamental inversion of physics**. Classical mechanics treats entropy as a secondary statistical byproduct of particles moving through spacetime. Obidi reverses this hierarchy: **entropy becomes the primary dynamical field**, and geometry, matter, and motion emerge from its gradients.
+
+A trajectory satisfies Obidi’s requirement through a localized mechanism called **least‑entropy‑resistance**.
+
+---
+
+## 1. Redefining “Action” as Entropic Flow
+
+In classical physics, a trajectory minimizes mechanical action:
+
+$$S = \int (T - V)\, dt.$$
+
+In Obidi’s framework, this is replaced by the **Obidi Action**, an entropic functional. A physical path is chosen not because it minimizes mechanical energy, but because it **minimally obstructs the natural increase of entropy** along that coordinate path.
+
+### The Path of Least Resistance  
+“Least effort” no longer means conserving mechanical energy. It means selecting the path that allows the **universal entropic field** to reconfigure itself with **maximal informational throughput** and **minimal structural resistance**.
+
+A trajectory is therefore an **entropic computation**, not a mechanical compromise.
+
+---
+
+## 2. Entropic Geodesics via Information Geometry
+
+Instead of a fixed spacetime metric, the system moves through an **entropic manifold** constructed from information‑theoretic geometry.
+
+- The **Fisher–Rao metric** governs classical spatial and temporal sectors.  
+
+- The **Fubini–Study metric** governs quantum state overlaps.  
+
+- The **Amari–Čencov \( \alpha \)-connection** introduces the arrow of time and irreversibility.
+
+As a system updates its informational state, it moves along **entropic geodesics**.
+
+### What We Perceive as Motion  
+Gravitational acceleration, momentum, and inertial drift are reinterpreted as the system **sliding down information‑geometry gradients** driven by entropic pressure.
+
+Motion is not a response to force; it is the **optimal informational reconfiguration** of the entropic field.
+
+---
+
+## 3. Suppression of Unpermitted Paths
+
+If a proposed trajectory encounters entropic obstruction or violates global constraints, nature suppresses that path.
+
+According to the **No‑Rush Theorem**, governed by the **Obidi Curvature Invariant**:
+
+$$\ln 2,$$
+
+a trajectory cannot progress instantaneously. A system must accumulate sufficient **entropic curvature divergence** before a physical transition or movement is permitted.
+
+This ensures that **irreversibility**, **finite propagation**, and **causal ordering** arise naturally from entropic structure.
+
+---
+
+## Summary Comparison
+
+| Attribute | Principle of Least Action (Classical) | Entropic Optimization (Obidi’s [Theory of Entropicity (ToE)] |
+|----------|----------------------------------------|--------------------------------------|
+| Core Quantity | Mechanical Lagrangian $$T - V$$ | Entropy gradients and resistance |
+| Space & Time | Fixed geometric backdrop | Emergent shadows of informational change |
+| Selection Rule | Minimizes energy expenditure | Minimizes resistance to entropy’s natural flow |
+
+---
+
+## Final Insight
+
+A trajectory satisfies Obidi’s requirement by treating motion as a **continuous entropic computation**.  
+
+The particle is not trying to minimize physical work; it is taking the **most mathematically efficient route** to update its informational state within the universal entropic field.
