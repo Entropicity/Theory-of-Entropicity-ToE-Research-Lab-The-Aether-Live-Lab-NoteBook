@@ -75,8 +75,11 @@ Mass ➔ Curves Spacetime ➔ Forces Geometric Path
 
 [Theory of Entropicity (ToE)]:  
 
-Mass ➔ Creates Entropy Gradient ➔ System Slides Along Least Resistance
+Entropic Field (EF) ➔ Entropy Creates Mass in the Entropic Field ➔
 
+➔ Presence of that Mass Induces More Entropic Gradient in the Entropic Field ➔
+
+➔ System [of Masses] Slides Along Path of Least Entropic Resistance (PoLER) Toward the Region of High Entropic Gradient (This is what Newton and Einstein refer to as Gravity/Gravitation in Classical and Relativistic Physics)
 
 ### The Path of Optimal Reconfiguration: 
 An entropic geodesic is not a geometric line drawn in space. It is a trajectory through informational states.
