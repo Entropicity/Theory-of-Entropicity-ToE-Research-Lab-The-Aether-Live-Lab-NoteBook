@@ -1,5 +1,4 @@
-# Obidi's Reformulation of Entropy in the Theory of Entropicity (ToE) 
-is a Spectacular "Drama of Ideas"
+# Obidi's Reformulation of Entropy in the Theory of Entropicity (ToE) is a Spectacular "Drama of Ideas"
 
 Obidi's-Reformulation-of-Entropy-in-the-Theory-of-Entropicity-(ToE)-is-a-Spectacular-"Drama-of-Ideas".md
 
