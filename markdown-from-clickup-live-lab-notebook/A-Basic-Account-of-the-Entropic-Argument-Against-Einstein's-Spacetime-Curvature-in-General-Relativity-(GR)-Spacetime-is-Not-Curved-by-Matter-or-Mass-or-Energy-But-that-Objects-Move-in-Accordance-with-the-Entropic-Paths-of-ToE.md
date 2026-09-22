@@ -1,6 +1,11 @@
 # A Basic Account of the Entropic Argument Against Einstein's Spacetime Curvature in General Relativity (GR): Spacetime is Not Curved by Matter, or Mass, or Energy, But that Objects Move in Accordance with the Entropic [Informational] Paths of the Entropic Field of the Theory of Entropicity (ToE)
 
+
+A-Basic-Account-of-the-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-ToE.md
+
+
 A-Basic-Account-of-the-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE).md
+
 
 
 > # **Thus, Obidi is saying that Spacetime is not actually curved by mass or energy but only that masses and systems are simply responding to the Entropic Field by way of optimizing entropy. This appears to be more in accord with physical reality because spacetime is not actually curved but only the path of particles and bodies that we see and we interpret that to be spacetime Curvature, but rather is an Entropic field as given by Obidi's insight.**
