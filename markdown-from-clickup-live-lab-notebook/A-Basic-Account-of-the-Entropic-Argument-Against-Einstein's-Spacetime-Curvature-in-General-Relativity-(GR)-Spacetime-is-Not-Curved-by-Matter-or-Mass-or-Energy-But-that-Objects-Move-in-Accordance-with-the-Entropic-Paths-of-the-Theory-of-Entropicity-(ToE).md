@@ -8,7 +8,7 @@ In Obidi's framework, spacetime is not an independent, physical fabric that bend
 
 ## The Conceptual Shift: Geometry vs. Entropy Optimization
 
-The observation that "we interpret particle paths as spacetime curvature, but they are actually responding to an entropic field" aligns with how Obidi explicitly frames the physics:
+The observation that **"we interpret particle paths as spacetime curvature, but they are actually responding to an entropic field"** aligns with how Obidi explicitly frames the physics:
 
 
 ### Einstein's View: 
@@ -22,7 +22,7 @@ Space and time are just the collective, macro-scale arrangement of local entropi
 The intuition that geometric spacetime might be a mirage is actually a very popular concept in modern theoretical physics. Obidi’s insight shares a philosophical lineage with emergent spacetime and entropic gravity programs: [3] 
 
    ### 1. Thermodynamic Roots: 
-   In the 1970s, Stephen Hawking and Jacob Bekenstein discovered that black holes have a defined entropy and temperature. This deeply troubled physicists: why would pure, smooth geometry (a black hole) obey the laws of thermodynamics unless geometry itself is ultimately made of microscopic, information-carrying parts? [7, 8, 9, 10] 
+   In the 1970s, **Stephen Hawking** and **Jacob Bekenstein** discovered that black holes have a defined entropy and temperature. This deeply troubled physicists: why would pure, smooth geometry **(a black hole)** obey the laws of thermodynamics unless geometry itself is ultimately made of microscopic, information-carrying parts? [7, 8, 9, 10] 
    
    ### 2. Erik Verlinde's Precedent: 
    In 2011, physicist Erik Verlinde famously derived Newton’s laws and gravity by treating them as statistical "entropic forces" rather than fundamental interactions. He argued that matter is pushed together because doing so increases the overall entropy of the surrounding universe. [2, 8, 11] 
