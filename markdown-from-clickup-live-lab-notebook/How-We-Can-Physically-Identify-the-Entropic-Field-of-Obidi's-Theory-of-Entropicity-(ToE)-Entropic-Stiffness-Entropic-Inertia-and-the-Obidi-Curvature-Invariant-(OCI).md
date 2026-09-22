@@ -73,13 +73,6 @@ This concept borrows directly from classical wave mechanics. The speed of a wave
 
 $$\text{Wave Speed} =\sqrt{{\frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}}$$ 
 
-$$
-\text{Wave Speed} = \sqrt{\frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}
-$$
-
-$$
-\text{Wave Speed} = \sqrt{\dfrac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}
-$$
 
 $$
 \text{Wave Speed} = \sqrt{\left( \frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}} \right)}
