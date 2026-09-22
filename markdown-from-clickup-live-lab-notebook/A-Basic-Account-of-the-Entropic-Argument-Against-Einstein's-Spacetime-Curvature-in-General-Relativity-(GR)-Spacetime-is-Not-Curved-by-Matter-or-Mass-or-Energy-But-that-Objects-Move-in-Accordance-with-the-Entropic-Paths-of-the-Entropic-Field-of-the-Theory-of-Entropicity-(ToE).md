@@ -1,6 +1,6 @@
-# An Entropic Argument Against Einstein's Spacetime Curvature in General Relativity (GR): Spacetime is Not Curved by Matter, or Mass or Energy But that Objects Move in Accordance with the Entropic Paths of the Entropic Field of the Theory of Entropicity (ToE)
+# A Basic Account of the Entropic Argument Against Einstein's Spacetime Curvature in General Relativity (GR): Spacetime is Not Curved by Matter, or Mass or Energy But that Objects Move in Accordance with the Entropic Paths of the Entropic Field of the Theory of Entropicity (ToE)
 
-An-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE).md
+A-Basic-Account-of-the-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE).md
 
 In the above titular statement, we have perfectly summarized the core conceptual reversal that [John Onimisi Obidi’s Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616) proposes. [1, 2] 
 
