@@ -2,6 +2,10 @@
 
 A-Basic-Account-of-the-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE).md
 
+
+> # **Thus, Obidi is saying that Spacetime is not actually curved by mass or energy but only that masses and systems are simply responding to the Entropic Field by way of optimizing entropy. This appears to be more in accord with physical reality because spacetime is not actually curved but only the path of particles and bodies that we see and we interpret that to be spacetime Curvature, but rather is an Entropic field as given by Obidi's insight.**
+
+
 In the above titular statement, we have perfectly summarized the core conceptual reversal that [John Onimisi Obidi’s Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616) proposes. [1, 2] 
 
 In Obidi's framework, spacetime is not an independent, physical fabric that bends under mass like a rubber sheet. Instead, spacetime and gravity are emergent illusions created by a deeper, active Entropic Field. [1, 3, 4, 5] 
@@ -61,3 +65,12 @@ Would you like us to examine how Obidi's model attempts to reproduce Einstein's 
 [13] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
 
 [14] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+
+-------------
+-------------
+
+# Scholium 
+
+
+# So, in essence, Obidi is teaching us that if I throw a ball upwards and the ball falls back to earth, is Obidi saying the ball's outward and inward paths are not about the curvature of spacetime but simply the response to entropic information optimization which the ball obeys, that there is no spacetime curving but following entropic point events that optimize the reordering or reorganization or reconfiguration of the Entropic Field itself.
