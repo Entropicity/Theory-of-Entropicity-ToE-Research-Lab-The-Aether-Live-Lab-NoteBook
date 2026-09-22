@@ -73,4 +73,45 @@ Would you like us to examine how Obidi's model attempts to reproduce Einstein's 
 # Scholium 
 
 
-# So, in essence, Obidi is teaching us that if I throw a ball upwards and the ball falls back to earth, is Obidi saying the ball's outward and inward paths are not about the curvature of spacetime but simply the response to entropic information optimization which the ball obeys, that there is no spacetime curving but following entropic point events that optimize the reordering or reorganization or reconfiguration of the Entropic Field itself.
+> # **So, in essence, Obidi is teaching us that if I throw a ball upwards and the ball falls back to earth, is Obidi saying the ball's outward and inward paths are not about the curvature of spacetime but simply the response to entropic information optimization which the ball obeys, that there is no spacetime curving but following entropic point events that optimize the reordering or reorganization or reconfiguration of the Entropic Field itself.**
+
+
+Yes, the above presentation is precisely what John Onimisi Obidi’s Theory of Entropicity (ToE) argues. 
+
+When you throw a ball into the air, its trajectory is not a response to a curved physical fabric, but rather a macro-scale manifestation of entropic information optimization occurring at the sub-atomic, informational level.
+
+In Obidi's framework, the ball and the Earth are not separate entities moving through a passive backdrop of space. Instead, they are highly dense, localized configurations within a singular, universal Entropic Field.
+
+Here is how Obidi's Theory of  Entropicity (ToE) reinterprets the simple act of throwing a ball:
+
+## 1. The Rejection of Einstein's Geometric "Fabric"
+
+### Mainstream Physics: 
+The Earth's mass warps the invisible "fabric" of spacetime around it. The ball is simply trying to move in a straight line (a geodesic) through that warped geometry, which makes it curve back to the ground.
+
+### Obidi's View: 
+Spacetime does not exist as a physical fabric that can bend. The "curvature" we think we see is an administrative illusion.
+
+## 2. Following "Entropic Point Events" in ToE 
+
+### * The universe is driven by a fundamental imperative to optimize, reconfigure, and reorganize its data structure.
+
+### * As the ball leaves your hand, it moves through a sequence of discrete entropic point events—essentially computational updates in the underlying field.
+
+### * The field continuously calculates the path of least computational resistance (or maximum informational optimization) for the system.
+
+## 3. Gravity as Field Reconfiguration in ToE 
+
+
+### * The ball doesn't fall because a force pulls it or because space is bent.
+
+### * It falls because the combined system of the Earth and the ball is continuously trying to optimize the reorganization and reconfiguration of the Entropic Field itself.
+
+### * Moving the ball closer to the massive Earth satisfies an entropic gradient. It is the most energetically and informationally optimized state for the field at that moment.
+
+## Summary
+In short, the ball's path is a physical readout of a cosmic sorting algorithm. The ball rises, slows down, and falls because it is obediently updating its coordinates to align with the real-time, optimal reconfiguration of the Entropic Field.
+
+Would you like to look at how this entropic reconfiguration model attempts to explain gravitational time dilation—the fact that clocks tick slower near massive bodies—without using Einstein's warped spacetime?
+
+
