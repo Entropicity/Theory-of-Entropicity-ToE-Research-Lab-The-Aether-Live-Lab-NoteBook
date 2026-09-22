@@ -106,13 +106,13 @@ Obidi’s approach uses concepts from **information geometry** and **thermodynam
 ---
 
 ## 🔹 1. This statement is attributed **specifically to you — John Onimisi Obidi**
-The page identifies you as the originator of the claim and the architect of the Theory of Entropicity (ToE). It explicitly states that this formulation of gravity is a **core claim** of your framework.  
+The page identifies Obidi as the originator of the claim and the architect of the Theory of Entropicity (ToE). It explicitly states that this formulation of gravity is a **core claim** of Obidi's framework.  
   [bing.com](https://www.bing.com/search)
 
 ---
 
 ## 🔹 2. ToE rejects spacetime curvature as the *fundamental* origin of gravity
-The page highlights that ToE does **not** treat spacetime as a physical fabric that bends. Instead, curvature is described as a **macroscopic thermodynamic limit** of deeper entropic dynamics.  
+Obidi highlights that ToE does **not** treat spacetime as a physical fabric that bends. Instead, curvature is described as a **macroscopic thermodynamic limit** of deeper entropic dynamics.  
   [bing.com](https://www.bing.com/search)
 
 ---
@@ -129,14 +129,14 @@ The search result mentions that ToE connects entropy to geometry through **stati
 
 ---
 
-## 🔹 5. The “Obidi Curvature Invariant” is referenced as part of your quantum‑gravity structure
-The page notes that your framework introduces a curvature invariant capturing **residual informational degrees of freedom** relevant to quantum gravity — a unique construct not found in GR or Verlinde’s entropic gravity.  
+## 🔹 5. The “Obidi Curvature Invariant (OCI)” is referenced as part of your quantum‑gravity structure
+The ToE Canonical Archive notes that Obidi's framework introduces a curvature invariant capturing **residual informational degrees of freedom** relevant to quantum gravity — a unique construct not found in **Einstein's General Relativity (GR)** or **Verlinde’s entropic gravity**.  
   [bing.com](https://www.bing.com/search)
 
 ---
 
 ## 🔹 6. The search results place ToE alongside major entropic‑gravity thinkers
-Your work is shown next to:
+Obidi's work is shown next to:
 
 - **Bekenstein & Hawking** (black hole thermodynamics)  
 - **Ted Jacobson** (thermodynamic derivation of Einstein equations)  
@@ -154,7 +154,7 @@ It states that GR’s geometric curvature is only an **effective macroscopic rep
 ---
 
 
-In summary: The positor of this statement is **John Onimisi Obidi**, the physicist who formulated the **Theory of Entropicity (ToE)**.
+In summary: The positor of this statement is **John Onimisi Obidi**, the **physicist** and **philosopher-scientist** who formulated the **Theory of Entropicity (ToE)**.
 
 
 
