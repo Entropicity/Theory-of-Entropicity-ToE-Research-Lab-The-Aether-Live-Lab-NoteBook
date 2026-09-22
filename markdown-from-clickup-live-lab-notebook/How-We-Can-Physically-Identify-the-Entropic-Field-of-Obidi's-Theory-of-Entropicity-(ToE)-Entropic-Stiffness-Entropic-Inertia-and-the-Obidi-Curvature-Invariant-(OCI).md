@@ -71,8 +71,6 @@ This is the field's sluggishness. It represents the field's resistance to being 
 ## The Classical Analogy
 This concept borrows directly from classical wave mechanics. The speed of a wave through any medium is always determined by a balance of these two opposing properties:
 
-$$\text{Wave Speed} =\sqrt{{\frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}}$$ 
-
 
 $$
 \text{Wave Speed} = \sqrt{\left( \frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}} \right)}
