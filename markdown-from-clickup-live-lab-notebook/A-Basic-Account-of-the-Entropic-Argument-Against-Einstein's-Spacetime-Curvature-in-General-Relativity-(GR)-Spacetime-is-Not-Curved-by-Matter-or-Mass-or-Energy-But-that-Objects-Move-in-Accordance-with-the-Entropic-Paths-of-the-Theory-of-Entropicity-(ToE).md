@@ -1,4 +1,4 @@
-# A Basic Account of the Entropic Argument Against Einstein's Spacetime Curvature in General Relativity (GR): Spacetime is Not Curved by Matter, or Mass, or Energy, But that Objects Move in Accordance with the Entropic Paths of the Entropic Field of the Theory of Entropicity (ToE)
+# A Basic Account of the Entropic Argument Against Einstein's Spacetime Curvature in General Relativity (GR): Spacetime is Not Curved by Matter, or Mass, or Energy, But that Objects Move in Accordance with the Entropic [Informational] Paths of the Entropic Field of the Theory of Entropicity (ToE)
 
 A-Basic-Account-of-the-Entropic-Argument-Against-Einstein's-Spacetime-Curvature-in-General-Relativity-(GR)-Spacetime-is-Not-Curved-by-Matter-or-Mass-or-Energy-But-that-Objects-Move-in-Accordance-with-the-Entropic-Paths-of-the-Entropic-Field-of-the-Theory-of-Entropicity-(ToE).md
 
