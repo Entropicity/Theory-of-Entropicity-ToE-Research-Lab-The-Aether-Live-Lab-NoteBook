@@ -19,8 +19,8 @@ GitHub Gist]
 . 
 
 This view aligns with the broader idea in entropic gravity that gravity is an entropic force—a macro-scale homogeneity arising from quantum-level disorder and information structure 
-Wikipedia
-Wikipedia
+[Wikipedia
+Wikipedia]
 +1
 .
 
