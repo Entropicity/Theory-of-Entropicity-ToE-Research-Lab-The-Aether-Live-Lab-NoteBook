@@ -81,6 +81,10 @@ $$
 \text{Wave Speed} = \sqrt{\dfrac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}
 $$
 
+$$
+\text{Wave Speed} = \sqrt{\left( \frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}} \right)}
+$$
+
 
 
 ### In a sound wave: 
