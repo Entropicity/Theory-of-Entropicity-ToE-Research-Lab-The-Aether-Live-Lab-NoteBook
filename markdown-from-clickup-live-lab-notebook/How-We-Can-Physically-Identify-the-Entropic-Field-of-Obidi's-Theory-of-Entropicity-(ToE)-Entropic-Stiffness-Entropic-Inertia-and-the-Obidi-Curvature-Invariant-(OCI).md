@@ -73,6 +73,11 @@ This concept borrows directly from classical wave mechanics. The speed of a wave
 
 $$\text{Wave Speed} =\sqrt{{\frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}}$$ 
 
+$$
+\text{Wave Speed} = \sqrt{\frac{\text{Stiffness (Elastic Property)}}{\text{Inertia (Mass Property)}}}
+$$
+
+
 ### In a sound wave: 
 Speed depends on the stiffness of the material (bulk modulus) divided by its inertia (density).
 
