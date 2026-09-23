@@ -328,7 +328,9 @@ Where $\rho_s$ represents the "entropy source density" of matter, and $\mu_0$ ac
 
 $$\Box S = -\frac{\kappa}{2} k_B^2 \theta$$ 
 
-Here, $\kappa$ is Einstein's gravitational constant ($\frac{8\pi G}{c^4}$), and $k_B$ is the Boltzmann constant. By making both equations second-order in time, thermal and entropy fluctuations propagate as actual waves, resolving the Lorentz transformation paradoxes of classical thermodynamics. [1, 3] 
+Here, $\kappa$ is Einstein's gravitational constant ($\frac{8\pi G}{c^4}$), and $k_B$ is the Boltzmann constant. 
+
+By making both equations second-order in time, thermal and entropy fluctuations propagate as actual waves, resolving the Lorentz transformation paradoxes of classical thermodynamics. [1, 3] 
 
 
 ------------------------------
@@ -337,14 +339,22 @@ Here, $\kappa$ is Einstein's gravitational constant ($\frac{8\pi G}{c^4}$), and 
 Jamali modifies General Relativity by taking his thermodynamic field theory and applying a strict equivalence principle between mechanical/gravitational quantities and thermodynamic ones. [2] 
 
 ## The Core Dictionary
-In his papers like [Relativity of Energy](https://www.preprints.org/manuscript/202111.0559/v1/download), he defines a symmetric harmony between gravity and heat: [2] 
+In his papers like [Relativity of Energy](https://www.preprints.org/manuscript/202111.0559/v1/download), Jamali defines a symmetric harmony between gravity and heat: [2] 
 
 * Entropy maps to Mass: $S \equiv m$
 * Temperature maps to Gravitational Potential: $T \equiv \phi$ [2, 4]
   
 
 ## Modifying the Field Equations
-In Einstein's original General Relativity, the metric of spacetime is determined strictly by the Stress-Energy Tensor ($T_{\mu\nu}$) via the equation $G_{\mu\nu} = \kappa T_{\mu\nu}$. Jamali's framework alters how we treat mass and potential energy within that tensor: [2] 
+In Einstein's original General Relativity, the metric of spacetime is determined strictly by the Stress-Energy Tensor
+
+$$T_{\mu\nu}$$
+
+via the equation 
+
+$$G_{\mu\nu} = \kappa T_{\mu\nu}$$. 
+
+Jamali's framework alters how we treat mass and potential energy within that tensor: [2] 
 
    ### 1. Statistical Mechanics of Mass: 
    Because $S \equiv m$, Jamali applies Boltzmann’s entropy formula ($S = k_B \log W$) directly to mass. He reformulates a particle's mass at the quantum gravity scale as:
@@ -359,6 +369,7 @@ In Einstein's original General Relativity, the metric of spacetime is determined
    $$\phi = \frac{dV}{dm}$$ 
    
    This allows the gravitational potential field to behave exactly like thermodynamic temperature ($T = \frac{dE}{dS}$). [2, 4] 
+  
    ### 3. Geometrizing the Thermal Field: 
    By embedding temperature as a fundamental field, the Stress-Energy Tensor must be modified to include a "thermal energy-momentum" component. Spacetime curvature ($G_{\mu\nu}$) is no longer just bent by raw mass-energy, but is dynamically bent by the local distribution of the entropy/temperature wave fields.
 
@@ -385,7 +396,7 @@ Would you like to examine how he applies this framework specifically to black ho
 # Scholium 
 
 
-Both Alireza Jamali and John Onimisi Obidi (with his Theory of Entropicity / ToE) share a rare, radical objective: elevating thermodynamics from a secondary statistical framework to the absolute bedrock of fundamental physics. They both independently seek to map entropy to spacetime geometry to eliminate the need for Dark Matter and reconcile gravity with quantum principles. [1, 2, 3] 
+Both Alireza Jamali and John Onimisi Obidi [with his Theory of Entropicity (ToE)] share a rare, radical objective: elevating thermodynamics from a secondary statistical framework to the absolute bedrock of fundamental physics. They both independently seek to map entropy to spacetime geometry to eliminate the need for Dark Matter and reconcile gravity with quantum principles. [1, 2, 3] 
 
 However, their underlying philosophies, causal directions, and mathematical frameworks drastically diverge.
 
@@ -396,7 +407,7 @@ However, their underlying philosophies, causal directions, and mathematical fram
 |---|---|---|
 | Foundational Concept | Temperature ($T$) as a fundamental property of matter that generates an Entropy ($S$) field. | Entropy ($S(x)$) as the foundational, continuous informational substrate of reality. |
 | Spacetime Architecture | Spacetime geometry is real and modified; thermal wave equations are embedded directly into modified General Relativity. | Spacetime is emergent; it is an "informational shadow" selected via coarse-graining and distinguishability. |
-| Core Field Equation | Dual wave equations like: $\Box S = -\frac{\kappa}{2} k_B^2 \theta$ | The Master Entropic Equation (MEE) and Entropic Metric Equation. |
+| Core Field Equation | Dual wave equations like: $\Box S = -\frac{\kappa}{2} k_B^2 \theta$ | The Master Entropic Equation (MEE)/Obidi Field Equations (OFE) and Entropic Metric Equation. |
 | Origin of Gravity | Gravity is a manifestation of thermodynamic equivalence ($S \equiv m$, $T \equiv \phi$), changing the Stress-Energy tensor. | Gravity is completely emergent; particles simply trace entropic geodesics toward optimal informational configurations. |
 | Quantum Mechanism | Explores non-linear generalizations of Schrödinger/Klein-Gordon equations. | Solved via Information Geometry using the Fisher-Rao (classical) and Fubini-Study (quantum) metrics. |
 
@@ -427,7 +438,7 @@ However, their underlying philosophies, causal directions, and mathematical fram
 
 * **Obidi's** math is anchored in Triadic Information Geometry. He constructs an Entropic Metric Equation:
 
-($g_{ij}^{(\alpha)}= \partial^2\psi(\theta)/\partial\theta_i\partial\theta_j + \alpha T_{ijk}(\theta)$) 
+$$g_{ij}^{(\alpha)}= \partial^2\psi(\theta)/\partial\theta_i\partial\theta_j + \alpha T_{ijk}(\theta)$$ 
 
 where an irreversibility tensor explicitly encodes the arrow of time directly into the geometric fabric. [1, 4, 7] 
 
