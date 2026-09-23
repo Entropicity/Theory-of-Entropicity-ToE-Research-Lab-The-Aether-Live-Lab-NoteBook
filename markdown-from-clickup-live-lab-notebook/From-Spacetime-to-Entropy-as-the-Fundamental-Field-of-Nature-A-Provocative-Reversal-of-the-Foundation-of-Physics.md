@@ -76,9 +76,7 @@ A growing body of theoretical work suggests that entropy may be more fundamental
 
 ## The Theory of Entropicity (ToE)
 **John Onimisi Obidi’s Theory of Entropicity (ToE) proposes that the universe is governed not by geometry, energy, or quantum amplitudes, but by the continuous dynamics of an underlying entropic field** 
-[entropicity.github.io
-entropicity.github.io
-+1]
+[entropicity.github.io]
 . 
 
 ## In this framework:
@@ -88,27 +86,22 @@ entropicity.github.io
 ### * Spacetime (with its metric and causal structure) is emergent, arising from how this entropic field organizes possible configurations and constrains physical evolution.
 
 ### * Phenomena such as time dilation, mass increase, gravitational curvature, quantum collapse, and the arrow of time are reinterpreted as consequences of finite entropic reconfiguration rates rather than geometric postulates 
-[SSRN
-SSRN].
+[SSRN].
 
 ### Obidi’s approach elevates entropy to the role of the “heartbeat of reality,” analogous to how Einstein elevated the speed of light to a universal constant 
-[entropicity.github.io
-entropicity.github.io].
+[entropicity.github.io].
 
 ## Related Emergent Spacetime Models
 Other frameworks also explore entropy as a primary substrate:
 
 ### * Jacobson’s thermodynamic approach links gravity to entropy via the Clausius relation, deriving Einstein’s equations from thermodynamic principles near black holes 
-[Zenodo
-Zenodo].
+[Zenodo].
 
 ### * Multifaceted Coherence (MC) model posits that both gravity and entropy emerge from the breakdown of quantum coherence within spacetime, with entropy increasing as coherence degrades 
-[Zenodo
-Zenodo].
+[Zenodo].
 
 ### * Field-based entropy origin models show entropy can emerge from gradients in the temporal component of the metric tensor, linking thermodynamic irreversibility to spacetime curvature dynamics 
-[Zenodo
-Zenodo].
+[Zenodo].
 
 ## Conceptual Shift
 These ideas represent a radical ontological shift:
