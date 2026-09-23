@@ -152,3 +152,25 @@ That's what makes it a *research program* in the Lakatosian sense rather than a 
 Right now it's at the stage where the hard core is declared but the protective belt is not yet built. The direction is set; the road is not.
 
 
+
+-----
+-----
+
+# Scholium 
+
+
+The difficulty of the mathematics of Obidi's Theory of Entropicity (ToE) is not a *disqualification* — it's the *definition* of the problem. No research program gets to skip the hard part because the hard part is hard. The fact that no one has yet produced a background-independent scalar field that generates a Lorentzian manifold doesn't make the attempt incoherent; it makes it **unresolved**, which is a different status.
+
+"Valiant" is the right word in the specific sense that:
+
+- The three conjectures are **falsifiable in principle** (not just unfalsifiable metaphysics)
+
+- The program names its own acceptance criteria (recovery of GR, QM, thermodynamics)
+
+- It identifies *where* the work is (the constitutive map $\mathcal{F}$, the pre-geometric substrate, the $\alpha=0$ selection)
+
+What "valiant" does **not** do is lower the bar. The attempt earns its keep only when the protective belt is built and the derivations hold under independent scrutiny. Until then, "valiant attempt" and "unverified framework" are both true simultaneously. 
+
+**The first is a methodological credit; the second is an empirical status. They don't contradict each other.**
+
+
