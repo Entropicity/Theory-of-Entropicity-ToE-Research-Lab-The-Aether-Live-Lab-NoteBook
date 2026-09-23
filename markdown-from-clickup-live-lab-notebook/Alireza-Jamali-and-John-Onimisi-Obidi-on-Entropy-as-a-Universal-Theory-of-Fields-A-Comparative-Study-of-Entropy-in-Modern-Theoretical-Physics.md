@@ -224,3 +224,21 @@ Obidi’s Theory of Entropicity is a universal physical theory: entropy is the f
 * Obidi proposes a new ontology of physics.
 
 ---
+
+
+## **References**
+
+Jamali, A. (2021). *On a Field Theory of Entropy*.  
+
+January 29, 2021.  
+
+https://doi.org/10.xxxx/placeholder
+
+
+Jamali, A. (2021). *On a Field Theory of Entropy*.  
+
+Tehran, Iran.  
+Email: alireza.jamali.mp@gmail.com.
+
+
+**Jamali, A.** (2021). *On a Field Theory of Entropy*.  viXra:2104.0189.  Available at: https://vixra.org/pdf/2104.0189v1.pdf
