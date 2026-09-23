@@ -5,9 +5,11 @@ Alireza-Jamali-and-John-Onimisi-Obidi-on-Entropy-as-a-Universal-Theory-of-Fields
 
 
 ## Preamble:  
-Jamali argues that entropy is a relativistic field whose source is temperature, and that temperature itself must be a fundamental property of single particles. 
+**Alireza Jamali** argues that entropy is a relativistic field whose source is temperature, and that temperature itself must be a fundamental property of single particles. 
 
-Obidi’s Theory of Entropicity (ToE), by contrast, treats entropy as the universal field underlying all physical processes, not merely a heat‑signal potential, and derives its dynamics from the Principle of Least Entropic Resistance, not from a relativistic wave equation sourced by temperature density.
+**Obidi’s Theory of Entropicity (ToE),** by contrast, treats entropy as the universal field underlying all physical processes, not merely a heat‑signal potential, and derives its dynamics from the Principle of **Least Entropic Resistance (PoLER),** not from a **relativistic wave equation** sourced by temperature density. 
+
+Obidi demonstrates that the entropic field formalism naturally yields a wave equation whose solution defines the Entropic Speed Limit (ESL), revealing that the maximum propagation speed of entropic disturbances is mathematically identical to the relativistic speed of light c. This establishes  as a fundamental entropic bound rather than merely a geometric constant of spacetime.
 
 Below we present a structured, deep comparison grounded directly in the works of Jamali and Obidi.
 
@@ -356,7 +358,7 @@ $$T_{\mu\nu}$$
 
 via the equation 
 
-$$G_{\mu\nu} = \kappa T_{\mu\nu}$$. 
+$$G_{\mu\nu} = \kappa T_{\mu\nu}.$$
 
 Jamali's framework alters how we treat mass and potential energy within that tensor: [2] 
 
