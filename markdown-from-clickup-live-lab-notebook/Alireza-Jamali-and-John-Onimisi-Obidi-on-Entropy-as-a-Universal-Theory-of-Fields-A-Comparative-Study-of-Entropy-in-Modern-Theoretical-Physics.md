@@ -248,9 +248,10 @@ Email: alireza.jamali.mp@gmail.com.
 # **📚 ToE Reference(s)**
 
 1) GitHub Live Site (URL):
+
 The ToE Canonical Archives:
 https://lnkd.in/gnwMP-Py
 
 
-2) Live GitHub Gist (URL):
+2) The ToE Live GitHub Gists (URL):
 https://lnkd.in/gS-zeNhg
