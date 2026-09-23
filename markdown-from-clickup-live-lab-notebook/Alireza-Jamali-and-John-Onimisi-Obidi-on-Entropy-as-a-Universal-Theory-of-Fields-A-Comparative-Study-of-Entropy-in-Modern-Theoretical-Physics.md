@@ -313,7 +313,11 @@ Would you like to look closer at the math behind his wave equation for temperatu
 Alireza Jamali’s work heavily relies on mapping thermodynamics directly into the mathematical machinery of field theory and spacetime geometry. Here is how he structures the math behind his wave equation for temperature and applies it to modify General Relativity: [1, 2] 
 
 ## 1. Math Behind the Wave Equation for Temperature
-In standard physics, heat distribution is governed by the classical heat equation, which relies on a first-order time derivative ($\frac{\partial T}{\partial t} = \alpha \nabla^2 T$). Jamali objects to this because it implies infinite propagation speed, directly violating Special Relativity. [3] 
+In standard physics, heat distribution is governed by the classical heat equation, which relies on a first-order time derivative 
+
+$$\frac{\partial T}{\partial t} = \alpha \nabla^2 T$$. 
+
+Jamali objects to this because it implies infinite propagation speed, directly violating Special Relativity. [3] 
 
 To fix this, he frames temperature ($T$) not as a statistical average, but as a fundamental scalar field that propagates at the speed of light ($c$). [2, 4] 
 
@@ -405,7 +409,7 @@ However, their underlying philosophies, causal directions, and mathematical fram
 
 | Feature | Alireza Jamali: On a Field Theory of Entropy  | John Onimisi Obidi: Theory of Entropicity (ToE) |
 |---|---|---|
-| Foundational Concept | Temperature ($T$) as a fundamental property of matter that generates an Entropy ($S$) field. | Entropy ($S(x)$) as the foundational, continuous informational substrate of reality. |
+| Foundational Concept | Temperature ($T$) as a fundamental property of matter that generates an Entropy ($S$) field. | Entropy $S(x)$ as the foundational, continuous informational substrate of reality. |
 | Spacetime Architecture | Spacetime geometry is real and modified; thermal wave equations are embedded directly into modified General Relativity. | Spacetime is emergent; it is an "informational shadow" selected via coarse-graining and distinguishability. |
 | Core Field Equation | Dual wave equations like: $\Box S = -\frac{\kappa}{2} k_B^2 \theta$ | The Master Entropic Equation (MEE)/Obidi Field Equations (OFE) and Entropic Metric Equation. |
 | Origin of Gravity | Gravity is a manifestation of thermodynamic equivalence ($S \equiv m$, $T \equiv \phi$), changing the Stress-Energy tensor. | Gravity is completely emergent; particles simply trace entropic geodesics toward optimal informational configurations. |
