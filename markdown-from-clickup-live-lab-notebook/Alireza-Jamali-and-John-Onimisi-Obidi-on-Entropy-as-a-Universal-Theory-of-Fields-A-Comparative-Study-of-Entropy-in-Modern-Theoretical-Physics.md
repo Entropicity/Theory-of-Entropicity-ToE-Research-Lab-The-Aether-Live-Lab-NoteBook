@@ -170,7 +170,7 @@ Jamali says:
 
 - Microstates are not rejected; they are embedded in a broader entropic geometry.
 
-- Entropy is not merely \(k_B \log W\); it is the measure of entropic displacement in the ToE manifold.
+- Entropy is not merely $\(k_B \log W\)$; it is the measure of entropic displacement in the ToE manifold.
 
 Thus ToE is inclusive, not eliminative.
 
