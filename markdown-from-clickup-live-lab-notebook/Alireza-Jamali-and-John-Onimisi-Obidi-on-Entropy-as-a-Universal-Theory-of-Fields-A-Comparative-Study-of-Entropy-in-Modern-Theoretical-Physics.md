@@ -195,11 +195,11 @@ Obidi’s entropicity is a field‑level principle governing dynamics.
 
 ## 🧠 Summary Table
 
-| Concept | Jamali | Obidi’s Theory of Entropicity (ToE) |
+| Concept | Jamali's Theory of Entropy| Obidi’s Theory of Entropicity (ToE) |
 |--------|--------|--------------|
 | Fundamental quantity | Temperature | Entropy |
 | Nature of entropy | Potential field of heat/information | Universal field governing all processes |
-| Field equation | Linear relativistic wave equation | Variational principle (PLER) |
+| Field equation | Linear relativistic wave equation | Variational principle (PoLER) |
 | Source of field | Temperature density | Entropic gradients / structural change |
 | Scope | Heat conduction, black holes | Entire physics: motion, geometry, emergence |
 | Microstates | Rejected | Generalized and embedded |
@@ -215,8 +215,10 @@ Obidi’s Theory of Entropicity is a universal physical theory: entropy is the f
 * Jamali elevates temperature.  
 * Obidi elevates entropy.
 
+
 * Jamali builds a field equation.  
 * Obidi builds a principle.
+
 
 * Jamali solves a thermodynamic problem.  
 * Obidi proposes a new ontology of physics.
