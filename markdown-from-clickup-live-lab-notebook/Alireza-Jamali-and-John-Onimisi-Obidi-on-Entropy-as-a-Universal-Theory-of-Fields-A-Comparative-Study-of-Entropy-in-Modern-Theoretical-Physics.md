@@ -226,7 +226,8 @@ Obidi’s Theory of Entropicity is a universal physical theory: entropy is the f
 ---
 
 
-## **References**
+
+# **📚 Jamali Reference(s)**
 
 Jamali, A. (2021). *On a Field Theory of Entropy*.  
 
@@ -242,3 +243,14 @@ Email: alireza.jamali.mp@gmail.com.
 
 
 **Jamali, A.** (2021). *On a Field Theory of Entropy*.  viXra:2104.0189.  Available at: https://vixra.org/pdf/2104.0189v1.pdf
+
+
+# **📚 ToE Reference(s)**
+
+1) GitHub Live Site (URL):
+The ToE Canonical Archives:
+https://lnkd.in/gnwMP-Py
+
+
+2) Live GitHub Gist (URL):
+https://lnkd.in/gS-zeNhg
