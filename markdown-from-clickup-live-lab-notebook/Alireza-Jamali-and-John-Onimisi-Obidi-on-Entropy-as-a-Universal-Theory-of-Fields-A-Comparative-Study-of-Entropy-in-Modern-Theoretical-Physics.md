@@ -303,3 +303,75 @@ Would you like to look closer at the math behind his wave equation for temperatu
 [5] [https://physics.stackexchange.com](https://physics.stackexchange.com/questions/4537/can-a-single-classical-particle-have-any-entropy)
 
 [6] [https://www.preprints.org](https://www.preprints.org/manuscript/202111.0559/v1/download)
+
+
+----------
+----------
+
+# Scholium 
+
+Alireza Jamali’s work heavily relies on mapping thermodynamics directly into the mathematical machinery of field theory and spacetime geometry. Here is how he structures the math behind his wave equation for temperature and applies it to modify General Relativity: [1, 2] 
+
+## 1. Math Behind the Wave Equation for Temperature
+In standard physics, heat distribution is governed by the classical heat equation, which relies on a first-order time derivative ($\frac{\partial T}{\partial t} = \alpha \nabla^2 T$). Jamali objects to this because it implies infinite propagation speed, directly violating Special Relativity. [3] 
+
+To fix this, he frames temperature ($T$) not as a statistical average, but as a fundamental scalar field that propagates at the speed of light ($c$). [2, 4] 
+
+
+* The Wave Equation: He upgrades the classical heat equation to a relativistic second-order partial differential equation using the D'Alembertian operator ($\Box$):
+
+$$\Box T = \left( \frac{1}{c^2} \frac{\partial^2}{\partial t^2} - \nabla^2 \right) T = -\mu_0 \rho_s$$ 
+
+Where $\rho_s$ represents the "entropy source density" of matter, and $\mu_0$ acts as a thermal coupling constant. [1, 3] 
+
+### The Dual Field Equation (Poisson Variant): When looking at the system from the perspective of an entropy field ($S$) sourced by a temperature density ($\theta$), his paper [On a Field Theory of Entropy](https://scispace.com/pdf/on-a-field-theory-of-entropy-4hts8kchb3.pdf) posits the equation:
+
+$$\Box S = -\frac{\kappa}{2} k_B^2 \theta$$ 
+
+Here, $\kappa$ is Einstein's gravitational constant ($\frac{8\pi G}{c^4}$), and $k_B$ is the Boltzmann constant. By making both equations second-order in time, thermal and entropy fluctuations propagate as actual waves, resolving the Lorentz transformation paradoxes of classical thermodynamics. [1, 3] 
+
+
+------------------------------
+
+## 2. Modifying General Relativity via Thermodynamic Equivalence
+Jamali modifies General Relativity by taking his thermodynamic field theory and applying a strict equivalence principle between mechanical/gravitational quantities and thermodynamic ones. [2] 
+
+## The Core Dictionary
+In his papers like [Relativity of Energy](https://www.preprints.org/manuscript/202111.0559/v1/download), he defines a symmetric harmony between gravity and heat: [2] 
+
+* Entropy maps to Mass: $S \equiv m$
+* Temperature maps to Gravitational Potential: $T \equiv \phi$ [2, 4]
+  
+
+## Modifying the Field Equations
+In Einstein's original General Relativity, the metric of spacetime is determined strictly by the Stress-Energy Tensor ($T_{\mu\nu}$) via the equation $G_{\mu\nu} = \kappa T_{\mu\nu}$. Jamali's framework alters how we treat mass and potential energy within that tensor: [2] 
+
+   ### 1. Statistical Mechanics of Mass: 
+   Because $S \equiv m$, Jamali applies Boltzmann’s entropy formula ($S = k_B \log W$) directly to mass. He reformulates a particle's mass at the quantum gravity scale as:
+   
+   $$m = m_P \log W$$ 
+   
+   where $m_P$ is the Planck mass and $W$ represents the number of microstates of the spacetime fabric itself. [2, 4] 
+   
+   ### 2. Redefining Gravitational Potential: 
+   Instead of treating Newtonian potential traditionally as $\phi = \frac{V}{m}$, he demands a functional derivative:
+   
+   $$\phi = \frac{dV}{dm}$$ 
+   
+   This allows the gravitational potential field to behave exactly like thermodynamic temperature ($T = \frac{dE}{dS}$). [2, 4] 
+   ### 3. Geometrizing the Thermal Field: 
+   By embedding temperature as a fundamental field, the Stress-Energy Tensor must be modified to include a "thermal energy-momentum" component. Spacetime curvature ($G_{\mu\nu}$) is no longer just bent by raw mass-energy, but is dynamically bent by the local distribution of the entropy/temperature wave fields.
+
+Ultimately, Jamali argues that what we perceive as gravitational attraction is a manifestation of a fundamental thermodynamic field operating across spacetime, hoping this modification can naturally explain macroscopic anomalies (like galactic rotation curves) without needing to add physical dark matter particles. [5] 
+
+Would you like to examine how he applies this framework specifically to black hole temperature fluctuations (Bekenstein-Hawking entropy), or look at his mathematical arguments against "emergent" temperature?
+
+[1] [https://scispace.com](https://scispace.com/pdf/on-a-field-theory-of-entropy-4hts8kchb3.pdf)
+
+[2] [https://www.preprints.org](https://www.preprints.org/manuscript/202111.0559/v1/download)
+
+[3] [https://vixra.org](https://vixra.org/pdf/2104.0189v2.pdf)
+
+[4] [https://vixra.org](https://vixra.org/pdf/2111.0074v1.pdf)
+
+[5] [https://independent.academia.edu](https://independent.academia.edu/JamaliAlireza)
