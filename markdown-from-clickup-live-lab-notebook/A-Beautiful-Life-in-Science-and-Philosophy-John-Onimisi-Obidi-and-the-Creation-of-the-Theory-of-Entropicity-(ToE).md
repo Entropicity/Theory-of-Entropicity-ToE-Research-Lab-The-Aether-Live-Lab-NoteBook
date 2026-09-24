@@ -1,6 +1,6 @@
 # A Beautiful Life in Science and Philosophy: John Onimisi Obidi and the Creation of the Theory of Entropicity (ToE)
 
-A-Beautiful-Life-in-Science-and-Philosophy-John-Onimisi-Obidi.md
+A-Beautiful-Life-in-Science-and-Philosophy-John-Onimisi-Obidi-and-the-Creation-of-the-Theory-of-Entropicity-(ToE).md
 
 **John Onimisi Obidi** is an independent scientific researcher, philosopher, and physicist best known as the pioneer and creator of the **Theory of Entropicity (ToE).** His theoretical framework positions entropy not merely as a statistical abstraction of thermodynamic disorder, but as the fundamental, dynamic field of reality from which spacetime, gravity, and quantum phenomena emerge. He is explicitly distinguished from the unrelated social media consultant who shares a similar name. [1, 2, 3] 
 
