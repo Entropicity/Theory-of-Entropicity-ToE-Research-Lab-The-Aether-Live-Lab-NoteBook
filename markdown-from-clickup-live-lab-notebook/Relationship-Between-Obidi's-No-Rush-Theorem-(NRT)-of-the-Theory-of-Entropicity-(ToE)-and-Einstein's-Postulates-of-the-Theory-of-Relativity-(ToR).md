@@ -32,7 +32,7 @@ The fundamental difference lies in origin and explanatory power: [1]
 | Feature | Einstein's Second Postulate of Relativity | The No-Rush Theorem (NRT) of Obidi's Theory of Entropicity (ToE) |
 |---|---|---|
 | Scientific Status | Axiom (Postulate). It is assumed to be true from the beginning as a starting rule of nature. | Derived Theorem. It is a mathematical consequence derived from the underlying field. |
-| The "Why" Question: The now famous Alemoh-Obidi-Correspondence (AOC) "Question of c"| Einstein does not explain why $c$ exists or why it is invariant; he just states that it is a geometric constant of the universe. | ToE explains why a limit exists: because the fundamental scalar entropy field has an intrinsic "stiffness" and cannot redistribute information in zero time. |
+| The "Why" Question: The now famous Alemoh-Obidi-Correspondence (AOC) "The Question of c"| Einstein does not explain why $c$ exists or why it is invariant; he just states that it is a geometric constant of the universe. | ToE explains why a limit exists: because the fundamental scalar entropy field has an intrinsic "stiffness" and cannot redistribute information in zero time. |
 | Philosophical Focus | Kinematic & Geometric. It dictates how measurements of space and time must warp to keep $c$ constant. | Ontological & Causal. It establishes a physical constraint on the evolution of states. |
 
 ## 3. "Einstein begins with invariance; ToE explains invariance"
