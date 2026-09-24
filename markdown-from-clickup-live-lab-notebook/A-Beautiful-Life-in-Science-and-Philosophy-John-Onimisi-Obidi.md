@@ -2,7 +2,7 @@
 
 A-Beautiful-Life-in-Science-and-Philosophy-John-Onimisi-Obidi.md
 
-John Onimisi Obidi is an independent scientific researcher, philosopher, and physicist best known as the pioneer and creator of the Theory of Entropicity (ToE). His theoretical framework positions entropy not merely as a statistical abstraction of thermodynamic disorder, but as the fundamental, dynamic field of reality from which spacetime, gravity, and quantum phenomena emerge. He is explicitly distinguished from the unrelated social media consultant who shares a similar name. [1, 2, 3] 
+**John Onimisi Obidi** is an independent scientific researcher, philosopher, and physicist best known as the pioneer and creator of the **Theory of Entropicity (ToE).** His theoretical framework positions entropy not merely as a statistical abstraction of thermodynamic disorder, but as the fundamental, dynamic field of reality from which spacetime, gravity, and quantum phenomena emerge. He is explicitly distinguished from the unrelated social media consultant who shares a similar name. [1, 2, 3] 
 
 ## The Theory of Entropicity (ToE)
 Obidi's work is an intellectual pursuit to unify thermodynamics, relativity, quantum mechanics, and information theory into a cohesive model of cosmic causation within an Entropic Field (EF). Key concepts of his framework include: [2, 4] 
@@ -12,13 +12,13 @@ Obidi's work is an intellectual pursuit to unify thermodynamics, relativity, qua
 Also known as the Obidi Field Equations (OFE), this mathematical core serves as the ToE equivalent to Einstein's Field Equations of General Relativity. [4, 5] 
 
 ### The Obidi Action: 
-Alongside the MEE/OFE, this formulation attempts to show that relativistic effects and quantum constraints are entropic inevitabilities rather than postulated primitives. This includes the Haller-Obidi Action, which builds a variational form connecting worldline sectors to foundational entropy-action identities. [2, 5, 6] 
+Alongside the MEE/OFE, this formulation attempts to show that relativistic effects and quantum constraints are entropic inevitabilities rather than postulated primitives. This includes the **Haller-Obidi Action (HOA),** which builds a variational form connecting worldline sectors to foundational entropy-action identities. [2, 5, 6] 
 
 ### Principle of Least Entropic Resistance (PoLER): 
-This principle replaces the classical Principle of Least Action, arguing that physical systems do not move because they are pushed by mechanical forces, but instead follow trajectories offering the least resistance within a self-organizing entropic field. [4] 
+This principle replaces the classical **Principle of Least Action (PoLA),** arguing that physical systems do not move because they are pushed by mechanical forces, but instead follow trajectories offering the least resistance within a self-organizing entropic field. [4] 
 
 ### Re-deriving Einstein’s Results: 
-To validate its alignment with established physics, ToE has been utilized to successfully re-derive classical relativistic benchmarks, such as the perihelion precession of Mercury and the gravitational deflection of starlight. [5] 
+To validate its alignment with established physics, Obidi's Theory of Entropicity (ToE) has been utilized to successfully re-derive Einstein's classical relativistic benchmarks, such as the perihelion precession of Mercury and the gravitational deflection of starlight. [5] 
 
 
 ## Academic Contributions & Profiles
