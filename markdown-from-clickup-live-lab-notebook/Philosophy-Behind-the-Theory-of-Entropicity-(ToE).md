@@ -92,12 +92,14 @@ To fully understand how the universe operates when built entirely on entropic in
 https://youtu.be/RPCN21jA9lk?si=xN_kZ_rQCtNQi0Pu
 
 
-To elaborate further, the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/), formulated by John Onimisi Obidi, transitions from a philosophical proposition to a mathematical framework through a concept called ontodynamics—the study of existence as entropic motion. [1, 2] 
-By analyzing its mathematical mechanics, its physical limits, and its view of spacetime, we can see how the theory attempts to redefine fundamental physics.
+To elaborate further, the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/), formulated by John Onimisi Obidi, transitions from a philosophical proposition to a mathematical framework through a concept called ontodynamics—the study of existence as entropic motion and negotiation. [1, 2] 
+
+By analyzing its mathematical mechanics, its physical limits, and its view of spacetime, we can see how the Theory of Entropicity (ToE) attempts to redefine fundamental physics.
 
 ------------------------------
-## 🧮 1. The Mathematical Mechanics: The Obidi Action & MEE
-In standard general relativity, spacetime curves in response to mass and energy (governed by the Einstein-Hilbert action). In ToE, the foundational bedrock is inverted: [1, 2] 
+
+## 🧮 1. The Mathematical Mechanics: The Obidi Action & MEE/OFE
+In standard general relativity, spacetime curves in response to mass and energy (governed by the **Einstein-Hilbert action**). In ToE, the foundational bedrock is inverted: [1, 2] 
 
 
 ### The Obidi Action ($I_S$): 
@@ -109,7 +111,7 @@ Also referred to as the Obidi Field Equations (OFE), this is the entropic equiva
 ### 1. The Entropic Field Equation: 
 $G_{\mu\nu}[g(S)] = \eta T_{\mu\nu}^{(S)}$, meaning both the spacetime curvature tensor ($G_{\mu\nu}$) and the stress-energy tensor ($T_{\mu\nu}^{(S)}$) are explicitly driven by the underlying entropy field.
    
-   ### 2. The Entropy Flow Equation: 
+### 2. The Entropy Flow Equation: 
    A second equation that dictates how the scalar entropy field propagates through the system. [3, 4, 6] 
 
 
