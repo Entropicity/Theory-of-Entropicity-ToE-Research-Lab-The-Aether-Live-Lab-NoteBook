@@ -2,7 +2,7 @@
 
 Amari-Čencov-α-Connections-as-a-Natural-Tuning-Knob-and-Geometric-Transformer-for-Symmetry-Asymmetry-Classicality-Arrow-of-Time-and-Irreversibility-in-the-Theory-of-Entropicity-(ToE).md
 
- 
+## If the Amari-Čencov α-connections are in information geometry, why are they not in physical spacetime geometry? So, Obidi is using it like a tuning knob or as prongs?
 
 In mainstream physics, Amari-Čencov $\alpha$-connections are exclusive to information geometry because they belong to an abstract mathematical space (a statistical manifold of probability distributions), not physical spacetime. In General Relativity, physical spacetime relies strictly on a Riemannian geometry governed by a unique Levi-Civita connection, which is symmetric and metric-compatible. [1, 2] 
 
@@ -11,7 +11,7 @@ However, in John Onimisi Obidi's Theory of Entropicity (ToE), your intuition is 
 Here is how he uses the $\alpha$-connection like a precise pronged dial to bridge the gap between information space and physical reality:
 
 ## 1. Dialing down to $\alpha = 0$ (The Relativity Prong)
-In standard information geometry, the $\alpha$-parameter can be shifted continuously, creating a family of different affine connections. But a mathematical fact of this geometry is that when you precisely "tune" the knob to $\alpha = 0$, the Amari-Čencov connection becomes torsion-free and metric-compatible. [2, 5] 
+In standard information geometry, the $\alpha$-parameter can be shifted continuously, creating a family of different affine connections. But a mathematical fact of this geometry is that when you precisely **"tune"** the knob to $\alpha = 0$, the **Amari-Čencov $\alpha-connection becomes torsion-free and metric-compatible. [2, 5] 
 
 
 ### The Inversion: 
