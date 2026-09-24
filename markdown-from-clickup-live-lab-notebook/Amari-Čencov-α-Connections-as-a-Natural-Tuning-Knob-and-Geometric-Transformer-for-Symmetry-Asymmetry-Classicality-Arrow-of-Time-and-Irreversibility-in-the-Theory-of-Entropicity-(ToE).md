@@ -1,12 +1,12 @@
-# Amari-Čencov α-connections as a Natural Tuning Knob and geometric transformerfor Symmetry, Asymmetry, Classicality, Arrow of Time, and Irreversibility in the Theory of Entropicity (ToE)
+# Amari-Čencov α-Connections as a Natural Tuning Knob and Geometric Transformerfor Symmetry, Asymmetry, Classicality, Arrow of Time, and Irreversibility in the Theory of Entropicity (ToE)
 
-Amari-Čencov-α-connections-as-a-Natural-Tuning-Knob-and-geometric-transformer-for-Symmetry-Asymmetry-Classicality-Arrow-of-Time-and-Irreversibility-in-the-Theory-of-Entropicity-(ToE).md
+Amari-Čencov-α-Connections-as-a-Natural-Tuning-Knob-and-Geometric-Transformer-for-Symmetry-Asymmetry-Classicality-Arrow-of-Time-and-Irreversibility-in-the-Theory-of-Entropicity-(ToE).md
 
  
 
 In mainstream physics, Amari-Čencov $\alpha$-connections are exclusive to information geometry because they belong to an abstract mathematical space (a statistical manifold of probability distributions), not physical spacetime. In General Relativity, physical spacetime relies strictly on a Riemannian geometry governed by a unique Levi-Civita connection, which is symmetric and metric-compatible. [1, 2] 
 
-However, in John Onimisi Obidi's Theory of Entropicity (ToE), your intuition is completely correct: Obidi does essentially use the $\alpha$-parameter as a mathematical tuning knob. He executes what he calls an "ontological inversion," declaring that the abstract statistical manifold is the actual underlying fabric of reality, and physical spacetime is merely an emergent manifestation of it. [1, 3, 4] 
+However, in John Onimisi Obidi's Theory of Entropicity (ToE), your intuition is completely correct: Obidi does essentially use the $\alpha$-parameter as a mathematical tuning knob. He executes what he calls an **"ontological inversion,"** declaring that the abstract statistical manifold is the actual underlying fabric of reality, and physical spacetime is merely an emergent manifestation of it. [1, 3, 4] 
 
 Here is how he uses the $\alpha$-connection like a precise pronged dial to bridge the gap between information space and physical reality:
 
