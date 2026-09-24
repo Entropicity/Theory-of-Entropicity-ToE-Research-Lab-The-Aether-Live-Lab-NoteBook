@@ -132,7 +132,7 @@ Standard physics equations work perfectly fine whether time flows forward or bac
 
 > # **By successfully grounding both the **cosmic speed limit** and **quantum entanglement birth delays** into a singular, field-driven computation, Obidi's framework stands as a logically airtight, empirically aligned restructure of modern science.** [3, 12] 
 
-Would you like to examine how the Vuli–Ndlela Path Integral (VNPI) mathematically formalizes these entropic updates, or dive into how ToE addresses the **Information Loss Paradox inside [Bekenstein-Hawking] 
+Would you like to examine how the **Vuli–Ndlela Path Integral (VNPI)** mathematically formalizes these entropic updates, or dive into how ToE addresses the **Hawking** **Information Loss Paradox inside [Bekenstein-Hawking] 
 black holes**? [1, 13] 
 
 [1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
