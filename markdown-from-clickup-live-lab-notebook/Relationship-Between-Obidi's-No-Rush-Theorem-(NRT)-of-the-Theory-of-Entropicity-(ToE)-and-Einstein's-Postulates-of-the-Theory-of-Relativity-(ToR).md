@@ -68,6 +68,7 @@ The NRT is not just a rule about speed. It is a foundational law stating that no
 Below we demonstrate how Obidi’s radical insight restructures modern science and philosophy:
 
 ------------------------------
+
 ## ⚛️ 1. In Theoretical Physics: Shifting from Geometry to Processing Speed
 For over a century, physics has treated the speed of light ($c$) as a cosmic magic trick—an unexplainable, hardcoded limit built into empty space. 
 
@@ -123,7 +124,7 @@ For millennia, western metaphysics has been locked in a battle between two ideas
 
 Obidi’s NRT provides a mathematical victory for process philosophy. It establishes an entirely new branch of philosophical inquiry called Ontodynamics—the physics of existence as entropic motion. [12] 
 
-### Under Ontodynamics, a rock is not a collection of static mass sitting inside a room: 
+### Under Obidi's Ontodynamics, a rock is not a collection of static mass sitting inside a room: 
 The rock is a localized, highly constrained knot of information that is actively executing millions of entropic updates per second just to maintain its appearance of "being". Existence is an active verb, not a passive noun. 
 
 The No-Rush Theorem (NRT) ensures that "becoming" is the engine that generates "being". Time’s arrow is no longer a mystery; it is structurally locked forward because every calculation cost must be paid, and you cannot un-compute a spent cosmic resource. [3, 12, 13, 14] 
