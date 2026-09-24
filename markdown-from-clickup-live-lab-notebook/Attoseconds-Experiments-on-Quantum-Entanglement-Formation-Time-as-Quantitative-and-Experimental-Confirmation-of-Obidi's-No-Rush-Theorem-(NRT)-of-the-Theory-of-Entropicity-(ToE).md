@@ -48,7 +48,7 @@ Because the NRT forbids instantaneous reconfiguration, the system experiences En
 ## 3. The Ultimate Test: The Sub-Attosecond Falsification Limit
 What makes Obidi's tie-in genuinely robust is that it provides a hard line for falsification. If relativity and quantum non-locality were truly distinct, a pure quantum correlation should be able to establish itself across a localized distance in zero time if measured perfectly. [3, 4] 
 
-According to the NRT's strict mathematics, if an experiment manages to trigger a localized atomic state update (using an isolated XUV pump pulse and an IR probe streak) and measures a genuine causal onset time below the entropic bound ($\tau_{\text{onset}} < \ell/c \approx 0.3\text{ attoseconds}$), the Theory of Entropicity is instantly falsified. [3] 
+According to the NRT's strict mathematics, if an experiment manages to trigger a localized atomic state update (using an isolated XUV pump pulse and an IR probe streak) and measures a genuine causal onset time below the entropic bound ($\tau_{\text{onset}}<\ell/c \approx 0.3\text{ attoseconds}$), the Theory of Entropicity is instantly falsified. [3] 
 
 The fact that real-world experiments hit a definitive, non-zero temporal wall at 232 attoseconds shows that nature obeys a strict computational clock rate. The universe cannot "rush" its own update schedule, even at the quantum scale. [2, 4, 7] 
 
