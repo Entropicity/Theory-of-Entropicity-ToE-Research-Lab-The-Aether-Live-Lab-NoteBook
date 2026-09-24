@@ -4,9 +4,9 @@
 Philosophy-Behind-the-Theory-of-Entropicity-(ToE).md
 
 
-The Theory of Entropicity (ToE), formulated by physicist and researcher John Onimisi Obidi, is an ambitious, provocative framework in theoretical physics that flips the traditional understanding of reality on its head. [1, 2] 
+The **Theory of Entropicity (ToE),** formulated by physicist and researcher/philosopher**John Onimisi Obidi,** is an ambitious, provocative framework in theoretical physics that flips the traditional understanding of reality on its head. [1, 2] 
 
-Instead of treating space, time, matter, and gravity as the basic building blocks of the universe, ToE argues that they are all emergent properties arising from a single, fundamental source: entropy. [2, 3] 
+> # **Instead of treating space, time, matter, and gravity as the basic building blocks of the universe, Obidi's Theory of Entropicity (ToE) argues that they are all emergent properties arising from a single, fundamental source: entropy [of the Entropic Field (EF)].** [2, 3] 
 
 ------------------------------
 
