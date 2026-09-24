@@ -1,6 +1,5 @@
 # Philosophy Behind the Theory of Entropicity (ToE)
 
-
 Philosophy-Behind-the-Theory-of-Entropicity-(ToE).md
 
 
