@@ -74,8 +74,6 @@ Would you like to analyze how the Fisher-Rao metric undergoes an entropy-depende
 
 ## ⚡ JAMALI AND OBIDI ON ENTROPY AS A FIELD: A COMPARATIVE ANALYSIS
 
-### A concise, high‑impact LinkedIn post with icon‑based structure, headings, and subheadings — grounded directly in your attached material.
-
 ---
 
 ## 🎯 Core Insight
