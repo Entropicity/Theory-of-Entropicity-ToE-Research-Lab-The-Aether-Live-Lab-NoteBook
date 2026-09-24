@@ -34,7 +34,7 @@ The fundamental difference lies in origin and explanatory power: [1]
 | Feature | Einstein's Second Postulate of Relativity | The No-Rush Theorem (NRT) of Obidi's Theory of Entropicity (ToE) |
 |---|---|---|
 | Scientific Status | Axiom (Postulate). It is assumed to be true from the beginning as a starting rule of nature. | Derived Theorem. It is a mathematical consequence derived from the underlying field. |
-| The "Why" Question: The now famous Alemoh-Obidi-Correspondence (AOC) **"The Question of c"**| Einstein does not explain why $c$ exists or why it is invariant; he just states that it is a geometric constant of the universe. | ToE explains why a limit exists: because the fundamental scalar entropy field has an intrinsic "stiffness" and cannot redistribute information in zero time. |
+| The "Why" Question: The now famous Alemoh-Obidi-Correspondence (AOC) **"The Question of c"**| Einstein does not explain why $c$ exists or why it is invariant; he just states that it is a geometric constant of the universe. | ToE explains why a limit exists: because the fundamental scalar entropy field has an intrinsic **"stiffness" [and "inertia"]*" and cannot redistribute information in zero time. |
 | Philosophical Focus | Kinematic & Geometric. It dictates how measurements of space and time must warp to keep $c$ constant. | Ontological & Causal. It establishes a physical constraint on the evolution of states. |
 
 ## 3. "Einstein begins with invariance; ToE explains invariance"
@@ -79,8 +79,10 @@ If you ask a classical physicist why light travels at exactly **$299,792,458\tex
 ### The Universe as a Substrate: 
 The NRT treats the foundational "empty space" of the universe as a dense, underlying scalar field—the entropic manifold. [5, 6] 
 
-### The "Stiffness" of Reality: 
-This entropic field has an intrinsic processing limit, much like a computer’s central processor. It takes a finite amount of time for a change in one location to be calculated, synchronized, and registered in another. [3, 7, 8] 
+### The "Stiffness" [and "Inertia"] of Reality: 
+This entropic field has an intrinsic processing limit, much like a computer’s central processor. It takes a finite amount of time for a change in one location to be calculated, synchronized, and registered in another. 
+
+> # **Obidi teaches us in his Theory of Entropicity (ToE) that the intrinsic "stiffness" and "inertia" inherent in the Entropic Field (EF) [of creation and annihilation] disallows instantaneous emergence and dissolution in all of nature.**[3, 7, 8] 
 
 ### Demystifying $c$: 
 The speed of light is not a property of light at all. It is the maximum processing throughput of the universal entropic field. A photon travels at $c$ simply because it has zero mass, meaning it experiences no resistance and moves at the maximum rendering speed the universe allows. [3] 
