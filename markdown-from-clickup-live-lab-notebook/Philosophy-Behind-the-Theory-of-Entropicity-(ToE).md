@@ -32,7 +32,7 @@ ToE posits that information possesses geometry, and geometry possesses dynamical
 ## 2. The Iterative, Self-Correcting Universe
 The mathematical structure of ToE relies on non-explicit, iterative equations (such as the Master Entropic Equation or Obidi Field Equations). Philosophically, this presents a model of the universe as a continuous, self-correcting computation. The cosmos updates itself much like a system undergoing continuous Bayesian inference, processing informational flow to evolve its physical structure. [2, 6, 8] 
 
-## 3. Unification of Chronos and Pyros
+## 3. Obidi's Unification of Chronos and Pyros in the Theory of Entropicity (ToE)
 The theory resolves long-standing cosmic dichotomies by uniting two ancient archetypes: [6] 
 
 
@@ -43,7 +43,7 @@ The irreversible, directional flow of time (the thermodynamic arrow of time).
 ### Pyros: 
 The fiery, maximum rate of transformation and light.
 
-By binding these together, ToE provides a philosophical framework where time's irreversibility is structurally woven into the fabric of physical laws, rather than being an unexplained anomaly. [6, 9] 
+> # **By binding these together, Obidi's Theory of Entropicity (ToE) provides an elegant philosophical framework where time's irreversibility via Chronos is structurally woven together with light's fiery maximum flow [rate] of existence via Pyros into the fabric of physical laws, rather than being unexplained anomalies of nature. Obidi shows us how fire welds with time to create the universe we experience.** [6, 9] 
 
 
 ------------------------------
