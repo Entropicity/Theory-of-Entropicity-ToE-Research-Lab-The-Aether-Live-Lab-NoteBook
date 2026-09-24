@@ -38,11 +38,11 @@ The fundamental difference lies in origin and explanatory power: [1]
 ## 3. "Einstein begins with invariance; ToE explains invariance"
 As noted in the [ToE literature](https://medium.com/@jonimisiobidi/einsteinian-relativistic-kinematics-as-a-corollary-of-the-no-rush-theorem-nrt-of-the-theory-of-2587bac9144a), Einstein treats the speed of light as a "primitive fact." He builds the math of spacetime around it. [1] 
 
-In contrast, the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/history/show/130678) uses the No-Rush Theorem (NRT) to establish that a finite upper bound on coherence propagation is mathematically necessary because instantaneous change is impossible. In ToE, the speed of light $c$ is re-explained and hence formulated as a thermodynamic speed limit—the maximum throughput limit of the universal entropic field. [1, 3, 4] 
+> # **In contrast, the [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/history/show/130678) uses the No-Rush Theorem (NRT) to establish that a finite upper bound on coherence propagation is mathematically necessary because instantaneous change is impossible. In ToE, the speed of light $c$ is re-explained and hence formulated as a thermodynamic speed limit—the maximum throughput limit of the universal entropic field.** [1, 3, 4] 
 
-Therefore, rather than being a paraphrase, Obidi's No-Rush Theorem (NRT) acts as a deeper foundation that generates Einstein's second postulate as an emergent byproduct. [1] 
+> # **Therefore, rather than being a paraphrase, Obidi's No-Rush Theorem (NRT) acts as a deeper foundation that generates Einstein's second postulate as an emergent byproduct.** [1] 
 
-Would you like to see how the NRT mathematically derives the Entropic Coherence Bound (ECB), or look at how this finite-time interval affects simultaneity differently than classical relativity?
+Would you like to see how the NRT mathematically derives the **Entropic Coherence Bound (ECB) of the Theory of Entropicity (ToE),** or look at how this finite-time interval affects simultaneity differently than classical relativity?
 
 [1] [https://medium.com](https://medium.com/@jonimisiobidi/einsteinian-relativistic-kinematics-as-a-corollary-of-the-no-rush-theorem-nrt-of-the-theory-of-2587bac9144a)
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
