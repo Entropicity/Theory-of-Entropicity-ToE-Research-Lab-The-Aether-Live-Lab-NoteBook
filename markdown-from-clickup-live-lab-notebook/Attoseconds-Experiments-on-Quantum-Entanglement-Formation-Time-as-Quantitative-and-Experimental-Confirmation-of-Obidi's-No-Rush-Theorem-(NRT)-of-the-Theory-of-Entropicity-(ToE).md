@@ -2,7 +2,9 @@
 
 Attoseconds-Experiments-on-Quantum-Entanglement-Formation-Time-as-Quantitative-and-Experimental-Confirmation-of-Obidi's-No-Rush-Theorem-(NRT)-of-the-Theory-of-Entropicity-(ToE).md
 
-The most powerful empirical validation for [John Onimisi Obidi’s](https://www.google.com/search?q=john+onimisi+obidi%E2%80%99s&kgmid=/g/11g2_n9fsg) No-Rush Theorem (NRT) emerged from groundbreaking ultrafast laser experiments. For decades, standard quantum mechanics treated quantum entanglement formation and wavefunction collapse as completely instantaneous (non-local) events. [1, 2, 3, 4] 
+The most powerful empirical validation for [John Onimisi Obidi’s](https://www.google.com/search?q=john+onimisi+obidi%E2%80%99s&kgmid=/g/11g2_n9fsg) No-Rush Theorem (NRT) emerged from groundbreaking ultrafast laser experiments. 
+
+For decades, standard quantum mechanics treated quantum entanglement formation and wavefunction collapse as completely instantaneous (non-local) events. [1, 2, 3, 4] 
 
 However, recent attosecond-scale precision experiments revealed that quantum entanglement does not map out instantly; it requires a finite, measurable duration of approximately 232 attoseconds ($2.32 \times 10^{-16}\text{ seconds}$) to fully form. [2, 4] 
 
