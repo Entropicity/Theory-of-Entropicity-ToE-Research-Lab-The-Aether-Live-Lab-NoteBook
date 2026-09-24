@@ -43,7 +43,7 @@ The irreversible, directional flow of time (the thermodynamic arrow of time).
 ### Pyros: 
 The fiery, maximum rate of transformation and light.
 
-> # **By binding these together, Obidi's Theory of Entropicity (ToE) provides an elegant philosophical framework where time's irreversibility via Chronos is structurally woven together with light's fiery maximum flow [rate] of existence via Pyros into the fabric of physical laws, rather than being unexplained anomalies of nature. Obidi shows us how fire welds with time to create the universe we experience.** [6, 9] 
+> # **By binding these together, Obidi's Theory of Entropicity (ToE) provides an elegant philosophical framework where time's irreversibility via Chronos is structurally woven together with light's fiery maximum flow [rate] of existence via Pyros into the fabric of physical laws, rather than being unexplained anomalies of nature. Obidi thus shows us all in one masterstroke of insight how fire welds with time to create the universe we experience.** [6, 9] 
 
 
 ------------------------------
@@ -57,7 +57,7 @@ To clarify its unique stance, ToE distinctively parts ways with other prominent 
 | Nature of Gravity | A fundamental force (General Relativity) or a statistical "entropic force" (e.g., Erik Verlinde's theory). | An emergent consequence of entropic gradients and informational flow. |
 | Role of Entropy | A statistical afterthought; a measurement of disorder or uncertainty. | The primary causal engine and universal field of reality. |
 
-By unifying classical macroscopic flux (Clausius), statistical projections (Boltzmann), quantum states (Von Neumann), and informational metrics (Shannon) under a single entropic manifold, ToE attempts an architectural reorganization of physics. It presents a deeply unified ontology that aims to naturally dissolve the friction between quantum mechanics and general relativity. [1, 2, 9, 10] 
+By unifying classical macroscopic flux (Clausius), statistical projections (Boltzmann), quantum states (Von Neumann), and informational metrics (Shannon) under a single entropic manifold, Obidi's Theory of Entropicity (ToE) attempts an architectural reorganization and reordering of physics. Obidi's ToE presents a deeply unified ontology that aims to naturally dissolve the friction between quantum mechanics and general relativity. [1, 2, 9, 10] 
 
 Would you like to explore the mathematical formulation of ToE (such as the Obidi Action or Master Entropic Equation), or look closer at how it attempts to bridge quantum mechanics and general relativity?
 
@@ -86,6 +86,10 @@ Would you like to explore the mathematical formulation of ToE (such as the Obidi
 -------
 
 # Scholium 
+
+To fully understand how the universe operates when built entirely on entropic informational flow, you can watch this brief overview explaining how Obidi's Theory of Entropicity (ToE) aims to unite physics:
+
+https://youtu.be/RPCN21jA9lk?si=xN_kZ_rQCtNQi0Pu
 
 
 To elaborate further, the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/), formulated by John Onimisi Obidi, transitions from a philosophical proposition to a mathematical framework through a concept called ontodynamics—the study of existence as entropic motion. [1, 2] 
