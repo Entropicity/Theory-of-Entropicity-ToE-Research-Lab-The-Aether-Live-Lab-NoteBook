@@ -293,12 +293,18 @@ Ultimately, ToE shows us that the universe is not a chaotic collection of matter
 
 1) Bekenstein, J. D. (1973). "Black Holes and Entropy." Physical Review D, 7(8), 2333.
 
+
 2) Hawking, S. W. (1975). "Particle Creation by Black Holes." Communications in Mathematical Physics, 43(3), 199-220.
 
-3) Obidi, J. O. (2024). "The Theory of Entropicity (ToE): A Post-Einsteinian Synthesis of Information Geometry and Gravitation." Living Review Letters Series in Theoretical Physics.
 
-4) Obidi, J. O. (2025). "Einsteinian Relativistic Kinematics as a Corollary of the No-Rush Theorem (NRT)." Ontodynamics and Quantum Informatics, The ToE Canonical Archives.
+3) Obidi, J. O. (2025). "Einsteinian Relativistic Kinematics as a Corollary of the No-Rush Theorem (NRT)." Ontodynamics and Quantum Informatics, The ToE Canonical Archives.
 
+
+4) Obidi, J. O. (2026). "The Theory of Entropicity (ToE): A Post-Einsteinian Synthesis of Information Geometry and Gravitation." Living Review Letters Series in Theoretical Physics.
+
+   
 5) Vienna University of Technology. (2024). "Attosecond Resolution of Quantum Entanglement Onset Dynamics." Nature Physics, report on the 232-attosecond threshold.
+
+------
 
 Would you like to analyze the explicit derivation showing **how the Obidi Field Equations (OFE) reduces directly to Einstein's Field Equations of General Relativity (GR)** under low informational density, or explore **how ToE explains dark energy as a global cosmic refresh cost**?
