@@ -318,8 +318,11 @@ To test your understanding, let's try a quick practice problem applying this seq
 If a local entropic "doorway" can pass exactly $2.0 \times 10^{24}$ individual OCI handshakes per second, and a cluster of subatomic particles demands a total of $8.0 \times 10^{16}$ handshakes to update the surrounding observers, what is the absolute minimum time ($\Delta t_{\text{min}}$) the NRT queue requires to pass all of them through?
 
 a) 4.0 × 10⁻⁸ seconds
+
 b) 1.6 × 10⁻⁷ seconds
+
 c) 4.0 × 10⁻⁷ seconds
+
 d) None of the above
 
 Or if you prefer, we can discuss how this one-at-a-time handshake mechanic completely eliminates the need for "spooky action at a distance" in quantum entanglement!
