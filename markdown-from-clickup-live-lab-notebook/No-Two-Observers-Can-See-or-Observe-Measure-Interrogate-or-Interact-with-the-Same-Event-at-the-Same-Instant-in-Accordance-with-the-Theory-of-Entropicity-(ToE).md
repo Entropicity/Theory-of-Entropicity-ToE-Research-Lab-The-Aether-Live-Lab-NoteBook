@@ -127,7 +127,7 @@ Hence:
 
 ## The foundational proposition of the Theory of Entropicity (ToE):
 
-> # **In the Theory of Entropicity, no two distinct observational, measurement, interrogation, or interaction events can be physically instantiated as one and the same elementary entropic instant. The Obidi Curvature Invariant establishes the minimum distinction required for an entropic transaction; the No-Rush Theorem establishes that the transaction requires non-zero temporal realization; and the One-at-a-Time principle establishes that distinct elementary transactions cannot occupy the same fundamental entropic instant. Consequently, what conventional spacetime descriptions call simultaneity is not fundamental simultaneity in the ontology of ToE.**
+> # **In the Theory of Entropicity (ToE), no two distinct observational, measurement, interrogation, or interaction events can be physically instantiated as one and the same elementary entropic instant. The Obidi Curvature Invariant (OCI) establishes the minimum distinction required for an entropic transaction; the No-Rush Theorem (NRT) establishes that the transaction requires non-zero temporal realization; and the One-at-a-Time (OAAT) principle establishes that distinct elementary transactions cannot occupy the same fundamental entropic instant. Consequently, what conventional spacetime descriptions call simultaneity is not fundamental simultaneity in the ontology of ToE.**
 
 -----
 
