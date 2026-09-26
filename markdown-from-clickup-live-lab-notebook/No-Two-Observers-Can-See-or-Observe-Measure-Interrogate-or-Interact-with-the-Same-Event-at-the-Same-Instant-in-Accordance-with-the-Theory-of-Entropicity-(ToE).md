@@ -1,7 +1,11 @@
 # No Two Observers Can See [or Observe, Measure, Interrogate, or Interact with] the Same Event at the Same Instant in Accordance with the Theory of Entropicity (ToE)
 
+
 No-Two-Observers-Can-See-or-Observe-Measure-Interrogate-or-Interact-with-the-Same-Event-at-the-Same-Instant-in-Accordance-with-the-Theory-of-Entropicity-(ToE).md
 
+## The ToE proposition is deeper and clearer, and is not about Einstein's Relativity of measurements or observations:
+
+> # **A single physical source cannot execute two distinct elementary entropic interactions at literally the same instant.**
 
 In the **Theory of Entropicity (ToE)** formulated by **John Onimisi Obidi,** the statement "No two observers see [or Observe, Measure, Interrogate, or Interact with] the same event at the same instant" moves from a relativistic optical illusion to a strict consequence of the universe's computational engine. [1, 2] 
 
