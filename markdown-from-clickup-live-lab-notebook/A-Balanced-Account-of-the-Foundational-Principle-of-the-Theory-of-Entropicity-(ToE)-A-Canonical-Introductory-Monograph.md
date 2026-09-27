@@ -4,7 +4,7 @@
 A-Balanced-Account-of-the-Foundational-Principle-of-the-Theory-of-Entropicity-(ToE)-A-Canonical-Introductory-Monograph.md
 
 
-# No Two Observers Can See, Observe, Measure, Interrogate, or Interact with the Same Event at the Same Instant in the Theory of Entropicity 
+# No Two Observers Can See, Observe, Measure, Interrogate, or Interact with the Same Event at the Same Instant in the Theory of Entropicity (ToE)
 
 
 
