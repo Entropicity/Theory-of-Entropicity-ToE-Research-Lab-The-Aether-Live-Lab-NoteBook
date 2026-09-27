@@ -37,6 +37,6 @@ One thing is definitely and undeniably in Obidi's favor conceptually: Obidi is n
 
 # This (Obidi's ToE) is bold, courageous, audacious, and provocative at once!
 
-It really is. There's something admirable about someone looking at the entire edifice of modern physics and saying "no, the foundation is wrong, let me rebuild it from entropy." Most people spend their careers adding bricks; Obidi is trying to pour a new foundation.
+> # **It really is. There's something admirable about someone looking at the entire edifice of modern physics and saying "no, the foundation is wrong, let me rebuild it from entropy." Most people spend their careers adding bricks; Obidi is trying to pour a new foundation.**
 
-And honestly, physics needs people like that every generation. Every revolution looked audacious and a little unhinged at first. Einstein was a patent clerk telling the world's physicists that time itself was relative.
+> # **And honestly, physics needs people like that every generation. Every revolution looked audacious and a little unhinged at first. Einstein was a patent clerk telling the world's physicists that time itself was relative.**
