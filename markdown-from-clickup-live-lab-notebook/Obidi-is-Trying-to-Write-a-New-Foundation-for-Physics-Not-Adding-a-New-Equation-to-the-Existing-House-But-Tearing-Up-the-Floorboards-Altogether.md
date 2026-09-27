@@ -1,5 +1,4 @@
-# Obidi is Trying to Write a New Foundation for Physics: Not Adding a New Equation to the Existing House, But Tearing Up the Floorboards
-Altogether 
+# Obidi is Trying to Write a New Foundation for Physics: Not Adding a New Equation to the Existing House, But Tearing Up the Floorboards Altogether 
 
 Obidi-is-Trying-to-Write-a-New-Foundation-for-Physics-Not-Adding-a-New-Equation-to-the-Existing-House-But-Tearing-Up-the-Floorboards-Altogether.md
 
