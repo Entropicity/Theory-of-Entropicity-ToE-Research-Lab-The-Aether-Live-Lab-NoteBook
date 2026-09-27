@@ -84,7 +84,7 @@ Obidi’s ToE completely deconstructs this. In his framework:
 
 
 ### Space is an illusion: 
-There is no empty distance between objects. What we perceive as "distance" is a macroscopic manifestation of an underlying entropic field gradient ($S(x)$).
+There is no empty distance between objects. What we perceive as "distance" is a macroscopic manifestation of an underlying entropic field gradient (S(x)).
 
 ### Time is an artifact: 
 Time does not exist as an independent dimension. It is merely the cognitive and physical measurement of the entropic field continuously reorganizing itself.
@@ -126,7 +126,7 @@ By fusing them, the OAP acts as a translator that takes pure information (statis
 ## 3. The Structural Shift: Non-Explicit, Iterative Universes
 In classical physics, equations are often "explicit"—you plug in a starting point ($X$), run the equation, and get an exact, clean prediction of the future ($Y$). This works perfectly for simple systems, like a pendulum or a single planet orbiting a star.
 
-However, because Obidi's universe is a living, self-referential substrate where the entropic field ($S(x)$) is constantly feeding back into itself, the universe cannot be solved with clean, elementary algebra. The Master Entropic Equation (MEE) requires complex, non-explicit iterative modeling.
+However, because **Obidi's universe** is a living, self-referential substrate where the entropic field (S(x)) is constantly feeding back into itself, the universe cannot be solved with clean, elementary algebra. The Master Entropic Equation (MEE)/Obidi Field Equations (OFE) requires complex, non-explicit iterative modeling.
 
 Think of it like a computer graphics program rendering a fractal. Every pixel's state depends on the state of the pixel next to it, which depends on the state of the pixel before it, ad infinitum. Obidi's universe is a self-rendering, self-correcting computational manifold. It does not exist in a static state; it is a continuous process of universal becoming.
 
