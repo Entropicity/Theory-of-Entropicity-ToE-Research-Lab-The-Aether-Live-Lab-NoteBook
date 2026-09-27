@@ -1,7 +1,7 @@
 
-# 🔥Daniel Moses Alemoh Responds to Obidi's Article on "The World as I See It: A Brief Philosophical Reflection from the Standpoint of the Theory of Entropicity (ToE)""
+# 🔥Daniel Moses Alemoh Responds to Obidi's Article on "The World as I See It: A Brief Philosophical Reflection from the Standpoint of the Theory of Entropicity (ToE)"
 
-Daniel-Moses-Alemoh-Responds-to-Obidi's-Article-on-"The-World-as-I-See-It-A-Brief-Philosophical-Reflection-from-the-Standpoint-of-the-Theory-of-Entropicity-(ToE)"".md
+Daniel-Moses-Alemoh-Responds-to-Obidi's-Article-on-"The-World-as-I-See-It-A-Brief-Philosophical-Reflection-from-the-Standpoint-of-the-Theory-of-Entropicity-(ToE)".md
 
 There are scientific articles that explain an idea, and then there are pieces that invite you to step inside an idea and see the world through its eyes.
 
