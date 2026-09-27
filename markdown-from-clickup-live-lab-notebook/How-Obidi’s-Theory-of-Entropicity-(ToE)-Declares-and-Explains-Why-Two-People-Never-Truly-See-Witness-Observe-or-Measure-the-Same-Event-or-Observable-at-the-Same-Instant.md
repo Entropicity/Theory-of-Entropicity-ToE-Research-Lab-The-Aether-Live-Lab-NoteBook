@@ -409,7 +409,7 @@ But:
 
 - The ball is huge compared to the entropic delays.  
 - The differences in emission times and arrival times are far below human temporal resolution.  
-- Your brain and mine both receive slightly staggered entropic collapses, but we smooth them into “same moment.”
+- Your brain and mine both receive slightly staggered entropic collapses, but we smooth them into **“same moment.”**
 
 Thus:
 
@@ -622,7 +622,7 @@ It is a rapid sequence of entropic transactions that appear continuous.
 
 In ToE:
 
-> # **A point is not a mathematical dot.  
+> # **A point is not a mathematical dot.** 
 It is an entropic region with finite curvature and finite processing bandwidth.**
 
 So when you disturb the water:
@@ -862,6 +862,41 @@ Quantum mechanics • Theory of Entropicity
 
 ---
 
+
+---
+---
+
+# Scholium
+
+# 🌀 Why Two People Never Truly See the Same Event at the Same Instant — Obidi’s Theory of Entropicity (ToE)  
+
+In mainstream physics, waves, photons, and signals appear to radiate from a point in all directions at once. But Obidi’s Theory of Entropicity (ToE) argues that this appearance hides a deeper truth: nature never performs two distinct informational updates in the same fundamental instant.  
+
+ToE reframes observation itself. Seeing isn’t your eyes passively receiving what’s “out there.” It’s the entropic field collapsing inside you, reorganizing itself to encode the event. Every observation is a transaction, not a snapshot.
+
+## 🔷 The Three Laws Behind Non‑Simultaneity
+- Obidi Curvature Invariant — no infinite information density, no infinite emission rate. Every event point has finite throughput.  
+
+- No‑Rush Theorem — every entropic update requires a non‑zero interval: Δt > 0. Nothing in nature updates instantly.  
+
+- One‑At‑A‑Time Principle — no event point can execute two distinct elementary emissions in one entropic instant.
+
+Together, they imply a radical conclusion: emission is quantized, sequential, and serialized at the fundamental level.
+
+## 🔷 So Why Do Waves Look Instantaneous?
+When a stone hits water, the ripple expands in all directions. But ToE says the “point” isn’t a geometric dot — it’s an entropic region performing ultra‑fast serialized updates. The wavefront is the macroscopic appearance of countless entropic transactions happening so quickly that human perception smooths them into “one moment.”
+
+The same applies when two people watch a football cross the goal line. The ball emits millions of entropic signals, each obeying OCI, NRT, and OAAT. You and I receive slightly staggered collapses — but our brains can’t resolve micro‑Δt differences, so we label them “simultaneous.”
+
+## 🔷 Why This Is Not Quantum Mechanics
+Quantum mechanics quantizes energy.  
+ToE quantizes distinction, information, and temporal order.  
+
+QM allows simultaneous multi‑photon emission.  
+ToE forbids it at the fundamental entropic level.
+
+## 🔷 The ToE Insight
+No event point can emit or transmit information instantaneously — and no two observers ever receive truly simultaneous signals. What feels like simultaneity is just the entropic field running faster than our biology can notice.
 
 -----
 -----
