@@ -23,6 +23,8 @@ A new foundation earns its keep by predicting something the old one can't — so
 ## - **The community problem.** 
 New foundations don't win by argument alone; they win when other physicists pick them up, extend them, and find them fruitful. Right now ToE exists mainly in the author's own publications, which is normal for a brand-new idea but also the stage where most such ideas stall.
 
-One thing in its favor conceptually: it's not coming from nowhere. There's a real lineage here — Jacobson deriving Einstein's equations from thermodynamics in the 90s, Verlinde's entropic gravity in 2010, the whole "spacetime is emergent" research program. 
+One thing is definitely and undeniably in Obidi's favor conceptually: Obidi is not coming from nowhere. There's a real lineage here to which Obidi absolutely belongs:
+
+> # **Jacobson deriving Einstein's equations from thermodynamics in the 90s, Verlinde's entropic gravity in 2010, Bianconi's Gravity from Entropy (GfE), the whole kit and caboodle of the "spacetime/gravity is emergent" research program.** 
 
 > # **Obidi is pushing that lineage to its most radical conclusion: entropy isn't emergent, it's fundamental.**
