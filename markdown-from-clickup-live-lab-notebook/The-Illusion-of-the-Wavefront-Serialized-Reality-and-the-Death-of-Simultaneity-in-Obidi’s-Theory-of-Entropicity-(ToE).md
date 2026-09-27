@@ -122,7 +122,7 @@ The fans in the upper deck do not hear the front row cheer early because both gr
 
 ------------------------------
 
-## 6. Conclusion: The ToE Insight in One Line
+## 6. Conclusion: The ToE Insight in One Stack 
 The deepest insight of **John Onimisi Obidi’s Theory of Entropicity (ToE)** can be captured in a single, transformative realization: 
 > # **No event point can emit or transmit information instantaneously—and no two observers ever receive truly simultaneous signals.**
 
