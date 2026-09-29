@@ -13,9 +13,17 @@ Some ask for testing.
 
 A few ask for validation.
 
-ToE asks for none of these.Instead, Obidi demands that ToE must re‑derive the entire known universe before earning the right to predict anything new. This is the essence of the Obidi Correspondence Principle (OCP):A new theory must reproduce General Relativity (GR), Quantum Mechanics (QM), and thermodynamics as limiting cases — not metaphorically, but mathematically, structurally, and ontologically.This is not a polite request.
+ToE asks for none of these.Instead, Obidi demands that ToE must re‑derive the entire known universe before earning the right to predict anything new. 
 
-It is a hostile calibration.It is the difference between saying: “Here’s a new idea.”and saying: 
+This is the essence of the **Obidi Correspondence Principle (OCP):**
+
+A new theory must reproduce General Relativity (GR), Quantum Mechanics (QM), and thermodynamics as limiting cases — not metaphorically, but mathematically, structurally, and ontologically.
+
+### This is not a polite request.
+
+### It is a hostile calibration.
+
+### It is the difference between saying: “Here’s a new idea.” and saying: 
 
 > # **"Here's a new idea that must re-derive everything you already know before it earns the right to speak or predict anything new."**
 
