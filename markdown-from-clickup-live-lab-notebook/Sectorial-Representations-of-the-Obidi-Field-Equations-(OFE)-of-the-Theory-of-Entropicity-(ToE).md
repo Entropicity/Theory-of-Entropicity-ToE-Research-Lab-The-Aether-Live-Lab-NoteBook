@@ -15,7 +15,7 @@ its evolution governs the behavior of **matter**, **energy**, **geometry**, and 
 
 ---
 
-# **## 1. Obidi Action and Variational Principle**
+## 1. Obidi Action and Variational Principle**
 
 The OFE arise from the **Local Obidi Action (LOA)**, which couples geometry to the entropy field $S(x)$ across multiple sectors of a **hybrid manifold**. This manifold includes:
 
@@ -69,7 +69,7 @@ This equation is the **entropic analogue** of the Klein–Gordon equation, but w
 
 ---
 
-# **## 2. Sector‑by‑Sector Field Equations**
+## 2. Sector‑by‑Sector Field Equations**
 
 Applying the **Obidi Calculus** — which extends tensor operations across sectors — the OFE are obtained by varying the LOA with respect to each sector’s metric $g_{\mu\nu}^{(J)}$:
 
@@ -119,7 +119,7 @@ These are **nonlinear, coupled PDEs** governing the joint evolution of entropy a
 
 ---
 
-# **## 3. Physical Interpretation**
+## 3. Physical Interpretation**
 
 ### **Entropy as a Dynamic Field**
 
@@ -165,7 +165,7 @@ This is the **Obidi–Bellman–HJB Equation**, the control‑theoretic heart of
 
 ---
 
-# **## 4. Representative Form of the OFE**
+## 4. Representative Form of the OFE**
 
 For a generic sector $J$, the OFE can be expressed compactly as:
 
@@ -186,7 +186,7 @@ This formulation unifies **gravitational**, **quantum**, and **thermodynamic** e
 
 ---
 
-# **## Summary**
+## Summary**
 
 The Obidi Field Equations generalize Einstein’s equations by treating **entropy** as a **fundamental dynamical field** coupled to geometry through a **hybrid manifold formalism**. They unify:
 
@@ -200,7 +200,7 @@ The OFE are the **master field equations** of the Theory of Entropicity.
 
 ---
 
-# **## References**
+## References**
 
 ### **Physics: The Obidi–Bellman–HJB Equation**  
 ### **Obidi Field Equations on GitHub**  
