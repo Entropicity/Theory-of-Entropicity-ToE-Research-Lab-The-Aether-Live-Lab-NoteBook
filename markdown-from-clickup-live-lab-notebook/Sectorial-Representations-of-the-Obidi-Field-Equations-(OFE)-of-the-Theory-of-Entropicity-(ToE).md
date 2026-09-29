@@ -30,12 +30,10 @@ in addition to the usual spacetime coordinate index $\mu$, following the **Obidi
 The Local Obidi Action takes the general form:
 
 $$
-\mathcal{A}[S, g_{\mu\nu}^{(J)}]
-=
+\mathcal{A}[S, g_{\mu\nu}^{(J)}]=
 \int
 \left[
-\frac{1}{2} \, \partial_\mu S \, \partial^\mu S
--
+\frac{1}{2} \, \partial_\mu S \, \partial^\mu S-
 V(S)
 +
 \eta S \, T^\mu_{\ \mu}
@@ -88,8 +86,7 @@ $$
 Under **low‑entropy‑gradient** assumptions, the OFE reduce to a generalized Einstein equation:
 
 $$
-G_{\mu\nu} + \Lambda g_{\mu\nu}
-=
+G_{\mu\nu} + \Lambda g_{\mu\nu}=
 8\pi G_{\text{eff}} \, T_{\mu\nu}^{\text{entropic}}
 $$
 
@@ -173,17 +170,11 @@ This is the **Obidi–Bellman–HJB Equation**, the control‑theoretic heart of
 For a generic sector $J$, the OFE can be expressed compactly as:
 
 $$
-E_{\mu\nu}^{(J)}[g^{(J)}, S]
-=
-R_{\mu\nu}^{(J)}
--
-\frac{1}{2} g_{\mu\nu}^{(J)} R^{(J)}
-+
-\Lambda^{(J)} g_{\mu\nu}^{(J)}
--
-8\pi G^{(J)} T_{\mu\nu}^{S}
-=
-0
+E_{\mu\nu}^{(J)}[g^{(J)}, S]=
+R_{\mu\nu}^{(J)}-
+\frac{1}{2} g_{\mu\nu}^{(J)} R^{(J)}+
+\Lambda^{(J)} g_{\mu\nu}^{(J)}-
+8\pi G^{(J)} T_{\mu\nu}^{S}=0
 $$
 
 where:
