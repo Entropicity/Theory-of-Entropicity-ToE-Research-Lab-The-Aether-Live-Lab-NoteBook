@@ -27,7 +27,7 @@ A new theory must reproduce General Relativity (GR), Quantum Mechanics (QM), and
 
 > # **"Here's a new idea that must re-derive everything you already know before it earns the right to speak or predict anything new."**
 
-This is either the most honest scientific program imaginable — or the most unforgiving — depending entirely on whether the derivations and mathematical foundations ultimately and finally close.
+This is either the most honest scientific program imaginable — or the most unforgiving and exacting — depending entirely on whether the derivations and mathematical foundations ultimately and finally close.
 
 ## The Audacity of the Obidi Correspondence Principle (OCP)
 The Obidi Correspondence Principle (OCP) is not a footnote. It is the load‑bearing pillar of ToE. It asserts that the entropic field, the entropic manifold, and the entropic transaction laws must reproduce:
