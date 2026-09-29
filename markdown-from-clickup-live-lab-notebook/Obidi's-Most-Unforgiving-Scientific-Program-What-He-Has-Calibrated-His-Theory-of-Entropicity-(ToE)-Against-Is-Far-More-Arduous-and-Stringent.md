@@ -4,6 +4,9 @@
 Obidi's-Most-Unforgiving-Scientific-Program-What-He-Has-Calibrated-His-Theory-of-Entropicity-(ToE)-Against-Is-Far-More-Arduous-and-Stringent-Than-Mere-Peer-Review-Communal-Acceptance-Herd-Consensus-Empirical-Validation-or-Four-Centuries-of-Scientific-Gatekeeping.md 
 
 
+Obidi's-Most-Unforgiving-Scientific-Program-What-He-Has-Calibrated-His-Theory-of-Entropicity-(ToE)-Against-Is-Far-More-Arduous-and-Stringent.md
+
+
 Obidi’s Theory of Entropicity (ToE) is not merely a new physical framework — it is a scientific insurgency, a deliberate intellectual coup against the comfortable architecture of reductionist physics. What makes ToE so audacious is not simply its claims, but the unforgiving standard Obidi has calibrated it against.Most theories ask for consideration.
 
 Some ask for testing.
