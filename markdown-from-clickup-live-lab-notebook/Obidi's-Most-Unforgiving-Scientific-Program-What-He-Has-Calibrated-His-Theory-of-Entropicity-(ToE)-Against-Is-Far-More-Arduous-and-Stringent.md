@@ -15,11 +15,11 @@ A few ask for validation.
 
 ToE asks for none of these.Instead, Obidi demands that ToE must re‑derive the entire known universe before earning the right to predict anything new. This is the essence of the Obidi Correspondence Principle (OCP):A new theory must reproduce General Relativity (GR), Quantum Mechanics (QM), and thermodynamics as limiting cases — not metaphorically, but mathematically, structurally, and ontologically.This is not a polite request.
 
-It is a hostile calibration.It is the difference between saying: “Here’s a new idea.”and saying:
+It is a hostile calibration.It is the difference between saying: “Here’s a new idea.”and saying: 
 
-> # **“Here’s a new idea that must re‑derive everything you already know before it earns the right to speak.”*"
+> # **"Here's a new idea that must re-derive everything you already know before it earns the right to speak or predict anything new."**
 
-This is either the most honest scientific program imaginable — or the most unforgiving — depending entirely on whether the derivations close.
+This is either the most honest scientific program imaginable — or the most unforgiving — depending entirely on whether the derivations ultimately and finally close.
 
 ## The Audacity of the Obidi Correspondence Principle (OCP)
 The Obidi Correspondence Principle (OCP) is not a footnote. It is the load‑bearing pillar of ToE. It asserts that the entropic field, the entropic manifold, and the entropic transaction laws must reproduce:
