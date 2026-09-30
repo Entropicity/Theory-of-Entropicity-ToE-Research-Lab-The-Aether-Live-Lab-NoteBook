@@ -180,3 +180,86 @@ Would you like to explore how this informational view defines the Obidi Curvatur
 [14] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
 
 [15] [https://www.youtube.com](https://www.youtube.com/watch?v=RPCN21jA9lk)
+
+
+-----
+-----
+
+# Scholium 
+
+**Newton** and **Einstein** are established, experimentally confirmed frameworks; **Obidi's** claim is a 2025 proposal that has not yet been experimentally validated.
+
+| Proponent | View of gravity | Status |
+|---|---|---|
+| Isaac Newton | An attractive **force** between masses, $F = G\,m_1 m_2 / r^2$ | Established (1687); excellent approximation for weak fields and low speeds |
+| Albert Einstein | **Curvature of spacetime** — mass-energy tells spacetime how to curve, curved spacetime tells matter how to move (geodesics) | Established (1915); the accepted description of gravity in modern physics |
+| John Onimisi Obidi | Gravity is **entropic pressure**: bodies gravitate because the system must obey the Second Law (entropy maximization); spacetime and gravity emerge from a fundamental entropy field $S(x)$ | Proposed (2025) — the **Theory of Entropicity (ToE)**; not yet experimentally tested or part of mainstream physics |
+
+Obidi's framework is conceptually related to **Erik Verlinde's 2011 "entropic gravity"** and **Ginestra Bianconi's "Gravity from Entropy" (GfE, 2024/25),** but goes further by treating entropy itself as the **ontological substrate** from which spacetime, quantum mechanics, and all forces emerge. 
+
+A critical review notes that while the formalism is mathematically sophisticated, the detailed mapping between its constants and established quantities ($G$, $\hbar$) **"requires detailed and rigorous external scrutiny"** — i.e., it remains a highly radical, pre-empirical proposal rather than a finished and confirmed theory.
+
+----
+----
+
+# Scholium 
+
+## Newton: Gravity as a Force
+
+Isaac Newton described gravity in *Principia* (1687) as a universal attractive force between any two masses:
+
+$$F = G\,\frac{m_1\,m_2}{r^2}$$
+
+The force is **instantaneous** and **action-at-a-distance** — it acts across empty space with no medium, no mechanism, and no delay. Newton himself was uneasy about this; he famously wrote that he "feigns no causes" (*hypotheses non fingo*). The theory works extraordinarily well in the regime of weak fields and low velocities (planetary orbits, falling objects, engineering), but it treats space and time as a fixed, absolute stage on which forces act. It also cannot explain *why* the force exists or *how* it propagates.
+
+---
+
+## Einstein: Gravity as Spacetime Curvature
+
+Albert Einstein resolved the "why" by eliminating the force entirely. The key insight is the **equivalence principle**: a person in a closed room cannot distinguish between standing on a planet and being accelerated in empty space. If gravity is locally indistinguishable from acceleration, then it is not a force acting *in* spacetime — it *is* the geometry of spacetime.
+
+The logic proceeds in three steps:
+
+1. **Matter and energy curve spacetime.** The Einstein field equations encode this:
+
+$$G_{\mu\nu} + \Lambda\, g_{\mu\nu} = \frac{8\pi G}{c^4}\, T_{\mu\nu}$$
+
+   The left side is the curvature of spacetime (the Einstein tensor $G_{\mu\nu}$ plus the cosmological constant); the right side is the stress-energy of matter and radiation.
+
+2. **Free objects follow geodesics.** A body under no non-gravitational force traces the straightest possible path through curved spacetime — a **geodesic**. The Earth orbits the Sun not because a force pulls it inward, but because the Sun's mass curves spacetime and the Earth is following a geodesic through that curved geometry. In flat spacetime, geodesics are straight lines; in curved spacetime, they can appear curved to us.
+
+3. **Curvature is intrinsic, not embedded.** Spacetime does not need a higher-dimensional space to "bend into." Curvature is defined by how distances and times *within* spacetime deviate from the flat (Minkowski) case — measured by the Riemann curvature tensor.
+
+This framework has been confirmed by every major test: the anomalous perihelion precession of Mercury, gravitational lensing of starlight, the Shapiro time-delay, gravitational redshift (GPS satellite corrections), the detection of gravitational waves by LIGO (2015), and the imaging of a black hole shadow by Event Horizon Telescope (2019). The famous summary by John Archibald Wheeler captures it: *"Matter tells spacetime how to curve; curved spacetime tells matter how to move."*
+
+---
+
+## Obidi: Gravity as Entropic Pressure
+
+John Onimisi Obidi's **Theory of Entropicity (ToE)** (2025) makes a more radical ontological claim than either predecessor. The central postulate is the **Obidi Conjecture**: entropy $S(x)$ is not a statistical measure of disorder but a **fundamental, dynamic, continuous field** — the true substrate of reality. Everything we call space, time, matter, energy, and gravity emerges from its gradients and curvature.
+
+### How it works
+
+- **The entropic field** $S(x)$ is defined on a differentiable manifold. Its gradients drive what we experience as motion; its curvature gives rise to what we experience as gravity.
+- **The Information-Geometry Bridge** is the key mathematical step: Obidi connects the **Fisher–Rao metric** (from information geometry) and the **Fubini–Study metric** (from quantum information theory) to show that the physical spacetime metric $g_{\mu\nu}$ is a *derived*, coarse-grained object emerging from the deeper entropic manifold. In other words, Einstein's geometry is not fundamental — it is an effective description of the entropic field's structure.
+- **Gravity as entropic pressure:** A massive body creates a gradient in $S(x)$. The system's tendency to maximize entropy (the Second Law) drives matter toward regions of higher entropic flow. What we call "gravitational attraction" is this entropic pressure — not a force, not a curvature of spacetime per se, but a curvature of the *entropic field* from which spacetime curvature is itself derived.
+- **The Obidi Action** is the variational principle governing entropic dynamics, encoding both local differential structure and global spectral consistency. A related construct, the **Vuli-Ndlela Integral**, is used in a reformulation of the quantum-gravitational correspondence.
+
+### Relationship to earlier entropic approaches
+
+| Feature | Erik Verlinde (2011) | Ginestra Bianconi (GfE, 2025) | John Obidi (ToE, 2025) |
+|---|---|---|---|
+| Core claim | Gravity is an **entropic force** arising from information on holographic screens | Gravity emerges from **quantum relative entropy** between spacetime and matter metrics | Entropy $S(x)$ is the **fundamental ontic field**; spacetime, quantum mechanics, and gravity all emerge from it |
+| Status of spacetime | Emergent from holographic degrees of freedom | Emergent from entropic structure | A **coarse-grained projection** of the entropic manifold |
+| Role of the Second Law | Explains the *direction* of the entropic force | Drives the emergent gravitational dynamics | Is the **causal engine** of all physical phenomena |
+| Mathematical tools | Holographic principle, equipartition, thermodynamics | Quantum information theory, relative entropy | Fisher–Rao metric, Fubini–Study metric, spectral action, information geometry |
+
+Obidi explicitly positions ToE as **more radical than Verlinde**: where Verlinde treats gravity as an entropic force *within* an existing spacetime (or on holographic screens), ToE replaces spacetime itself with the entropic field. Bianconi's GfE is absorbed into ToE as a special case — Obidi derives Bianconi's results from the Obidi Action.
+
+### Critical status
+
+A 2025 critical review characterizes ToE as "a compelling, highly original, and mathematically sophisticated proposal" but emphasizes that it remains **pre-empirical**: the mapping between its constants and established quantities ($G$, $\hbar$, $c$) "requires detailed external scrutiny," and no unique, falsifiable prediction that distinguishes ToE from GR in a currently testable regime has been identified. It is published on SSRN, Cambridge preprint servers, and Medium, but has not yet appeared in a peer-reviewed physics journal. 
+
+In the hierarchy of physical theories, it sits firmly in the **radical and audacious, pre-experimental** category — a bold conceptual framework whose mathematical consistency is plausible but whose physical content awaits independent and rigorous verification.
+
+
