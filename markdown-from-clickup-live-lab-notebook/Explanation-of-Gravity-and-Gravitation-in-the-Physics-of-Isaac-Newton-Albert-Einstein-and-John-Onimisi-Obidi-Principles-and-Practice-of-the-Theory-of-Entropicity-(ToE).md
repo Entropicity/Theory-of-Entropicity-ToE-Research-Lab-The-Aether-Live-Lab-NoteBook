@@ -149,7 +149,7 @@ To hear a breakdown of how the **Theory of Entropicity (ToE)** shifts our unders
 Source: Theory of Entropicity (ToE):- https://share.google/RZz8K6nUNhbZavwIb
 
 
-Would you like to explore how this informational view defines the Obidi Curvature Invariant $(\ln 2)$ as the universe's minimum pixel of reality, or look at how it replaces the Principle of Least Action with the Principle of Least Entropic Resistance?
+Would you like to explore how this informational view defines the Obidi Curvature Invariant $(\ln 2)$ as the universe's minimum pixel of reality, or look at how it replaces the **Principle of Least Action (PoLA)** with the **Principle of Least Entropic Resistance (PoLER)**?
 
 [1] [https://www.researchgate.net](https://www.researchgate.net/profile/John-Obidi-4)
 
