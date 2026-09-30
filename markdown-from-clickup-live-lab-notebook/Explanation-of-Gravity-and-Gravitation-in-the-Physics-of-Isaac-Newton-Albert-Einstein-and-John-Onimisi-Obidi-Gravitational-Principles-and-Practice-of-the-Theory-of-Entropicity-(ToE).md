@@ -536,3 +536,46 @@ A 2025 critical review (published on Medium and SSRN) characterizes ToE as "a co
 In the hierarchy of physical theories, ToE sits in the **radical and audacious, pre-experimental** category: a bold, internally consistent conceptual framework whose mathematical structure is plausible but whose physical content awaits independent verification and, ideally, a concrete experimental prediction that GR cannot make.
 
 
+
+-----
+-----
+
+
+# Scholium 
+
+# 🔥Newton's Philosophical Standpoint Concerning The Action-at-a-Distance Problem of Gravitation
+
+The most profound weakness in Newton's Gravitation is not mathematical but philosophical. The force acts instantaneously across arbitrary distances through empty space, with no medium, no mechanism, and no propagation delay. 
+
+This violated the dominant mechanical philosophy of the 17th century, which held thatall motion must be transmitted by contact— billiard-ball collisions, chains, gears.
+
+Newton was acutely aware of this. In his 1692–93 letter to the theologian Richard Bentley, he wrote:
+
+"That gravity should be innate, inherent, and essential to matter, so that one body may act upon another at a distance through a vacuum, without the mediation of anything else, by and through which their action and force may be conveyed from one to another, is to me so great an absurdity that I believe no man who has in philosophical matters a competent faculty of thinking can ever fall into it."
+
+This is one of the most famous confessions of theoretical incompleteness in the history of physics. Newton knew his theory was incomplete—it described what gravity does with extraordinary precision, but not how or why it does it. 
+
+His response was methodological rather than metaphysical: hypotheses non fingo ("I frame no hypotheses").
+
+He would not speculate about the mechanism because no experiment could yet distinguish between candidate mechanisms.
+
+The Leibniz–Clarke Controversy in Defence of Newton:
+
+The philosophical attack on Newton came from Leibniz and his allies, who charged Newton with smuggling in "occult qualities" — unexplained, non-mechanical causes.
+
+In the famous Leibniz–Clarke correspondence (1715–16), Samuel Clarke defended Newton's position, arguing that God could impress forces directly on matter. 
+
+Leibniz countered that action at a distance was not merely unexplained but metaphysically incoherent: a substance cannot act where it is not. 
+
+This debate is one of the great fault lines in the history of physics — it is essentially the same question Einstein would answer a century and a half later by replacing Newton's force with geometry.
+
+Final Reckoning: Obidi’s ToE Enters the Picture
+
+Einstein’s geometrization of Newton was the first great philosophical rescue of gravitation: he replaced Newton’s “occult force” with the curvature of spacetime, turning action‑at‑a‑distance into local geometry. But Einstein’s solution, though revolutionary, still assumed that spacetime itself is fundamental — a smooth manifold whose curvature is gravity.
+
+Obidi’s ToE enters precisely at this juncture, not to reject Einstein, but to complete the philosophical arc Newton began and Einstein advanced. Obidi sets out to do to Einstein’s geometrization what Einstein did to Newton’s force:  
+Newton asked “What carries the force?”  
+Einstein answered “Geometry carries the force.”  
+Obidi asks “What generates geometry itself?”
+
+Obidi responds and entropicizes geometry itself.
