@@ -143,6 +143,12 @@ What we call "heat" and "disorder" in a laboratory are just localized, chaotic m
 ## The Ultimate Conclusion
 Obidi is arguing that we had the hierarchy backward. We thought heat and temperature were the cause of entropy. ToE states that the dynamic flow of entropy is the primary reality. What we perceive as a "gravitational force," "curved space," or "thermal heat" are just different dialects of the exact same fundamental language: the universe constantly reorganizing its information to satisfy the Second Law. [9, 14, 15] 
 
+To hear a breakdown of how the **Theory of Entropicity (ToE)** shifts our understanding of the universe's foundational mechanics, refer to this **Obidi's Canonical YouTube Video:**
+
+
+Source: Theory of Entropicity (ToE):- https://share.google/RZz8K6nUNhbZavwIb
+
+
 Would you like to explore how this informational view defines the Obidi Curvature Invariant $(\ln 2)$ as the universe's minimum pixel of reality, or look at how it replaces the Principle of Least Action with the Principle of Least Entropic Resistance?
 
 [1] [https://www.researchgate.net](https://www.researchgate.net/profile/John-Obidi-4)
