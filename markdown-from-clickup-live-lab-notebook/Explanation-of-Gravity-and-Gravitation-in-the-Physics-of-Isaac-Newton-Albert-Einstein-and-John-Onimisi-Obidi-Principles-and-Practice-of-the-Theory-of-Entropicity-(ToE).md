@@ -1,6 +1,6 @@
-# Gravity and Gravitation in the Physics of Isaac Newton, Albert Einstein, and John Onimisi Obidi: Principles and Practice of the Theory of Entropicity (ToE)
+# Explanation of Gravity and Gravitation in the Physics of Isaac Newton, Albert Einstein, and John Onimisi Obidi: Principles and Practice of the Theory of Entropicity (ToE)
 
-Gravity-and-Gravitation-in-the-Physics-of-Isaac-Newton-Albert-Einstein-and-John-Onimisi-Obidi-Principles-and-Practice-of-the-Theory-of-Entropicity-(ToE).md
+Explanation-of-Gravity-and-Gravitation-in-the-Physics-of-Isaac-Newton-Albert-Einstein-and-John-Onimisi-Obidi-Principles-and-Practice-of-the-Theory-of-Entropicity-(ToE).md
 
 
 Newton says gravity is a force between bodies; Einstein says it is the curvature of the spacetime between bodies that causes them to seem to gravitate or attract each other; and Obidi says that bodies are attracted to each other or gravitate towards each other simply because the objects or bodies must obey the Second Law of Thermodynamics SLoT where entropy must be maximized
