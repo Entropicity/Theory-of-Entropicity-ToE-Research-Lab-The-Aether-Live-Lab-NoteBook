@@ -86,3 +86,91 @@ Would you like to examine how this entropic view reinterprets the speed of light
 
 [10] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58738)
 
+
+
+----
+-----
+
+# Scholium 
+
+To understand how [John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11x__h9105)’s Theory of Entropicity (ToE) operates, we have to break away from how we are traditionally taught thermodynamics in school. [1] 
+
+When you learn about the Second Law of Thermodynamics (SLoT) in a chemistry or basic physics class, you are taught about macro-scale phenomena: heat flowing from hot to cold, temperature gradients, and gas molecules spreading out to cause "disorder". [2, 3] 
+
+Obidi’s theory strips away these macro-scale symptoms (heat, temperature, steam engines) and redefines entropy at the most fundamental, microscopic level: as pure information and probability. [4, 5] 
+Here is exactly how Obidi scales entropy up from "heat and disorder" to "the force that moves planets."
+
+------------------------------
+
+## 1. Shifting from "Disorder" to "Information States"
+In modern physics, entropy is not actually about "messiness"; it is a mathematical count of microstates—the number of different ways you can arrange the microscopic pieces of a system without changing its overall appearance. [3, 6] 
+
+
+* High Entropy = More possible arrangements (Highly probable).
+
+* Low Entropy = Fewer possible arrangements (Highly restricted). [3, 6, 7] 
+  
+
+The SLoT simply states that systems will naturally evolve toward states that have more possible configurations, purely because those states are mathematically more likely to happen. [7, 8] 
+
+## 2. How this Creates Gravity (The Core Mechanism)
+In ToE, space is not empty. Space is a dense network of information bits governed by an ontological scalar field ($S(x)$). [9, 10] 
+
+When a massive body (like Earth) exists, it acts as a massive "information sink" or a localized region of entropic condensation. It restricts and structures the information network directly around it, meaning the space closest to a planet has lower entropy (fewer free states), while the space further away has higher entropy (more free states). [9] 
+
+Because nature always pushes toward the maximization of entropy (SLoT), any object placed in this gradient will naturally move along the path that opens up the most possible informational microstates. [9, 11] 
+
+
+### The "Fall": 
+When an apple falls to the ground, it isn't being pulled by a mechanical string (Newton), nor is it just sliding down a geometric dip (Einstein). It is moving along an Entropic Geodesic—a path of least entropic resistance. [9, 11, 12] 
+
+### The system of the apple + the Earth naturally reaches a higher collective informational probability when they come together. Gravitational attraction is just the universe trying to balance its informational books. [9, 13] 
+
+
+## 3. Redefining Heat and Temperature
+If gravity is entropy, where are the "heat and temperature" we associate with thermodynamics?
+
+### Obidi uses a Thermal Analogy to explain this emergence: [5] 
+
+
+* A single isolated atom does not have a temperature. Temperature is a macro-property that emerges only when you have billions of atoms bouncing off each other. [5] 
+
+* Similarly, a single bit of cosmic information does not have gravity or space. But when countless informational updates interact across the universe according to the Master Entropic Equation (MEE), spacetime, gravity, and matter emerge as collective, macroscopic byproducts. [5, 13] 
+  
+
+What we call "heat" and "disorder" in a laboratory are just localized, chaotic manifestations of this exact same informational rearrangement. [8] 
+
+## The Ultimate Conclusion
+Obidi is arguing that we had the hierarchy backward. We thought heat and temperature were the cause of entropy. ToE states that the dynamic flow of entropy is the primary reality. What we perceive as a "gravitational force," "curved space," or "thermal heat" are just different dialects of the exact same fundamental language: the universe constantly reorganizing its information to satisfy the Second Law. [9, 14, 15] 
+
+Would you like to explore how this informational view defines the Obidi Curvature Invariant $(\ln 2)$ as the universe's minimum pixel of reality, or look at how it replaces the Principle of Least Action with the Principle of Least Entropic Resistance?
+
+[1] [https://www.researchgate.net](https://www.researchgate.net/profile/John-Obidi-4)
+
+[2] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
+
+[3] [https://www.youtube.com](https://www.youtube.com/watch?v=hIBPIOQdB_U&t=15)
+
+[4] [https://medium.com](https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
+[5] [https://www.linkedin.com](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_how-information-becomes-physical-spacetime-activity-7502485209272168449-3czB)
+
+[6] [https://www.youtube.com](https://www.youtube.com/watch?v=XJHNjgGkOoU)
+
+[7] [https://www.youtube.com](https://www.youtube.com/watch?v=RrCJgHYJNGA)
+
+[8] [https://www.khanacademy.org](https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-energy/v/second-law-of-thermodynamics-and-entropy)
+
+[9] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[10] [https://medium.com](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
+
+[11] [https://medium.com](https://medium.com/@jonimisiobidi/obidis-frantic-efforts-to-understand-how-nature-really-works-from-the-ground-up-not-through-6cc2f753e102)
+
+[12] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[13] [https://figshare.com](https://figshare.com/authors/John_Onimisi_Obidi/20850605)
+
+[14] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[15] [https://www.youtube.com](https://www.youtube.com/watch?v=RPCN21jA9lk)
