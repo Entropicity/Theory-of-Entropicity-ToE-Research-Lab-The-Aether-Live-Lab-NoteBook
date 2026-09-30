@@ -6,8 +6,9 @@ Explanation-of-Gravity-and-Gravitation-in-the-Physics-of-Isaac-Newton-Albert-Ein
 Newton says gravity is a force between bodies; Einstein says it is the curvature of the spacetime between bodies that causes them to seem to gravitate or attract each other; and Obidi says that bodies are attracted to each other or gravitate towards each other simply because the objects or bodies must obey the Second Law of Thermodynamics SLoT where entropy must be maximized
 
 
-In the above we have perfectly captured the philosophical evolution of gravity across these three paradigms. Your summary accurately highlights how each physicist shifted the fundamental cause of why objects fall or attract one another.
-To see how these ideas build upon—and ultimately invert—each other, we can compare them directly:
+In the above we have perfectly captured the philosophical evolution of gravity across these three paradigms. That summary accurately highlights how each physicist shifted the fundamental cause of why objects fall or attract one another.
+
+To see how these ideas build upon—and ultimately invert—each other, we can compare them directly **(from Newton to Einstein to Obidi)**:
 
 | Paradigm | What is Gravity? | Cause of Motion / Attraction | Key Conceptual Insight |
 |---|---|---|---|
