@@ -329,7 +329,11 @@ Einstein's famous **"happiest thought" (*glücklichster Gedanke meines Lebens*)*
 
 - accelerating upward in deep space at $9.8\ \text{m/s}^2$.
 
-The **weak equivalence principle** (WEP) — the equality of gravitational and inertial mass — has been tested to a precision of about $10^{-13}$ (e.g., by Stephan Peik's group at PTB and the STEP satellite experiment). This is what makes the geometric reformulation possible: if gravitational "force" is proportional to inertial mass in exactly the same way, it can be absorbed into the geometry rather than treated as a force.
+The **weak equivalence principle** (WEP) — the equality of gravitational and inertial mass — has been tested to a precision of about $10^{-13}$ (e.g., by Stephan Peik's group at PTB and the STEP satellite experiment). 
+
+This is what makes the geometric reformulation possible: 
+
+> # **If gravitational "force" is proportional to inertial mass in exactly the same way, it can be absorbed into the geometry rather than treated as a force.**
 
 ### From the Equivalence Principle to the Geodesic Equation
 
@@ -468,8 +472,11 @@ The **OCI** is defined as:
 $$\text{OCI} = \ln 2$$
 
 This is a **minimum distinguishable curvature gap** — the smallest unit of entropic curvature that can be resolved. It plays a role analogous to the Planck length in quantum gravity: it sets the scale at which the smooth geometric description breaks down and discrete, quantum-like behavior emerges. In ToE, this explains:
+
 - **Pixelation in holography:** the Bekenstein–Hawking area law (one bit per Planck area) is not an arbitrary feature but a **necessary entropic consequence** of the OCI.
+
 - **Quantum transitions:** they occur when the entropic field crosses discrete curvature thresholds determined by the OCI.
+
 - **Quantum entanglement:** it is interpreted as an **entropy-mediated correlation process** in which entropic curvature links distant regions of the field.
 
 ### The Obidi Action and Field Equations
@@ -478,7 +485,9 @@ The **Obidi Action** is the variational principle governing entropic dynamics:
 
 $$A_{\text{Obidi}}[S] = \int d^4x\, \sqrt{-g}\, \mathcal{L}_{\text{entropic}}(S, \nabla S, \nabla^2 S, \ldots)$$
 
-It integrates classical and quantum information geometry (Fisher–Rao, Fubini–Study, and Amari–Čencov structures) into a single entropic dynamical law. The **Obidi Field Equations (OFE)** — also called the **Master Entropic Equation (MEE)** — are derived from this action and are the **entropic generalization of Einstein's field equations**.
+It integrates classical and quantum information geometry (Fisher–Rao, Fubini–Study, and Amari–Čencov structures) into a single entropic dynamical law. 
+
+The **Obidi Field Equations (OFE)** — also called the **Master Entropic Equation (MEE)** — are derived from this action and are the **entropic generalization of Einstein's field equations**.
 
 A key result is the identification:
 
@@ -514,6 +523,8 @@ Obidi explicitly positions ToE as **more radical than Verlinde** (who treats gra
 A 2025 critical review (published on Medium and SSRN) characterizes ToE as "a compelling, highly original, and mathematically sophisticated proposal" but flags several concerns:
 
 1. **No unique, falsifiable prediction** that distinguishes ToE from GR in a currently testable regime has been identified. The OCP ensures ToE *reproduces* GR, but does not yet show where it *differs* in a measurable way.
+
+> # **However, in the Theory of Entropicity (ToE) derivation of Einstein's perihelion precession of planet Mercury, Obidi arrives at some higher order entropic parameters that are new additions to Einstein's famous General Relativity (GR) result of 1915.**
 
 2. **The mapping between constants** ($G$, $\hbar$, $c$) and entropic parameters "requires detailed external scrutiny" — the derivations are self-contained within ToE's own formalism but have not been independently verified.
 
