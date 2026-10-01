@@ -4,7 +4,7 @@ The-Informational-Fabric-of-Reality-How-Obidi’s-Theory-of-Entropicity-(ToE)-Un
 
 For over a century, physicists have treated entropy as a secondary property—a macroscopic bookkeeping tool used to track chaos, lost energy, and the inevitable decay of closed systems. In standard textbooks, spacetime is the fundamental stage, while entropy is merely a consequence of the particles moving across it.
 
-The **Theory of Entropicity (ToE),** formulated by **John Onimisi Obidi,** completely flips this traditional paradigm on its head. Obidi posits that entropy is a fundamental, real, and dynamical scalar field ($S(x)$) that serves as the literal substrate of reality. 
+The **Theory of Entropicity (ToE),** formulated by **John Onimisi Obidi,** completely flips this traditional paradigm on its head. Obidi posits that entropy is a fundamental, real, and dynamical scalar field (S(x)) that serves as the literal substrate of reality. 
 
 By synthesizing advanced information geometry with gravitational and quantum mechanics, Obidi’s framework suggests that the physical laws of nature do not merely generate information; rather, information geometry generates the physical laws of nature.
 
@@ -12,7 +12,7 @@ By synthesizing advanced information geometry with gravitational and quantum mec
 ## 1. Geometric Bridges: Fisher-Rao and Fubini-Study
 At the heart of Obidi's conceptual breakthrough is the realization that:
 
-> # **statistical "distance" can be translated into physical distance.**
+> # **Statistical [Probabilistic] information "distance" can be translated into physical [spacetime] distance.**
 
 To unify the classical macro-world with the quantum micro-world, the Theory of Entropicity (ToE) utilizes two distinct information-theoretic metrics to define the curvature of this universal entropic field:
 
