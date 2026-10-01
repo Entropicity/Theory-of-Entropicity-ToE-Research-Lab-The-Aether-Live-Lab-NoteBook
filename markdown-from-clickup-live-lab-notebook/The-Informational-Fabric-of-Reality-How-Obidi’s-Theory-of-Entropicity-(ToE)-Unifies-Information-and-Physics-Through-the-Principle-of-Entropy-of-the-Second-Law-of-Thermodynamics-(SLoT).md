@@ -66,7 +66,7 @@ Furthermore, **the theory offers a radical solution to the mystery of Dark Energ
 **John Onimisi Obidi’s Theory of Entropicity (ToE)** represents an audacious leap forward in the quest for a Unified Theory of Quantum Gravity. By demonstrating that the mathematical structures used to measure information are the exact same structures that dictate the behavior of matter, energy, and time, Obidi bridges the gap between Wheeler's famous "It from bit" philosophy and rigorous mathematical physics.
 
 If the **Theory of Entropicity (ToE)** continues to withstand mathematical scrutiny, it will confirm a profound truth about our universe: 
-> # **Reality is not made of solid, immutable particles, but of a deeply interconnected, ever-shifting sea of information.**
+> # **Reality is not made of solid, immutable particles, but of a deeply interconnected, ever-shifting sea of entropic information.**
 
 Would you like to examine the specific mathematical form of the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE),** or shall we explore how this theory reinterprets the physics of a black hole event horizon?
 
