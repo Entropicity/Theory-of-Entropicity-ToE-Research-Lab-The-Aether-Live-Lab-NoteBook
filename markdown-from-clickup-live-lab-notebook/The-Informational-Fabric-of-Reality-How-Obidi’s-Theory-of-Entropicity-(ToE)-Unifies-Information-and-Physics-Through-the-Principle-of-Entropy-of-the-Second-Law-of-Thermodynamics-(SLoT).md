@@ -10,23 +10,25 @@ By synthesizing advanced information geometry with gravitational and quantum mec
 
 ------------------------------
 ## 1. Geometric Bridges: Fisher-Rao and Fubini-Study
-At the heart of Obidi's conceptual breakthrough is the realization that statistical "distance" can be translated into physical distance. To unify the classical macro-world with the quantum micro-world, the 
+At the heart of Obidi's conceptual breakthrough is the realization that:
 
-Theory of Entropicity (ToE) utilizes two distinct information-theoretic metrics to define the curvature of this universal entropic field:
+> # **statistical "distance" can be translated into physical distance.**
+
+To unify the classical macro-world with the quantum micro-world, the Theory of Entropicity (ToE) utilizes two distinct information-theoretic metrics to define the curvature of this universal entropic field:
 
 ## The Classical Substrate: The Fisher-Rao Metric
 In classical information theory, the Fisher-Rao metric measures the distinguishability between different probability distributions. Obidi elevates this abstract statistical tool into a physical descriptor of macroscopic reality.
 
-* By mapping Shannon entropy gradients onto a smooth manifold, the Fisher-Rao metric acts as a classical informational curvature.
+* **By mapping Shannon entropy gradients** onto a smooth manifold, the Fisher-Rao metric acts as a classical informational curvature.
 
-* Where probability distributions shift rapidly, the "distance" in information space stretches, manifesting in the physical universe as the warping of classical spacetime.
+* **Where probability distributions** shift rapidly, the "distance" in information space stretches, manifesting in the physical universe as the warping of classical spacetime.
 
 ## The Quantum Substrate: The Fubini-Study Metric
 To account for the quantum realm, Obidi integrates the Fubini-Study metric, which defines the distance between quantum states in a complex Hilbert space.
 
-* Instead of viewing quantum mechanics as a set of probabilities layered on top of space, the theory pulls the Fubini-Study metric back into the spatial manifold itself.
+* **Instead of viewing quantum mechanics as a set of probabilities** layered on top of space, the theory pulls the Fubini-Study metric back into the spatial manifold itself.
 
-* This metric tracks the microscopic curvature of von Neumann entropy, defining how quantum states overlap, interfere, and decohere.
+* **This metric tracks the microscopic curvature of von Neumann entropy,** defining how quantum states overlap, interfere, and decohere.
 
 By binding the Fisher-Rao and Fubini-Study metrics together, Obidi builds a mathematical framework where classical gravity and quantum mechanics emerge from the exact same informational root.
 
@@ -36,9 +38,9 @@ Einstein's General Relativity relies heavily on the Levi-Civita connection—a m
 
 To resolve this conflict, Obidi replaces the standard connection with the Amari-Čencov $\alpha$-connection from information geometry.
 
-* Because information loss and thermodynamic processes are inherently asymmetric, the $\alpha$-connection introduces a natural mathematical asymmetry into the fabric of the manifold.
+* **Because information loss and thermodynamic processes are inherently asymmetric,** the $\alpha$-connection introduces a natural mathematical asymmetry into the fabric of the manifold.
 
-* Spacetime is no longer a static, passive grid; it is an evolving informational landscape where the flow of time is dictated by the irreversible unfolding of entropic gradients.
+* **Spacetime is no longer a static, passive grid;** it is an evolving informational landscape where the flow of time is dictated by the irreversible unfolding of entropic gradients.
 
 ------------------------------
 
