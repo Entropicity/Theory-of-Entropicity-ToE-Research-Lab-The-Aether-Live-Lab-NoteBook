@@ -22,6 +22,7 @@ Through **a variational principle known as the Obidi Action,** statistical metri
 
 Would you like to dive deeper into the mathematics of the **Obidi Action,** or explore how **ontodynamics (the study of existence as entropic motion and negotiation)** reinterprets gravitational time dilation?
 
+
 [1] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/69e313c1d1922e37d58d982b)
 
 [2] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6955ae35098cdc781f0f5f36)
@@ -29,3 +30,5 @@ Would you like to dive deeper into the mathematics of the **Obidi Action,** or e
 [3] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
 
 [4] [https://www.researchgate.net](https://www.researchgate.net/publication/396786625_A_Simple_Explanation_of_the_Unifying_Mathematical_Architecture_of_the_Theory_of_Entropicity_ToE_Crucial_Elements_of_ToE_as_a_Field_Theory)
+
+[5] [The Theory of Entropicity (ToE): Ingenuity of Its Mathematical Foundations](https://share.google/buwU4MoXUbUvREWhx)
