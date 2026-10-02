@@ -1,7 +1,7 @@
-# From Information Geometry to Entropic Reality: A Comprehensive Comparative Study of Matsueda's Emergent General Relativity (GR) and Obidi's Theory of Entropicity (ToE)
+# From Information Geometry to Entropic Reality: A Comprehensive Comparative Study of Hiroaki Matsueda's Emergent General Relativity (GR) and Obidi's Theory of Entropicity (ToE)
 
 
-From-Information-Geometry-to-Entropic-Reality-A-Comprehensive-Comparative-Study-of-Matsueda's-Emergent-General-Relativity-(GR)-and-Obidi's-Theory-of-Entropicity-(ToE).md
+From-Information-Geometry-to-Entropic-Reality-A-Comprehensive-Comparative-Study-of-Hiroaki-Matsueda's-Emergent-General-Relativity-(GR)-and-Obidi's-Theory-of-Entropicity-(ToE).md
 
 
 
