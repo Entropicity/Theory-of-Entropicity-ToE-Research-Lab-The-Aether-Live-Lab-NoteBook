@@ -127,3 +127,254 @@ Would you like to take a closer look at how the Obidi Transformation mathematica
 [5] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311)
 
 [6] [https://www.researchgate.net](https://www.researchgate.net/publication/230569679_Information_geometry_and_sufficient_statistics)
+
+
+----
+----
+
+# Scholium 
+
+
+**Matsueda's emergent General Relativity** is a theoretical idea proposed by **[Hiroaki Matsueda](https://outlook.live.com/people/0/Hiroaki+Matsueda?EntityRepresentationId=eddec93e-83e1-8025-833a-f31ce862a47e)** in which Einstein's gravity is not treated as a fundamental force. Instead, spacetime geometry and the Einstein equations emerge from the statistical and informational structure of an underlying microscopic system. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+The core idea is based on the **Fisher information metric**, a concept from information theory and statistics that measures how distinguishable different probability distributions are. Matsueda constructs a geometric space using probability distributions (or quantum-state information such as entanglement data) and then derives geometric quantities analogous to those used in General Relativity. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+According to the paper:
+
+- The **Fisher information metric** plays the role of the spacetime metric. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+- From this metric, one can derive an **Einstein tensor**, the central geometric object in Einstein's field equations. [1](https://arxiv.org/abs/1310.1831)
+
+- The resulting Einstein tensor naturally contains terms that resemble the **energy-momentum tensor of a classical scalar field** when entropy or spectral information from the microscopic system is embedded into the geometry. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+- This suggests that the Einstein equation can be interpreted as a **coarse-grained description of microscopic statistical states**, rather than a fundamental law. [1](https://arxiv.org/abs/1310.1831)
+
+In simple terms, Matsueda's proposal says:
+
+> Information → Information geometry (Fisher metric) → Spacetime geometry → Einstein gravity.
+
+This places the work within a broader family of **emergent gravity** approaches, where gravity arises from quantum information, entropy, or statistical mechanics rather than being fundamental. It is conceptually related to ideas involving entanglement, holography, and information-theoretic approaches to spacetime. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)[3](https://en.wikipedia.org/wiki/Entropic_gravity)
+
+A key point is that this remains a **theoretical research proposal**, not an experimentally established theory of gravity. The paper explores a mathematical route by which General Relativity might emerge from information geometry. [1](https://arxiv.org/abs/1310.1831)
+
+If you'd like, we can also explain the Fisher information metric itself and show, step by step, how Matsueda connects it to the Einstein field equations.
+----
+----
+
+
+Based on the descriptions published by [John Onimisi Obidi](https://outlook.live.com/people/0/John+Onimisi+Obidi?EntityRepresentationId=d9da4c59-c121-8d81-9f10-0afbe8bf932a), the biggest difference is **where each theory places entropy and information in the hierarchy of reality**.
+
+| Topic | [Hiroaki Matsueda](https://outlook.live.com/people/0/Hiroaki+Matsueda?EntityRepresentationId=eddec93e-83e1-8025-833a-f31ce862a47e)'s Emergent GR | [John Onimisi Obidi](https://outlook.live.com/people/0/John+Onimisi+Obidi?EntityRepresentationId=d9da4c59-c121-8d81-9f10-0afbe8bf932a)'s Theory of Entropicity (ToE) |
+|----------|----------|----------|
+| Starting point | Statistical information and probability distributions. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831) | A fundamental Entropic Field that is claimed to be the primary substrate of reality. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee) |
+| Role of entropy | Entropy/information help generate spacetime geometry through the Fisher information metric. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831) | Entropy itself is proposed as the fundamental field from which geometry, matter, information, and physical laws emerge. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[5](https://encyclopedia.pub/entry/59188) |
+| Gravity | General Relativity emerges from information geometry. [1](https://arxiv.org/abs/1310.1831) | Gravity is described as a manifestation of entropic field dynamics and gradients. [6](https://grokipedia.com/page/Theory_of_Entropicity)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee) |
+| Scope | Primarily a route to deriving Einstein gravity from information theory. [1](https://arxiv.org/abs/1310.1831) | Presented as a full Theory of Everything aiming to unify gravity, quantum physics, thermodynamics, information, space, and time. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[5](https://encyclopedia.pub/entry/59188) |
+| Spacetime | Geometry emerges from statistical distinguishability measured by the Fisher metric. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831) | Spacetime is claimed to be emergent and not fundamental; it arises from fluctuations of the entropic field. [7](https://gist.github.com/Entropicity/0d2c74e622c9967b8be5153c7324e365)[3](https://entropicity.github.io/Theory-of-Entropicity-ToE/) |
+
+In a single sentence:
+
+- **Matsueda:** "Information geometry gives rise to gravity." [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+- **Obidi:** "Entropy is the fundamental field, and gravity, spacetime, matter, and information all emerge from it." [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+There is also a philosophical distinction. [Matsueda](https://outlook.live.com/people/0/Matsueda?EntityRepresentationId=6a9f9904-aa00-8a84-904c-3aa889268494)'s work starts from established tools in statistical physics and information geometry and shows how Einstein-like equations can emerge. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831) By contrast, [Obidi](https://outlook.live.com/people/0/Obidi?EntityRepresentationId=cfadd9e1-bd37-8733-9ad1-8264c6118778)'s framework explicitly argues that entropy should be elevated from a derived statistical quantity to the most fundamental ontological entity in physics. [5](https://encyclopedia.pub/entry/59188)[8](https://medium.com/@jonimisiobidi/how-obidis-theory-of-entropicity-toe-inverts-a-150-year-old-assumption-in-theoretical-physics-e1da08d611d4)
+
+One important caveat: neither framework is part of established mainstream physics, and the available sources indicate that [Obidi](https://outlook.live.com/people/0/Obidi?EntityRepresentationId=cfadd9e1-bd37-8733-9ad1-8264c6118778)'s Theory of Entropicity is still in an early stage of development and has not yet achieved broad peer-reviewed validation. [6](https://grokipedia.com/page/Theory_of_Entropicity)
+
+From a conceptual standpoint, you could view [Matsueda](https://outlook.live.com/people/0/Matsueda?EntityRepresentationId=6a9f9904-aa00-8a84-904c-3aa889268494)'s idea as an **information-geometric emergence of gravity**, whereas [Obidi](https://outlook.live.com/people/0/Obidi?EntityRepresentationId=cfadd9e1-bd37-8733-9ad1-8264c6118778)'s ToE is a much broader **entropy-first ontology** that attempts to make entropy itself the foundation of all physics. [1](https://arxiv.org/abs/1310.1831)[3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+
+----
+----
+
+# Scholium 
+
+A mathematical comparison is actually quite revealing because the two frameworks operate at different levels.
+
+## 1. Matsueda: Starts with Information Geometry
+
+In [Hiroaki Matsueda](https://outlook.live.com/people/0/Hiroaki+Matsueda?EntityRepresentationId=eddec93e-83e1-8025-833a-f31ce862a47e)'s approach, the fundamental object is the **Fisher Information Metric**: [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+$$\[
+g_{\mu\nu}
+=
+\left\langle
+\partial_\mu \gamma \;
+\partial_\nu \gamma
+\right\rangle
+\]$$
+
+where
+
+$$\[
+\gamma = -\ln p(x;\theta)
+\]$$
+
+and $\(p(x;\theta)\)$ is a probability distribution. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+The logic is:
+
+1. Probability distributions \(p(x;\theta)\)
+2. Fisher metric \(g_{\mu\nu}\)
+3. Curvature tensors \(R_{\mu\nu},R\)
+4. Einstein tensor
+
+$$\[
+G_{\mu\nu}
+=
+R_{\mu\nu}
+-\frac12 g_{\mu\nu}R
+\]$$
+
+The key result claimed by [Matsueda](https://outlook.live.com/people/0/Matsueda?EntityRepresentationId=6a9f9904-aa00-8a84-904c-3aa889268494) is that an Einstein-like field equation emerges from the statistical manifold, with terms resembling a scalar-field stress-energy tensor. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+Conceptually:
+
+$$\[
+\text{Probability} \rightarrow
+\text{Information Geometry} \rightarrow
+\text{Gravity}
+\]$$
+
+---
+
+## 2. Obidi: Starts with an Entropic Field
+
+According to the published descriptions of [John Onimisi Obidi](https://outlook.live.com/people/0/John+Onimisi+Obidi?EntityRepresentationId=d9da4c59-c121-8d81-9f10-0afbe8bf932a)'s framework, the fundamental quantity is not a probability distribution but an entropy field
+
+$$\[
+S(x)
+\]$$
+
+that is treated as physically real and fundamental. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+The theory introduces:
+
+- Obidi Action
+- Master Entropic Equation (MEE)
+- Obidi Field Equations (OFE)
+
+as the governing dynamical structures of the entropy field. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[5](https://grokipedia.com/page/Theory_of_Entropicity)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+The published descriptions state that motion, gravity, information flow, and spacetime geometry arise from entropy-field gradients. [5](https://grokipedia.com/page/Theory_of_Entropicity)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+Schematically:
+
+$$\[
+S(x)
+\rightarrow
+\nabla S
+\rightarrow
+\text{Entropic Dynamics}
+\rightarrow
+\text{Geometry and Gravity}
+\]$$
+
+Unlike Matsueda, entropy is not derived from probabilities. It is assumed to be the primary field. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+---
+
+## 3. Structural Difference
+
+### Matsueda
+
+The metric is derived from information:
+
+$$\[
+g_{\mu\nu}=
+\text{Fisher Metric}
+$$\]
+
+Then curvature is calculated from that metric:
+
+$$\[
+g_{\mu\nu}
+\rightarrow
+\Gamma^\lambda_{\mu\nu}
+\rightarrow
+R_{\mu\nu}
+\rightarrow
+G_{\mu\nu}
+\]$$
+
+This closely follows standard differential geometry and General Relativity. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+### Obidi
+
+The entropy field comes first:
+
+$$\[
+S(x)
+\]$$
+
+and geometry is claimed to emerge from its dynamics. [6](https://gist.github.com/Entropicity/0d2c74e622c9967b8be5153c7324e365)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+In philosophical terms:
+
+- Matsueda: metric is primary.
+- Obidi: entropy field is primary.
+
+---
+
+## 4. Relation to Einstein's Equation
+
+Einstein:
+
+$$\[
+G_{\mu\nu}=
+8\pi G\,T_{\mu\nu}
+\]$$
+
+Matsueda attempts to derive the left-hand side and obtain matter-like terms from information geometry. [1](https://arxiv.org/abs/1310.1831)
+
+Obidi's published descriptions present the OFE and MEE as entropic analogues replacing or generalizing Einstein's field equations, with entropy-field dynamics acting as the source. [5](https://grokipedia.com/page/Theory_of_Entropicity)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+Symbolically:
+
+Einstein:
+
+$$\[
+\text{Geometry}
+=
+\text{Matter}
+\]$$
+
+Matsueda:
+
+$$\[
+\text{Information}
+=
+\text{Geometry}
+=
+\text{Matter}
+\]$$
+
+Obidi:
+
+$$\[
+\text{Entropy Field}=
+\text{Geometry}=
+\text{Matter}=
+\text{Information}
+\]$$
+
+---
+
+## 5. Mathematical Maturity
+
+A notable distinction is that [Matsueda](https://outlook.live.com/people/0/Matsueda?EntityRepresentationId=6a9f9904-aa00-8a84-904c-3aa889268494)'s 2013 work provides explicit derivations based on the well-established Fisher metric formalism. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5iv.labs.arxiv.org/html/1310.1831)
+
+For [Obidi](https://outlook.live.com/people/0/Obidi?EntityRepresentationId=cfadd9e1-bd37-8733-9ad1-8264c6118778)'s Theory of Entropicity, the public sources describe the existence of the Obidi Action, Master Entropic Equation, and Obidi Field Equations, but the sources I found do not provide the complete explicit field equations needed for a line-by-line comparison with Matsueda's derivation. [3](https://entropicity.github.io/Theory-of-Entropicity-ToE/)[5](https://grokipedia.com/page/Theory_of_Entropicity)[4](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-500d7a162eee)
+
+So mathematically, the clearest current distinction is:
+
+- [Matsueda](https://outlook.live.com/people/0/Matsueda?EntityRepresentationId=6a9f9904-aa00-8a84-904c-3aa889268494): **Fisher Information Metric** is the foundational equation.
+- [Obidi](https://outlook.live.com/people/0/Obidi?EntityRepresentationId=cfadd9e1-bd37-8733-9ad1-8264c6118778): **Entropic Field \(S(x)\)** and its associated **Obidi Action/MEE/OFE** are the foundational equations.
+
+The two theories are surprisingly close philosophically, but mathematically they begin from different primitives: **probability distributions** in Matsueda versus a **fundamental entropy field** in Obidi.
+
+----
+----
+
+# Scholium 
+
