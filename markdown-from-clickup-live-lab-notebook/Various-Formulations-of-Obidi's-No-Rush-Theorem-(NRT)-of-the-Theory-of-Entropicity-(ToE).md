@@ -59,4 +59,27 @@ General Relativity (GR)'s single principle paid off immediately:
 
 So our beginning read above is right, and it's also the sharpest lens for judging Obidi's Bold and Audacious Vision (OBAAV): 
 
-> # **Don't ask whether each reinterpretation is elegant. Ask whether the one principle *produces* anything (new).**
+> # **Don't ask whether each reinterpretation is elegant. Ask whether the one principle *produces* anything [new].**
+
+---
+---
+
+# Scholium 
+
+# On the Novelty of Obidi's No-Rush Theorem (NRT)
+
+---
+
+Critics argue that Obidi’s No‑Rush Theorem isn’t unprecedented because physics already contains speed‑limit principles. **Quantum Speed Limits (Mandelstam–Tamm; Margolus–Levitin)** cap how fast quantum states evolve, **relativity caps signal propagation at c,** and the traveling‑wave speed $\(2\sqrt{\alpha\beta}\)$ resembles the classical **Fisher–KPP front velocity** from 1937 population dynamics. 
+
+These observations are correct—but they miss the point. 
+
+> # **Obidi's No-Rush Theorem (NRT) isn’t claiming novelty in the existence of speed limits; it’s claiming novelty in the source of those limits.**
+
+QSLs arise from **Hilbert‑space geometry, relativity from spacetime geometry, and Fisher–KPP from reaction-diffusion dynamics.** 
+
+Obidi’s NRT proposes something fundamentally different: 
+
+> # **That all speed limits—quantum, relativistic, informational, geometric—are downstream consequences of a single entropic constraint built into the fabric of reality. In other words, Obidi's No-Rush Theorem (NRT) reframes known limits not as separate mathematical coincidences, but as expressions of one underlying entropic law.**
+
+---
