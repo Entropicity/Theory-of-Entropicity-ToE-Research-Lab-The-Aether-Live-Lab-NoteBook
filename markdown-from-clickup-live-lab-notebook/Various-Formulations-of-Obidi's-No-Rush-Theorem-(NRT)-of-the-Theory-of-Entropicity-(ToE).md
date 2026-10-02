@@ -83,3 +83,20 @@ Obidi’s NRT proposes something fundamentally different:
 > # **That all speed limits—quantum, relativistic, informational, geometric—are downstream consequences of a single entropic constraint built into the fabric of reality. In other words, Obidi's No-Rush Theorem (NRT) reframes known limits not as separate mathematical coincidences, but as expressions of one underlying entropic law.**
 
 ---
+
+-----
+-----
+
+# Scholium 
+
+---
+
+A number of reviewers have noted that the No‑Rush Theorem (NRT) intersects with existing speed‑limit principles in physics. Quantum Speed Limits—such as the Mandelstam–Tamm and Margolus–Levitin bounds—already constrain the minimal time required for quantum state evolution, while relativistic causality imposes an upper bound of $\(c\)$ on signal propagation. Likewise, the appearance of a front velocity of $\(2\sqrt{\alpha\beta}\)$ resembles the classical Fisher–KPP traveling‑wave solution in reaction–diffusion systems. 
+
+These observations are technically correct, but they address mathematical similarity rather than conceptual scope. NRT does not propose a new numerical bound; it proposes a unifying causal interpretation. Whereas QSLs arise from Hilbert‑space geometry, relativistic limits from spacetime structure, and Fisher–KPP speeds from nonlinear diffusion dynamics, NRT frames all such constraints as downstream manifestations of a single entropic principle governing the rate at which physical systems can reorganize, propagate, or update their internal degrees of freedom. 
+
+In this sense, the contribution of NRT is not the identification of a new speed limit, but the claim that diverse dynamical bounds share a common entropic origin. This reframing positions NRT as a theoretical consolidation rather than a replacement for existing results. 
+
+> # **Obidi's No-Rush Theorem (NRT) gives us a Universal Field Principle (UFP) approach to the speed limit of all phenomena. Obidi thus unifies hitherto unrelated phenomena through one monistic ontological philosophy.**
+
+---
