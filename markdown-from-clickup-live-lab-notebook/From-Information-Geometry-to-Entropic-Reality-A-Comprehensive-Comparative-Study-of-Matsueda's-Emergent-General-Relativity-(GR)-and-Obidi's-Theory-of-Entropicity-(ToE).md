@@ -82,8 +82,7 @@ represents parameters characterizing the system. [1](https://arxiv.org/abs/1310.
 The fundamental quantity introduced is
 
 $$
-\gamma(x,\theta)
-=
+\gamma(x,\theta)=
 -\ln p(x;\theta).
 $$
 
@@ -96,8 +95,7 @@ This quantity measures local information content or surprisal. [1](https://arxiv
 The next step is the construction of the Fisher metric,
 
 $$
-g_{\mu\nu}
-=
+g_{\mu\nu}=
 \left\langle
 \partial_\mu \gamma
 \,
@@ -108,8 +106,7 @@ $$
 Equivalently,
 
 $$
-g_{\mu\nu}
-=
+g_{\mu\nu}=
 \sum_x
 p(x;\theta)
 \,
@@ -133,8 +130,7 @@ Probability becomes geometry.
 Once the metric exists,
 
 $$
-ds^2
-=
+ds^2=
 g_{\mu\nu}
 d\theta^\mu
 d\theta^\nu
@@ -147,15 +143,12 @@ The manifold is now equipped with all standard structures of differential geomet
 The Christoffel symbols become
 
 $$
-\Gamma^\lambda_{\mu\nu}
-=
+\Gamma^\lambda_{\mu\nu}=
 \frac12
 g^{\lambda\rho}
 \left(
-\partial_\mu g_{\rho\nu}
-+
-\partial_\nu g_{\rho\mu}
--
+\partial_\mu g_{\rho\nu}+
+\partial_\nu g_{\rho\mu}-
 \partial_\rho g_{\mu\nu}
 \right).
 $$
@@ -163,15 +156,11 @@ $$
 The Riemann curvature tensor becomes
 
 $$
-R^\rho_{\sigma\mu\nu}
-=
-\partial_\mu \Gamma^\rho_{\nu\sigma}
--
-\partial_\nu \Gamma^\rho_{\mu\sigma}
-+
+R^\rho_{\sigma\mu\nu}=
+\partial_\mu \Gamma^\rho_{\nu\sigma}-
+\partial_\nu \Gamma^\rho_{\mu\sigma}+
 \Gamma^\rho_{\mu\lambda}
-\Gamma^\lambda_{\nu\sigma}
--
+\Gamma^\lambda_{\nu\sigma}-
 \Gamma^\rho_{\nu\lambda}
 \Gamma^\lambda_{\mu\sigma}.
 $$
@@ -179,16 +168,14 @@ $$
 The Ricci tensor is
 
 $$
-R_{\mu\nu}
-=
+R_{\mu\nu}=
 R^\lambda_{\mu\lambda\nu}.
 $$
 
 The Ricci scalar is
 
 $$
-R
-=
+R=
 g^{\mu\nu}
 R_{\mu\nu}.
 $$
@@ -196,10 +183,8 @@ $$
 Finally,
 
 $$
-G_{\mu\nu}
-=
-R_{\mu\nu}
--
+G_{\mu\nu}=
+R_{\mu\nu}-
 \frac12
 g_{\mu\nu}
 R.
@@ -216,11 +201,8 @@ The Einstein tensor emerges. [1](https://arxiv.org/abs/1310.1831)[2](https://ar5
 Matsueda observes that when curvature is expressed in terms of information-theoretic quantities, the resulting Einstein tensor naturally contains terms of the form
 
 $$
-\partial_\mu \psi
-\,
-\partial_\nu \psi
--
-\frac12
+\partial_\mu \psi\,
+\partial_\nu \psi-\frac12
 g_{\mu\nu}
 (\partial \psi)^2.
 $$
@@ -230,12 +212,10 @@ This structure is immediately recognizable.
 It is mathematically identical to the stress-energy tensor of a classical scalar field,
 
 $$
-T_{\mu\nu}
-=
+T_{\mu\nu}=
 \partial_\mu \phi
 \,
-\partial_\nu \phi
--
+\partial_\nu \phi-
 \frac12
 g_{\mu\nu}
 (\partial \phi)^2.
@@ -432,8 +412,7 @@ The field is fundamental.
 An important observation arises from Shannon's definition,
 
 $$
-H
-=
+H=
 -\sum_i p_i \log p_i.
 $$
 
@@ -572,3 +551,78 @@ Obidi seeks to derive information itself from entropy.
 Matsueda investigates the emergence of General Relativity.
 
 Obidi ventures into deeper ontological waters, asking whether entropy is the foundational substance from which reality itself unfolds.
+
+
+----
+-----
+
+# Scholium 
+
+# 🌌 From Information Geometry to Entropic Reality: A Comprehensive Comparative Study of Hiroaki Matsueda's Emergent General Relativity (GR) and Obidi's Theory of Entropicity (ToE)
+
+What if gravity isn’t fundamental? And what if entropy isn’t just a statistical artifact, but the field from which reality itself emerges?
+
+Hiroaki Matsueda’s Emergent General Relativity (GR) argues that spacetime and gravity arise from information geometry. 
+
+Obidi’s Theory of Entropicity (ToE) goes deeper, proposing that entropy itself is the primary ontological field—the source of probability, information, geometry, matter, and physical law.
+
+At first glance the difference seems subtle. It isn’t.
+
+Matsueda starts with information:
+Probability distributions generate Fisher Information Geometry; that geometry produces spacetime; spacetime produces gravity.  
+
+Information →Probability →Geometry → Spacetime →Gravity  
+
+Gravity becomes an emergent consequence of informational structure. The universe is fundamentally informational, and geometry is one expression of that information.
+
+Obidi flips the hierarchy: 
+Physics has long treated entropy as something derived from probability. 
+
+Obidi argues the opposite: 
+entropy comes first. Probability emerges from entropy; information emerges from probability; geometry emerges from information; reality emerges from geometry.  
+
+Entropy → Probability → Information → Geometry → Gravity → Matter  
+
+This inversion is motivated by the Second Law of Thermodynamics (SLoT). 
+
+If entropy universally governs physical evolution, perhaps probability is not the deepest concept. Perhaps entropy is the true organizing principle, with probability as its shadow.
+
+In ToE, entropy is elevated from descriptor to generator. Entropy does not describe reality—entropy produces reality.
+
+This is the real divide:  
+Matsueda asks whether gravity can emerge from information.  
+Obidi asks whether information itself can emerge from entropy.  
+
+One is information‑first.  
+The other is entropy‑first.  
+
+Both belong to a growing movement in physics seeking foundations deeper than matter, force, or spacetime.
+
+The next revolution may not come from discovering a new particle, but from discovering a new foundation. 
+
+If gravity is emergent, what is doing the emerging? 
+
+If information shapes reality, where does information come from?
+
+The most important question of the 21st century may no longer be what is the universe made of?  
+
+But rather: 
+what is more fundamental than spacetime itself?  
+
+Information?  
+Entropy?  
+
+Or something deeper still?
+
+We are fast approaching a point where physics must choose its first principle. The revolution ahead belongs to whichever framework isolates the genuine origin of reality—because everything else is just a projection.
+
+For Details:
+
+📚 Reference(s)
+
+GitHub Live Site (URL):
+The ToE Canonical Archives:
+https://lnkd.in/gnwMP-Py
+
+The ToE Live GitHub Gists (URL):
+https://lnkd.in/gS-zeNhg
