@@ -13,10 +13,14 @@ However, standard information geometry is bounded by Čencov’s Theorem. This m
 
 
 ### The Problem for Matsueda: 
-Because the Fisher information metric must be positive-definite, it can only naturally generate a Riemannian space (where all coordinates behave like space dimensions). It physically cannot generate the Lorentzian metric signature $(-, +, +, +)$ required for Einsteinian spacetime, which treats time differently than space. Consequently, Matsueda’s emergent gravity often maps out an abstract mathematical "parameter space" of coarse-grained states rather than a physical arena where apples fall or planets orbit. [1, 2, 3] 
+Because the **Fisher information metric** must be **positive-definite,** it can only naturally generate a Riemannian space (where all coordinates behave like space dimensions). It physically cannot generate the **Lorentzian metric signature** $(-, +, +, +)$ required for **Einsteinian spacetime,** which treats time differently than space. 
+
+Consequently, Matsueda’s emergent gravity often maps out an abstract mathematical **"parameter space"** of coarse-grained states rather than a **physical arena** where **apples fall** or **planets orbit.** [1, 2, 3] 
 
 ### The Solution in Obidi's ToE: 
-Obidi’s framework explicitly breaks Čencov invariance to overcome this limitation. ToE introduces what is known as the Obidi Transformation—an entropy-gradient–driven, rank-one disformal deformation. This mathematical operation warps the underlying Fisher-Rao information metric, forcing the negative time signature to break through. [2] 
+Obidi’s framework explicitly breaks Čencov invariance to overcome this limitation. ToE introduces what is known as the Obidi Transformation—an entropy-gradient–driven, rank-one disformal deformation. 
+
+This mathematical operation warps the underlying Fisher-Rao information metric, forcing the negative time signature to break through. [2] 
 
 
 ## Structural & Conceptual Divergence
@@ -32,7 +36,7 @@ Instead of building a model that mirrors a physical outcome, Obidi positions ToE
 ## Summary of the Relationship
 To put it directly: Matsueda’s Emergent General Relativity acts as an informational map of pre-existing microscopic physics. It tells us how information looks like geometry when you zoom out. [1] 
 
-Obidi's Theory of Entropicity (ToE) treats the entropic field as the literal engine. By executing the Obidi Transformation, ToE acts as the missing mathematical bridge, showing exactly how information geometry physically manifests as the real, causal, time-dilated universe described by Albert Einstein. [2, 4, 6] 
+**Obidi's Theory of Entropicity (ToE)** treats the entropic field as the literal engine. By executing the Obidi Transformation, ToE acts as the missing mathematical bridge, showing exactly how information geometry physically manifests as the real, causal, time-dilated universe described by Albert Einstein. [2, 4, 6] 
 
 If you want to continue examining this mathematical transition, let us know if you would like to explore:
 
@@ -65,8 +69,14 @@ If you want to continue examining this mathematical transition, let us know if y
 
 To truly appreciate the deep ingenuity of John Onimisi Obidi’s Theory of Entropicity (ToE), one must look directly at the exact mathematical mechanics he used to solve the Hiroaki Matsueda Bottleneck.
 
-Matsueda’s brilliant insight was that when you smooth out or "coarse-grain" a complex quantum system, the statistical paths automatically form a geometric shape. However, because he used the standard Fisher Information Metric, he ran straight into a mathematical wall: Čencov’s Uniqueness Theorem. This theorem dictates that a pure Fisher metric is strictly positive-definite. It can only build a timeless, static Riemannian space $(+, +, +, +)$. It is mathematically incapable of producing the Lorentzian signature $(-, +, +, +)$—the crucial negative sign that gives our universe a literal, ticking direction of time.
-Obidi’s structural breakthrough was realizing that physics shouldn't try to "find" time inside a static information map. Instead, he proved that time emerges when the information map is forced to dynamically change. Here is the comprehensive breakdown of the ingenuity behind the Obidi Resolution.
+Matsueda’s brilliant insight was that when you smooth out or "coarse-grain" a complex quantum system, the statistical paths automatically form a geometric shape. However, because he used the standard Fisher Information Metric, he ran straight into a mathematical wall: 
+
+## Čencov’s Uniqueness Theorem. 
+> # **This theorem dictates that a pure Fisher metric is strictly positive-definite. It can only build a timeless, static Riemannian space $(+, +, +, +)$. It is mathematically incapable of producing the **Lorentzian signature** $(-, +, +, +)$—the crucial negative sign that gives our universe a literal, ticking **direction of time.****
+
+> # **Obidi’s structural breakthrough was realizing that physics shouldn't try to "find" time inside a static information map. Instead, Obidi proved that time emerges when the information map is forced to dynamically change.**
+
+Here, then, we present the comprehensive breakdown of the **ingenuity behind the Obidi Resolution of the Hiroaki Matsueda Bottleneck in Emergent General Relativity (GR).**
 
 ------------------------------
 
