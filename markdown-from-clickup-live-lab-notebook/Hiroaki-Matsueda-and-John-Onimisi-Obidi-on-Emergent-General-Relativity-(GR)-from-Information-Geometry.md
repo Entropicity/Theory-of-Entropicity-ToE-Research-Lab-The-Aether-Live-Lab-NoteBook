@@ -1,10 +1,11 @@
 
-# Hiroaki Matsueda and John Onimisi Obidi on Emergent General Relativity (GR)
+# Hiroaki Matsueda and John Onimisi Obidi on Emergent General Relativity (GR) from Information Geometry 
 
-Hiroaki-Matsueda-and-John-Onimisi-Obidi-on-Emergent-General-Relativity-(GR).md
+Hiroaki-Matsueda-and-John-Onimisi-Obidi-on-Emergent-General-Relativity-(GR)-from-Information-Geometry.md 
 
 
 The 2013 paper you are referring to is titled ["Emergent General Relativity from Fisher Information Metric"](https://arxiv.org/abs/1310.1831) by the Japanese physicist Hiroaki Matsueda. [1, 2] 
+
 This work serves as a vital mathematical bridge and historical antecedent to modern "gravity from information" frameworks, including Obidi's Theory of Entropicity (ToE). [3, 4] 
 
 ## The Core Premise of the Paper
@@ -33,7 +34,9 @@ Consequently, gravity is shown to be an emergent **"entropic force".** The equat
 
 
 ## The Connection to Obidi's ToE
-Matsueda's paper is highly relevant to John Onimisi Obidi’s framework. Matsueda successfully demonstrated that a Fisher information manifold could yield an Einstein tensor. Obidi later builds heavily upon this concept by introducing the Obidi Transformation and Amari–Čencov $\alpha$-connections to bridge the gap between classical information geometry and actual causal, physical Lorentzian spacetimes. [2, 4, 7] 
+Matsueda's paper is highly relevant to John Onimisi Obidi’s framework. Matsueda successfully demonstrated that a Fisher information manifold could yield an Einstein tensor. 
+
+Obidi later builds heavily upon this concept by introducing the Obidi Transformation and Amari–Čencov $\alpha$-connections to bridge the gap between classical information geometry and actual causal, physical Lorentzian spacetimes. [2, 4, 7] 
 
 Would you like to examine the exact mathematical definition of the Fisher information metric Matsueda used, or see how his work aligns with the holographic principle and quantum entanglement?
 
