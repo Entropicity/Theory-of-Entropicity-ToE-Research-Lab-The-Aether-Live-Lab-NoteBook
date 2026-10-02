@@ -7,6 +7,18 @@ The Theory of Entropicity (ToE) is a radical framework in modern theoretical phy
 
 Instead of treating entropy as a secondary statistical measurement of disorder, ToE elevates it to an ontological scalar field substrate. In this framework, every familiar category of physics—such as matter, energy, and forces—is reinterpreted as a differentiated manifestation of this underlying entropic field. [1, 2] 
 
+To explore the conceptual foundations, dynamic implications, and mathematical motivations behind this post-Einsteinian paradigm shift, you can browse these comprehensive video guides:
+
+1)
+Source: Theory of Entropicity (ToE) https://share.google/IDo86XUINf87vVgUv
+
+2)
+Source: Theory of Entropicity (ToE) https://share.google/1Xii4OTYmo0g4Nga4
+
+3)
+Source: Theory of Entropicity (ToE) https://share.google/zuEgFg7MmOZjy5h89
+
+
 ## Core Paradigm: The Ontological State
 The theory introduces a philosophy termed **ontodynamics**—the **study of existence as entropic motion and negotiation**—and structures the state of the universe through several core concepts: [3] 
 
