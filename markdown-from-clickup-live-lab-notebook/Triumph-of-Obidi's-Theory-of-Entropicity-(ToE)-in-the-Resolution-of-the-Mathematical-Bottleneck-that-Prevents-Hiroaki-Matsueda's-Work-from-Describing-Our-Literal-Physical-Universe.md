@@ -1,6 +1,6 @@
-# Triumph of Obidi's Theory of Entropicity (ToE) in the Solution of the Mathematical Bottleneck that Prevents Hiroaki Matsueda's Work from Describing Our Literal, Physical Universe
+# Triumph of Obidi's Theory of Entropicity (ToE) in the Resolution of the Mathematical Bottleneck that Prevents Hiroaki Matsueda's Work from Describing Our Literal, Physical Universe
 
-Triumph-of-Obidi's-Theory-of-Entropicity-(ToE)-in-the-Solution-of-the-Mathematical-Bottleneck-that-Prevents-Hiroaki-Matsueda's-Work-from-Describing-Our-Literal-Physical-Universe.md
+Triumph-of-Obidi's-Theory-of-Entropicity-(ToE)-in-the-Resolution-of-the-Mathematical-Bottleneck-that-Prevents-Hiroaki-Matsueda's-Work-from-Describing-Our-Literal-Physical-Universe.md
 
 The **Theory of Entropicity (ToE)** is distinct from Hiroaki Matsueda's Emergent General Relativity framework. [1, 2] 
 While Hiroaki Matsueda's landmark paper, ["Emergent General Relativity from Fisher Information Metric"](https://arxiv.org/abs/1310.1831), provides a critical stepping stone in information gravity, Obidi's framework takes a fundamentally different direction to solve a mathematical bottleneck that prevents Matsueda's work from describing our literal, physical universe. [1, 2] 
