@@ -27,4 +27,4 @@ The general note, in the spirit of transparency:
 "Nothing happens instantaneously" is not really new physics. **Quantum speed limits (QSL) (Mandelstam–Tamm, 1945; Margolus–Levitin)** already bound how fast quantum states evolve, and **relativity already caps signal speed at c.** And that 2√(αβ) front speed? That's the **classical Fisher–KPP traveling-wave speed from 1937 population dynamics** — real math, but not Obidi's primal invention in that sense. 
 
 What's truly original in Obidi's No-Rush Theorem (NRT) is the packaging: 
-> # **One universal, field-driven principle — gated by ln 2, subsuming the Second Law — instead of several separate speed limits in different domains.**
+> # **One universal, field-driven principle — gated by ln 2, subsuming the Second Law of Thermodynamics (SLoT) — instead of several separate speed limits in different domains.**
