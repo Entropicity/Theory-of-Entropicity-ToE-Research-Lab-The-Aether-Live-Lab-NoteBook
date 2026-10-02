@@ -78,6 +78,12 @@ Matsueda’s brilliant insight was that when you smooth out or "coarse-grain" a 
 
 > # **Obidi’s structural breakthrough was realizing that physics shouldn't try to "find" time inside a static information map. Instead, Obidi proved that time emerges when the information map is forced to dynamically change.**
 
+> # **Obidi did not actually force a time dimension. He invented it by proving that "Time" is literally the physical direction in which the universe's background entropic field is reorganizing/redistributing/reordering/reconfiguring/dynamically changing.**
+>
+> # Time is infact a physical direction in the Entropic Field of the Theory of Entropicity (ToE).
+
+
+
 Here, then, we present the comprehensive breakdown of the **ingenuity behind the Obidi Resolution of the Hiroaki Matsueda Bottleneck in Emergent General Relativity (GR).**
 
 ------------------------------
