@@ -28,3 +28,35 @@ The general note, in the spirit of transparency:
 
 What's truly original in Obidi's No-Rush Theorem (NRT) is the packaging: 
 > # **One universal, field-driven principle — gated by ln 2, subsuming the Second Law of Thermodynamics (SLoT) — instead of several separate speed limits in different domains.**
+
+
+-----
+-----
+
+# Scholium 
+
+# Truth be told, it is clear that Obidi is attempting to present a fundamental single principle, by bringing many ideas under one unifying idea
+
+That's exactly what Obidi is embarking upon: his proverbial **Blitzkrieg Program (BP).** his **Philosophical Monism (PM)** That's **The monistic impulse (TMI)** — 
+> # **One principle, everything else a consequence. Entropy isn't one item on the menu; it's the kitchen.**
+
+And it's worth naming why that move is so seductive: 
+> # **it's the same ambition Einstein had. General Relativity (GR) is basically one principle (equivalence) plus geometry, and everything — time dilation, black holes, gravitational waves — falls out.
+
+### Obidi is trying to do the same with entropicity:
+> # **One postulate, and spacetime, quantum states, gravity, irreversibility, even the speed of light become theorems rather than assumptions.**
+
+But here's the thing about single-principle theories: they're all-or-nothing. 
+
+**A patchwork theory** can be half-right. 
+
+**A monistic one** can't borrow credibility piecemeal — either the one principle generates real, crisp, falsifiable consequences, or it's a beautiful redescription. 
+
+General Relativity (GR)'s single principle paid off immediately: 
+> # **Mercury's perihelion, the bending of starlight, things nobody else could explain. That's the bar.**
+
+> # **Obidi's Theory of Entropicity (ToE)'s version of that **Einstein Moment (EM)** is this — the prediction it makes that existing physics can't — hasn't arrived yet.**
+
+So our beginning read above is right, and it's also the sharpest lens for judging Obidi's Bold and Audacious Vision (OBAAV): 
+
+> # **Don't ask whether each reinterpretation is elegant. Ask whether the one principle *produces* anything (new).**
