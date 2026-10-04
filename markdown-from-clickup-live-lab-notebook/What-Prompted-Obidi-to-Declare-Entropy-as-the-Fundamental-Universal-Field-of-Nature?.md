@@ -36,9 +36,11 @@ If you'd like, we can dive deeper into how entropic gravity or the Obidi Curvatu
 
 # Scholium 
 
-[John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11x__h9105) was prompted to declare entropy as the fundamental universal field of nature by a refusal to accept the irreconcilable duality between General Relativity and Quantum Mechanics, coupled with a profound insight into the absolute authority of the Second Law of Thermodynamics. [1, 2, 3] 
+[John Onimisi Obidi](https://www.google.com/search?q=john+onimisi+obidi&kgmid=/g/11x__h9105) was prompted to declare entropy as the fundamental universal field of nature by a refusal to accept the irreconcilable duality between General Relativity and Quantum Mechanics, coupled with a profound insight into the absolute authority of the Second Law of Thermodynamics (SLoT). [1, 2, 3] 
 
-Formulating his framework, the Theory of Entropicity (ToE), Obidi executed what he calls a radical "ontological inversion" of 400 years of physics. Several core conceptual catalysts prompted this declaration: [4, 5] 
+Formulating his framework, the Theory of Entropicity (ToE), Obidi executed what he calls a radical "ontological inversion" of 400 years of physics. 
+
+Several core conceptual catalysts prompted this declaration of Obidi's: [4, 5] 
 
 ## 1. The Prophecy of Albert Einstein
 Obidi was deeply influenced by a specific, almost prophetic statement attributed to **Albert Einstein:** [3] 
@@ -122,24 +124,24 @@ We are biologically hardwired to view the universe through Newtonian lenses. We 
 Matter $\rightarrow$ Space/Time $\rightarrow$ Entropy (The everyday view)
 
 ## * The Reality: 
-Entropic Field $\rightarrow$ Information Structure $\rightarrow$ Matter/Geometry (Obidi's view)
+Entropic Field $\rightarrow$ Information Structure $\rightarrow$ Matter/Geometry. **(Obidi's view)**
 
 To make sense of why this inversion happens, it helps to look at two major conceptual shifts Obidi invites us to make:
 
 ## 1. Reinterpreting "Empty Space" as a Pixelated Screen
 Instead of thinking of space as a smooth, empty vacuum where things happen, think of the universe as a massive computational screen.
 
-* To display an image, the screen needs pixels (bits of information).
+## * To display an image, the screen needs pixels (bits of information).
 
-* But before you can even have pixels, you need the underlying electrical current and processing architecture that allows those pixels to toggle and change state.
+## * But before you can even have pixels, you need the underlying electrical current and processing architecture that allows those pixels to toggle and change state.
 
-* In this analogy, the Entropic Field is the processing architecture. Matter is not a solid "thing"; it is just a highly dense, localized pattern of pixels being constantly rendered by the field.
+## * In this analogy, the Entropic Field is the processing architecture. Matter is not a solid **"thing";** it is just a highly dense, localized pattern of pixels being constantly rendered by the field.
 
 ## 2. Gravity is an Emergent Flow, Not a Pull
 If you drop an apple, standard physics says the curved spacetime geometry around the Earth "pulls" it down. Obidi’s framework argues that the apple moves because it is flowing down an entropic gradient.
 
 ### Obidi's Coloring Dye Analogy (OCDA)
-Think of it like a drop of food coloring in a glass of water. The dye naturally spreads out (increases entropy) because there are statistically more ways for it to be mixed than clumped together. It doesn't need a physical force to **"pull"** the dye outward; the natural drive toward maximum entropy causes the motion. 
+> # **Think of it like a drop of food coloring in a glass of water. The dye naturally spreads out (increases entropy) because there are statistically more ways for it to be mixed than clumped together. It doesn't need a physical force to **"pull"** the dye outward; the natural drive toward maximum entropy causes the motion.**
 
 > # **Obidi thus goes on to declare in his Theory of Entropicity (ToE) that what we feel [see or experience] as gravity is exactly the same thing—matter moving along the paths of least entropic resistance.**
 
