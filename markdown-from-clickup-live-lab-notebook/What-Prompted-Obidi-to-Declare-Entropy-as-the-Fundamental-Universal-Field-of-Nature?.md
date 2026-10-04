@@ -14,7 +14,7 @@ Obidi was heavily inspired by Einstein’s view that entropy's irreversible char
 Conventional physics treats entropy as a statistical byproduct or derived descriptor of microstates or information. Obidi argued that because entropy's increase is universal and guaranteed by the second law, it must be ontologically prior to both information and spacetime itself. [2, 3] 
 
 ### The Analogy to Relativity: 
-Just as Einstein elevated the speed of light ($c$) to a universal constant defining spacetime architecture, Obidi sought to elevate entropy ($S$) to a dynamic, fundamental universal field ($S(x)$) from which space, time, matter, and gravity emerge as secondary consequences. [4, 5, 6] 
+Just as Einstein elevated the speed of light ($c$) to a universal constant defining spacetime architecture, Obidi sought to elevate entropy (S) to a dynamic, fundamental universal field ($S(x)$) from which space, time, matter, and gravity emerge as secondary consequences. [4, 5, 6] 
 
 If you'd like, we can dive deeper into how entropic gravity or the Obidi Curvature Invariant (OCI) ($\ln 2$) functions within the Theory of Entropicity (ToE).
 
