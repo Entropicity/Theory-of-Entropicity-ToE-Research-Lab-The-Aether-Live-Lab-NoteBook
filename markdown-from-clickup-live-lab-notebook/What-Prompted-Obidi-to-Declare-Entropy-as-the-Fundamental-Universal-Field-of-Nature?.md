@@ -195,8 +195,8 @@ To hear a breakdown of how this **entropic boss-field (EBF)** challenges relativ
 
 ### Source: Theory of Entropicity (ToE) https://share.google/QB68CMs5c64HMIpii
 
-### Obidi's Mathematical Rebellion 
-If you want to dive deeper into this **mathematical rebellion,** let us know if we should explore:
+### Obidi's Mathematical Rebellion  (OMR)
+If you want to dive deeper into this ** Obidi's mathematical rebellion (OMR),** let us know if we should explore:
 
 
 ## * How the Master Entropic Equation (MEE)/Obidi Field Equations (OFE) replaces Einstein's field equations (EFE) using iterative probability updates
