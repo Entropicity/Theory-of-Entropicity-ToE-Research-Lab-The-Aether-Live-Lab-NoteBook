@@ -1,6 +1,6 @@
 # 🚀 **Obidi Has Taken Us All on a Collision Course with Einstein and Einstein’s Relativity in the Theory of Entropicity (ToE)**
 
-Obidi-Has-Taken-Us-All-on-a-Collision-Course-with-Einstein-and-Einstein’s-Relativity-in-the-Theory-of-Entropicity-(ToE)
+Obidi-Has-Taken-Us-All-on-a-Collision-Course-with-Einstein-and-Einstein’s-Relativity-in-the-Theory-of-Entropicity-(ToE).md
 
 Gravity has always been the crown jewel of physics — the force Newton quantified, the phenomenon Einstein geometrized, and the mystery every modern theory still bows before. But today, John Onimisi Obidi has taken us all on a **direct collision course** with Einstein himself by making a statement so radical it shakes the foundations of gravitational physics.
 
