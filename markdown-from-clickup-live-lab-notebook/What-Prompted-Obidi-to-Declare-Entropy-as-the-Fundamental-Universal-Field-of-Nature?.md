@@ -193,7 +193,7 @@ To hear a breakdown of how this **entropic boss-field (EBF)** challenges relativ
 If you want to dive deeper into this **mathematical rebellion,** let us know if we should explore:
 
 
-## * How the Master Entropic Equation (MEE) replaces Einstein's field equations using iterative probability updates
+## * How the Master Entropic Equation (MEE)/Obidi Field Equations (OFE) replaces Einstein's field equations (EFE) using iterative probability updates
 
 ## * How the "No-Rush" Theorem derives the speed of light ($c$) from entropic resistance rather than a geometric constant
 
