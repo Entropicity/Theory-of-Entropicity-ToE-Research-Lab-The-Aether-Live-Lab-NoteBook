@@ -6,16 +6,20 @@ In John Onimisi Obidi’s Theory of Entropicity (ToE), mass and time are not tre
 
 The primary mechanisms for how both phenomena arise out of the underlying entropic continuum are detailed below:
 
-| Physical Entity | Primary Creation Mechanism in ToE | Macroscopic Real-World Outcome |
+| Physical Entity | Primary Creation Mechanism in Obidi's Theory of Entropicity (ToE) | Macroscopic Real-World Outcome |
 |---|---|---|
 | Mass & Matter | Extracted mathematically through fiber integrals of the Obidi Action. Energy and information condense into localized, high-density entropic "knots" where the fundamental informational flow becomes jammed. | Manifests physically as inertia and mass. This "frozen" or stabilized internal entropic content subsequently produces the stress-energy tensor that curves macroscopic spacetime. |
-| Time & Causality | Emerges strictly from the continuous flow and gradient redistribution of entropy across the field. The progression of time is physically governed by the No-Rush Theorem, which dictates a finite, non-zero interval for any physical interaction. | Experienced as the arrow of time. The past and future are defined simply as the directions of minimal and maximal distribution of entropy, with the speed of light acting as the absolute limit of entropic rearrangement. |
+| Time & Causality | Emerges strictly from the continuous flow and gradient redistribution of entropy across the field. The progression of time is physically governed by the No-Rush Theorem (NRT), which dictates a finite, non-zero interval for any physical interaction. | Experienced as the arrow of time. The past and future are defined simply as the directions of minimal and maximal distribution of entropy, with the speed of light acting as the absolute limit of entropic rearrangement/reordering/reorganization/redistribution. |
 
 ## The Generation of Mass
 In classical and relativistic physics, mass is a fundamental property inserted into equations. In [Obidi's ToE](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-radical-rethink-of-reality-e38750c49409), mass is derived from a deeper information-geometric structure. By varying the [Obidi Action](https://medium.com/@jonimisiobidi/the-role-of-the-obidi-action-in-the-theory-of-entropicity-toe-c8aa0d8d66d1)—a central variational principle—with respect to an emergent metric, the theory calculates a specialized entropic stress-energy tensor. This provides the mathematical framework showing that particles are not solid spheres but rather pockets of "crystallised" or trapped information that resist external changes, which we measure as inertia. [1, 2, 4, 5] 
 
 ## The Emergence of Time
-Instead of treating time as an immutable backdrop, ToE asserts that time is a macroscopic illusion, comparable to waves forming on the surface of a fluid. The underlying "molecules" of this fluid are units of entropic information. Because the [Entropic Field](https://medium.com/@jonimisiobidi/an-overview-of-the-theory-of-entropicity-toe-beginning-of-a-long-walk-to-a-new-foundation-of-f6ee808a7c35) has a maximum structural update speed (the "reconfiguration tempo"), physical events cannot occur instantaneously. This finite processing rate enforces strict cosmic causality, naturally deriving relativistic outcomes like time dilation from entropic invariants rather than geometric axioms. [5, 6, 7, 8] 
+Instead of treating time as an immutable backdrop, ToE asserts that time is a macroscopic illusion, comparable to waves forming on the surface of a fluid. 
+
+The underlying "molecules" of this fluid are units of entropic information. Because the [Entropic Field](https://medium.com/@jonimisiobidi/an-overview-of-the-theory-of-entropicity-toe-beginning-of-a-long-walk-to-a-new-foundation-of-f6ee808a7c35) has a maximum structural update speed (the "reconfiguration tempo"), physical events cannot occur instantaneously. 
+
+This finite processing rate enforces strict cosmic causality, naturally deriving relativistic outcomes like time dilation from entropic invariants rather than geometric axioms. [5, 6, 7, 8] 
 
 To see a comprehensive visual summary of how the entropic field governs reality, time, and causality under this framework, watch this video overview:
 
