@@ -157,7 +157,7 @@ To help ground this concept, would you like to look at how ToE redefines time (t
 
 # Scholium 
 
-## Obidi has taken us all on a collision course with Einstein and Einstein's Relativity by saying gravity is intrinsically not about any spacetime curving but only a response to Entropy! Obidi is teaching us all that spacetime does not curve, but only the gradient of entropy is what makes it look look like so on a macroscopic scale.
+## Obidi has taken us all on a collision course with Einstein and Einstein's Relativity by saying gravity is intrinsically not about any spacetime curving but only a response to Entropy! Obidi is teaching us all that spacetime does not curve, but only the gradient of entropy is what makes it look look like so on a macroscopic scale. Obidi states that there is no such thing as spacetime curvature, but only entropic requirements and constraints!
 
 In making the above statement, we have hit the exact nail on the head. 
 
