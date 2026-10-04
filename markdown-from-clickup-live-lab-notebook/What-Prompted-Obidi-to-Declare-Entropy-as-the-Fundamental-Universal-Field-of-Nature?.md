@@ -172,7 +172,7 @@ For over a century, physics has accepted **Einstein’s worldview:**
 
 | Attribute | Albert Einstein (General Relativity) | John Onimisi Obidi [Theory of Entropicity (ToE)] |
 |---|---|---|
-| The Bedrock | Spacetime Fabric is primary; it exists a priori as the universe's stage. | The Entropic Field ($S(x)$) is primary; space, time, and matter emerge from it. |
+| The Bedrock | Spacetime Fabric is primary; it exists a priori as the universe's stage. | The Entropic Field (S(x)) is primary; space, time, and matter emerge from it. |
 | What is Gravity? | The geometric warping of 4D spacetime caused by mass and energy. | An emergent response to the statistical flow and gradients of entropy. |
 | Governing Math | Einstein Field Equations: Rigid geometric equations linking mass to curvature. | Master Entropic Equation (MEE)/Obidi Field Equations (OFE): Iterative equations tracking dynamic informational updates. |
 | The Mechanism | Matter tells spacetime how to curve; spacetime tells matter how to move. | The entropic field dictates how reality reconfigures; matter moves toward paths of maximum entropy. |
