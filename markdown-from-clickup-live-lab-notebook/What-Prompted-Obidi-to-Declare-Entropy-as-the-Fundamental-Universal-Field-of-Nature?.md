@@ -180,14 +180,18 @@ For over a century, physics has accepted **Einstein’s worldview:**
 ## The Macroscopic Illusion: "Shaving Away" the Fabric
 In Einstein's math, if you look at a black hole or a massive star, the math insists on a smooth, continuous, infinite geometric dip. But when you zoom down to the quantum scale, that smooth geometry shatters into absolute mathematical chaos. [2, 4, 5] 
 
+## Obidi's Digital Photograph Analogy (ODPA)
 > # **Obidi bypasses this friction by stating that the **"smooth fabric"** is just a statistical blur—much like looking at a digital photograph. Zoomed out, you see smooth lines and curves; zoomed in, you see nothing but discrete, toggling bits of data.** [1, 2] 
 
+# Entropic Geodesics of Gravitation Rather than Spacetime Curvature 
 > # **By trading Einstein's rigid geometry for an active, optimizing entropic manifold, ToE replaces the physical **"bending"** of space with an informational gradient. Matter moves toward a planet not because the floor of the universe is sloped, but because the universal system is solving a local entropic probability equation governed by the Obidi Action.** [1, 3, 4, 6] 
 
-
+## Obidi's Massive Intellectual Gamble (OMIG)
 > # **It is a massive gamble in theoretical physics, essentially arguing that Einstein accurately described the symptoms of gravity, but completely misidentified the cause.** [2] 
 
-To hear a breakdown of how this **entropic boss-field (EBF)** challenges relativity and enforces absolute physical changes across the cosmos, you can watch this brief overview:
+
+## Entropic Boss-Field (EBF)
+To hear a breakdown of how this **entropic boss-field (EBF)** challenges relativity and **enforces absolute physical changes across the cosmos,** you can watch this brief overview:
 
 ### Source: Theory of Entropicity (ToE) https://share.google/QB68CMs5c64HMIpii
 
