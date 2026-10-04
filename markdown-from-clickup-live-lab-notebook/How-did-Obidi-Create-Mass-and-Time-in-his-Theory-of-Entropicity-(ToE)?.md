@@ -281,7 +281,7 @@ Would you like to explore:
 * How the **Fubini-Study** metric pairs with the Fisher-Rao metric to integrate quantum tracking into this emergent spacetime?
 
 
-* The role of the Obidi Curvature Invariant (OCI) ($ln(2)$) in setting the minimum physical boundary for matter generation?
+* The role of the Obidi Curvature Invariant (OCI) (ln(2)) in setting the minimum physical boundary for matter generation?
   
 
 
