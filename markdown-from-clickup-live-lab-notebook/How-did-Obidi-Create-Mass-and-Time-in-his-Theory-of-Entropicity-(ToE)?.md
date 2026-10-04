@@ -17,12 +17,20 @@ In classical and relativistic physics, mass is a fundamental property inserted i
 ## The Emergence of Time
 Instead of treating time as an immutable backdrop, ToE asserts that time is a macroscopic illusion, comparable to waves forming on the surface of a fluid. The underlying "molecules" of this fluid are units of entropic information. Because the [Entropic Field](https://medium.com/@jonimisiobidi/an-overview-of-the-theory-of-entropicity-toe-beginning-of-a-long-walk-to-a-new-foundation-of-f6ee808a7c35) has a maximum structural update speed (the "reconfiguration tempo"), physical events cannot occur instantaneously. This finite processing rate enforces strict cosmic causality, naturally deriving relativistic outcomes like time dilation from entropic invariants rather than geometric axioms. [5, 6, 7, 8] 
 
+To see a comprehensive visual summary of how the entropic field governs reality, time, and causality under this framework, watch this video overview:
+
+## Source: 
+Theory of Entropicity (ToE) https://share.google/NpRdA0wF7XepHC1Bu
+
+
 If you want to explore the mathematical or philosophical pillars further, let us know if you would like to:
 
 
 * Dive into the three geometric formalisms (Fisher-Rao, Fubini-Study, and Amari-Čencov alpha-connections) that build the entropic manifold.
 
-* Review how the Obidi Curvature Invariant ($ln(2)$) acts as the fundamental threshold for physical reality.
+
+* Review how the Obidi Curvature Invariant (ln(2)) acts as the fundamental threshold for physical reality.
+
 
 * Compare how ToE's framework contrasts with other emergent gravity theories.
   
