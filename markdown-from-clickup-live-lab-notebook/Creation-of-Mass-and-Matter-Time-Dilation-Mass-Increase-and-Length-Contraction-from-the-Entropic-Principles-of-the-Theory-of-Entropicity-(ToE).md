@@ -2,6 +2,9 @@
 
 Creation-of-Mass-and-Matter-Time-Dilation-Mass-Increase-and-Length-Contraction-from-the-Entropic-Principles-of-the-Theory-of-Entropicity-(ToE).md
 
+------
+------
+
 
 ### Theory of Entropicity (ToE) Resources:
 
@@ -14,6 +17,9 @@ Creation-of-Mass-and-Matter-Time-Dilation-Mass-Increase-and-Length-Contraction-f
 [Introducing Theory of Entropicity (ToE) Revolutionizing ...](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_obidis-foundational-physics-manifesto-and-activity-7445172122940813312-jo0K)
 
 [Theory of Entropicity (ToE): Path To Unification of Physics ...](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_theory-of-entropicity-toe-path-to-unification-activity-7428342142214778880-LnkT)
+
+------
+------
 
 In the [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/creation-and-generation-of-mass-and-matter-from-the-fiber-integrals-of-the-obidi-action-on-the-98cae21ea1a3) proposed by John Onimisi Obidi, mass is not a fundamental input of reality, but rather an emergent output created through fiber integrals of the Obidi Action applied to a foundational entropic field. [1] 
 
