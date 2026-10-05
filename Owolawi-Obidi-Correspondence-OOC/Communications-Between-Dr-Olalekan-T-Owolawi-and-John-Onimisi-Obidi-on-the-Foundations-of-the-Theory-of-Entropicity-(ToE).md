@@ -7,6 +7,44 @@ Communications-Between-Dr-Olalekan-T-Owolawi-and-John-Onimisi-Obidi-on-the-Found
 -----------
 -----------
 
+**Sunday 4th October, 2026:**
+
+
+# Discussions on the substrate and primal foundation of nature and the universe: Discussions on Energy, Time, Geometry.
+
+
+## From Owolawi to Obidi:
+
+**StarTalk** discussions between Chuck and Niel deGrasse Tyson (NDT) and on what it means for anything to be the substrate and foundation of the universe: Energy, Time, Geometry!
+
+[https://www.facebook.com/share/v/1a1R5sgQqZ/](https://www.facebook.com/share/v/1AoguWARDR/)
+
+[https://www.facebook.com/share/1G9pjFNyGb/](https://www.facebook.com/share/1G9pjFNyGb/)
+
+
+## From Obidi to Owolawi: 
+
+----
+The great Archimedes told us he could move the Earth — only if he was given a plank long enough with a point to stand on! 
+
+Ahahaha 
+
+
+ "Give me a place to stand, and I will move the Earth." (or  "The World")
+~ Archimedes of Syracuse
+
+----
+
+These guys are all having a good time discussing physics and the evolution of our universe! Ahahaha
+
+------
+
+If they say geometry exists prior to energy and time, or that the existence of energy and time means the existence of geometry.....I am troubled by what we even mean by that geometry; and it is such a disturbing question that has motivated me to declare in the formulation of my **Theory of Entropicity (ToE)** that geometry, in and of itself, must answer to entropy conceived as a fundamental universal field of nature.
+
+---------
+--------
+
+
 **Monday 31st August, 2026:**
 
 
