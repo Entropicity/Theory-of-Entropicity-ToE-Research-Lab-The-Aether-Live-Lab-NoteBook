@@ -63,7 +63,12 @@ Would you like to see how this Obidi's ToE reinterpretation alters other 1905 di
   \frac{\partial \rho(x,t)}{\partial t}
 = D\,\frac{\partial^2 \rho(x,t)}{\partial x^2}
   $$
-  
+
+$$
+\frac{\partial \rho(x,t)}{\partial t}
+= D\,\frac{\partial^2 \rho(x,t)}{\partial x^2}
+$$
+
 - Mean–square displacement
   \[
   \langle x^2(t)\rangle = 2Dt
