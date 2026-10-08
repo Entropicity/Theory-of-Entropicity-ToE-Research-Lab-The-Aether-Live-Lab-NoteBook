@@ -70,35 +70,36 @@ $$
 $$
 
 - Mean–square displacement
-  \[
+- 
+  $$
   \langle x^2(t)\rangle = 2Dt
-  \]
+  $$
 
-where \(\rho(x,t)\) is the probability density of the particle’s position and \(D\) is the diffusion constant.
+where $\(\rho(x,t)\)$ is the probability density of the particle’s position and \(D\) is the diffusion constant.
 
 Our job: derive these from ToE, without invoking “atoms hitting things,” only entropic dynamics.
 
 ---
 
-1. ToE setup: Brownian particle as an entropic knot in \(S(x)\)
+1. ToE setup: Brownian particle as an entropic knot in $\(S(x)\)$
 
 ToE principle 1 — Entropic Field:  
-Reality is a continuous field \(S(x)\) encoding local entropic content and curvature. “Particles” are entropic knots—localized regions where the field’s curvature is stabilized (by OCI).
+Reality is a continuous field \(S(x)\) encoding local entropic content and curvature. **“Particles”** are entropic knots—localized regions where the field’s curvature is stabilized (by OCI).
 
-We describe the Brownian particle by a probability density \(\rho(x,t)\) on the manifold:
+We describe the Brownian particle by a probability density $\(\rho(x,t)\)$ on the manifold:
 
-\[
+$$
 \int_{-\infty}^{\infty} \rho(x,t)\,dx = 1
-\]
+$$
 
 ToE principle 2 — Ontodynamics:  
-Motion is entropic reconfiguration. The evolution of \(\rho(x,t)\) is driven by the field’s tendency to minimize entropic cost.
+Motion is entropic reconfiguration. The evolution of $\(\rho(x,t)\)$ is driven by the field’s tendency to minimize entropic cost.
 
 We introduce an entropic functional (information entropy):
 
-\[
+$$
 \mathcal{S}[\rho] = -\int \rho(x,t)\,\ln \rho(x,t)\,dx
-\]
+$$
 
 This is the coarse‑grained entropy of the knot’s positional distribution.
 
@@ -109,106 +110,106 @@ This is the coarse‑grained entropy of the knot’s positional distribution.
 ToE principle 3 — Entropic Action:  
 The field chooses histories \(\rho(x,t)\) that minimize an entropic action:
 
-\[
+$$
 \mathcal{A}[\rho,J] = \int dt \int dx\; \mathcal{C}(\rho,J)
-\]
+$$
 
-where \(J(x,t)\) is the probability current and \(\mathcal{C}\) is the entropic cost density of transporting probability.
+where $\(J(x,t)\)$ is the probability current and $\(\mathcal{C}\)$ is the entropic cost density of transporting probability.
 
 We impose continuity (no creation/annihilation of the knot):
 
-\[
+$$
 \frac{\partial \rho}{\partial t} + \frac{\partial J}{\partial x} = 0
-\]
+$$
 
 ToE principle 4 — PoLER (Paths of Least Entropic Resistance):  
 The cost of moving probability is quadratic in the current, with resistance set by the local entropic metric:
 
-\[
+$$
 \mathcal{C}(\rho,J) = \frac{1}{2}\,\frac{J^2}{\Lambda(\rho)}
-\]
+$$
 
-where \(\Lambda(\rho)\) is an entropic “conductivity” (inverse resistance). Minimizing \(\mathcal{A}\) under the continuity constraint yields the constitutive relation between \(J\) and \(\rho\).
+where $\(\Lambda(\rho)\)$ is an entropic “conductivity” (inverse resistance). Minimizing $\(\mathcal{A}\)$ under the continuity constraint yields the constitutive relation between $\(J\) and $\(\rho\)$.
 
 We perform a constrained variation with a Lagrange multiplier \(\phi(x,t)\):
 
-\[
+$$
 \delta\left[
 \mathcal{A} + \int dt \int dx\;\phi\left(
 \frac{\partial \rho}{\partial t} + \frac{\partial J}{\partial x}
 \right)
 \right] = 0
-\]
+$$
 
-Variation w.r.t. \(J\):
+Variation w.r.t. $\(J\)$:
 
-\[
+$$
 \frac{\partial \mathcal{C}}{\partial J} + \frac{\partial \phi}{\partial x} = 0
 \quad\Rightarrow\quad
 \frac{J}{\Lambda(\rho)} + \frac{\partial \phi}{\partial x} = 0
-\]
+$$
 
 So:
 
-\[
+$$
 J = -\Lambda(\rho)\,\frac{\partial \phi}{\partial x}
-\]
+$$
 
 Variation w.r.t. \(\rho\) gives:
 
-\[
+$$
 \frac{\partial \mathcal{C}}{\partial \rho} + \frac{\partial \phi}{\partial t} = 0
-\]
+$$
 
-For the quadratic cost, \(\partial \mathcal{C}/\partial \rho\) depends only on \(\Lambda(\rho)\). In the linear regime relevant for Brownian motion, ToE assumes \(\Lambda(\rho)\) is constant:
+For the quadratic cost, $\(\partial \mathcal{C}/\parti\al \rho\)$ depends only on $\(\Lambda(\rho)\)$. In the linear regime relevant for Brownian motion, ToE assumes $\(\Lambda(\rho)) is constant:
 
-\[
+$$
 \Lambda(\rho) = D
-\]
+$$
 
 This is the entropic diffusivity—a property of the field–bath coupling.
 
 Then:
 
-\[
+$$
 J = -D\,\frac{\partial \phi}{\partial x}
-\]
+6
 
 Now use continuity:
 
-\[
+$$
 \frac{\partial \rho}{\partial t} + \frac{\partial J}{\partial x} = 0
 \quad\Rightarrow\quad
 \frac{\partial \rho}{\partial t} - D\,\frac{\partial^2 \phi}{\partial x^2} = 0
-\]
+$$
 
 To close this, ToE identifies \(\phi\) with the functional derivative of entropy:
 
-\[
+$$
 \phi(x,t) \propto \frac{\delta \mathcal{S}}{\delta \rho(x,t)} = -\ln \rho(x,t) - 1
-\]
+$$
 
 In the small‑gradient regime, \(\phi\) is locally linear in \(\rho\), and the leading term gives:
 
-\[
+$$
 \frac{\partial \phi}{\partial x} \propto \frac{\partial \rho}{\partial x}
-\]
+$$
 
 Absorbing proportionality constants into \(D\), we obtain:
 
-\[
+5$
 J = -D\,\frac{\partial \rho}{\partial x}
-\]
+$$
 
 Plugging back into continuity:
 
-\[
+$$
 \frac{\partial \rho}{\partial t}
 = -\frac{\partial}{\partial x}\left(-D\,\frac{\partial \rho}{\partial x}\right)
 = D\,\frac{\partial^2 \rho}{\partial x^2}
-\]
+$$
 
-This is exactly Einstein’s diffusion equation, now derived as the unique PoLER evolution of \(\rho\) under entropic action minimization in ToE.
+This is exactly Einstein’s diffusion equation, now derived as the unique PoLER evolution of $\(\rho\)$ under entropic action minimization in ToE.
 
 ---
 
@@ -216,52 +217,54 @@ This is exactly Einstein’s diffusion equation, now derived as the unique PoLER
 
 We now solve:
 
-\[
+$$
 \frac{\partial \rho}{\partial t}
 = D\,\frac{\partial^2 \rho}{\partial x^2}
-\]
+$$
 
-with initial condition \(\rho(x,0) = \delta(x)\) (knot localized at the origin).
+with initial condition \(\rho(x,0) = $\delta(x)\)$ (knot localized at the origin).
 
 The solution is the Gaussian:
 
-\[
+$$
 \rho(x,t) = \frac{1}{\sqrt{4\pi D t}}
 \exp\left(-\frac{x^2}{4Dt}\right)
-\]
+$$
 
 Compute the mean–square displacement:
 
-\[
+$$
 \langle x^2(t)\rangle
 = \int_{-\infty}^{\infty} x^2\,\rho(x,t)\,dx
 = \int_{-\infty}^{\infty} x^2\,
 \frac{1}{\sqrt{4\pi D t}}
 \exp\left(-\frac{x^2}{4Dt}\right)\,dx
-\]
+$$
 
 This standard Gaussian integral yields:
 
-\[
+$$
 \langle x^2(t)\rangle = 2Dt
-\]
+$$
 
 So Einstein’s central Brownian result emerges directly from ToE’s entropic action + PoLER, with no reference to mechanical atomic collisions.
 
 ---
 
-4. ToE identification of \(D\): entropic cost vs viscous drag
+4. ToE identification of $\(D\)$: entropic cost vs viscous drag
 
-Einstein related \(D\) to temperature \(T\), viscosity \(\eta\), and particle radius \(a\):
+Einstein related $\(D\)$ to temperature $\(T\)$, viscosity $\(\eta\)$, and particle radius $\(a\)$:
 
-\[
+$$
 D = \frac{k_B T}{6\pi \eta a}
-\]
+$$
 
 In ToE, this comes from matching entropic power to hydrodynamic dissipation:
 
-- The bath imposes an entropic “temperature” \(T\) as a Lagrange multiplier on \(\mathcal{S}[\rho]\).
-- The medium’s viscosity \(\eta\) and particle size \(a\) set the entropic resistance to reconfiguration.
+- The bath imposes an entropic “temperature” $\(T\)$ as a Lagrange multiplier on \(\mathcal{S}[\rho]\).
+
+- The medium’s viscosity \(\eta\) and particle size $\(a\)$ set the entropic resistance to reconfiguration.
+
 - Minimizing total entropic action (field + bath) yields a linear relation between current and gradient with coefficient \(D\) that matches the above.
 
 So Einstein’s empirical \(D\) is reinterpreted as the effective entropic conductivity of the knot through the surrounding field–bath system.
@@ -270,10 +273,10 @@ So Einstein’s empirical \(D\) is reinterpreted as the effective entropic condu
 
 5. Where ToE truly departs from Einstein
 
-- Einstein: \(\rho(x,t)\) encodes the position of a mechanical particle bombarded by atoms.
-- ToE: \(\rho(x,t)\) encodes the position of an entropic knot transported by the Entropic Field along PoLER trajectories, with diffusion emerging from entropic action minimization.
+- Einstein: $\(\rho(x,t)\)$ encodes the position of a mechanical particle bombarded by atoms.
+- ToE: $\(\rho(x,t)\)$ encodes the position of an entropic knot transported by the Entropic Field along PoLER trajectories, with diffusion emerging from entropic action minimization.
 
-But mathematically, the diffusion equation and \(\langle x^2\rangle = 2Dt\) are identical—ToE reproduces Einstein’s Brownian law as a special case of ontodynamic entropic flow.
+But mathematically, the diffusion equation and $\(\langle x^2\rangle = 2Dt\)$ are identical—ToE reproduces Einstein’s Brownian law as a special case of ontodynamic entropic flow.
 
 ---
 
