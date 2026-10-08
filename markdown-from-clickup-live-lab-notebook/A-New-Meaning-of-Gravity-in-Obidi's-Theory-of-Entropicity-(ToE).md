@@ -47,3 +47,73 @@ If you want to dig deeper into the formal framework, we can look at:
 [5] [https://medium.com](https://medium.com/@jonimisiobidi/basics-and-essentials-of-the-theory-of-entropicity-toe-a-new-ontological-foundation-for-the-c82f9b02cbb7)
 
 [6] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a1c8517810b9dcc82af489e)
+
+
+-----
+-----
+
+# Scholium 
+
+
+John Onimisi Obidi’s [Theory of Entropicity (ToE)](https://encyclopedia.pub/entry/59188) shifts physics from the study of objects moving through space to what he calls "ontodynamics"—the study of existence as entropic motion. [1, 2] 
+
+Instead of treating entropy as a passive measurement of disorder or ignorance, Obidi elevates it to the primary ontological field—the fundamental fabric from which space, time, matter, and gravity emerge. [1, 2, 3, 4] 
+
+## 1. The Core Machinery: The Obidi Action & MEE/OFE 
+In Einstein's General Relativity, gravity is governed by the Einstein-Hilbert Action. Obidi replaces this with the [Obidi Action](https://johnobidi.substack.com/p/authors-preface-and-methodological-ef9), a mathematical variational principle that treats entropy as a physical scalar field, written as S(x, t). [5, 6] 
+
+From this action comes the [Master Entropic Equation (MEE) Obidi Field Equations (OFE)](https://medium.com/@jonimisiobidi/what-is-the-master-entropic-equation-mee-of-the-theory-of-entropicity-toe-0d0711485969). The MEE/OFE dictates how entropy gradients and information-geometric fields ripple across the universe. Matter is not a separate entity throwing its weight around; matter is simply a highly localized "entropic condensation"—regions where information is tightly constrained. Gravity is the entropic field actively working to relax those constraints and restore balance. [3, 7, 8, 9] 
+
+## 2. The No-Rush Theorem: Redefining Cosmic Speed Limits
+In traditional physics, the speed of light (c) is treated as a magical, foundational postulate—an arbitrary speed limit built into the universe. Obidi’s framework derives c from something deeper. [10] 
+
+According to the [No-Rush Theorem](https://encyclopedia.pub/entry/58652), physical interactions happen through the redistribution of information across the entropic field. Because rearranging information takes a finite, non-zero amount of time, the field has a maximum processing and reconfiguration rate. Light is just the visible symptom of this cosmic processing speed. Nature cannot be rushed because reality itself cannot rearrange its underlying states instantly. [3, 11, 12] 
+
+## 3. Fusing Math with Information Geometry
+To construct this elegant universe, Obidi pulls from advanced mathematics like Information Geometry. Instead of using standard geometric coordinates, ToE unifies physical spacetime metrics with statistical metrics—specifically the Fisher–Rao and Fubini–Study metrics—under a single mathematical architecture called the Amari–Čencov α-connections. [2, 5, 8, 13] 
+
+| Concept | Einstein's General Relativity | Obidi's Theory of Entropicity (ToE) |
+|---|---|---|
+| Spacetime Fabric | A fundamental, preexisting primitive that can be warped. | A macroscopic illusion; a "shadow" cast by information states. |
+| Gravity's Cause | Matter tells spacetime how to curve; spacetime tells matter how to move. | "Entropy curves existence itself." Systems move along paths of least entropic resistance. |
+| Speed of Light (c) | An axiomatic universal constant postulated as a given. | The maximum architectural rate at which the entropic field can reorganize energy and information. |
+| Quantum Path Integrals | Feynman paths weighted purely by classical action. | The Vuli-Ndlela Integral: Paths weighted by classical action, gravitational entropy, and irreversible entropy flow. |
+
+By replacing the smooth, passive geometric fabric of relativity with a dynamic, self-organizing entropic field, Obidi's framework seeks to dissolve the boundary between the quantum world and cosmic gravity by grounding both in the absolute rule of information flow. [14] 
+
+Would you like to explore:
+
+* The mathematics behind the Vuli-Ndlela Integral and how it introduces time's arrow into quantum mechanics?
+
+* How ToE explains dark matter and dark energy as natural side effects of the entropic field's internal friction?
+
+* The specific experimental predictions Obidi proposes to test his theory against standard relativity?
+
+
+[1] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[2] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+[3] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[4] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[5] [https://papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632250)
+
+[6] [https://johnobidi.substack.com](https://johnobidi.substack.com/p/authors-preface-and-methodological-ef9)
+
+[7] [https://www.cambridge.org](https://www.cambridge.org/engage/coe/article-details/6900d89c113cc7cfff94ef3a)
+
+[8] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[9] [https://encyclopedia.pub](https://encyclopedia.pub/entry/59188)
+
+[10] [https://www.authorea.com](https://www.authorea.com/doi/10.22541/au.176236357.75572690)
+
+[11] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58652)
+
+[12] [https://medium.com](https://medium.com/@jonimisiobidi/an-overview-of-the-theory-of-entropicity-toe-beginning-of-a-long-walk-to-a-new-foundation-of-f6ee808a7c35)
+
+[13] [https://www.researchgate.net](https://www.researchgate.net/publication/399126552_Further_Expositions_on_the_Theory_of_Entropicity_ToE_and_Ginestra_Bianconi%27s_Gravity_from_Entropy_How_the_Theory_of_Entropicity_ToE_Unifies_Spectral_and_Araki_Entropies_with_Tsallis_Renyi_Fisher-Rao_F)
+
+[14] [https://www.researchgate.net](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi%27s_Formulation_of_the_Theory_of_Entropicity_ToE)
