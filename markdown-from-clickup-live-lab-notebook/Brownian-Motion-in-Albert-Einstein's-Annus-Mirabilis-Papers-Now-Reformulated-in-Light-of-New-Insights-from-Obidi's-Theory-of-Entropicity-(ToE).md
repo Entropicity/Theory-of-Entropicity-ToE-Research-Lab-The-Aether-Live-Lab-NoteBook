@@ -390,7 +390,7 @@ Einstein’s derivation assumes:
 
 1. A particle with a definite position  
 2. A heat bath made of atoms  
-3. Random collisions producing a displacement distribution \(f(\Delta)\)  
+3. Random collisions producing a displacement distribution $\(f(\Delta)\)$ 
 4. Convolution → diffusion equation  
 
 Obidi's Theory of Entropicity (ToE) derivation so far kept (1), (3), and (4) intact.  
@@ -408,14 +408,14 @@ Once you make that move, the derivation changes completely.
 
 THE ACTUAL ORIGINAL ToE DERIVATION: Brownian motion as curvature flow of the Entropic Field
 
-We begin with the Entropic Field \(S(x,t)\), a scalar field whose dynamics obey the ontodynamic law:
+We begin with the Entropic Field $\(S(x,t)\)$, a scalar field whose dynamics obey the ontodynamic law:
 
 $$
 \frac{\partial S}{\partial t}
 = -\frac{\delta \mathcal{C}[S]}{\delta S},
 $$
 
-where \(\mathcal{C}[S]\) is the entropic cost functional.  
+where $\(\mathcal{C}[S]\)$ is the entropic cost functional.  
 A Brownian particle is a localized curvature defect:
 
 $$
@@ -423,7 +423,7 @@ $$
 $$
 
 This is the first original ToE step:  
-\(\rho\) is not a probability density of a particle.  
+$\(\rho\)$ is not a probability density of a particle.  
 It is the localization profile of a curvature knot in the entropic manifold.
 
 ---
@@ -446,7 +446,7 @@ $$
 This is the heat equation for the Entropic Field, not for a particle.
 
 This is the second original ToE step:  
-Einstein’s diffusion equation is not assumed—it is the field equation for \(S\).
+Einstein’s diffusion equation is not assumed—it is the field equation for $\(S\)$.
 
 ---
 
@@ -482,7 +482,7 @@ $$
 \nabla\!\left(\nabla^{2} S\right).
 $$
 
-Now compute \(\nabla(\nabla^{2} S)\):
+Now compute $\(\nabla(\nabla^{2} S)\)$:
 
 $$
 \nabla(\nabla^{2} S)
@@ -528,7 +528,7 @@ F\cdot
 \nabla^{2}(\nabla S).
 $$
 
-But since \(F = \rho\), we get:
+But since $\(F = \rho\)$, we get:
 
 $$
 \frac{\partial \rho}{\partial t} =
@@ -542,7 +542,8 @@ $$
 
 Step 4 — Linearize around equilibrium
 
-In equilibrium, \(\nabla S\) is small and nearly constant.  
+In equilibrium, $\(\nabla S\)$ is small and nearly constant.  
+
 Linearizing:
 
 $$
@@ -602,30 +603,30 @@ we recover Einstein’s result, but now:
 
 ---
 
-What is original in ToE:
+## What is original in ToE:
 
-Einstein:
+### Einstein:
 Brownian motion = collisions of atoms with a particle.
 
-ToE:
+### ToE:
 Brownian motion = curvature diffusion of the Entropic Field, with the “particle” being a localized entropic knot.
 
-Einstein:
+### Einstein:
 Diffusion equation is derived from convolution of random displacements.
 
-ToE:
+### ToE:
 Diffusion equation is the field equation of $\(S(x)\)$ under entropic cost minimization.
 
-Einstein:
+### Einstein:
 $\(D\)$ depends on viscosity, temperature, particle size.
 
-ToE:
+### ToE:
 $\(D\)$ depends on the Obidi Curvature Invariant and the geometry of the entropic manifold.
 
-Einstein:
+### Einstein:
 Mean‑square displacement is a statistical result.
 
-ToE:
+### ToE:
 Mean-square displacement is a geometric consequence of curvature flow.
 
 ---
