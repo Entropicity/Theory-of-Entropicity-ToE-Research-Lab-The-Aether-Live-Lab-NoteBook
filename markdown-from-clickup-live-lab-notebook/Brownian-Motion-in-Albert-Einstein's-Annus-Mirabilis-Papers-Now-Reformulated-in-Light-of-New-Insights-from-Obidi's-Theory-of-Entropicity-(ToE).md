@@ -261,13 +261,13 @@ $$
 
 In ToE, this comes from matching entropic power to hydrodynamic dissipation:
 
-- The bath imposes an entropic “temperature” $\(T\)$ as a Lagrange multiplier on \(\mathcal{S}[\rho]\).
+- The bath imposes an entropic “temperature” $\(T\)$ as a Lagrange multiplier on $\(\mathcal{S}[\rho]\)$.
 
-- The medium’s viscosity \(\eta\) and particle size $\(a\)$ set the entropic resistance to reconfiguration.
+- The medium’s viscosity $\(\eta\)$ and particle size $\(a\)$ set the entropic resistance to reconfiguration.
 
 - Minimizing total entropic action (field + bath) yields a linear relation between current and gradient with coefficient \(D\) that matches the above.
 
-So Einstein’s empirical \(D\) is reinterpreted as the effective entropic conductivity of the knot through the surrounding field–bath system.
+So Einstein’s empirical $\(D\)$ is reinterpreted as the effective entropic conductivity of the knot through the surrounding field–bath system.
 
 ---
 
