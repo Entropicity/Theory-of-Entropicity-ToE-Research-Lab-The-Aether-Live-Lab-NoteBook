@@ -288,7 +288,7 @@ But mathematically, the diffusion equation and $\(\langle x^2\rangle = 2Dt\)$ ar
 
 ---
 
-# Formal Theory of Entropicity ToE Derivation of Einstein’s Brownian Motion Result
+# Formal Theory of Entropicity (ToE) Derivation of Einstein’s Brownian Motion Result
 
 Let $\rho(x,t)$ denote the coarse‑grained positional probability density of an entropic knot stabilized by the Obidi Curvature Invariant within the Entropic Field $S(x)$. 
 
