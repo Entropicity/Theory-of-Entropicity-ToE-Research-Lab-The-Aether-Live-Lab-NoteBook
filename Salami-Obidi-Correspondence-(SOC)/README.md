@@ -1,3 +1,1 @@
-Salami Obidi Correspondence (SOC)
-
-Salami-Obidi-Correspondence-(SOC).md
+In this markdown Volume, we have undertaken to preserve the Correspondence between **Engr. Isah Salami** and **John Onimisi Obidi** on the **Conceptual, Philosophical and Mathematical Foundations of Obidi's Theory of Entropicity (ToE), and especially on Obidi's Philosophy, how Obidi sees science and life as a whole, how Obidi creates a bridge between the physical and the spiritual as both being the science of God, whom Obidi holds to be both physical and spiritual, physical and metaphysical, natural and supernatural at once**
