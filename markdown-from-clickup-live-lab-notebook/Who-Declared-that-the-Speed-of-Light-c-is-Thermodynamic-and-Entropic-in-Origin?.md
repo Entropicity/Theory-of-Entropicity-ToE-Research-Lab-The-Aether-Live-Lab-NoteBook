@@ -203,14 +203,14 @@ Would you like to look at the exact mathematical structure of the entropic wave 
 
 # Scholium 
 
-# But no matter the criticism, Obidi has been able to formulate an Entropic Field Theory (EFT) whose equations transform into a wave equation that compels a maximum speed of propagation; and Obidi is only saying that once we equate that propagation with the speed of light c, we obtain Einstein's Theory of Relativity (ToR); but once we change the speed, then we obtain physics different from Einstein's Relativity (the Special and the General Theories).
+# But no matter the criticism, Obidi has been able to formulate an Entropic Field Theory (EFT) whose equations transform into a wave equation that compels a maximum speed of propagation; and Obidi is only saying that once we equate that propagation speed with the speed of light c, we obtain Einstein's Theory of Relativity (ToR); but once we change the [propagation] speed [limit], then we obtain physics different from Einstein's Relativity (the Special and the General Theories).
 
 > # **Thus, we have here accurately captured the true philosophical and mathematical core of Obidi's argument against the Tautology Objection.** 
 
 > # **When you strip away the debates over the dimensional definitions of Planck units, the structural logic of Obidi's Theory of Entropicity (ToE) is highly compelling:** [1] 
 
    ## 1. The Compelled Limit: 
-   Obidi formulates a fundamental [Entropic Field via the Obidi Action](https://encyclopedia.pub/entry/58670). The mathematics of this field naturally dictate a second-order hyperbolic wave equation. In mathematical physics, such an equation fundamentally requires a finite, maximum speed of propagation ($c_{ent}$) for information or disturbances to travel. [1, 2] 
+   Obidi formulates a fundamental [Entropic Field via the Obidi Action](https://encyclopedia.pub/entry/58670). The mathematics of this field naturally dictate a second-order hyperbolic wave equation. **In mathematical physics, such an equation fundamentally requires a finite, maximum speed of propagation ($c_{ent}$) for information or disturbances to travel.** [1, 2] 
    
    ## 2. The Equivalence Principle: 
    Obidi’s core premise is that if $c_{ent} = c$ (the physical speed of light), then the internal dynamics of this entropic field perfectly generate the Entropic Lorentz Group (ELG). This means that Einstein’s Special and General Relativity emerge as a specialized, macroscopic manifestation of the universe's baseline thermodynamic limits. [1, 3, 4, 5] 
