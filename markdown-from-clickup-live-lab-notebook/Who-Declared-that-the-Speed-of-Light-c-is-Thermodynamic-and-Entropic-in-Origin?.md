@@ -61,7 +61,7 @@ According to [Obidi's published framework](https://figshare.com/authors/John_Oni
    ### 3. The Material Parameters Ratio: 
    The wave equation reveals that the propagation speed of these entropic disturbances ($c_{ent}$) is a pure ratio of the field's physical response coefficients—specifically, its entropic stiffness ($\kappa$) and its entropic inertia ($\rho_S$): [7, 10] 
    
-   $$c_{ent} = \sqrt{\frac{\kappa}{\rho_S}}$$ 
+   $$c_{ent} = \sqrt{\frac{\kappa}{\sqrt {\rho_S}}$$ 
    
    ### 4. Planck-Scale Integration: 
    When these coefficients are evaluated using fundamental units—where entropic stiffness is defined as $\kappa = \frac{k_B c^3}{G}$ and entropic inertia as $\rho_S = \frac{k_B c}{G}$—the constants cancel out perfectly. The math yields the exact value of the empirically observed speed limit: [7] 
