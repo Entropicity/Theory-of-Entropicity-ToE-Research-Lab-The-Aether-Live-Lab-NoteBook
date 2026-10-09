@@ -66,3 +66,44 @@ The primary breakthrough attributed to these terms in the [Theory of Entropicity
 [2] [https://medium.com](https://medium.com/@jonimisiobidi/a-brief-history-of-the-theory-of-entropicity-toe-550a0fef7afe)
 
 [3] [https://entropicity.github.io](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/The-Theory-of-Entropicity-%28ToE%29-Living-Review-Letters-Series-Letter-IC-The-Alemoh-Obidi-Correspondence-%28AOC%29-U1_April-26-2026.pdf)
+
+
+-----
+-----
+
+# Scholium 
+
+# So Obidi is saying that the Entropic Field  has stiffness and inertia? How can this be? It feels counterintuitive, but it is nonetheless able to explain many phenomena
+
+It is completely natural that this feels counterintuitive. In classical physics, we think of "stiffness" and "inertia" as properties exclusive to solid, tangible matter—like a steel spring or a heavy bowling ball.
+
+However, John Onimisi Obidi’s framework shifts the perspective entirely: matter is not what possesses these properties; rather, these properties belong to an underlying informational substrate, and matter is just the ripple on top.
+
+To understand how a field of "entropy" (which we usually think of as just a measure of disorder) can have physical stiffness and inertia, it helps to look at two core concepts:
+
+## 1. Information Has "Weight" and Structure
+In modern physics (starting with Rolf Landauer and Claude Shannon), entropy is fundamentally tied to information. Every physical state contains a specific number of bits of information.
+
+### * Why it has Stiffness: 
+Think of a neat stack of coins. If you try to push a coin into the middle of the stack, you have to rearrange the other coins. In the Theory of Entropicity, rearranging or compressing information states takes effort. The "entropic field" resists being compressed or deformed because doing so forces a change in the local density of information. That resistance to rearrangement behaves exactly like mechanical stiffness.
+
+### * Why it has Inertia: 
+Inertia is a resistance to acceleration. In Obidi's framework, moving an object requires shifting its informational signature from one point in the entropic field to another. Because the field can only process and reconfigure these information states at a finite rate, it resists rapid changes. This delay or drag in rearranging information manifests as inertia.
+
+## 2. The Hydrodynamic Analogy
+If it still feels abstract, imagine the universe not as empty space, but as a dense, invisible fluid made entirely of statistical probabilities and microstates.
+Even though a fluid isn't a solid object, it can display structural properties:
+
+### * If you slap water hard, it resists you and feels momentarily stiff (like entropic stiffness).
+
+### * If you try to push a heavy paddle through water, the water takes time to move out of the way and clear a path (like entropic inertia).
+
+Obidi is arguing that "space" is actually a fluid-like thermodynamic network. What we call "mass" or "particles" are just localized vortexes or disturbances trapped in this network.
+
+## Why It Excites Physicists
+While it sounds radical, treating space and forces as thermodynamic properties actually resolves deep paradoxes. For decades, physics has been broken into two incompatible halves: Quantum Mechanics (the physics of information and particles) and General Relativity (the physics of smooth space and gravity).
+
+By proposing that stiffness and inertia belong to an entropic field, Obidi's theory attempts to build a bridge: it uses the math of information (quantum-adjacent) to naturally generate the geometric constraints of space and the speed of light (relativity-adjacent). It feels counterintuitive because it turns our everyday experience upside down—asserting that the invisible "nothingness" of space is actually the most rigid, structured thing in existence.
+
+To see this in action, would you like to explore how this stiffness and inertia creates the illusion of gravitational pull, or should we look at how it defines the boundaries of a black hole?
+
