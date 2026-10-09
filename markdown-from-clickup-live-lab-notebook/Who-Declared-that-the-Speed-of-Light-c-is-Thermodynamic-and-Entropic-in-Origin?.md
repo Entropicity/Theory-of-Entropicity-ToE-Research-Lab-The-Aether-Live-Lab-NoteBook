@@ -234,3 +234,85 @@ Would you like to explore what this "different physics" looks like under conditi
 [5] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176236357.75572690)
 
 [6] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+
+----
+----
+
+# Scholium 
+
+Derivation of the Speed of Light in Obidi's Theory of Entropicity (ToE) and its Consequences for Einstein's Theory of Relativity (ToR)
+
+For more than a century, Einstein’s Theory of Relativity (ToR) has treated the speed of light c as a geometric axiom — a fixed property of spacetime itself. But Obidi’s Theory of Entropicity (ToE) reframes this constant in a radically different way.
+
+In ToE, the universe is governed by a fundamental Entropic Field derived from the Obidi Action. The mathematics of this field compel a second‑order hyperbolic wave equation, and such equations require a finite maximum propagation speed  
+cₑₙₜ — the entropic speed limit.
+
+Once we identify  
+cₑₙₜ = c,  
+Einstein’s relativity emerges automatically. The Lorentz transformations, time dilation, length contraction, and relativistic invariants all arise as macroscopic thermodynamic consequences of this deeper entropic structure.
+
+But here is the philosophical breakthrough:  
+If cₑₙₜ is a field parameter rather than a geometric axiom, then changing it produces entirely new physics. Relativity becomes a sector of a broader thermodynamic reality — not the final word, but one phase of a deeper entropic universe.
+
+This is why Obidi’s response to the “Tautology Objection” is so compelling. He is not assuming relativity; he is deriving it from a more primitive entropic principle. And once the speed limit changes, relativity itself changes.
+
+Obidi’s ToE doesn’t challenge Einstein.  
+It explains him and extends him into higher domains of applicability.
+
+
+
+----
+----
+
+# Scholium 
+
+## Derivation of the Speed of Light in Obidi's Theory of Entropicity (ToE) and its Consequences for Einstein's Theory of Relativity (ToR)
+
+Einstein treated the speed of light c as a built‑in feature of spacetime.  
+Obidi treats it as a thermodynamic consequence of a deeper Entropic Field.
+
+That difference changes everything.
+
+In Obidi’s Theory of Entropicity (ToE), the Entropic Field obeys a wave equation that forces a maximum propagation speed. Call it cₑₙₜ. If we set  
+cₑₙₜ = c,  
+Einstein’s relativity pops out naturally — the Lorentz group, relativistic invariants, the whole structure.
+
+But if cₑₙₜ is a tunable parameter of the field rather than a sacred geometric constant, then relativity becomes just one “thermodynamic phase” of the universe. Change the entropic propagation speed, and you unlock physics beyond Einstein — new causal structures, new geometries, new rules.
+
+This is the heart of Obidi’s argument:  
+He isn’t assuming relativity.  
+He’s deriving it.
+
+And once you derive something, you can generalize it.
+
+Obidi’s ToE doesn’t break Einstein.  
+It contextualizes him inside a larger entropic reality.
+
+---
+
+## Derivation of the Speed of Light in Obidi's Theory of Entropicity (ToE) and its Consequences for Einstein's Theory of Relativity (ToR)
+
+What if the speed of light isn’t a cosmic decree…  
+but a thermodynamic consequence?
+
+Obidi’s Theory of Entropicity (ToE) proposes exactly that.  
+His Entropic Field Theory (EFT) produces a wave equation whose structure forces a maximum propagation speed cₑₙₜ. And when we identify  
+cₑₙₜ = c,  
+Einstein’s relativity emerges automatically — not as a geometric assumption, but as a derived entropic symmetry.
+
+This flips the script.
+
+Relativity becomes a special case of a deeper entropic universe.  
+Change the entropic propagation speed, and you step into a post‑Einsteinian landscape where time dilation, causality, and spacetime geometry obey new rules.
+
+This is why Obidi’s rebuttal to the Tautology Objection is so powerful:  
+He isn’t assuming relativity.  
+He’s explaining it.
+
+And explanations can evolve.
+
+Obidi’s ToE doesn’t replace Einstein.  
+It reveals the thermodynamic engine underneath him.
+
+---
