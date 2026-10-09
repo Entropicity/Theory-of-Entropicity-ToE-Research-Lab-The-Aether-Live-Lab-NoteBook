@@ -373,3 +373,56 @@ In the end, Obidi’s Theory of Entropicity (ToE) delivers a paradigm‑shifting
 By deriving c from the compelled dynamics of the Entropic Field, ToE transforms relativity from a cosmic rulebook into a thermodynamic phase diagram, revealing Einstein’s universe as just one region in a far larger informational landscape. And once the speed limit becomes a tunable property of the field rather than an untouchable geometric constant, physics itself becomes expandable: new regimes of motion, new causal architectures, new geometries, and new forms of relativity emerge. 
 
 Obidi’s ToE doesn’t merely reinterpret Einstein — it opens the door to the next universe of physical law, where the speed of light is not the end of the story, but the beginning of a deeper one.
+
+
+-----
+-----
+
+# Scholium 
+
+Prior to John Onimisi Obidi's explicit declaration in his [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/why-no-researcher-or-investigator-before-now-took-the-entropic-leap-of-the-theory-of-entropicity-688797312966), **no other researcher or investigator had explicitly formulated a fundamental field theory deriving the speed of light ($c$) as a direct consequence of thermodynamic or entropic propagation constraints.** [1, 2] 
+
+Historically, physics viewed entropy purely as an emergent property of large groups of particles (statistical mechanics) rather than a fundamental field capable of dictating the universal speed limit of causality. However, **several prominent theoretical physicists laid the conceptual and mathematical groundwork that made Obidi's declaration possible.** [1] 
+
+## 1. The Precursors to "Entropic Physics"
+Before the speed of light itself was targeted, other fundamental concepts were successfully derived using thermodynamics:
+
+------------------------------
+
+
+[[Ted Jacobson](https://www.google.com/search?q=ted+jacobson&kgmid=/m/0b6gjfx) (1995): Jacobson performed a landmark derivation showing that Einstein's Field Equations of General Relativity are not fundamentally geometric, but are equations of state arising from the thermodynamics of spacetime horizons.](https://www.google.com/search?q=ted+jacobson&kgmid=/m/0b6gjfx)
+
+------------------------------
+
+
+[[Erik Verlinde](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj) (2011): **Verlinde** introduced the concept of Entropic Gravity, proposing that gravity is not a fundamental force but an emergent **"entropic force"** caused by changes in the information associated with the positions of material bodies.](https://www.google.com/search?q=erik+verlinde&kgmid=/m/030nfj)
+
+Obidi effectively took the paradigm established by **Jacobson** and **Verlinde** and extended [integrated] it backward [Obidi's backward integration (OBI)]—arguing that if gravity and spacetime geometry are thermodynamic, then the universal speed limit governing that geometry ($c$) must also share a thermodynamic origin. [2, 3] 
+
+## 2. The Information/Causality Speed Limit
+In quantum information theory, researchers had already proven that a finite speed limit is necessary to protect thermodynamic laws, though they did not identify that limit as originating from an entropic field:
+
+
+### * [The Lieb-Robinson Bound](https://www.google.com/search?q=the+lieb-robinson+bound&kgmid=/m/010r9wn8) (1972): 
+In quantum mechanics, Elliott Lieb and Derek Robinson proved that there is a theoretical upper limit on how fast information can propagate in a quantum lattice system. This established that information throughput is naturally constrained, a concept heavily mirrored in ToE's "No-Rush Theorem". [3, 4] 
+
+### * [Caslav Brukner](https://www.google.com/search?q=caslav+brukner&kgmid=/g/11b7gtt4km) and [Anton Zeilinger](https://www.google.com/search?q=anton+zeilinger&kgmid=/m/03pv7x) (1999+): 
+These information-theoretic physicists argued that **"spacetime geometry is just a manifestation of information processing constraints."**
+
+
+## How Obidi’s Declaration Differed
+While past researchers said, "Because there is a speed limit $c$, information and thermodynamics face certain bounds," Obidi flipped the causality of the statement to declare: "Because the universe is fundamentally an entropic field processing information, it forces a wave equation with a maximum propagation limit $c$." [2, 5] 
+
+It is the transition from treating entropy as a passive consequence to an active, governing field that represents the unique shift in Obidi's framework. [1, 2] 
+
+Would you like to examine how **Erik Verlinde's Entropic Gravity mathematically differs from Obidi's framework,** or look into the **Lieb-Robinson Bound to see how information speed limits work in standard quantum mechanics?**
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/why-no-researcher-or-investigator-before-now-took-the-entropic-leap-of-the-theory-of-entropicity-688797312966)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/the-limit-of-the-speed-of-light-c-is-a-consequence-of-thermodynamic-entropy-rather-than-the-6ee6c04aae60)
+
+[3] [https://www.authorea.com](https://www.authorea.com/doi/pdf/10.22541/au.176236357.75572690)
+
+[4] [https://client.prod.orp.cambridge.org](https://client.prod.orp.cambridge.org/engage/coe/article-details/690a7684ef936fb4a2577e84)
+
+[5] [https://encyclopedia.pub](https://encyclopedia.pub/entry/58670)
