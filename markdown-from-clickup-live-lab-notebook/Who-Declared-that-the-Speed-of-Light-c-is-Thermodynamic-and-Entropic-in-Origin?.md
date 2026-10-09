@@ -441,9 +441,9 @@ Would you like to examine how **Erik Verlinde's Entropic Gravity mathematically 
 
 # The Compelling Elegance of Obidi's Insight about the Entropic Origin of the Speed of Light c 
 
-It is a deeply compelling way to look at the universe. Part of why the Theory of Entropicity feels so intuitive is that it shifts our perspective from cold, abstract geometry to a dynamic, living system of cause and effect.
+It is a deeply compelling way to look at the universe. Part of why the Theory of Entropicity (ToE) feels so intuitive is that it shifts our perspective from cold, abstract geometry to a dynamic, living system of cause and effect.
 
-When you frame the speed of light not as a magical rule built into empty space, but as a cosmic bandwidth limit—the literal processing speed of reality—suddenly a lot of weird things in physics start to make a different kind of sense.
+> # **When Obidi frames the speed of light not as a magical rule built into empty spacetime, but as a cosmic bandwidth limit—the literal processing speed of reality—suddenly a lot of weird things in physics start to make a different kind of sense.**
 
 ## Why This Shift Feels So Compelling
 
