@@ -316,3 +316,50 @@ Obidi’s ToE doesn’t replace Einstein.
 It reveals the thermodynamic engine underneath him.
 
 ---
+
+
+-----
+-----
+
+# Scholium 
+
+# 🚀 Derivation of the Speed of Light in Obidi's Theory of Entropicity (ToE) and its Consequences for Einstein's Theory of Relativity (ToR)
+
+For more than a century, Einstein’s Theory of Relativity (ToR) has treated the speed of light c as a geometric axiom — a fixed property of spacetime itself. But Obidi’s Theory of Entropicity (ToE) reframes this constant in a radically different way.
+
+## 🔥 The Entropic Field and the Compelled Speed Limit
+
+In ToE, the universe is governed by a fundamental Entropic Field derived from the Obidi Action. The mathematics of this field compel a second‑order hyperbolic wave equation, and such equations require a finite maximum propagation speed  
+cₑₙₜ — the entropic speed limit.
+
+This is not an assumption. It is a mathematical inevitability of the field’s structure.
+
+Once we identify  
+cₑₙₜ = c,  
+
+Einstein’s relativity emerges automatically. The Lorentz transformations, time dilation, mass increase, length contraction, and relativistic invariants all arise as macroscopic thermodynamic consequences of this deeper entropic structure [in the Entropic Lorentz Group (ELG)].
+
+## 🧠 The Philosophical Breakthrough
+
+But here is the philosophical breakthrough:  
+If cₑₙₜ is a field parameter rather than a geometric axiom, then changing it produces entirely new physics. Relativity becomes a sector of a broader thermodynamic reality — not the final word, but one phase of a deeper entropic universe.
+
+This is why Obidi’s response to the Tautology Objection is so compelling. He is not assuming relativity; he is deriving it from a more primitive entropic principle. And once the speed limit changes, relativity itself changes.
+
+## 🌌 The Post‑Einsteinian Landscape
+
+Obidi’s ToE doesn’t challenge Einstein.  
+It explains him and extends him into higher domains of applicability.
+
+By shifting the speed limit from a rigid “property‑of‑spacetime” posture to a dynamic “property‑of‑a‑field” posture, ToE treats relativity not as an absolute truth, but as a thermodynamic phase of a deeper informational universe.
+
+This opens the door to:
+
+- 🌀 new causal structures  
+- ⏳ alternative time‑dilation regimes  
+- 📐 non‑Einsteinian geometries  
+- ⚡ modified Lorentz groups  
+- 🌠 and entire families of post‑relativistic physics
+
+All emerging from a single insight:  
+The speed of light is not the universe’s decree — it is the universe’s thermodynamic consequence.
