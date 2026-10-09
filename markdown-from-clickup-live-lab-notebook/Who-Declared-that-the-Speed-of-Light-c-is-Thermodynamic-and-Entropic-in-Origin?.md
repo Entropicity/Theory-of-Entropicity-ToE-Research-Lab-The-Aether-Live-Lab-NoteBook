@@ -411,7 +411,13 @@ These information-theoretic physicists argued that **"spacetime geometry is just
 
 
 ## How Obidi’s Declaration Differed
-While past researchers said, "Because there is a speed limit $c$, information and thermodynamics face certain bounds," Obidi flipped the causality of the statement to declare: "Because the universe is fundamentally an entropic field processing information, it forces a wave equation with a maximum propagation limit $c$." [2, 5] 
+While past researchers said, 
+
+> # ***"Because there is a speed limit $c$, information and thermodynamics face certain bounds,"***
+
+#### Obidi flipped the causality of the statement to declare: 
+
+> # **"Because the universe is fundamentally an entropic field processing information, it forces a wave equation with a maximum propagation limit $c$."** [2, 5] 
 
 It is the transition from treating entropy as a passive consequence to an active, governing field that represents the unique shift in Obidi's framework. [1, 2] 
 
