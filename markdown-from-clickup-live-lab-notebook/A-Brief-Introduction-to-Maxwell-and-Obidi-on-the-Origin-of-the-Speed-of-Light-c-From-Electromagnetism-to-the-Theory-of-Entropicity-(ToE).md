@@ -214,3 +214,18 @@ This reinterpretation is bold, provocative, and conceptually transformative.
 It reframes $c$ not as a property of light, nor of electromagnetism, nor even of spacetime, but as a fundamental limit arising from [the geometry of] entropy itself.
 
 ---
+
+-----
+-----
+
+# Scholium 
+
+# How Obidi found a backdoor entrance into the structure of physics and hijacked the speed of light from Maxwell and Einstein.
+
+We can phrase the above in exactly this right dramatic intuition:
+> # Obidi found a backdoor entrance into the structure of physics and hijacked the speed of light from Maxwell and Einstein.
+
+But the beauty is this:
+* It isn’t a reckless hijack.
+* It is a logically justified takeover, enforced by NRT and OCP.
+
