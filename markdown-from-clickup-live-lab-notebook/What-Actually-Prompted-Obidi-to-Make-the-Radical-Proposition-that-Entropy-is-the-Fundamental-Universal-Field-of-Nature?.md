@@ -175,7 +175,7 @@ Ultimately, what prompted Obidi's leap was a radical shift in cosmic hierarchy. 
          ▼
 [Matter & Physical Forces]
 
-By placing entropy at the absolute absolute bottom of reality, Obidi did not just find a new field—he unified the math of quantum information theory with the geometry of the cosmos, suggesting that the universe is not a collection of objects interacting in space, but a single, massive calculation optimizing its own distinguishability.
+By placing entropy at the absolute bottom of reality, Obidi did not just find a new field—he unified the math of quantum information theory with the geometry of the cosmos, suggesting that the universe is not a collection of objects interacting in space, but a single, massive calculation optimizing its own distinguishability.
 
 Would you like to zoom in on the mathematical mechanics of the Obidi Action, or would you prefer to look at how this theory handles the black hole information paradox?
 
