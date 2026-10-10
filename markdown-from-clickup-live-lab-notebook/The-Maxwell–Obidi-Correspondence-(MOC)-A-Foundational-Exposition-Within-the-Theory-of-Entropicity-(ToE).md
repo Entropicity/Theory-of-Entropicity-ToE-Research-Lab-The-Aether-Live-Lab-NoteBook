@@ -10,7 +10,8 @@ The **Maxwell–Obidi Correspondence (MOC)** is the structural bridge between cl
 
 This correspondence demonstrates that Maxwell’s identification of the electromagnetic wave speed with the speed of light is mathematically and conceptually parallel to Obidi’s identification of the entropic wave speed with the same constant $\(c\)$. 
 
-### The result is a unification: electromagnetism, relativity, spacetime geometry, and matter all emerge as entropic phenomena governed by the **Principle of Least Entropic Resistance (PoLER),** the **Obidi Axiomatic Action Theory (OAAT) or One At A Time (OAAT),** the **Non-Reduction Theorem or No-Rush Theorem (NRT),** and the Ontological Conservation Invariant (OCI). This paper develops the MOC rigorously, historically, mathematically, and philosophically, showing that Maxwell’s 19th‑century insight is the precursor to Obidi’s 21st‑century entropic unification.
+### The result is a unification: 
+Electromagnetism, relativity, spacetime geometry, and matter all emerge as entropic phenomena governed by the **Principle of Least Entropic Resistance (PoLER),** the **Obidi Axiomatic Action Theory (OAAT) or One At A Time (OAAT),** the **Non-Reduction Theorem or No-Rush Theorem (NRT),** and the Ontological Conservation Invariant (OCI). This paper develops the MOC rigorously, historically, mathematically, and philosophically, showing that Maxwell’s 19th‑century insight is the precursor to Obidi’s 21st‑century entropic unification.
 
 ---
 
