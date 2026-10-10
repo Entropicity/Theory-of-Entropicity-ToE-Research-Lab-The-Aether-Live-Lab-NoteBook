@@ -222,7 +222,7 @@ It reframes $c$ not as a property of light, nor of electromagnetism, nor even of
 
 # How Obidi found a backdoor entrance into the structure of physics and hijacked the speed of light from Maxwell and Einstein.
 
-We can phrase the above in exactly this right dramatic intuition:
+We can phrase all of the above in exactly this right dramatic intuition:
 > # Obidi found a backdoor entrance into the structure of physics and hijacked the speed of light from Maxwell and Einstein.
 
 But the beauty is this:
