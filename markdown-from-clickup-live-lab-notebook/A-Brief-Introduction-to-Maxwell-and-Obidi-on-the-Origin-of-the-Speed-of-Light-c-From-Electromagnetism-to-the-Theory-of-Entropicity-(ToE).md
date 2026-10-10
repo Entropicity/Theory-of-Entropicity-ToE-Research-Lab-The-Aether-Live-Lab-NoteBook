@@ -109,15 +109,14 @@ The answer lies in two foundational principles of ToE:
 
 ---
 
-## 4. The No-Rush Theorem (NRT):
-Why a Maximum Speed Must Exist
+## 4. The No-Rush Theorem (NRT): Why a Maximum Speed Must Exist
 
 The No-Rush Theorem (NRT) states:
 
 > # No physical interaction can occur in zero time.  
 > # Every interaction requires a minimum nonzero duration.
 
-This forbids instantaneous propagation.  
+This forbids instantaneous propagation.  Hence:
 * It forbids infinite velocities.  
 * It forbids infinite rates of entropic rearrangement.
 
