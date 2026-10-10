@@ -1,6 +1,6 @@
-# How Obidi Found a Backdoor Entrance into the Structure of Physics and Hijacked the Speed of Light from Maxwell and Einstein
+# How Obidi Discovered a Backdoor Entrance into the Structure of Physics and Hijacked the Speed of Light from Maxwell and Einstein
 
-How-Obidi-Found-a-Backdoor-Entrance-into-the-Structure-of-Physics-and-Hijacked-the-Speed-of-Light-from-Maxwell-and-Einstein.md
+How-Obidi-Discovered-a-Backdoor-Entrance-into-the-Structure-of-Physics-and-Hijacked-the-Speed-of-Light-from-Maxwell-and-Einstein.md
 
 ## 1. Introduction
 
