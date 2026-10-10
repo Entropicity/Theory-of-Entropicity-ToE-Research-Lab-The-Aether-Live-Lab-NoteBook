@@ -81,7 +81,7 @@ It is an empirical discovery, not a theoretical preference.
 
 ---
 
-3. The Entropic Wave Equation in the Theory of Entropicity (ToE)
+## 3. The Entropic Wave Equation in the Theory of Entropicity (ToE)
 
 In Obidi’s Theory of Entropicity (ToE), the entropic field $S$ describes the geometry and dynamics of the entropic manifold.  
 
@@ -109,7 +109,7 @@ The answer lies in two foundational principles of ToE:
 
 ---
 
-4. The No-Rush Theorem (NRT):
+## 4. The No-Rush Theorem (NRT):
 Why a Maximum Speed Must Exist
 
 The No-Rush Theorem (NRT) states:
@@ -139,7 +139,7 @@ It is the fastest possible rate at which entropy can rearrange, redistribute, re
 
 ---
 
-5. The Obidi Correspondence Principle (OCP):
+## 5. The Obidi Correspondence Principle (OCP):
 Why the Maximum Speed Must Equal $c$
 
 The Obidi Correspondence Principle (OCP) states:
@@ -169,7 +169,7 @@ $$
 
 ---
 
-6. The Audacious Reinterpretation of $c$
+## 6. The Audacious Reinterpretation of $c$
 
 With NRT forcing a maximum speed and OCP forcing compatibility with known physics, Obidi makes the provocative declaration:
 
