@@ -2,6 +2,7 @@
 
 The-Maxwell–Obidi-Correspondence-(MOC)-A-Foundational-Exposition-Within-the-Theory-of-Entropicity-(ToE).md
 
+
 ---
 
 ## Abstract
@@ -229,7 +230,7 @@ The result is a new scientific synthesis:
 
 
 
-Part II. Mathematical derivations and formal proofs of the Maxwell–Obidi correspondence
+# Part II. Mathematical derivations and formal proofs of the Maxwell–Obidi correspondence
 
 In this part, the Maxwell–Obidi Correspondence (MOC) is established in explicit mathematical form. We proceed in two parallel tracks:
 
@@ -246,7 +247,7 @@ and to show that this equality is not accidental but structurally enforced by th
 
 ---
 
-II.1 Maxwell’s derivation of the electromagnetic wave speed
+## II.1 Maxwell’s derivation of the electromagnetic wave speed
 
 We begin with Maxwell’s equations in vacuum (no charges, no currents):
 
@@ -341,7 +342,7 @@ which matches the measured speed of light. Maxwell’s conceptual move was to re
 
 ---
 
-### II.2 The entropic field and the Obidi Action in ToE
+## II.2 The entropic field and the Obidi Action in ToE
 
 The Theory of Entropicity (ToE) elevates entropy $S(x)$ to a fundamental, dynamical field defined over an entropic manifold $\mathcal{M}$. The entropic field is not a derived statistical quantity but the primary ontological substrate from which geometry, matter, and physical laws emerge. The canonical formulation introduces:
 
@@ -353,13 +354,13 @@ In the foundational works, the Obidi Action is constructed from information-geom
 
 At the core of ToE is the statement that the speed of light $c$ is the maximum rate of entropic rearrangement. In the Authorea formulation, this is expressed as:
 
-> The Theory of Entropicity (ToE) reformulates the speed of light $c$ as the maximum rate of entropic re-arrangement, deriving relativistic and quantum phenomena as constraints imposed by finite entropy propagation.
+> # **The Theory of Entropicity (ToE) reformulates the speed of light $c$ as the maximum rate of entropic re-arrangement, deriving relativistic and quantum phenomena as constraints imposed by finite entropy propagation.**
 
 This means that $c$ is not merely the speed of electromagnetic waves in vacuum, but the universal upper bound on how fast entropy can reorganize itself across the entropic manifold. The No-Rush Theorem further establishes a universal time-limit to all interactions, reinforcing the idea that finite entropic propagation imposes causal and temporal constraints.
 
 ---
 
-II.3 The entropic wave equation and propagation limit
+## II.3 The entropic wave equation and propagation limit
 
 From the Obidi Action and the information-geometric structure, one obtains the Master Entropic Equation (MEE), which governs the dynamics of the entropic field $S(x)$. In its simplest schematic form, the MEE/OFE can be written as a second-order differential equation on the entropic manifold:
 
@@ -411,7 +412,7 @@ This identification is not imposed externally but emerges from the requirement t
 
 ---
 
-### II.4 Emergent electromagnetism as an entropic excitation
+## II.4 Emergent electromagnetism as an entropic excitation
 
 To establish the Maxwell–Obidi Correspondence, we must show that the electromagnetic field is an emergent excitation of the entropic manifold and that its wave equation is a projection of the entropic wave equation.
 
@@ -441,67 +442,69 @@ Thus, the electromagnetic wave equation is not fundamental but a special case of
 
 ---
 
-### II.5 Formal statement of the Maxwell–Obidi correspondence
+## II.5 Formal statement of the Maxwell–Obidi correspondence
 
 We can now state the Maxwell–Obidi Correspondence (MOC) in a more formal way.
 
 Consider:
 
-1. Maxwell’s electromagnetic wave equation in vacuum:
+---------
 
-   $$
-   \nabla^2 \mathbf{E} = \mu0 \varepsilon0 \frac{\partial^2 \mathbf{E}}{\partial t^2}.
-   $$
+### 1. Maxwell’s electromagnetic wave equation in vacuum:
+
+$$
+   \nabla^2 \mathbf{E} = \mu_0 \varepsilon_0 \frac{\partial^2 \mathbf{E}}{\partial t^2}
+$$
 
    Comparing with the universal wave equation,
 
    $$
-   \nabla^2 \psi = \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2},
+   \nabla^2 \psi = \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2}
    $$
 
    yields
 
    $$
-   \mu0 \varepsilon0 = \frac{1}{v^2}, \quad v = \frac{1}{\sqrt{\mu0 \varepsilon0}} = c.
+   \mu_0 \varepsilon_0 = \frac{1}{v^2}, \quad v = \frac{1}{\sqrt{\mu_0 \varepsilon_0}} = c
    $$
 
-2. The ToE entropic wave equation for small disturbances $\delta S$:
+### 2. The ToE entropic wave equation for small disturbances $\delta S$:
 
-   $$
-   \nabla^2 \delta S(x) = \frac{1}{c_e^2} \frac{\partial^2 \delta S(x)}{\partial t^2},
-   $$
+$$
+   \nabla^2 \delta S(x) = \frac{1}{c_e^2} \frac{\partial^2 \delta S(x)}{\partial t^2}
+$$
 
    which is structurally identical to the universal wave equation with
 
    $$
-   \frac{1}{v^2} = \frac{1}{ce^2}, \quad v = ce.
+   \frac{1}{v^2} = \frac{1}{c_e^2}, \quad v = c_e
    $$
 
-3. The ToE identification of $c$ as the maximum rate of entropic rearrangement:
+### 3. The ToE identification of $c$ as the maximum rate of entropic rearrangement:
 
-   $$
-   c_e = c.
-   $$
+$$
+   c_e = c
+$$
 
-4. The emergence of electromagnetism as a gauge sector of the entropic manifold, whose wave equation inherits the same propagation limit $c$.
+### 4. The emergence of electromagnetism as a gauge sector of the entropic manifold, whose wave equation inherits the same propagation limit $c$.
 
 Putting these together, we obtain:
 
 $$
-\text{EM wave speed} = \frac{1}{\sqrt{\mu0 \varepsilon0}} = c = c_e = \text{entropic propagation speed}.
+\text{EM wave speed} = \frac{1}{\sqrt{\mu_0 \varepsilon_0}} = c = c_e = \text{entropic propagation speed}
 $$
 
 The correspondence is therefore:
 
 $$
-\mu0 \varepsilon0 = \frac{1}{c^2} = \frac{1}{c_e^2},
+\mu_0 \varepsilon_0 = \frac{1}{c^2} = \frac{1}{c_e^2}
 $$
 
 and the electromagnetic wave equation is a special case of the entropic wave equation.
 
 ---
 
-### II.6 Prelim Proof: $c$ as entropic invariant and relativistic invariant
+## II.6 Prelim Proof: $c$ as entropic invariant and relativistic invariant
 
 A more conceptual proof of the MOC proceeds by showing that the same constant $c$ appears:
 
@@ -525,7 +528,7 @@ This triple identification is the heart of the Maxwell–Obidi Correspondence.
 
 ---
 
-### II.7 Remarks on consistency with ToE acronyms and structures
+## II.7 Remarks on consistency with ToE acronyms and structures
 
 In this part, care has been taken to align with the canonical ToE terminology and structures as presented in the official GitHub archive, Living Review Letters, and monographs:
 
@@ -538,11 +541,11 @@ In this part, care has been taken to align with the canonical ToE terminology an
 
 ---
 
-II.8 Outlook toward Part III
+## II.8 Outlook toward Part III
 
 With the mathematical structure of the Maxwell–Obidi Correspondence established, the next natural step is to explore its historical and philosophical foundations, and to situate MOC within the broader landscape of entropic gravity, emergent spacetime, and unification programs.
 
-Part III will therefore address:
+## Part III will therefore address:
 
 - The historical trajectory from Maxwell’s unification of electromagnetism and optics to Obidi’s unification of entropy, geometry, and fields.
 - The philosophical implications of treating entropy as ontologically primary.
