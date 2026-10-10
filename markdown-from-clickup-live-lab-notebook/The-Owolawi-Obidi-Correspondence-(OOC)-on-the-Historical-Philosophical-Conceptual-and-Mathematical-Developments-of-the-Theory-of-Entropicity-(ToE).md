@@ -5,7 +5,7 @@ The-Owolawi-Obidi-Correspondence-(OOC)-on-the-Historical-Philosophical-Conceptua
 ## In Place of an Introduction 
 The **Owolawi-Obidi-Correspondence (OOC)**  refers to a foundational intellectual exchange between **Dr. Olalekan T. Owolawi** and the physics researcher **John Onimisi Obidi.**
 
-According to published preprints and research monographs within The Theory of Entropicity (ToE) Living Review Letters Series, this specific correspondence is credited as the initial spark or foundation that led to the development of the Theory of Entropicity (ToE).
+According to published preprints and research monographs within The Theory of Entropicity (ToE) Living Review Letters Series (ToE LRLS), this specific correspondence is credited as the initial spark or foundation that led to the development of the Theory of Entropicity (ToE).
 
 
 ## Key Context & Theoretical Framework
