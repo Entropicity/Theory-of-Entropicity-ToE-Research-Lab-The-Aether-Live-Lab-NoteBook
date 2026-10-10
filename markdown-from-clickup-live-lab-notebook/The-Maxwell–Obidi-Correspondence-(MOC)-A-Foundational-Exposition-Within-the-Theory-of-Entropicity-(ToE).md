@@ -175,7 +175,7 @@ $$
 Obidi’s identification:
 
 $$
-\frac{1}{c_e^2} = \text{(entropic stiffness × entropic inertia)}.
+\frac{1}{c_e^2} = \text{(entropic stiffness / entropic inertia)}.
 $$
 
 Maxwell’s conclusion:
