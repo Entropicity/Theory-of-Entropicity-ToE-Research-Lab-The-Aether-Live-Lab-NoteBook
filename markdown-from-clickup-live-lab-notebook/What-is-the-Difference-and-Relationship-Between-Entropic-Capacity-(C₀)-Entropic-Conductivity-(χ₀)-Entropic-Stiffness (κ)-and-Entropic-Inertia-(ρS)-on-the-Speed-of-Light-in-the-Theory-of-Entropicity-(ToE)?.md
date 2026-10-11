@@ -3,7 +3,7 @@
 
 What-is-the-Difference-and-Relationship-Between-Entropic-Capacity-(C₀)-Entropic-Conductivity-(χ₀)-Entropic-Stiffness (κ)-and-Entropic-Inertia-(ρS)-on-the-Speed-of-Light-in-the-Theory-of-Entropicity-(ToE)?.md
 
-In Obidi's **Theory of Entropicity (ToE),** the universe is governed by a fundamental entropic field rather than fixed geometric space. Within the Maxwell-Obidi Correspondence, these four constants define the field's dynamics. They act as the exact thermodynamic counterparts to classical electromagnetic and mechanical properties. [1, 2] 
+In Obidi's **Theory of Entropicity (ToE),** the universe is governed by a fundamental entropic field rather than fixed geometric space. Within the Maxwell-Obidi Correspondence (MOC), these four constants define the field's dynamics. They act as the exact thermodynamic counterparts to classical electromagnetic and mechanical properties. [1, 2] 
 
 The primary difference lies in their functions: Entropic Capacity ($C_0$) and Entropic Conductivity ($\chi_0$) dictate the field’s fundamental propagation laws (like Maxwell's equations), while entropic stiffness ($\kappa$) and entropic inertia ($\rho_S$) govern the physical resistances and localized dynamics experienced by moving matter. [1, 3] 
 
