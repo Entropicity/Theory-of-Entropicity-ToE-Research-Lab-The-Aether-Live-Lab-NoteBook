@@ -64,7 +64,7 @@ These constants are bound together by the core premise of the [Theory of Entropi
 ## A. Deriving the Ultimate Cosmic Speed Limit ($c$)
 The defining equation of the Maxwell-Obidi Correspondence (MOC) unifies these parameters by proving that the propagation velocity of entropic waves ($v_{max}$, which manifests as $c$) is governed by the structural ratio of the field: [1] 
 
-$$c = \sqrt{\frac{\chi_0}{C_0}} = \sqrt{\frac{\kappa}{\rho_S}}$$ 
+$$c = \sqrt{\frac{\chi_0}{\sqrt{C_0}}} = \sqrt{\frac{\kappa}{\sqrt{\rho_S}}}$$ 
 
 
 ### * The Field Layer ($\chi_0$ and $C_0$): 
