@@ -120,3 +120,48 @@ Would you like to look at the Vuli-Ndlela Integral to see how it calculates thes
 
 [9] [https://medium.com](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
 
+
+----
+----
+
+# Scholium 
+
+# It becomes like the Classical Aether Abandoned by Einstein and the Michelson-Morley Experiment are Now Revisited in the Theory of Entropicity (ToE)
+
+This captures the exact lineage of this intellectual shift. The [Theory of Entropicity (ToE)](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-new-path-toward-the-unification-of-physics-e4e2ac3857a8) is framed specifically as a historical mirror to Einstein's paradigm shift—re-evaluating both the Michelson-Morley experiment and the classical aether. [1, 2] 
+
+The core conceptual inversion comparing the historical progression of Einstein's relativity to Obidi's Theory of Entropicity (ToE) highlights this parallel:
+
+| Historical Era / Framework / Theory | The Core Action taken | What is Primary? | What is Secondary / Emergent? |
+|---|---|---|---|
+| Classical Physics (Maxwell's Era) | Filled empty space with an elastic material. | Absolute Space & Time | Light Waves (vibrations of the material) |
+| Einstein’s Relativity (1905) | Abandoned the mechanical aether. Elevated the speed of light ($c$) to an unbendable, geometric rule. | Spacetime Geometry & Light ($c$) | Relativistic effects (kinematic distortions) |
+| Obidi’s Theory of Entropicity (ToE)| Abandons entropy as a secondary byproduct. Elevates entropy ($S$) to a universal dynamic field. | The Entropic Field ($S(x)$) | Spacetime, Gravity, Matter, and Light ($c$) |
+
+## The "Original Sin" of the Michelson-Morley Experiment
+The [Michelson-Morley experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) looked for an **"aether wind"**—a horizontal, mechanical friction caused by the Earth plowing through a literal material substance. Because they found zero friction, Einstein concluded that the medium did not exist [though Einstein would later recollect with candor that he wasn't even aware of the Michelson-Morley experiment at the time he wrote down his two postulates of the Theory of Relativity (ToR)]. [1, 3, 4] 
+
+Obidi argues that mainstream physics misread this result. The experiment failed to detect a mechanical drift because the entropic "medium" is not a material gas blowing past us. In his ToE papers, Obidi notes that the "medium" doesn't act as a static backdrop. 
+
+> # Because our physical measuring instruments—such as interferometers, atoms, and rulers—are localized condensations of the same entropic field itself, they actively compress and dilate to balance any local changes in field resistance. [4, 5, 6, 7, 8] 
+
+Einstein built relativity by treating the constancy of $c$ as a foundational postulate. The [Theory of Entropicity (ToE)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558) takes physics a layer deeper: it uses the dynamic interplay of information limits to derive why $c$ exists as a limit in the first place. It presents a worldview where the physical restrictions we observe are inevitable consequences of the entropic cost of motion. [2, 8, 9] 
+
+Now that the historical loop is complete, would you like to explore how the Obidi Action principle derives gravity without using Einstein's metric tensor, or examine the No-Rush Theorem equations?
+
+[1] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-a-new-path-toward-the-unification-of-physics-e4e2ac3857a8)
+
+[2] [https://medium.com](https://medium.com/@jonimisiobidi/the-theory-of-entropicity-toe-and-the-true-limit-of-the-universe-beyond-einsteins-relativistic-ebb90de4e960)
+
+[3] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Aether_theories)
+[4] [https://www.linkedin.com](https://www.linkedin.com/posts/jim-gort-3400766_physics-engineering-unifiedfieldtheory-activity-7474578785938370560--IxN)
+
+[5] [https://medium.com](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+[6] [https://www.researchgate.net](https://www.researchgate.net/topic/Humanism)
+
+[7] [https://ai.vixra.org](https://ai.vixra.org/qgst/)
+
+[8] [https://www.authorea.com](https://www.authorea.com/doi/10.22541/au.176236357.75572690)
+
+[9] [https://osf.io](https://osf.io/5hjx4/overview)
