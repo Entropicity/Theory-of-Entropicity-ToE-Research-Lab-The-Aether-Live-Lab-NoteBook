@@ -57,7 +57,7 @@ Because the tools you use to measure speed are altered in exact proportion to yo
 ## The Conceptual Shift
 While Maxwell showed how fast an electrical ripple moves through space, the [Theory of Entropicity Archive](https://entropicity.github.io/Theory-of-Entropicity-ToE/) reframes the paradigm: 
 
-> # Light moves at $c$ because it is a massless disturbance traveling along the path of least entropic resistance. The number $c$ itself is the structural refresh rate of cosmic causality and not intrinsically the speed of light itself. [11] 
+> # Light moves at $c$ because it is a massless disturbance traveling along the **path of least entropic resistance (PoLER).** The number $c$ itself is the structural refresh rate of cosmic causality and not intrinsically the speed of light itself. [11] 
 
 Would you like to see **how this entropic derivation of $c$ naturally produces time dilation and length contraction without relying on Einstein's geometric spacetime postulates?**
 
