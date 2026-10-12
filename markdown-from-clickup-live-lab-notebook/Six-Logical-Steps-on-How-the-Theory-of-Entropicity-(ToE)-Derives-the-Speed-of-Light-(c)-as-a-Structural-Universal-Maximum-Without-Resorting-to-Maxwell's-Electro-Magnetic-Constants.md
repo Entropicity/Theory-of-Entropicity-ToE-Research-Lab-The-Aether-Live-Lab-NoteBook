@@ -1,6 +1,6 @@
-# Six Logical Steps on How the Theory of Entropicity (ToE) Derives the Speed of Light (c) as a Structural Universal Maximum Without Resorting to Maxwell's Electrical Constants
+# Six Logical Steps on How the Theory of Entropicity (ToE) Derives the Speed of Light (c) as a Structural Universal Maximum Without Resorting to Maxwell's Electro-Magnetic Constants
 
-Six-Logical-Steps-on-How-the-Theory-of-Entropicity-(ToE)-Derives-the-Speed-of-Light-(c)-as-a-Structural-Universal-Maximum-Without-Resorting-to-Maxwell's-Electrical-Constants.md
+Six-Logical-Steps-on-How-the-Theory-of-Entropicity-(ToE)-Derives-the-Speed-of-Light-(c)-as-a-Structural-Universal-Maximum-Without-Resorting-to-Maxwell's-Electro-Magnetic-Constants.md
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), the speed of light ($c$) is stripped of its electrical and geometric labels. Rather than postulating its constancy as an unexplainable starting axiom (as Einstein did) or deriving it from electric and magnetic constants (as Maxwell did), ToE derives $c$ as a purely mechanical property of an underlying entropic field. [1, 2, 3] 
 The derivation moves through six logical steps to prove that the universal speed limit is the fundamental rate at which the universe dynamically reconfigures its informational state. [4, 5] 
