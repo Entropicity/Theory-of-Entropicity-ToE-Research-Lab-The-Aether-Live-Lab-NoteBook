@@ -48,14 +48,14 @@ This derivation underpins the No-Rush Theorem (Theorem C.2). Because interaction
 
 ## 6. Dynamic Invariance (Why everyone measures the same $c$)
 If $c$ is just a background field property, why don't we measure a different speed limit when we run away from or toward a light beam?
-ToE explains this through an Entropic Lorentz Group (ELG). Clocks, measuring rulers, and human observers are all made of matter, which means they are stable excitations of this same entropic field. 
+ToE explains this through an **Entropic Lorentz Group (ELG).** Clocks, measuring rulers, and human observers are all made of matter, which means they are stable excitations of this same entropic field. 
 
 When you accelerate, your motion through the entropic field encounters "entropic resistance". This resistance physically compresses spatial intervals (length contraction) and slows down internal atomic processes (time dilation). 
 
 Because the tools you use to measure speed are altered in exact proportion to your velocity, the ratio of distance over time always yields precisely the same constant, $c$, in every inertial frame. [1, 7, 10, 11, 12] 
 
 ## The Conceptual Shift
-While Maxwell showed how fast an electrical ripple moves through space, the [Theory of Entropicity Archive](https://entropicity.github.io/Theory-of-Entropicity-ToE/) reframes the paradigm: 
+While Maxwell showed how fast an electrical ripple moves through space, the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/) reframes the paradigm: 
 
 > # Light moves at $c$ because it is a massless disturbance traveling along the **path of least entropic resistance (PoLER).** The number $c$ itself is the structural refresh rate of cosmic causality and not intrinsically the speed of light itself. [11] 
 
