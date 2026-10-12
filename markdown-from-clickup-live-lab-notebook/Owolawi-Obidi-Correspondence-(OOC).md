@@ -12,10 +12,10 @@ Authored in part by researcher John Onimisi Obidi, the correspondence explores t
 It serves as a cornerstone text alongside the Alemoh–Obidi Correspondence (AOC) for establishing [The Theory of Entropicity](https://entropicity.github.io/Theory-of-Entropicity-ToE/docs/The-Theory-of-Entropicity-%28ToE%29-Living-Review-Letters-Series-Letter-IC-The-Alemoh-Obidi-Correspondence-%28AOC%29-U1_April-26-2026.pdf). [3] 
 
 ### * Theoretical Framework: 
-The OOC is linked to complex physics and mathematical formulations, including the Master Entropic Equation (MEE), the Entropic Field, the Obidi Action, and the Obidi Field Equations. [1] 
+The OOC is linked to complex physics and mathematical formulations, including the **Master Entropic Equation (MEE), the Entropic Field, the Obidi Action, and the Obidi Field Equations (OFE).** [1] 
 
 ### * Broader Objective: 
-Publications regarding the ToE framework position it as a conceptual avenue to tackle deep-rooted problems in quantum physics, such as the [quantum measurement problem and wave function collapse](https://www.researchgate.net/publication/390750171_Einstein_and_Bohr_Finally_Reconciled_on_Quantum_Theory_The_Theory_of_Entropicity_ToE_as_the_Unifying_Resolution_to_the_Problem_of_Quantum_Measurement_and_Wave_Function_Collapse_A_Befitting_Contributio), historically debated by physicists like Albert Einstein and Niels Bohr. [4, 5] 
+Publications regarding the ToE framework position it as a conceptual avenue to tackle deep-rooted problems in quantum physics, such as the [quantum measurement problem and wave function collapse](https://www.researchgate.net/publication/390750171_Einstein_and_Bohr_Finally_Reconciled_on_Quantum_Theory_The_Theory_of_Entropicity_ToE_as_the_Unifying_Resolution_to_the_Problem_of_Quantum_Measurement_and_Wave_Function_Collapse_A_Befitting_Contributio), historically debated by physicists like **Albert Einstein** and **Niels Bohr.** [4, 5] 
 
 ------------------------------
 
