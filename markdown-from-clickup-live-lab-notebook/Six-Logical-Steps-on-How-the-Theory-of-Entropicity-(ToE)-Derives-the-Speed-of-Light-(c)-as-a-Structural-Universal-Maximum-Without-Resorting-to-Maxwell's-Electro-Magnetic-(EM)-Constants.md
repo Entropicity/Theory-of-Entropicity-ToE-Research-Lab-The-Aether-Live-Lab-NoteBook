@@ -55,7 +55,7 @@ When you accelerate, your motion through the entropic field encounters "entropic
 Because the tools you use to measure speed are altered in exact proportion to your velocity, the ratio of distance over time always yields precisely the same constant, $c$, in every inertial frame. [1, 7, 10, 11, 12] 
 
 ## The Conceptual Shift
-While Maxwell showed how fast an electrical ripple moves through space, the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/) reframes the paradigm: 
+While Maxwell showed how fast an electrical [electromagnetic] ripple moves through space [spacetime], the [Theory of Entropicity (ToE)](https://entropicity.github.io/Theory-of-Entropicity-ToE/) reframes the paradigm in light of the Entropic Field (EF) itself: 
 
 > # Light moves at $c$ because it is a massless disturbance traveling along the **path of least entropic resistance (PoLER).** The number $c$ itself is the structural refresh rate of cosmic causality and not intrinsically the speed of light itself. [11] 
 
