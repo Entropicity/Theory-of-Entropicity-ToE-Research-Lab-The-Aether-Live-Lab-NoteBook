@@ -11,7 +11,8 @@ Obidi frames this revolution through three core Conjectures supported by a rigor
 Entropy is the primary substrate of existence. Matter and energy are emergent expressions of deeper entropic structure. This is the foundational Ontological Conjecture:
 
 Entropy First. Everything Else Follows.
-⚙️ 2️⃣ The Second Conjecture — Dynamics
+
+## ⚙️ 2️⃣ The Second Conjecture — Dynamics
 All physical laws and interactions arise from the Entropic Field (EF). Gravity, electromagnetism, quantum behavior — all become emergent responses of entropic dynamics.
 
 ## 🔸 Why the Obidi Correspondence Principle (OCP) Is Necessary
