@@ -3,6 +3,7 @@
 Six-Logical-Steps-on-How-the-Theory-of-Entropicity-(ToE)-Derives-the-Speed-of-Light-(c)-as-a-Structural-Universal-Maximum-Without-Resorting-to-Maxwell's-Electro-Magnetic-(EM)-Constants.md
 
 In John Onimisi Obidi’s Theory of Entropicity (ToE), the speed of light ($c$) is stripped of its electrical and geometric labels. Rather than postulating its constancy as an unexplainable starting axiom (as Einstein did) or deriving it from electric and magnetic constants (as Maxwell did), ToE derives $c$ as a purely mechanical property of an underlying entropic field. [1, 2, 3] 
+
 The derivation moves through six logical steps to prove that the universal speed limit is the fundamental rate at which the universe dynamically reconfigures its informational state. [4, 5] 
 
 ------------------------------
@@ -26,7 +27,7 @@ The field's physical resistance to sudden changes in entropy flux. [8, 9]
 
 The characteristic propagation velocity of an entropic wave ($c_{ent}$) is mathematically defined as: [8] 
 
-$$c_{ent} = \sqrt{\frac{\kappa}{\rho_S}}$$ 
+$$c_{ent} = \sqrt{\frac{\kappa}{\sqrt{\rho_S}}}$$ 
 
 
 ## 4. Planck-Scale Matching (Deriving $\kappa$ and $\rho_S$)
@@ -38,7 +39,7 @@ $$\rho_S = \frac{k_B c}{G} \quad \text{(Entropic Inertia)}$$
 
 When you substitute these expressions back into the wave speed formula, the constants cancel out beautifully: [8] 
 
-$$c_{ent} = \sqrt{\frac{\frac{k_B c^3}{G}}{\frac{k_B c}{G}}} = \sqrt{c^2} = c$$ 
+$$c_{ent} = \sqrt{\frac{\frac{k_B c^3}{\sqrt{G}}}{\sqrt{\frac{k_B c}{\sqrt{G}}}}} = \sqrt{c^2} = c$$ 
 
 The wave speed of an entropic disturbance is exactly, mathematically equal to the empirically measured speed of light, $c$. [5, 8] 
 
