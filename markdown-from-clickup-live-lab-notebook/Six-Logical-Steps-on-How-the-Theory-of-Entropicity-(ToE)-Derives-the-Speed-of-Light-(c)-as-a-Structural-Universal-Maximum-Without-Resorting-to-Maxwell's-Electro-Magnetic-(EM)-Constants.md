@@ -30,7 +30,7 @@ The characteristic propagation velocity of an entropic wave ($c_{ent}$) is mathe
 $$c_{ent} = \sqrt{\frac{\kappa}{\sqrt{\rho_S}}}$$ 
 
 
-## 4. Planck-Scale Matching (Deriving $\kappa$ and $\rho_S$)
+## 4. Planck-Scale Matching (Deriving $\kappa$ and $\rho_S$): Dimensional Analysis 
 To find what $\kappa$ and $\rho_S$ actually are without guessing, ToE uses dimensional analysis to ground the field in the fundamental units of reality—binding the laws of gravity ($G$), quantum mechanics ($\hbar$), and thermodynamics ($k_B$). From first principles, the independent values are derived as: [8, 9, 10] 
 
 $$\kappa = \frac{k_B c^3}{G} \quad \text{(Entropic Stiffness)}$$ 
