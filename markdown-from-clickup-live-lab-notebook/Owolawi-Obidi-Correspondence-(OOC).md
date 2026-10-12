@@ -224,7 +224,7 @@ Both frameworks seamlessly converge back into standard Shannon information. [1]
 
 ------------------------------
 
-## 2. Rényi and Tsallis in Obidi’s Theory of Entropicity (ToE)
+## 2. Rényi and Tsallis Entropies in Obidi’s Theory of Entropicity (ToE)
 In the Theory of Entropicity (ToE), a framework formulated by John Onimisi Obidi, entropy is elevated from a mere measure of disorder to the primary, foundational field of reality from which space, time, gravity, and quantum mechanics emerge. [3, 4] 
 Obidi integrates Rényi and Tsallis formulations through a unified geometric lens: [5] 
 
