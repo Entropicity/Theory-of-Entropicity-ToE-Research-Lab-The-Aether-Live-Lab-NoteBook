@@ -7,7 +7,7 @@ The **Owolawi–Obidi Correspondence (OOC)** refers to a foundational exchange o
 Authored in part by researcher John Onimisi Obidi, the correspondence explores the [historical, philosophical, conceptual, and mathematical foundations](https://notd.io/@jonimisiobidi) of this theoretical branch. Within the literature of the Theory of Entropicity, the OOC is recognized as the initial spark or catalyst for the development of its core mathematical equations and field principles. [2] 
 
 ## Origin role of the Owolawi-Obidi Correspondence (OOC): 
-Obidi's monograph dedication states that **"the first light of this Theory of Entropicity (ToE) was struck"** in correspondence with **Dr. Olalekan T. Owolawi,** and directs readers to the OOC on the theory's foundation.
+Obidi's monograph dedication states that **"The first light of this Theory of Entropicity (ToE) was struck"** in correspondence with **Dr. Olalekan T. Owolawi,** and directs readers to the OOC on the theory's foundation.
 
 
 ## Key Context & Associations
