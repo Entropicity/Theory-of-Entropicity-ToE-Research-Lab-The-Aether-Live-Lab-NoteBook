@@ -32,7 +32,7 @@ Would you like to see a direct comparison table showing how PoLER fundamentally 
 ------
 # Scholium 
 
-The Principle of Least Entropic Resistance (PoLER) was introduced by John Onimisi Obidi (https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi). [1](https://medium.com/@jonimisiobidi/the-principle-of-least-entropic-resistance-poler-b89aa45159f5)
+The Principle of Least Entropic Resistance (PoLER) was introduced by [John Onimisi Obidi](https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi). [1](https://medium.com/@jonimisiobidi/the-principle-of-least-entropic-resistance-poler-b89aa45159f5)
 
 He formulated this principle as a foundational component of his Theory of Entropicity (ToE). PoLER serves as an alternative framework to the classical Principle of Least Action (PoLA), suggesting that physical systems do not merely move because they are pushed by external forces, but rather evolve by minimizing informational friction and navigating along paths of least resistance within a dynamic, self-organizing entropic field. [1](https://www.linkedin.com/posts/theory-of-entropicity-toe_obidis-frantic-efforts-to-understand-activity-7507415818830450688-ZrX3), [2](https://medium.com/@jonimisiobidi/the-principle-of-least-entropic-resistance-poler-b89aa45159f5)
 
