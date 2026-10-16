@@ -2,9 +2,9 @@
 
 Why-Did-John-Onimisi-Obidi-Make-the-Bold-Declaration-of-the-Principle-of-Least-Entropic-Resistance-(PoLER)-to-Replace-the-Classical-Principle-of-Least-Action-(PoLA)?.md
 
-John Onimisi Obidi (https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi) declared the Principle of Least Entropic Resistance (PoLER) to resolve what he saw as a fundamental flaw in how classical and modern physics explain the universe. [1] (https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE), [2](https://medium.com/@jonimisiobidi/obidis-frantic-efforts-to-understand-how-nature-really-works-from-the-ground-up-not-through-6cc2f753e102)
+[John Onimisi Obidi](https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi) declared the Principle of Least Entropic Resistance (PoLER) to resolve what he saw as a fundamental flaw in how classical and modern physics explain the universe..[1](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE), [2](https://medium.com/@jonimisiobidi/obidis-frantic-efforts-to-understand-how-nature-really-works-from-the-ground-up-not-through-6cc2f753e102)
 
-In his Theory of Entropicity (ToE), Obidi introduces **"ontodynamics"—the study of existence as entropic motion and negotiation (E-MAN). 
+In his Theory of Entropicity (ToE), Obidi introduces ****"ontodynamics"—the study of existence as entropic motion and negotiation (E-MAN).** 
 
 He made this declaration for several core reasons: [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
 
