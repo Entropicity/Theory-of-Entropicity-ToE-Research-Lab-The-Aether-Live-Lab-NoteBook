@@ -50,11 +50,11 @@ Scope of Unification:	Ducci attempts to unify consciousness with physical laws	|
 
 ## The Verdict on the Philosophy of Dino Ducci and John Onimisi Obidi on the Foundations of Physics and Science 
 
-• If you define a "richer philosophy" by the inclusion of mind/consciousness into physical law, Dino Ducci makes that metaphysical attempt. [1](https://www.academia.edu/144703914/The_Ducci_Unified_Spectral_Theory_A_Complete_Framework_Unifying_Mathematics_Physics_and_Consciousness_From_Prime_Numbers_to_Quantum_Gravity_23_New_Theorems_and_a_Theory_of_Everything)
+• If you define a **"richer philosophy"** by the inclusion of mind/consciousness into physical law, Dino Ducci makes that metaphysical attempt. [1](https://www.academia.edu/144703914/The_Ducci_Unified_Spectral_Theory_A_Complete_Framework_Unifying_Mathematics_Physics_and_Consciousness_From_Prime_Numbers_to_Quantum_Gravity_23_New_Theorems_and_a_Theory_of_Everything)
 
-• If you define a "richer philosophy" by deep epistemic restructuring of physics itself, John Onimisi Obidi (https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi) offers a far more concentrated, philosophically courageious challenge to physics. By turning entropy into an objective ontic substance, he uniquely forces a re-examination of time's arrow, quantum measurement, and cosmic geometry without needing to invoke observer-centric or spiritual elements. 
+• If you define a **"richer philosophy"** by deep epistemic and ontological restructuring of physics [and science] itself, [John Onimisi Obidi](https://www.google.com/search?kgmid=%2Fg%2F11j2ntblv5&q=John+Onimisi+Obidi) offers a far more concentrated, philosophically courageious challenge to physics. By turning entropy into an objective ontic substance, he uniquely forces a re-examination of time's arrow, quantum measurement, and cosmic geometry without needing to invoke observer-centric or spiritual elements. 
 
-Infact, Obidi reframes awareness [and consciousness] itself as entropic events that are not inseparable from the laws of Nature themselves. In this, Obidi physicalizes even consciousness and demystifies the spiritual which Dino Ducci evokes in his Theory. [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415), [2](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE)
+Infact, Obidi reframes awareness [and consciousness] itself as entropic events that are not inseparable from the laws of Nature themselves. In this, Obidi physicalizes even consciousness and demystifies the spiritual which Dino Ducci evokes in his [DUST] Theory. [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5996415), [2](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE)
 
 Which aspect of their work are you looking to explore further? 
 
