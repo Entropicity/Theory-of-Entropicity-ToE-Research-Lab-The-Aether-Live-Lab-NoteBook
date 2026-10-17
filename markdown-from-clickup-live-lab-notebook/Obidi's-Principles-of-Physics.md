@@ -35,4 +35,4 @@ Set mathematically to \(\ln(2)\), representing the fundamental unit of "entropic
 ### • The "No-Rush" Theorem (NRT): 
 A principle stating that nature cannot be infinitely accelerated; all physical interactions unfold within a finite, non-zero time interval governed by the underlying entropic field. [1](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
 
-Would you like to explore how The **Obidi Action** connects quantum mechanics and general relativity, or look into the mathematical breakdown of the Master Entropic Equation?
+Would you like to explore how The **Obidi Action** connects quantum mechanics and general relativity, or look into the mathematical breakdown of the **Master Entropic Equation (MEE)/Obidi Field Equations (OFE)?**
