@@ -24,7 +24,7 @@ The Patchwork Approach: Communities try to bridge Quantum Mechanics and General 
 Universal Constraints: The speed of light (c) is assumed as an absolute universal constant axiom.	Derived Limits: The speed of light is derived as an emergent entropic speed limit (via the No-Rush Theorem).
 
 Ultimately, the audacity of Obidi's framework lies in its singular mathematical ambition: attempting to derive a highly structured, relativistic, and quantum universe from a single ontological postulate—the primacy of entropy. [1] (https://papers.ssrn.com/sol3/Delivery.cfm/6599558.pdf?abstractid=6599558&mirid=1), [2] (https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-physical-nature-of-the-entropic-activity-7506186942791872512-iCCS)
-If you would like to explore this framework deeper, let me know if you want to look into:
+If you would like to explore this framework deeper, let us know if you want to look into:
 • The No-Rush Theorem (NRT) and how it derives the speed of light.
 • The Disformal Obidi Transformation and how it creates causal time structures.
 • How ToE maps onto Einstein's classical predictions like the perihelion precession of Mercury. [1] (https://figshare.com/authors/John_Onimisi_Obidi/20850605), [2] (https://johnobidi.substack.com/p/obidis-intellectual-coup-detat-in), [3] (https://medium.com/@jonimisiobidi/obidis-frantic-efforts-to-understand-how-nature-really-works-from-the-ground-up-not-through-6cc2f753e102), [4] (https://www.linkedin.com/posts/mario-pinheiro-07715614_thermodynamics-statisticalphysics-entropy-activity-7483735990398980096-kE78)
