@@ -1,4 +1,5 @@
-# An Introduction to the Derivation of Mass and Matter in the Theory of Entropicity (ToE): A Prolegomenon to the Rigorous Derivation of Mass and Matter from the Fiber Integrals of the Obidi Action
+# An Introduction to the Derivation of Mass and Matter in the Theory of Entropicity (ToE): A Prolegomenon to the Rigorous Derivation of Mass and Matter from the Fiber Integrals of the Obidi Action — From Einstein's Mass-Energy Relation to Obidi's Mass-Entropy Relation 
+
 
 
 An-Introduction-to-the-Derivation-of-Mass-and-Matter-in-the-Theory-of-Entropicity-(ToE)-A-Prolegomenon-to-the-Rigorous-Derivation-of-Mass-and-Matter-from-the-Fiber-Integrals-of-the-Obidi-Action.md
