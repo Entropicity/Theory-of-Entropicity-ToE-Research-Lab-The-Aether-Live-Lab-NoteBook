@@ -37,11 +37,11 @@ GitHub Live Site (URL):
 The ToE Canonical Archives:
 https://entropicity.github.io/Theory-of-Entropicity-ToE/
 
-3)
+2)
 The ToE Live GitHub Gists (URL):
 https://gist.github.com/Entropicity
 
-4)
+3)
 GitHub Live Site (URL):
 
 The ToE Canonical Archives:
