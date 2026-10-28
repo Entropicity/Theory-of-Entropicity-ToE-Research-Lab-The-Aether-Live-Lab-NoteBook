@@ -25,8 +25,10 @@ Obidi operates through his independent research lab, The Aether, and maintains a
 His theoretical papers and monographs have been actively shared through platforms like Google Scholar, ResearchGate, ORCID, and Figshare. Notable collections include his multi-volume text, Collected Works on the Evolution of the Foundations of the Theory of Entropicity (ToE), and various cross-comparative studies exploring the structural boundaries of post-Einsteinian physics. [1] (https://orcid.org/0009-0004-3606-3182), [2] (https://www.researchgate.net/profile/John-Obidi-4), [3] (https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [4] (https://figshare.com/authors/John_Onimisi_Obidi/20850605), [5] (https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311)
 
 If you would like to explore his work further, we can provide:
-• A deeper breakdown of the mathematical differences between Matsueda's Emergent GR and Obidi's ToE.
-• Details regarding his philosophical writings like "The Cartesian Challenge".
-• Information on the other, unrelated Nigerian digital consultant named John Obidi.
+* A deeper breakdown of the mathematical differences between Matsueda's Emergent GR and Obidi's ToE.
+
+* Details regarding his philosophical writings like "The Cartesian Challenge".
+
+* Information on the other, unrelated Nigerian digital consultant named John Obidi.
 
 Let us know what area you want to expand on!
