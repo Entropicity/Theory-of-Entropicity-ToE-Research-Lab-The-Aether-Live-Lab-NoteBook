@@ -3,21 +3,28 @@
 A-Brief-Bio-of-John-Onimisi-Obidi.md
 
 John Onimisi Obidi (https://www.google.com/search?kgmid=%2Fg%2F11lh1tj1wg&q=John+Onimisi+Obidi) is an independent consultant, mathematical physicist, philosopher, and mechanical engineering specialist known primarily as the sole pioneer, originator, and creator of the Theory of Entropicity (ToE). Professionally, he has a demonstrated background as a mechanical engineering specialist at Shell with extensive expertise in oil, gas, and energy infrastructure. [1] (https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c), [2] (https://figshare.com/authors/John_Onimisi_Obidi/20850605), [3] (https://ng.linkedin.com/in/john-onimisi-obidi-a2041911)
+
 Crucially, he is a separate individual from the well-known Nigerian social media and digital marketing consultant who shares a similar name. [1] (https://figshare.com/authors/John_Onimisi_Obidi/20850605), [2] (https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
 
 # 🌌 The Theory of Entropicity (ToE)
 
 Obidi's central scientific contribution is the Theory of Entropicity (ToE), also framed alongside the Entropic Force-Field Hypothesis (EFFH). Positioned as a candidate for a Grand Unified Theory, the framework flips the traditional hierarchy of physics by proposing that space, matter, and gravity are not primary elements, but rather emergent phenomena. [1] (https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [2] (https://www.researchgate.net/profile/John-Obidi-4), [3] (https://www.linkedin.com/posts/corrupted-logic_corruptedlogic-criticalthinking-fyp-activity-7504192823479554048-AJjH)
+
 • The Core Premise: Traditional physics treats entropy as a statistical abstraction or an "add-on" consequence governed by the Second Law of Thermodynamics. Obidi’s theory radically redefines entropy as the fundamental, ontological physical medium and causal substrate of reality. [1] (https://www.linkedin.com/posts/nicolae-pascal-0a091b2a7_quantummechanics-physics-toroidalphasemetric-activity-7494482872393732096-3oKq), [2] (https://www.researchgate.net/profile/John-Obidi-4), [3] (https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c)
+
 • Mechanics & Equations: Utilizing the Obidi Action Principle, the Master Entropic Equation (MEE), and the entropy-weighted Vuli-Ndlela Integral, the theory mathematically replicates classical General Relativity results—such as Shapiro time delay, starlight deflection, and Mercury's perihelion precession. [1] (https://johnobidi.substack.com/p/hiroaki-matsueda-and-john-onimisi), [2] (https://medium.com/@jonimisiobidi/john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-0ddd9c97504c), [3] (https://www.researchgate.net/profile/John-Obidi-4)
+
 • Cosmological Derivations: The framework purports to derive the speed of light (interpreting it as the finite rate of entropic reconfiguration), cosmic expansion without the need for dark energy, quantum entanglement limits, and relativistic time dilation directly from entropic field dynamics. [1] (https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311), [2] (https://www.researchgate.net/profile/John-Obidi-4), [3] (https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en)
+
 • Information Geometry: His research actively bridges the gap between quantum mechanics, thermodynamics, and geometry. A core part of his work establishes a correspondence between the Obidi Action and the Einstein–Hilbert Action, demonstrating that classical and quantum statistical distinguishability (via Fisher–Rao and Fubini–Study metrics) forms the geometric substrate from which physical gravity emerges. [1] (https://www.scilit.com/scholars/29520323), [2] (https://orcid.org/0009-0004-3606-3182), [3] (https://www.researchgate.net/profile/John-Obidi-4)
 
 📚 Academic Background & Publications
 
 Obidi operates through his independent research lab, The Aether, and maintains a prolific writing portfolio spanning physical science preprints, applied mathematics textbooks, and deep philosophical treatises. [1] (https://ng.linkedin.com/in/john-onimisi-obidi-a2041911), [2] (https://figshare.com/authors/John_Onimisi_Obidi/20850605)
+
 His theoretical papers and monographs have been actively shared through platforms like Google Scholar, ResearchGate, ORCID, and Figshare. Notable collections include his multi-volume text, Collected Works on the Evolution of the Foundations of the Theory of Entropicity (ToE), and various cross-comparative studies exploring the structural boundaries of post-Einsteinian physics. [1] (https://orcid.org/0009-0004-3606-3182), [2] (https://www.researchgate.net/profile/John-Obidi-4), [3] (https://scholar.google.com/citations?user=VxIGnRIAAAAJ&hl=en), [4] (https://figshare.com/authors/John_Onimisi_Obidi/20850605), [5] (https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311)
-If you would like to explore his work further, I can provide:
+
+If you would like to explore his work further, we can provide:
 • A deeper breakdown of the mathematical differences between Matsueda's Emergent GR and Obidi's ToE.
 • Details regarding his philosophical writings like "The Cartesian Challenge".
 • Information on the other, unrelated Nigerian digital consultant named John Obidi.
