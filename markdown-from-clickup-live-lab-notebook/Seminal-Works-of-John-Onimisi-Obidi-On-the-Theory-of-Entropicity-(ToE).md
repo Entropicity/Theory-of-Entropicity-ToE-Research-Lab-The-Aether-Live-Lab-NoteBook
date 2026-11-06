@@ -29,10 +29,10 @@ Across these seminal papers, Obidi establishes a few signature physics postulate
 ### • The Master Entropic Equation (MEE)/Obidi Field Equations (OFE): 
 The governing field equations of his theory, serving the same role that Einstein's field equations serve in General Relativity. [1](https://encyclopedia.pub/entry/59188)
 
-### • The No-Rush Theorem: 
+### • The No-Rush Theorem (NRT): 
 A mathematical proof stating that the speed of light (c) is not a fundamental limit of geometry, but rather the maximum possible rate at which the universal entropic field can reconfigure information. [1](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616), [2](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88), [3](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_a-comprehensive-introductory-monograph-activity-7492781583230439424-sebx)
 
-### • The Vuli-Ndlela Integral: 
+### • The Vuli-Ndlela Integral (VNI): 
 An entropy-weighted variation of Feynman’s path integral designed to naturally inject temporal asymmetry into quantum mechanics. [1](https://medium.com/@jonimisiobidi/what-is-the-theory-of-entropicity-toe-ab87621f4f88)
 
 Would you like to explore the philosophical reasoning behind why he treats entropy as **"ontic" (real)** rather than **"epistemic" (a measure of human ignorance),** or should we look into the specific open repositories where you can download these full texts of John Onimisi Obidi's works?
