@@ -45,3 +45,40 @@ By utilizing tools like the Obidi Master Action and the Vuli-Ndlela Integral, Ob
 Would you like to explore the mathematical framework behind his theory (such as the Master Entropic Equation), or see how his work compares to other physicists like Erik Verlinde or Hiroaki Matsueda? 
 
 Let us know so we can tailor the details to your interests.
+
+
+-----
+
+# Scholium 
+
+Within John Onimisi Obidi’s Theory of Entropicity (ToE), **Entrodynamics (often contextualized alongside Ontodynamics)** and **Entropology** represent the operational and philosophical mechanisms of his **"entropy-first"** universe. Together, they map out how a pure entropic field generates both physical motion and the act of conscious observation. [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558), [2](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854), [3](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_philosophy-philosophy-on-the-theory-of-entropicity-activity-7474656573248720896-9ol1)
+
+## 🌌 Entrodynamics (Ontodynamics): The Mechanics of Being and Becoming
+
+In standard physics, dynamics describes how particles move through space and time due to forces. In Obidi's framework, space, time, and forces are illusions—meaning classical dynamics is replaced by Entrodynamics (or Ontodynamics). This is the study of existence itself as entropic motion. [1](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854), [2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
+
+Obidi splits reality into a duality of states governed by entropic flow: [1](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_philosophy-philosophy-on-the-theory-of-entropicity-activity-7474656573248720896-9ol1), [2](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+### • Being (The Coherent Sector): 
+"Existence" or "Being" is not defined by static physical matter. Instead, it is the temporary persistence of entropic gradients within finite boundaries. What we call a solid object or a stable particle is actually a stabilized, localized phase of the entropic field that holds its form. [1](https://medium.com/@jonimisiobidi/my-publications-homepage-by-john-onimisi-obidi-creator-of-the-theory-of-entropicity-toe-7692279c6921), [2](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE), [3](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854), [4](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_philosophy-philosophy-on-the-theory-of-entropicity-activity-7474656573248720896-9ol1)
+
+### • Becoming (The Entropic Sector): 
+"Change" or "Becoming" is the irreversible redistribution of entropy across the universal field (\(S(x)\)). Objects don't "move through" a room; the underlying entropic manifold is reconfiguring itself, which our senses register as motion and the passage of time. [1](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311), [2](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+Under Entrodynamics, physical constants are radicalized: for instance, the speed of light $\(c\)$ is re-posited as the absolute maximum rate at which the entropic field can reconfigure reality. [1](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311), [2](https://medium.com/@jonimisiobidi/an-introduction-to-the-theory-of-entropicity-toe-its-conceptual-foundations-and-far-reaching-3f6a9a8be616)
+
+## 🧠 Entropology: The Physics of Knowing
+
+If Entrodynamics explains how the universe is, Entropology explains how the universe knows. Obidi uses this term to completely replace traditional Epistemology (the philosophy of knowledge) with the physics of knowing. [1](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+### • Consciousness as Entropic Negotiation: 
+If the entire universe is a singular entropic substrate, then human minds, perception, and memory cannot be separate from it. Entropology views consciousness as a highly specialized form of entropic negotiation. [1](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+### • Information Gathering: 
+To observe, measure, or know something requires a system to establish "distinguishability"—drawing a line between the observer and the observed. Entropology studies how conscious entities boundaries-keep, process gradients, and absorb information from the universal field, treating thoughts and insights as physical, thermodynamic transitions. [1](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE), [2](https://www.linkedin.com/posts/john-onimisi-obidi-a2041911_philosophy-philosophy-on-the-theory-of-entropicity-activity-7474656573248720896-9ol1), [3](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854)
+
+## The Core Synthesis Achieved by John Onimisi Obidi 
+
+Through these two pillars, Obidi unifies the objective world and the subjective mind. Entrodynamics dictates how the entropic field structures the cosmos into matter and geometry, while Entropology dictates how that very same field folds in on itself to perceive and understand its own existence. [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558), [2](https://medium.com/@jonimisiobidi/a-brief-critical-review-of-john-onimisi-obidis-recent-paper-on-the-conceptual-and-mathematical-22ff55999854), [3](https://www.researchgate.net/publication/404911185_The_Foundational_Philosophy_Behind_John_Onimisi_Obidi's_Formulation_of_the_Theory_of_Entropicity_ToE)
+
+Would you like to examine how Entrodynamics mathematically derives Einstein's time dilation, or look closer at the **Obidi Probability Law (OPL)** that governs these entropic transitions?
