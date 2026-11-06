@@ -33,7 +33,7 @@ Defined not as solid objects, but as **"stabilized entropic condensation"**—ar
 The measurable "distinguishability" between different states of information.
 
 ### • Gravity Reimagined in the Theory of Entropicity (ToE): 
-Re-imagined as an directional pressure exerted by the entropic field. [1](https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-physical-nature-of-the-entropic-activity-7506186942791872512-iCCS)
+Re-imagined as a directional pressure exerted by the entropic field. [1](https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-physical-nature-of-the-entropic-activity-7506186942791872512-iCCS)
 
 ## 3. The "No-Rush Theorem" and Time
 
