@@ -18,7 +18,7 @@ This is considered his definitive masterwork. Rather than operating as an isolat
 
 ## 2. The Theory of Entropicity (ToE) Living Review Letters Series
 
-Published across open scientific repositories like SSRN, this work officially introduces the Obidi Conjecture. The paper formally asserts the radical ontological inversion of physics: **that the conventional hierarchy must be flipped, making entropy the primary dynamical field and leaving geometry and spacetime as secondary, emergent phenomena.** 
+Published across open scientific repositories like SSRN, this work officially introduces the Obidi Conjectures. The paper formally asserts the radical ontological inversion of physics: **that the conventional hierarchy must be flipped, making entropy the primary dynamical field and leaving geometry and spacetime as secondary, emergent phenomena.** 
 
 **It also serves as the formal introductory text for the mathematical mechanics of the Obidi Action.** [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6599558)
 
