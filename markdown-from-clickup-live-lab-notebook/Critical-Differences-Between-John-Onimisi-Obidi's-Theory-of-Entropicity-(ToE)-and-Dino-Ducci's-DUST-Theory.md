@@ -52,3 +52,5 @@ Ultimately, while Ducci provides a radically new way to map out the cosmic archi
 
 Would you like to take a look at the mathematical tooling Obidi uses to bypass the geometric grid (like the Vuli-Ndlela Integral), or would you prefer to explore how DUST Theory accounts for the mass of quantum particles using its lattice? [1](https://johnobidi.substack.com/p/hiroaki-matsueda-and-john-onimisi), [2](https://www.cambridge.org/engage/coe/article-details/690c5ee0ef936fb4a2b38311), [3](https://www.academia.edu/145116615/DUST_Theory_of_Everything_Complete_Derivations_of_the_Five_Fundamental_Results), [4](https://www.academia.edu/145224399/The_Ducci_Unified_Spectral_Theory_DUST_A_Complete_Framework)
 
+-----
+
