@@ -41,3 +41,49 @@ If you are looking for specific details on Obidi's work, please let us know:
 • Are you looking for a comparison between Obidi's Theory of Entropicity (ToE) and other quantum gravity theories?
 
 We can tailor the next steps to exactly what you need.
+
+
+----
+----
+
+# Scholium 
+
+# John Onimisi Obidi is saying information has temperature and geometry too has temperature based on his momentous paper titled: ***"From the Temperature of Information to the Temperature of Geometry: The Foundations of the Theory of Entropicity (ToE) and the Unification of Quantum and Entropic Reality"***
+
+John Onimisi Obidi’s Theory of Entropicity (ToE) builds on the idea that information and geometry are deeply interconnected through thermodynamics. He bridges these concepts by linking quantum information theory with general relativity (the geometry of spacetime) through the concept of entropy.
+
+Here is how information and geometry each possess "temperature" in Obidi's theory:
+
+## 1. The Temperature of Information
+
+In quantum physics and information theory, information isn't just an abstract concept; it is physical.
+
+### • Information as Energy: 
+When physical systems store or process data, that data is bound by the laws of thermodynamics.
+
+### • Landauer's Principle: 
+Erasing a single bit of information always dissipates a tiny, measurable amount of heat into the environment.
+
+### • The Shannon-Von Neumann Link: 
+Obidi uses the fact that mathematical information (Shannon entropy) and physical heat randomness (Von Neumann entropy) share the same root. Because information has entropy, and entropy is fundamentally linked to heat exchange, information itself possesses an intrinsic thermodynamic temperature based on how dense or ordered it is.
+
+## 2. The Temperature of Geometry
+
+This concept draws heavily from established modern physics—specifically black hole thermodynamics and holographic principles (like the work of Stephen Hawking and Jacob Bekenstein)—which Obidi extends into his Theory of Entropicity (ToE).
+
+### • Spacetime as a Material: 
+In general relativity, gravity is not a traditional force; it is the geometric curvature (geometry) of spacetime.
+
+### • Thermodynamics of Spacetime: 
+Physicists like Ted Jacobson and Erik Verlinde previously demonstrated that Einstein’s equations of geometric gravity can actually be derived from thermodynamics.
+
+### • The Geometric Temperature: 
+When you accelerate through space, or when you are near a heavy gravitational mass, you experience a literal thermal bath (known as the Unruh effect or Hawking radiation). The geometry of the horizon (the boundary of space) dictates how much entropy is trapped inside it. Therefore, the curvature and area of a geometric boundary directly translate into a physical temperature.
+
+## How Obidi Connects Them Both: The Audacious Unification
+
+Obidi's central argument is that Geometry is just the macroscopic expression of underlying Quantum Information.
+
+When quantum information becomes entangled and shifts, its "informational temperature" changes. This change forces a structural rearrangement at the macro level, which we perceive as the bending of spacetime (gravity).
+
+> # By showing that the mathematical "temperature" of information [data management] at the quantum micro-level mathematically matches the "temperature" of structural geometry at the cosmic macro-level, Obidi attempts to unify quantum mechanics and gravity under a single, information-driven framework.
