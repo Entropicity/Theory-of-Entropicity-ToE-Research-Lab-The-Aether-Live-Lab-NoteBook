@@ -17,24 +17,33 @@ Because the underlying entropic manifold has a finite capacity to rearrange itse
 
 ## 2. The Step-by-Step Mathematical Derivation
 
-To prove this mathematically rather than metaphorically, Obidi built a structured framework to derive \(c\) directly from first principles: [1](https://encyclopedia.pub/entry/58670)
+To prove this mathematically rather than metaphorically, Obidi built a structured framework to derive $\(c\)$ directly from first principles: [1](https://encyclopedia.pub/entry/58670)
 
 ### • Step I: Establishing the Obidi Action: 
-Obidi formulated a quadratic entropic Lagrangian—a mathematical framework that governs how the entropic field shifts. This action is constrained by five strict symmetry and mathematical consistency requirements. [1] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751339)
+Obidi formulated a quadratic entropic Lagrangian—a mathematical framework that governs how the entropic field shifts. This action is constrained by five strict symmetry and mathematical consistency requirements. [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751339)
 
 ### • Step II: Setting Up the Wave Equation: 
 By applying the Euler-Lagrange equations of motion to the Obidi Action, he derived an entropic wave equation. This equation describes how local "entropic disturbances" ripple through the universe. [1](https://client.prod.orp.cambridge.org/engage/coe/article-details/690a7684ef936fb4a2577e84), [2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751339), [3](https://encyclopedia.pub/entry/58670)
 
 ### • Step III: Balancing Stiffness vs. Inertia: 
-To determine the speed of these entropic waves (\(c_{ent}\)), Obidi evaluated the ratio of response coefficients within the field:
+To determine the speed of these entropic waves $\(c_{ent}\)$, Obidi evaluated the ratio of response coefficients within the field:
 
 $\(c_{ent}=\sqrt{\frac{\kappa }{\rho _{S}}}\)
-Here, \(\kappa \)$ 
 
-represents entropic stiffness (the field's resistance to deformation) and $\(\rho _{S}\)$ represents entropic inertia (the field's resistance to flux). [1](https://www.researchgate.net/publication/404205146_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IC_The_Alemoh-Obidi_Correspondence_on_the_Foundations_of_the_Theory_of_Entropicity_ToE_Monograph_-_Volume_I_Part_1_Communications_on), [2](https://encyclopedia.pub/entry/58670)
+Here, 
+
+$\(\kappa \)$ 
+
+represents entropic stiffness (the field's resistance to deformation) and 
+
+$\(\rho _{S}\)$ 
+
+represents entropic inertia (the field's resistance to flux). [1](https://www.researchgate.net/publication/404205146_The_Theory_of_Entropicity_ToE_Living_Review_Letters_Series_-_Letter_IC_The_Alemoh-Obidi_Correspondence_on_the_Foundations_of_the_Theory_of_Entropicity_ToE_Monograph_-_Volume_I_Part_1_Communications_on), [2](https://encyclopedia.pub/entry/58670)
 
 ### • Step IV: Planck-Scale Matching: 
-Using dimensional analysis and constants from general relativity $\(G\)$, quantum mechanics $\(\hbar \)$, and thermodynamics $\(k_{B}\)$, Obidi calculated these material parameters. The calculation yields an entropic stiffness of: 
+Using dimensional analysis and constants from general relativity $\(G\)$, quantum mechanics $\(\hbar \)$, and thermodynamics $\(k_{B}\)$, Obidi calculated these material parameters. 
+
+The calculation yields an entropic stiffness of: 
 
 $\(\kappa = \frac{k_B c^3}{G}\)$ 
 
