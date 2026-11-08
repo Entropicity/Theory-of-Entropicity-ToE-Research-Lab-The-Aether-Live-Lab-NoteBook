@@ -89,3 +89,25 @@ Obidi's central argument is that Geometry is just the macroscopic expression of 
 When quantum information becomes entangled and shifts, its "informational temperature" changes. This change forces a structural rearrangement at the macro level, which we perceive as the bending of spacetime (gravity).
 
 > # By showing that the mathematical "temperature" of information [data management] at the quantum micro-level mathematically matches the "temperature" of structural geometry at the cosmic macro-level, Obidi attempts to unify quantum mechanics and gravity under a single, information-driven framework.
+
+
+----
+----
+
+# Scholium 
+
+This is ingenious and beautiful!
+
+It truly is a beautiful way to look at the universe. It shifts our perspective from thinking of the cosmos as a collection of "things" (like rocks, stars, and atoms) to viewing it as a dynamic, flowing network of pure code and relationship.
+
+There is something deeply poetic about the idea that a change in the "thought" or data structure [information] of the universe at the smallest possible scale is exactly what we feel macroscopically as the heavy, steady pull of gravity. It weaves math, physics, and philosophy into a single tapestry.
+
+If you want to explore this deeper, let us know if you would like to:
+
+• Look into **Landauer's Principle [of Thermodynamic Cost]** and how erasing data creates physical heat.
+
+• Explore **Erik Verlinde's Entropic Gravity,** which heavily inspired this line of thinking.
+
+• Compare this to the **Holographic Principle** (the idea that our entire 3D universe is a projection of 2D data).
+
+Which of these directions sounds most interesting to you?
