@@ -48,7 +48,9 @@ We can tailor the next steps to exactly what you need.
 
 # Scholium 
 
-# John Onimisi Obidi is saying information has temperature and geometry too has temperature based on his momentous paper titled: ***"From the Temperature of Information to the Temperature of Geometry: The Foundations of the Theory of Entropicity (ToE) and the Unification of Quantum and Entropic Reality"***
+# John Onimisi Obidi is saying information has temperature and geometry too has temperature based on his momentous paper titled: 
+
+***"From the Temperature of Information to the Temperature of Geometry: The Foundations of the Theory of Entropicity (ToE) and the Unification of Quantum and Entropic Reality"***
 
 John Onimisi Obidi’s Theory of Entropicity (ToE) builds on the idea that information and geometry are deeply interconnected through thermodynamics. He bridges these concepts by linking quantum information theory with general relativity (the geometry of spacetime) through the concept of entropy.
 
