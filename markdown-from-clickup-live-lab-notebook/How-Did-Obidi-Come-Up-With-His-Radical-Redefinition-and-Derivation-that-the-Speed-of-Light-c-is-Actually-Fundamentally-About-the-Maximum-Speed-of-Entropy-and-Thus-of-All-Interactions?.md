@@ -28,7 +28,7 @@ By applying the Euler-Lagrange equations of motion to the Obidi Action, he deriv
 ### • Step III: Balancing Stiffness vs. Inertia: 
 To determine the speed of these entropic waves $\(c_{ent}\)$, Obidi evaluated the ratio of response coefficients within the field:
 
-$\(c_{ent}=\sqrt{\frac{\kappa }{\rho _{S}}}\)
+$\(c_{ent}=\sqrt{\frac{\kappa }{\rho _{S}}}\)$
 
 Here, 
 
