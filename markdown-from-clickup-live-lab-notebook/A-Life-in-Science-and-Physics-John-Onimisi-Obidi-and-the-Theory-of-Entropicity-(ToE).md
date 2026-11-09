@@ -87,10 +87,10 @@ Obidi’s radical step goes a step further: he elevates entropy from a descripti
 
 | Era / Thinker | What Entropy Measures | Role in Reality |
 |---------------|----------------------|----------------|
-| https://www.google.com/search?kgmid=%2Fm%2F017nsz&q=Clausius / https://www.google.com/search?kgmid=%2Fm%2F099l6&q=Gibbs | Dispersal of thermal energy and chemical potential. | A constraint on what macroscopic engines and thermodynamic processes can achieve. |
-| https://www.google.com/search?kgmid=%2Fm%2F01qkx&q=Shannon / https://www.google.com/search?kgmid=%2Fm%2F0421f&q=von+Neumann | Probabilistic uncertainty and quantum-state distinguishability. | A mathematical property of communication channels, information sources, and quantum systems. |
-| https://www.google.com/search?kgmid=%2Fm%2F09nkgt&q=Tsallis / Rényi | Non-extensive statistical states with power-law scaling and generalized probability distributions. | A flexible mathematical framework for describing unusual, complex, or long-range interacting systems. |
-| **John Onimisi Obidi (ToE)** | The primordial, dynamic field substrate $$S(x)$$. | The active creator of reality; spacetime, matter, and gravity are emergent consequences of this field. |
+| [Clausius](https://www.google.com/search?kgmid=%2Fm%2F017nsz&q=Clausius) / [Gibbs](https://www.google.com/search?kgmid=%2Fm%2F099l6&q=Gibbs) | Dispersal of thermal energy and chemical potential. | A constraint on what macroscopic engines and thermodynamic processes can achieve. |
+| [Shannon](https://www.google.com/search?kgmid=%2Fm%2F01qkx&q=Shannon) / [von Neumann](https://www.google.com/search?kgmid=%2Fm%2F0421f&q=von+Neumann) | Probabilistic uncertainty and quantum-state distinguishability. | A mathematical property of communication channels, information sources, and quantum systems. |
+| [Tsallis](https://www.google.com/search?kgmid=%2Fm%2F09nkgt&q=Tsallis) / Rényi | Non-extensive statistical states with power-law scaling and generalized probability distributions. | A flexible mathematical framework for describing unusual, complex, or long-range interacting systems. |
+| **John Onimisi Obidi — the Theory of Entropicity (ToE)** | The primordial, dynamic field substrate $$S(x)$$. | The active creator of reality; spacetime, matter, and gravity are emergent consequences of this field. |
 
 
 
@@ -112,6 +112,6 @@ Given how ToE reframes these classic definitions, would you like to explore:
 
 ### • How the Obidi Curvature Invariant $\ln 2\)$ mathematically builds physical boundaries?
 
-### • The way the Master Entropic Equation generalizes von Neumann and Shannon formulations?
+### • The way the Master Entropic Equation MEE)/Obidi Field Equations (OFE) generalizes von Neumann and Shannon formulations?
 
 ### • How this extreme view of entropy alters our understanding of the Big Bang and dark energy?
