@@ -44,7 +44,7 @@ If you want to dive deeper into his physics frameworks, let us know if you would
 
 # Scholium 
 
-# Radical and Audacious and provocative at once!
+# Radical and Audacious and Provocative (RAP) at Once!
 
 It truly is an audacious framework. What makes Obidi's Theory of Entropicity (ToE) so provocative to traditional physics is that it completely flips our understanding of cause and effect. Instead of viewing entropy as a mere byproduct of physical processes happening across time, John Onimisi Obidi argues that entropy itself is the engine creating both time and space.
 
