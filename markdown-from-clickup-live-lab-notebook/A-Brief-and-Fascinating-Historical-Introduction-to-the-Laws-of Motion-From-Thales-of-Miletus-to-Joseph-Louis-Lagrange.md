@@ -841,7 +841,7 @@ His work was central to the development of:
 
 **Historical significance:** Newton established the fundamental laws, while Euler played a decisive role in developing their systematic mathematical application.
 
-# 13. JOSEPH-LOUIS LAGRANGE: THE CULMINATION OF ANALYTICAL MECHANICS
+# 13. JOSEPH-LOUIS LAGRANGE: THE CULMINATION OF ANALYTICAL MECHANICS FROM NEWTON'S GEOMETRICISM OF THE LAWS OF MOTION 
 
 ### 1736–1813
 
