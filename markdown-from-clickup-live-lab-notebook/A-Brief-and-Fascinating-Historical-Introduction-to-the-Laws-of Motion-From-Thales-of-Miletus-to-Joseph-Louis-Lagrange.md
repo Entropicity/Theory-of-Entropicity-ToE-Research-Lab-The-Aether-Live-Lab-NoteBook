@@ -920,11 +920,8 @@ $$
 \frac{d}{dt}
 \left(
 \frac{\partial L}{\partial\dot q_i}
-\right)
--
-\frac{\partial L}{\partial q_i}
-=0
-}
+\right)-
+\frac{\partial L}{\partial q_i}=0}
 $$
 
 for each independent generalised coordinate $q_i$ in a conservative system.
@@ -935,11 +932,8 @@ $$
 \frac{d}{dt}
 \left(
 \frac{\partial L}{\partial\dot q_i}
-\right)
--
-\frac{\partial L}{\partial q_i}
-=
-Q_i.
+\right)-
+\frac{\partial L}{\partial q_i}=Q_i.
 $$
 
 Here, $Q_i$ represents the corresponding non-conservative generalised force.
