@@ -470,7 +470,9 @@ It would therefore be historically misleading to suggest that Newton independent
 
 Newton's formulation drew upon an intellectual tradition that included Galileo, Gassendi, and Descartes.
 
-**Historical significance:** Descartes was one of the major architects of the modern philosophical formulation of rectilinear inertia, although Gassendi's earlier publication makes exclusive priority claims historically contentious.
+**Historical significance:** Descartes was one of the major architects of the modern philosophical formulation of rectilinear inertia, although Gassendi's earlier publication makes exclusive priority claims historically contentious. 
+
+Descartes' *Principia Philosophiae* would prove to be a remarkable historical antecedent—and, in certain respects, an intellectual presage—of Newton's own monumental *Philosophiæ Naturalis Principia Mathematica*, published more than four decades later.
 
 # 9. CHRISTIAAN HUYGENS: THE MATHEMATICAL REFINEMENT OF DYNAMICS
 
@@ -1130,9 +1132,9 @@ The following works provide useful primary and scholarly references for further 
 
 ---
 
-**END OF PAPER**
+**CLOSURE**
 
-### Historical sources consulted
+### Historical sources and references consulted
 
 The following scholarly resources are particularly useful for verifying the historical distinctions made in the paper:
 
