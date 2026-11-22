@@ -8,10 +8,24 @@ In Obidi’s Theory of Entropicity (ToE), classical mechanics is not treated as 
 
 Through what he calls the Obidi Correspondence Principle (OCP) and the Obidi Action, Newton's Three Laws of Motion are reinterpreted as macroscopic limits of how systems behave inside a continuous entropy field: [1](https://entropicity.github.io/Theory-of-Entropicity-ToE/preface.html), [2](https://medium.com/@jonimisiobidi/foundations-of-obidis-theory-of-entropicity-toe-conceptual-mathematical-and-physical-pillars-929690e65c55)
 
-Newton's Law	Classical Meaning	Entropic Field Reinterpretation (ToE)
-First Law (Inertia)	An object stays at rest or in uniform motion unless acted on by a net external force.	Entropic Equilibrium / Geodesic Flow: In a uniform entropic field (no spatial entropy gradient), a system experiences zero net entropic pressure and naturally follows an unaccelerated path of least entropic cost.
-Second Law (\(F = ma\))	Acceleration is proportional to net force and inversely proportional to mass.	Entropic Gradient & Resistance: A spatial gradient in the entropic field creates "entropic pressure" that drives acceleration, while inertia (\(m\)) arises from the Entropic Resistance Principle (ERP)—the field's resistance to rapid reconfiguration.
-Third Law (Action–Reaction)	Every action has an equal and opposite reaction.	Entropic Conservation & Redistribution: Because total entropic flux and informational exchange are conserved across local interactions, any redistribution of entropy in one system requires a balanced, reciprocal shift in the surrounding field.
+## Newton's Law	Classical Meaning	| Entropic Field Reinterpretation in Obidi's Theory of Entropicity (ToE)
+
+### Newton's First Law of  Motion (Inertia): 	
+An object stays at rest or in uniform motion unless acted on by a net external force.	
+
+### Obidi's ToE Description as Entropic Equilibrium / Geodesic Flow: 
+In a uniform entropic field (no spatial entropy gradient), a system experiences zero net entropic pressure and naturally follows an unaccelerated path of least entropic cost.
+
+### Newton's Second Law of  Motion $\(F = ma\)$:	Acceleration is proportional to net force and inversely proportional to mass.	
+
+### Obidi's ToE Description as Entropic Gradient & Resistance: 
+A spatial gradient in the entropic field creates **"entropic pressure"** that drives acceleration, while inertia $\(m\)$ arises from the **Entropic Resistance Principle (ERP)—the field's resistance to rapid reconfiguration.**
+
+### Newton's Third Law of Motion (Action–Reaction)	
+Every action has an equal and opposite reaction.	
+
+### Obidi's ToE Description as Entropic Conservation & Redistribution: 
+Because total entropic flux and informational exchange are conserved across local interactions, any redistribution of entropy in one system requires a balanced, reciprocal shift in the surrounding field.
 
 
 | Newton's Law | Classical Meaning | Entropic Field Reinterpretation (ToE) |
