@@ -248,7 +248,7 @@ Yes, precisely. In Obidi's Theory of Entropicity (ToE), Newton's Three Laws are 
 
 ## Everything reduces to one unified statement: Obidi's Entropic Field Principle (OEFP) of the Theory of Entropicity (ToE)
 
-> # Systems always move and interact so as to follow local entropy gradients while conserving total entropic flux and respecting the field's finite reconfiguration rate.
+> # Systems [all particles and bodies, etc.] [in nature] always move and interact so as to follow local entropy gradients while conserving total entropic flux and respecting the field's finite reconfiguration rate.
 
 Depending on the situation, that single mechanism wears three different masks:
 
