@@ -29,7 +29,7 @@ Because total entropic flux and informational exchange are conserved across loca
 
 ## Tabulated Summary of Sir Isaac Newton's Three Laws of Motion versus John Onimisi Obidi's Theory of Entropicity (ToE)
 
-| Newton's Law | Classical Meaning | Entropic Field Reinterpretation (ToE) |
+| Newton's Law | Classical Meaning | Entropic Field Reinterpretation in Obidi's Theory of Entropicity (ToE) |
 | :--- | :--- | :--- |
 | **First Law (Inertia)** | An object stays at rest or in uniform motion unless acted on by a net external force. | **Entropic Equilibrium / Geodesic Flow:** In a uniform entropic field (no spatial entropy gradient), a system experiences zero net entropic pressure and naturally follows an unaccelerated path of least entropic cost. |
 | **Second Law ($F = ma$)** | Acceleration is proportional to net force and inversely proportional to mass. | **Entropic Gradient & Resistance:** A spatial gradient in the entropic field creates "entropic pressure" that drives acceleration, while inertia ($m$) arises from the **Entropic Resistance Principle (ERP)**—the field's resistance to rapid reconfiguration. |
@@ -38,17 +38,17 @@ Because total entropic flux and informational exchange are conserved across loca
 ## 1. Newton's Laws of Motion Subsumed in Obidi's Theory of Entropicity (ToE)
 
 
-| Newton's Law | Classical Meaning | Entropic Field Reinterpretation (ToE) | Mathematical Form & Relativistic Limit |
+| Newton's Law | Classical Meaning | Entropic Field Reinterpretation in Obidi's Theory of Entropicity (ToE)| Mathematical Form & Relativistic Limit |
 | :--- | :--- | :--- | :--- |
 | **First Law (Inertia)** | An object stays at rest or in uniform motion unless acted on by a net external force. | **Entropic Equilibrium / Geodesic Flow:** In a uniform entropic field (no spatial entropy gradient), a system experiences zero net entropic pressure and naturally follows an unaccelerated path of least entropic cost. | $\nabla S = 0 \implies \mathbf{a} = 0$. Holds at all speeds provided the background entropic field remains homogeneous. |
-| **Second Law ($F = ma$)** | Acceleration is proportional to net force and inversely proportional to mass. | **Entropic Gradient & Resistance:** A spatial gradient in the entropic field creates "entropic pressure" that drives acceleration, while inertia ($m$) arises from the **Entropic Resistance Principle (ERP)**—the field's resistance to rapid reconfiguration. | $\mathbf{F}_{\text{ent}} \propto -\nabla S = m_{\text{eff}}\mathbf{a}$. As $v \to c$, the **No-Rush Theorem** increases entropic resistance ($m_{\text{eff}} \to \gamma m$), recovering relativistic momentum. |
+| **Second Law ($F = ma$)** | Acceleration is proportional to net force and inversely proportional to mass. | **Entropic Gradient & Resistance:** A spatial gradient in the entropic field creates "entropic pressure" that drives acceleration, while inertia ($m$) arises from the **Entropic Resistance Principle (ERP)**—the field's resistance to rapid reconfiguration. | $`\mathbf{F}_{\text{ent}} \propto -\nabla S = m_{\text{eff}}\mathbf{a}`$. As $v \to c$, the **No-Rush Theorem** increases entropic resistance ($m_{\text{eff}} \to \gamma m$), thus recovering Einstein's relativistic momentum. |
 | **Third Law (Action–Reaction)** | Every action has an equal and opposite reaction. | **Entropic Conservation & Redistribution:** Because total entropic flux and informational exchange are conserved across local interactions, any redistribution of entropy in one system requires a balanced, reciprocal shift in the surrounding field. | $\Delta S_{\text{system}} + \Delta S_{\text{field}} = 0$ (local flux balance). At relativistic speeds, momentum exchange includes field-reconfiguration lag. |
 
 
 ### 2. Spacetime & Relativistic Phenomena: General Relativity vs. Obidi's Theory of Entropicity (ToE)
 
 
-| Phenomenon | General Relativity (Einstein) | Theory of Entropicity (Obidi) | Key Conceptual Shift |
+| Phenomenon | General Relativity (Einstein) | Theory of Entropicity (ToE) — (Obidi) | Key Conceptual Shift |
 | :--- | :--- | :--- | :--- |
 | **Gravity** | Mass and energy curve the 4D fabric of spacetime; objects follow geodesics in that curved geometry. | Mass creates steep gradients in a fundamental **entropic field**; objects move along paths of maximum entropic accessibility. | Curved spacetime is an emergent macroscopic "shadow," not a fundamental physical fabric. |
 | **Frame-Dragging (Gravity Probe B)** | A rotating mass twists local spacetime geometry, dragging nearby gyroscopes along with its spin. | A rotating mass creates an asymmetric, swirling entropic gradient that shifts the local axis of minimal entropic resistance. | Same macroscopic precession measured, but caused by entropic field flux rather than twisted geometry. |
