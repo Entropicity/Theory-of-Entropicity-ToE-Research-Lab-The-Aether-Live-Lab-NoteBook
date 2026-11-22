@@ -27,6 +27,7 @@ Every action has an equal and opposite reaction.
 ### Obidi's ToE Description as Entropic Conservation & Redistribution: 
 Because total entropic flux and informational exchange are conserved across local interactions, any redistribution of entropy in one system requires a balanced, reciprocal shift in the surrounding field.
 
+## Tabulated Summary of Sir Isaac Newton's Three Laws of Motion versus John Onimisi Obidi's Theory of Entropicity (ToE)
 
 | Newton's Law | Classical Meaning | Entropic Field Reinterpretation (ToE) |
 | :--- | :--- | :--- |
