@@ -16,7 +16,8 @@ An object stays at rest or in uniform motion unless acted on by a net external f
 ### Obidi's ToE Description as Entropic Equilibrium / Geodesic Flow: 
 In a uniform entropic field (no spatial entropy gradient), a system experiences zero net entropic pressure and naturally follows an unaccelerated path of least entropic cost.
 
-### Newton's Second Law of  Motion $\(F = ma\)$:	Acceleration is proportional to net force and inversely proportional to mass.	
+### Newton's Second Law of  Motion $\(F = ma\)$:	
+Acceleration is proportional to net force and inversely proportional to mass.	
 
 ### Obidi's ToE Description as Entropic Gradient & Resistance: 
 A spatial gradient in the entropic field creates **"entropic pressure"** that drives acceleration, while inertia $\(m\)$ arises from the **Entropic Resistance Principle (ERP)—the field's resistance to rapid reconfiguration.**
