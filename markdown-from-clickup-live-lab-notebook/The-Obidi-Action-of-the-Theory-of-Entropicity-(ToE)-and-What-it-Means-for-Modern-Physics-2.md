@@ -1,6 +1,6 @@
-# The Obidi Action of the Theory of Entropicity (ToE) and What it Means for Modern Physics 
+# The Obidi Action of the Theory of Entropicity (ToE) and What it Means for Modern Physics-2 
 
-The-Obidi-Action-of-the-Theory-of-Entropicity-(ToE)-and-What-it-Means-for-Modern-Physics.md 
+The-Obidi-Action-of-the-Theory-of-Entropicity-(ToE)-and-What-it-Means-for-Modern-Physics-2.md 
 
 The **Obidi Action** is a core mathematical framework within **Obidi's Entropic Field Theory, the audacious Theory of Entropicity (ToE),** an emerging alternative physics concept that attempts to unify general relativity, quantum mechanics, and thermodynamics into a single foundation. [1](https://medium.com/tag/obidi-action), [2](https://www.linkedin.com/posts/theory-of-entropicity-toe_on-the-physical-nature-of-the-entropic-activity-7506186942791872512-iCCS)
 
