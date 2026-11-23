@@ -2,7 +2,7 @@
 
 Unification-of-Newton's-Three-Laws-of-Motion-in-Obidi's-Theory-of-Entropicity-(ToE)-From-Newton's-Three-Laws-of-Motion-to-Obidi's-Unified-Entropic-Law-of-Motion.md
 
-I recommend consolidating the repeated formulations into one authoritative statement, eliminating redundancy while retaining the central theoretical proposition, mathematical foundations, and the relationship between Newtonian mechanics and ToE.
+In what follows, we attempt to consolidate Obidi's formulations into one authoritative and cohesive statement, eliminating complexities while retaining the central theoretical proposition, mathematical foundations, and the relationship between Newtonian mechanics and Obidi's Theory of Entropicity (ToE).
 
 # Unifying Newton’s Three Laws of Motion in Obidi’s Theory of Entropicity (ToE): From Classical Mechanics to the Universal Law of Entropic Motion
 
@@ -73,7 +73,7 @@ The three Newtonian laws are unified in the following foundational statement:
 
 ## The Underlying Mathematical Framework
 
-This unification rests on the Obidi Action, the entropic manifold, entropic geodesics, and the Binet–Obidi Equation for central entropic potentials. Together, these provide the proposed variational and dynamical framework from which Newtonian mechanics is recovered as an effective macroscopic limit.
+This unification rests on the Obidi Action, the entropic manifold, entropic geodesics, [and the Binet–Obidi Equation for central entropic potentials]. Together, these provide the proposed variational and dynamical framework from which Newtonian mechanics is recovered as an effective macroscopic limit.
 
 ## Scholium
 
@@ -211,7 +211,3 @@ Rather than explaining individual physical phenomena through separate entropic a
 ### The historical positioning and intellectual relationship between Erik Verlinde and John Onimisi Obidi 
 
 > # Erik Verlinde opened an important theoretical pathway by demonstrating how Newtonian gravity and inertia could acquire an entropic explanation. Obidi's Theory of Entropicity (ToE) seeks to advance this foundational direction by elevating entropy itself to the status of a universal physical principle, from which the persistence and transformation of motion, reciprocal interactions, gravity and spacetime geometry all emerge.
-
-
-
-
