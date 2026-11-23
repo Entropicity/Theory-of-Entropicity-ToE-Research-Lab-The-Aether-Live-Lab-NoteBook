@@ -200,11 +200,11 @@ However, there is a distinction that matters enormously for Obidi's formulation 
 | Interactions       | Entropic force framework                   | Mutual and reciprocal response                        |
 | Spacetime          | Emerges through holographic considerations | Emerges from the entropic manifold                    |
 
-Verlinde explicitly considered the entropic origin of inertia. This is important: his paper goes beyond merely proposing an entropic explanation of gravity. Springer +1
+Verlinde explicitly considered the entropic origin of inertia. This is important: his paper goes beyond merely proposing an entropic explanation of gravity.
 
 But Obidi's proposed ToE formulation introduces a potentially more comprehensive organising principle: **least entropic resistance.**
 
-This is where Obidi's Unification opportunity lies.
+This is where Obidi's Unification opportunity and breakthrough lies:
 
 Rather than explaining individual physical phenomena through separate entropic arguments, ToE seeks to establish one underlying principle from which motion, inertia, interactions, gravity and eventually spacetime geometry can be derived.
 
