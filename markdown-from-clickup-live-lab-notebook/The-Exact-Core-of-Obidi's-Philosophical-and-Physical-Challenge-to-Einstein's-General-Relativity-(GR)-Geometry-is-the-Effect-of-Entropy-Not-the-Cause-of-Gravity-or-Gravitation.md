@@ -1,4 +1,4 @@
-🔥The Exact Core of Obidi's Philosophical and Physical Challenge to Einstein's General Relativity (GR): Geometry is the Effect of Entropy, Not the Cause of Gravity or Gravitation
+# 🔥The Exact Core of Obidi's Philosophical and Physical Challenge to Einstein's General Relativity (GR): Geometry is the Effect of Entropy, Not the Cause of Gravity or Gravitation
 
 The-Exact-Core-of-Obidi's-Philosophical-and-Physical-Challenge-to-Einstein's-General-Relativity-(GR)-Geometry-is-the-Effect-of-Entropy-Not-the-Cause-of-Gravity-or-Gravitation.md
 
@@ -37,7 +37,7 @@ Read more in Collected Works on the Theory of Entropicity (ToE), Volume I - The 
 
 For Details:
 
-📚 Reference(s)
+## 📚 Reference(s)
 
 1) GitHub Live Site (URL):
    
