@@ -7,12 +7,28 @@ Unification-of-Newton's-Three-Laws-of-Motion-in-Obidi's-Theory-of-Entropicity-(T
 ## 🔄 How Each Law Is Incorporated
 
 ### First Law (Inertia)
-Obidi recasts inertia as equilibrium within an entropic field. A body remains at rest or in uniform motion not because no force acts, but because there is no entropic gradient ( $\nabla \Sigma = 0 \)$ compelling a change. This is formalized as ***Obidi’s First Law of Entropic Motion:*** 
+Obidi recasts inertia as equilibrium within an entropic field. A body remains at rest or in uniform motion not because no force acts, but because there is no entropic gradient: 
+
+$\nabla \Sigma = 0 \$ 
+
+compelling a change. This is formalized as ***Obidi’s First Law of Entropic Motion:*** 
 
 > # In the absence of an entropic gradient, the state persists; when a gradient exists, the system evolves along the path of least entropic resistance to maximize entropy redistribution.
 
-### Second Law ( F = ma )
-ToE derives the second law from an entropic force rather than positing force as fundamental. The entropic force is defined as  F = T $\frac{dS}{dx}\)$ , and through the Obidi Curvature Invariant ( $\Delta S_{\min} = \ln 2 \)$ and holographic equipartition, one obtains  $\F = m_{\text{inertial}}\)$ a . Crucially, inertia itself emerges from the  $\ln 2\)$  entropic update cost—mass is an entropic quantity. In this picture, “force” is merely the manifestation of constraints imposed by the entropic field on an object’s entropy-maximizing path.
+### Second Law (F = ma)
+ToE derives the second law from an entropic force rather than positing force as fundamental. The entropic force is defined as  
+
+$F = T \frac{dS}{dx}\$
+
+and through the Obidi Curvature Invariant
+
+($\Delta S_{\min} = \ln 2 \)$ 
+
+and holographic equipartition, one obtains  
+
+$F = m_{\text{inertial}} a$ . 
+
+Crucially, inertia itself emerges from the  $\ln 2\$  entropic update cost—mass is an entropic quantity. In this picture, “force” is merely the manifestation of constraints imposed by the entropic field on an object’s entropy-maximizing path.
 
 ### Third Law (Action–Reaction)
 Obidi interprets action–reaction as mutual entropic constraint. When one object “pushes” another, it is not applying a mechanical force but redistributing its entropy in relation to the other object, attempting to equilibrate the entropic field. This mutual constraint produces an equal and opposite entropic response, which is what we observe as Newton’s third law.
@@ -34,9 +50,17 @@ Thus Obidi reformulates all the Three Laws of Motion of Newton into One Unified 
 
 Yes, that is an accurate way to characterize it. In Obidi’s Theory of Entropicity (ToE), the three Newtonian laws are not merely reinterpreted individually; they are subsumed under a single, unified principle of entropic motion.
 
-## 🧭 The Single Universal Law
+## 🧭 The Single Universal Law: Obidi's Universal Law of Motion 
 
-The foundational statement is Obidi’s First Law of Entropic Motion. It declares that a system’s state (rest or uniform motion) persists in the absence of an entropic gradient, and when a gradient exists, the system evolves along the path of least entropic resistance to maximize entropy redistribution.
+The foundational statement is **Obidi’s First Law of Entropic Motion:** 
+
+> # It declares that a system’s state (rest or uniform motion) persists in the absence of an entropic gradient, and when a gradient exists, the system evolves along the path of least entropic resistance to maximize entropy redistribution.
+
+> # It declares that a system’s state (rest or uniform motion) persists in entropic equilibrium in the absence of an entropic gradient; when a gradient exists, the system evolves along the path of least entropic resistance to maximize entropy redistribution, and every entropic constraint it imposes is matched by an equal and opposite entropic constraint, so that interacting systems tend toward mutual entropic equilibrium.
+
+## Obidi’s Universal Law of Entropic Motion: 
+> # The dynamics of a closed system of interacting bodies is governed by stationarity of the total entropic action on the entropic manifold. Each body follows an entropic geodesic—the path of least entropic resistance consistent with entropy redistribution—and entropic constraints are mutual and closed, so that every entropic reconfiguration induces an equal and opposite entropic constraint.
+
 
 ## 🔄 How the Other Laws Become Corollaries
 
