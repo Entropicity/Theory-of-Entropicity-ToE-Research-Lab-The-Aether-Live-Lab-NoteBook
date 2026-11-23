@@ -150,7 +150,7 @@ The foundational statement is **Obidi’s First Law of Entropic Motion:**
 
 ## 🔄 How the Other Laws Become Corollaries
 
-This single law generates the other two as emergent behaviors:
+This single law generates the other two laws of motion of Newton as emergent behaviors:
 
 ### · Second Law (F=ma): 
 “Force” is no longer fundamental. It is the manifestation of constraints imposed by the entropic field as an object follows its entropy-maximizing path. Inertia and mass themselves emerge from the entropic field’s resistance to change.
@@ -162,7 +162,24 @@ This is the mutual entropic constraint between interacting objects. An “action
 
 Ultimately, all of this is derived from a single entropic principle—the Obidi Action—which governs the dynamics of the entropic field. Newton’s laws are recovered as effective, macroscopic limits of this deeper entropic dynamics.
 
-Summary: 
+### Notes: 
+The word "equilibrium” [wherever it is used] is doing double duty in the above formulations:
+
+#### · Absence of an entropic gradient → 
+Unilateral equilibrium: the system persists in rest or uniform motion (Newton's First Law of Motion I).
+
+#### · Path of least entropic resistance under a gradient → 
+Evolution toward entropy redistribution: the entropic analogue of Newton's Second Law of Motion II.
+
+
+#### · Equal and opposite entropic constraints → 
+relational/mutual equilibrium: interaction is reciprocal, so action and reaction are balanced (Newton's Third Law of Motion III).
+
+
+The elegance (in addition to Obidi's Unification of Newton's Three Laws of Motion) is that Newton’s Third Law is no longer an extra bolt-on; it becomes the statement that entropic constraints must equilibrate mutually, not just individually.
+
+
+## Summary: 
 
 The Theory of Entropicity (ToE) replaces Newton’s three separate laws with one universal law of entropic motion, from which the classical laws emerge as limiting cases.
 
